@@ -29,21 +29,23 @@ module.exports =
             }
         }
         async makeH5Ps() {
-            await this.init();
-            await this.executeCVS();
-            await this.updateJSONs();
-
-        }
-        async init() {
-            this.ProcessPath = './H5Pprocess/English/General/' + this.Lesson.Level + '/' + this.Lesson.Level + '/Lesson' + this.Lesson.name + '/'
             await this.makeFolders();
             await this.loadJSONs();
             await this.loadCVS();
+            await this.executeCVS();
+            await this.updateJSONs();
+            await this.zipH5Ps();
         }
-        async makeFolders() {
-            let VocabularyTestPath = './H5Ps/VocabularyTest/'
-            await utils.emptyDir(this.ProcessPath)
 
+        async makeFolders() {
+            let relativePath = 'English/General/' + this.Lesson.Level + '/' + this.Lesson.Level + '/Lesson' + this.Lesson.name + '/'
+            this.ProcessPath = './H5Pprocess/' + relativePath
+            this.UPPath = './UP/' + relativePath
+            let VocabularyTestPath = './H5Ps/VocabularyTest/'
+
+            await utils.emptyDir(this.ProcessPath)
+            await utils.emptyDir(this.UPPath)
+            await utils.createDir(this.UPPath)
             await this.updateforeachVocabularies(async function (vocabulary, vocabulary_name) {
                 vocabulary.name = vocabulary_name
                 vocabulary.path = this.ProcessPath + vocabulary_name + '_VocabularyTest/'
@@ -77,11 +79,6 @@ module.exports =
             }.bind(this))
             return name
         }
-        columnType(index) {
-            let mod = (index - 3) % 4
-
-
-        }
 
         async processRow(row) {
             const _ = require('lodash');
@@ -104,7 +101,7 @@ module.exports =
                                 }
                             } else {
                                 _.set(this.list[vocabularyName].content, key, value)
-                                console.log(_.get(this.list[vocabularyName].content,key))
+                                //console.log(_.get(this.list[vocabularyName].content,key))
                             }
                             return 'content'//check if exist 3 if exist move accest and update name
                             break;
@@ -121,6 +118,22 @@ module.exports =
                 let row = this.cvs[i];
                 await this.processRow(row);
             }
+        }
+        async updateJSONs() {
+            await this.updateforeachVocabularies(async function (vocabulary) {
+                await utils.writeJSON(vocabulary.path + 'h5p.json', vocabulary.h5p);
+                await utils.writeJSON(vocabulary.path + 'content/content.json', vocabulary.content);
+                return vocabulary;
+            }.bind(this))
+        }
+        async zipH5Ps() {
+            await this.updateforeachVocabularies(async function (vocabulary) {
+                let h5p_name = this.Lesson.Level + 'Lesson' + this.Lesson.name + vocabulary.name + 'Vocabulary.h5p';
+                await utils.exec('cd ' + vocabulary.path + ' && zip -r ' + h5p_name + ' .');
+                await utils.exec('mv ' + vocabulary.path + h5p_name + ' ' + this.UPPath + h5p_name, true);
+
+                return vocabulary;
+            }.bind(this))
         }
         async updateforeachVocabularies(funct) {
             for (const vocabulary_name in this.list) {
