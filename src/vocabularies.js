@@ -7,25 +7,25 @@ module.exports =
             this.Lesson = Lesson;
             this.list = [];
             this.list['Listening'] = {
-                name:'Listening',
-                init:3
+                name: 'Listening',
+                init: 3
 
             }
             this.list['Writing'] = {
-                name:'Writing',
-                init:7
+                name: 'Writing',
+                init: 7
             }
             this.list['Reading'] = {
-                name:'Reading',
-                init:11
+                name: 'Reading',
+                init: 11
             }
             this.list['Monologue'] = {
-                name:'Monologue',
-                init:15
+                name: 'Monologue',
+                init: 15
             }
             this.list['Conversation'] = {
-                name:'Conversation',
-                init:19
+                name: 'Conversation',
+                init: 19
             }
         }
         async makeH5Ps() {
@@ -53,8 +53,8 @@ module.exports =
         }
         async loadJSONs() {
             await this.updateforeachVocabularies(async function (vocabulary, vocabulary_name) {
-                vocabulary.h5p =  await utils.readJSON(vocabulary.path+'h5p.json');
-                vocabulary.content =  await utils.readJSON(vocabulary.path+'content/content.json');
+                vocabulary.h5p = await utils.readJSON(vocabulary.path + 'h5p.json');
+                vocabulary.content = await utils.readJSON(vocabulary.path + 'content/content.json');
                 return vocabulary;
             }.bind(this))
 
@@ -65,26 +65,50 @@ module.exports =
             cvs.shift();//remove two rows titles
             this.cvs = cvs;
         }
-        vocabularyNamefromrowindex(index){
-            let vocabularyName;
+        async vocabularyNamefromrowindex(index) {
+            let name;
             await this.updateforeachVocabularies(async function (vocabulary, vocabulary_name) {
-                vocabularyName=vocabulary.init;
+
+                if (index >= vocabulary.init) {
+                    name = vocabulary.name;
+                }
                 return vocabulary;
             }.bind(this))
+            return name
         }
-        async processRow(row){
-            for (let i = 0; i < row.length; i++) {
+        columnType(index) {
+            let mod = (index - 3) % 4
+
+
+        }
+
+        async processRow(row) {
+            for (let i = 1; i < row.length; i++) {
                 let column = row[i];
                 if (column) {
-                    
+                    let mod = (i - 3) % 4
+                    let vocabularyName = await this.vocabularyNamefromrowindex(i)
+                    switch (mod) {
+                        case 0://h5p update
+                            let key=row[i];
+                            let value =row[i+2];
+                            this.list[vocabularyName].h5p[key]=eval(value)
+                            break;
+                        case 1:
+                            return 'content'//check if exist 3 if exist move accest and update name
+                            break;
+
+        
+                        default:
+                            break;
+                    }
                 }
-                console.log(column);
             }
         }
         async executeCVS() {
             for (let i = 0; i < this.cvs.length; i++) {
                 let row = this.cvs[i];
-                console.log(row);
+                await this.processRow(row);
             }
         }
         async updateforeachVocabularies(funct) {
