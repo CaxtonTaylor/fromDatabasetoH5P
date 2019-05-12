@@ -31,6 +31,7 @@ module.exports =
         async makeH5Ps() {
             await this.init();
             await this.executeCVS();
+            await this.updateJSONs();
 
         }
         async init() {
@@ -83,22 +84,32 @@ module.exports =
         }
 
         async processRow(row) {
+            const _ = require('lodash');
             for (let i = 1; i < row.length; i++) {
                 let column = row[i];
                 if (column) {
                     let mod = (i - 3) % 4
                     let vocabularyName = await this.vocabularyNamefromrowindex(i)
+                    let key, value
+                    key = row[i];
                     switch (mod) {
                         case 0://h5p update
-                            let key=row[i];
-                            let value =row[i+2];
-                            this.list[vocabularyName].h5p[key]=eval(value)
+                            value = row[i + 2];
+                            this.list[vocabularyName].h5p[key] = eval(value)
                             break;
-                        case 1:
+                        case 1://content update
+                            value = eval('this.' + row[0])
+                            if (row[6]) {
+                                if (value) {
+                                }
+                            } else {
+                                _.set(this.list[vocabularyName].content, key, value)
+                                console.log(_.get(this.list[vocabularyName].content,key))
+                            }
                             return 'content'//check if exist 3 if exist move accest and update name
                             break;
 
-        
+
                         default:
                             break;
                     }
