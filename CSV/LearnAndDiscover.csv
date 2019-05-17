@@ -185,7 +185,7 @@ Lesson.Monologue.glossary[9].picture,,,,presentation.slides.8.elements.0.action.
 Lesson.Monologue.glossary[9].mp3,,,,presentation.slides.8.elements.0.action.params.dialogs.9.audio.path,,
 Lesson.Conversation.can_do_statements[0].en[0],,Se debe retornar el texto entre el primer par de <li>,,presentation.slides.0.elements.8.action.params.text,,
 Lesson.Conversation.context.mp4,,,,presentation.slides.9.elements.0.action.params.sources.0.path,,videos\/sources-5cd2f46b8c886.mp4
-Lesson.Conversation.context.poster,,,,presentation.slides.9.elements.0.action.params.visuals.poster.path,,
+Lesson.Conversation.context.poster,,,,presentation.slides.9.elements.0.action.params.visuals.poster.path,,images/poster-5cdae0ae551bd.png
 Lesson.Conversation.context.subtitles,,,,presentation.slides.9.elements.0.action.params.a11y.0.track.path,,files\/track-5cd2f4768a53e.vtt
 Lesson.Conversation.glossary[0].term,,,,presentation.slides.10.elements.0.action.params.dialogs.0.answer,,
 Lesson.Conversation.glossary[0].definition,,"Se debe tomar unicamente el texto entre ""DEF: "" y ""SPA:""",,presentation.slides.10.elements.0.action.params.dialogs.0.text,,

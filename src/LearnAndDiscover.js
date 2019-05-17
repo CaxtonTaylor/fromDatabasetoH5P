@@ -2,7 +2,7 @@
 const Utils = require("../lib/utils");
 const utils = new Utils();
 const CVStoH5P = require("./cvstoh5p");
-const fse = require("fs-extra");
+const fs = require("fs");
 module.exports =
     class LearnAndDiscover extends CVStoH5P {
 
@@ -35,10 +35,17 @@ module.exports =
                         case 1://content update
                             value = eval('this.' + row[0])
                             let relDesPath = row[6]
-                            if (relDesPath) {
+                            if (relDesPath || key.split('.').pop() === "path") {
                                 if (value) {
+                                    relDesPath = _.get(this.listH5Ps[h5pName].content, key)
                                     let desPath = this.ProcessPath + h5pName + '/content/' + relDesPath
-                                    await utils.exec('cp ./DATABASE/' + value + ' ' + desPath, true);
+                                    let oriPath = './DATABASE/' + value
+                                    if (fs.existsSync(oriPath)) {
+                                        await utils.exec('cp ./DATABASE/' + value + ' ' + desPath, true);
+                                    } else {
+                                        console.log('')
+                                    }
+
                                 }
                             } else {
                                 _.set(this.listH5Ps[h5pName].content, key, value)
