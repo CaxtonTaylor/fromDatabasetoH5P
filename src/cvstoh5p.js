@@ -21,7 +21,7 @@ module.exports =
             await this.zipH5Ps();
         }
         async makeFolders() {
-            let relativePath = 'English/General/' + this.Lesson.Level + '/' + this.Lesson.Level + '/Lesson' + this.Lesson.name + '/' + this.nameFolder
+            let relativePath = 'English/General/' + this.Lesson.Level + '/Lesson' + this.Lesson.name + '/' + this.nameFolder
             this.ProcessPath = './H5Pprocess/' + relativePath
             this.UPPath = './UP/' + relativePath
             await utils.emptyDir(this.ProcessPath)
