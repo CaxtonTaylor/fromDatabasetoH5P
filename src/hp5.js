@@ -3,6 +3,7 @@ const Utils = require("../lib/utils");
 const utils = new Utils();
 const Vocabularies = require("./vocabularies");
 const LearnAndDiscover = require("./LearnAndDiscover");
+const ReadAndWrite = require("./ReadAndWrite");
 module.exports =
   class H5P {
     constructor() {
@@ -14,10 +15,13 @@ module.exports =
     async processJSON(jsonPATH){
         this.jsonPATH=jsonPATH;
         await this.init();
-        //const vocabularies = new Vocabularies(this.Lesson);
-        //await vocabularies.makeH5Ps();
+        const vocabularies = new Vocabularies(this.Lesson);
+        await vocabularies.makeH5Ps();
         const learnanddiscover = new LearnAndDiscover(this.Lesson);
         await learnanddiscover.makeH5Ps();
+        // const readandwrite = new ReadAndWrite(this.Lesson);
+        // await readandwrite.makeH5Ps();
+        
 
     }
 }

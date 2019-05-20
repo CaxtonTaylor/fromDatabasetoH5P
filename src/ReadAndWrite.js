@@ -6,8 +6,7 @@ module.exports =
     class ReadAndWrite extends CVStoH5P {
 
         constructor(Lesson) {
-            super(Lesson);
-            this.nameFolder = 'ReadAndWrite/'
+            super(Lesson, 'ReadAndWrite/');
             this.H5Plibrary = 'ReadAndWrite/'
             this.subname = '/'
             this.cvs_name = 'ReadAndWrite.csv'

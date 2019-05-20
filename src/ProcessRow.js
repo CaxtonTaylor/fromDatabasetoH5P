@@ -6,7 +6,7 @@ const fs = require("fs");
 module.exports =
     class ProcessRow {
 
-        constructor(Lesson,ProcessPath) {
+        constructor(Lesson, ProcessPath) {
             this.Lesson = Lesson;
             this.ProcessPath = ProcessPath
         }
@@ -27,11 +27,15 @@ module.exports =
                             relDesPath = _.get(listH5Ps[h5pName].content, key)
                             let desPath = this.ProcessPath + h5pName + '/content/' + relDesPath
                             let oriPath = './DATABASE/' + value
+                            // if (relDesPath.includes("amazonaws")) {
+
+                            // }
                             if (fs.existsSync(oriPath)) {
                                 await utils.exec('cp ./DATABASE/' + value + ' ' + desPath, true);
                             } else {
                                 console.log('')
                             }
+
 
                         }
                     } else {

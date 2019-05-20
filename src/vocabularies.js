@@ -4,7 +4,7 @@ module.exports =
     class Vocabularies extends CVStoH5P {
 
         constructor(Lesson) {
-            super(Lesson);
+            super(Lesson, 'Vocabularies/');
             this.nameFolder = 'Vocabularies/'
             this.H5Plibrary = 'VocabularyTest/'
             this.subname = '_VocabularyTest/'

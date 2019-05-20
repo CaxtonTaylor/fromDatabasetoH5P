@@ -6,13 +6,14 @@ const ProcessRow = require("./ProcessRow");
 const fs = require("fs");
 module.exports =
     class CVStoH5P {
-        constructor(Lesson) {
+        constructor(Lesson, nameFolder) {
+            this.nameFolder = nameFolder
             this.Lesson = Lesson;
             this.listH5Ps = [];
             let relativePath = 'English/General/' + this.Lesson.Level + '/Lesson' + this.Lesson.name + '/' + this.nameFolder
             this.ProcessPath = './H5Pprocess/' + relativePath
             this.UPPath = './UP/' + relativePath
-            this.process_row = new ProcessRow(this.Lesson,this.ProcessPath);
+            this.process_row = new ProcessRow(this.Lesson, this.ProcessPath);
         }
         async init() {
             this.Lesson = await utils.readJSON(this.jsonPATH);

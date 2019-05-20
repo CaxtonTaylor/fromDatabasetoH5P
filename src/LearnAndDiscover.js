@@ -6,7 +6,7 @@ module.exports =
     class LearnAndDiscover extends CVStoH5P {
 
         constructor(Lesson) {
-            super(Lesson);
+            super(Lesson, 'LearnAndDiscover/');
             this.nameFolder = 'LearnAndDiscover/'
             this.H5Plibrary = 'LearnAndDiscover/'
             this.subname = '/'
