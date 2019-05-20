@@ -1,12 +1,18 @@
 'use strict'
 const Utils = require("../lib/utils");
 const utils = new Utils();
+const ProcessRow = require("./ProcessRow");
 
+const fs = require("fs");
 module.exports =
     class CVStoH5P {
         constructor(Lesson) {
             this.Lesson = Lesson;
             this.listH5Ps = [];
+            let relativePath = 'English/General/' + this.Lesson.Level + '/Lesson' + this.Lesson.name + '/' + this.nameFolder
+            this.ProcessPath = './H5Pprocess/' + relativePath
+            this.UPPath = './UP/' + relativePath
+            this.process_row = new ProcessRow(this.Lesson,this.ProcessPath);
         }
         async init() {
             this.Lesson = await utils.readJSON(this.jsonPATH);
@@ -20,10 +26,17 @@ module.exports =
             await this.updateJSONs();
             await this.zipH5Ps();
         }
+        async processRow(row) {
+            const _ = require('lodash');
+            for (let i = 1; i < row.length; i++) {
+                let column = row[i];
+                if (column) {
+                    let h5pName = await this.h5pNamefromrowindex(i)
+                    this.listH5Ps = await this.process_row.process(this.listH5Ps, h5pName, row, i)
+                }
+            }
+        }
         async makeFolders() {
-            let relativePath = 'English/General/' + this.Lesson.Level + '/Lesson' + this.Lesson.name + '/' + this.nameFolder
-            this.ProcessPath = './H5Pprocess/' + relativePath
-            this.UPPath = './UP/' + relativePath
             await utils.emptyDir(this.ProcessPath)
             await utils.emptyDir(this.UPPath)
             await utils.createDir(this.UPPath)
@@ -71,6 +84,21 @@ module.exports =
                 let row = this.cvs[i];
                 await this.processRow(row);
             }
+        }
+
+        async h5pNamefromrowindex(index) {
+            let name;
+            await this.updateforeachH5P(async function (h5p) {
+
+                if (index >= h5p.init) {
+                    name = h5p.name;
+                }
+                return h5p;
+            }.bind(this))
+            if (!name) {
+                console.log('name')
+            }
+            return name
         }
         async updateforeachH5P(funct) {
             for (const h5p_name in this.listH5Ps) {
