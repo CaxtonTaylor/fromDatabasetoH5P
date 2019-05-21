@@ -5,54 +5,53 @@ Lesson.type,,,,,,,
 Lesson.Listening.resources[0].name,,,,questions.0.params.media.metadata.title,,,
 Lesson.Listening.resources[0].mp3,,,,questions.0.params.media.params.files.0.path,,,
 Lesson.Listening.resources[0].instructions.en,,,,questions.0.params.text,,,
-Lesson.Listening.resources,,,,questions.0.params.questions.0,,,"<p><strong>Lesson.Listening.resources[0].questions[0].question:</strong></p>nn<p>*Lesson.Listening.resources[0].questions[0].options[0].text/Lesson.Listening.resources[0].questions[0].options[1].text*</p>nn<p><strong>Lesson.Listening.resources[0].questions[1].question:</strong></p>nn<p>*Lesson.Listening.resources[0].questions[1].options[0].text/Lesson.Listening.resources[0].questions[1].options[1].text*</p>n IF options[1].text are empty THEN:<p><strong>Lesson.Listening.resources[0].questions[0].question:</strong></p>nn<p>*Lesson.Listening.resources[0].questions[0].options[0].text*</p>nn<p><strong>Lesson.Listening.resources[0].questions[1].question:</strong></p>nn<p>*Lesson.Listening.resources[0].questions[1].options[0].text*</p>n "
-,,,,,,,
+Lesson.Listening.resources[0].questions,,,,questions.0.params.questions.0,,,questionTofill
 Lesson.Writing.resources[0].name,,,,questions.1.metadata.title,,,
 Lesson.Writing.resources[0].body,,,,questions.2.params.text,,,
 Lesson.Writing.resources[0].questions[0].type,,,,,,,
-Lesson.Writing.resources,,,,questions.2.params.questions.0,,,"<p><strong>Lesson.Writing.resources[0].questions[0].question:</strong></p><p>*Lesson.Writing.resources[0].questions[0].options[0].text/Lesson.Writing.resources[0].questions[0].options[1].text*</p><p>&nbsp;</p><p><strong>Lesson.Writing.resources[0].questions[1].question:</strong></p><p>*Lesson.Writing.resources[0].questions[1].options[0].text/Lesson.Writing.resources[0].questions[1].options[1].text*</p>IF options[1].text are empty THEN:<p><strong>Lesson.Writing.resources[0].questions[0].question:</strong></p><p>*Lesson.Writing.resources[0].questions[0].options[0].text*</p><p>&nbsp;</p><p><strong>Lesson.Writing.resources[0].questions[1].question:</strong></p><p>*Lesson.Writing.resources[0].questions[1].options[0].text*</p>"
-Lesson.Writing.resources[0].questions[2].question,,,,questions.1.params.question,,,"<p><em>Lesson.Writing.resources[0].body</em></p><p><strong>Lesson.Writing.resources[0].questions[2].question</strong></p>"
+Lesson.Writing.resources[0].questions,,,,questions.2.params.questions.0,,,questionTofill
+Lesson.Writing.resources[0],,,,questions.1.params.question,,,questionToEm 2
 Lesson.Writing.resources[0].questions[2].options[0].text,,,,questions.1.params.answers.0.text,,,
 Lesson.Writing.resources[0].questions[2].options[1].text,,,,questions.1.params.answers.1.text,,,
 Lesson.Writing.resources[0].questions[2].options[2].text,,,,questions.1.params.answers.2.text,,,
-Lesson.Writing.resources,,,,questions.3.params.question,,,"<p><em>Lesson.Writing.resources[0].body</em></p><p><strong>Lesson.Writing.resources[0].questions[3].question</strong></p>"
+Lesson.Writing.resources[0],,,,questions.3.params.question,,,questionToEm 3
 Lesson.Writing.resources[0].questions[3].options[0].text,,,,questions.3.params.answers.0.text,,,
 Lesson.Writing.resources[0].questions[3].options[1].text,,,,questions.3.params.answers.1.text,,,
 Lesson.Writing.resources[0].questions[3].options[2].text,,,,questions.3.params.answers.2.text,,,
 Lesson.Writing.resources[1].name,,,,questions.5.metadata.title,,,
 Lesson.Writing.resources[1].picture,,,,questions.4.params.media.params.alt,,images/file-5cd467f86cf50.png,
 Lesson.Writing.resources[1].instructions.en,,,,questions.4.params.text,,,
-Lesson.Writing.resources,,,,questions.4.params.questions.0,,,"<p><strong>Lesson.Writing.resources[1].questions[0].question:</strong></p><p>*Lesson.Writing.resources[1].questions[0].options[0].text/Lesson.Writing.resources[1].questions[0].options[1].text*</p>IF options[1].text are empty THEN:<p><strong>Lesson.Writing.resources[1].questions[0].question:</strong></p><p>*Lesson.Writing.resources[1].questions[0].options[0].text*</p>"
-Lesson.Writing.resources,,,,questions.5.params.question,,,"<p><em>Lesson.Writing.resources[1].instructions.en</em></p><p><strong>Lesson.Writing.resources[1].questions[1].question</strong></p>"
+Lesson.Writing.resources,,,,questions.4.params.questions.0,,,
+Lesson.Writing.resources[1],,,,questions.5.params.question,,,questionToEm 1
 Lesson.Writing.resources[1].questions[1].options[0].text,,,,questions.5.params.answers.0.text,,,
 Lesson.Writing.resources[1].questions[1].options[1].text,,,,questions.5.params.answers.1.text,,,
 Lesson.Writing.resources[1].questions[1].options[2].text,,,,questions.5.params.answers.2.text,,,
 Lesson.Reading.resources[0].name,,,,"questions.7.metadata.title, questions.8.metadata.title, questions.9.metadata.title",,,
 Lesson.Reading.resources[0].body,,,,"questions.7.params.question, questions.9.params.question",,,
-Lesson.Reading.resources,,,,questions.8.params.questions.0,,,"<p><strong>Lesson.Reading.resources[0].questions[0].question:</strong></p><p>*Lesson.Reading.resources[0].questions[0].options[0].text/Lesson.Reading.resources[0].questions[0].options[1].text*</p><p>&nbsp;</p><p><strong>Lesson.Reading.resources[0].questions[1].question:</strong></p><p>*Lesson.Reading.resources[0].questions[1].options[0].text/Lesson.Reading.resources[0].questions[1].options[1].text*</p>APLICA LA MISMA FUNCION IF"
-Lesson.Reading.resources,,,,questions.7.params.question,,,"<p><em>Lesson.Reading.resources[0].body</em></p><p><strong>Lesson.Reading.resources[0].questions[2].question</strong></p>"
+Lesson.Reading.resources[0].questions,,,,questions.8.params.questions.0,,,questionTofill
+Lesson.Reading.resources[0],,,,questions.7.params.question,,,questionToEm 2
 Lesson.Reading.resources[0].questions[2].options[0].text,,,,questions.7.params.answers.0.text,,,
 Lesson.Reading.resources[0].questions[2].options[1].text,,,,questions.7.params.answers.2.text,,,
 Lesson.Reading.resources[0].questions[2].options[2].text,,,,questions.7.params.answers.3.text,,,
 Lesson.Reading.resources[0].questions[3].type,,,,,,,
-Lesson.Reading.resources,,,,questions.9.params.question,,,"<p><em>Lesson.Reading.resources[0].body</em></p><p><strong>Lesson.Reading.resources[0].questions[3].question</strong></p>"
+Lesson.Reading.resources[0],,,,questions.9.params.question,,,questionToEm 3
 Lesson.Reading.resources[0].questions[3].options[0].text,,,,questions.9.params.answers.0.text,,,
 Lesson.Reading.resources[0].questions[3].options[1].text,,,,questions.9.params.answers.1.text,,,
 Lesson.Reading.resources[0].questions[3].options[2].text,,,,questions.9.params.answers.2.text,,,
 Lesson.Reading.resources[1].name,,,,questions.10.params.media.metadata.title,,,
 Lesson.Reading.resources[1].body,VERDADERO,,,questions.10.params.question,,,
 Lesson.Reading.resources[1].questions[0].question,,,,questions.11.metadata.title,,,
-Lesson.Reading.resources[1].questions[0].options[0].text,,,,questions.11.params.question.task.elements.0.type.params.text,,,"<p style=""text-align: center;""><span style=""font-size:1.375em;"">Lesson.Reading.resources[1].questions[0].options[0].text</span></p>"
+Lesson.Reading.resources[1].questions[0].options[0].text,,,,questions.11.params.question.task.elements.0.type.params.text,,,questionToP
 Lesson.Reading.resources[1].questions[0].options[0].poster,,,,questions.11.params.question.task.elements.3.type.params.file.path,,images/file-5cd422f016043.jpg,
 Lesson.Reading.resources[1].questions[0].options[1].text,,,,questions.11.params.question.task.elements.1.type.params.text,,,
 Lesson.Reading.resources[1].questions[0].options[1].poster,,,,questions.11.params.question.task.elements.4.type.params.file.path,,,
 Lesson.Reading.resources[1].questions[0].options[2].text,,,,questions.11.params.question.task.elements.2.type.params.text,,,
 Lesson.Reading.resources[1].questions[0].options[2].poster,,,,questions.11.params.question.task.elements.5.type.params.file.path,,images/file-5cd424947fc2e.jpg,
-Lesson.Reading.resources,,,,questions.10.params.question,,,"<p><em>Lesson.Reading.resources[1].body</em></p><p><strong>Lesson.Reading.resources[1].questions[1].question</strong></p>"
+Lesson.Reading.resources[1],,,,questions.10.params.question,,,questionToEm 1
 Lesson.Reading.resources[1].questions[1].options[0].text,,,,questions.10.params.answers.0.text,,,
 Lesson.Reading.resources[1].questions[1].options[1].text,,,,questions.10.params.answers.1.text,,,
 Lesson.Reading.resources[1].questions[1].options[2].text,,,,questions.10.params.answers.2.text,,,
 Lesson.Conversation.resources[0].name,,,,questions.6.metadata.title,,,
 Lesson.Conversation.resources[0].mp3,,,,questions.6.params.media.params.files.0.path,,,
 Lesson.Conversation.resources[0].instructions.en,,,,questions.6.params.text,,,
-Lesson.Conversation.resources,,,,questions.6.params.questions.0,,,"<p><strong>Lesson.Conversation.resources[0].questions[0].question:</strong></p><p>*Lesson.Conversation.resources[0].questions[0].options[0].text/Lesson.Conversation.resources[0].questions[0].options[1].text*</p><p>&nbsp;</p><p><strong>Lesson.Conversation.resources[0].questions[1].question:</strong></p><p>*Lesson.Conversation.resources[0].questions[1].options[0].text/Lesson.Conversation.resources[0].questions[1].options[1].text*</p>"
+Lesson.Conversation.resources[0].questions,,,,questions.6.params.questions.0,,,questionTofill
