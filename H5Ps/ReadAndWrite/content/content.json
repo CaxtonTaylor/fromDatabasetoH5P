@@ -20,8 +20,8 @@
                         "audioNotSupported": "Your browser does not support this audio",
                         "files": [
                             {
-                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
-                                "mime": "audio\/mp3",
+                                "path": "audios\/files-5ce417abe6809.mp3#tmp",
+                                "mime": "audio\/mpeg",
                                 "copyright": {
                                     "license": "U"
                                 }
@@ -578,8 +578,8 @@
                         "audioNotSupported": "Your browser does not support this audio",
                         "files": [
                             {
-                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
-                                "mime": "audio\/mp3",
+                                "path": "audios\/files-5ce4181c12ada.mp3#tmp",
+                                "mime": "audio\/mpeg",
                                 "copyright": {
                                     "license": "U"
                                 }
