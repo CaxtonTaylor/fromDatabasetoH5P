@@ -1,1 +1,1370 @@
-{"introPage":{"showIntroPage":true,"startButtonText":"Start learning","title":"Get ready to practice your Reading and Writing","introduction":"<p>Make sure to complete every exercise and don't worry, you can go through this activity as many times as you want.<\/p>\n"},"progressType":"bar","passPercentage":70,"questions":[{"params":{"media":{"params":{"playerMode":"full","fitToWrapper":false,"controls":true,"autoplay":false,"contentName":"Audio","audioNotSupported":"Your browser does not support this audio","files":[{"path":"https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3","mime":"audio\/mp3","copyright":{"license":"U"}}]},"library":"H5P.Audio 1.3","metadata":{"contentType":"Audio","license":"U","title":"Lesson.Listening.resources[0].name","authors":[],"changes":[],"extraTitle":"Lesson.Listening.resources[0].name"},"subContentId":"5c825b40-a808-4aec-ac8b-32c0fede2424"},"text":"<p><em>Lesson.Listening.resources[0].instructions.en<\/em><\/p>\n","overallFeedback":[{"from":0,"to":100}],"showSolutions":"Show solution","tryAgain":"Retry","checkAnswer":"Check","notFilledOut":"Please fill in all blanks to view solution","answerIsCorrect":"&#039;:ans&#039; is correct","answerIsWrong":"&#039;:ans&#039; is wrong","answeredCorrectly":"Answered correctly","answeredIncorrectly":"Answered incorrectly","solutionLabel":"Correct answer:","inputLabel":"Blank input @num of @total","inputHasTipLabel":"Tip available","tipLabel":"Tip","behaviour":{"enableRetry":true,"enableSolutionsButton":false,"enableCheckButton":true,"autoCheck":false,"caseSensitive":false,"showSolutionsRequiresInput":false,"separateLines":true,"disableImageZooming":false,"confirmCheckDialog":false,"confirmRetryDialog":false,"acceptSpellingErrors":true},"scoreBarLabel":"You got :num out of :total points","confirmCheck":{"header":"Finish ?","body":"Are you sure you wish to finish ?","cancelLabel":"Cancel","confirmLabel":"Finish"},"confirmRetry":{"header":"Retry ?","body":"Are you sure you wish to retry ?","cancelLabel":"Cancel","confirmLabel":"Confirm"},"questions":["<p><strong>Lesson.Listening.resources[0].questions[0].question:<\/strong><\/p>\n\n<p>*Lesson.Listening.resources[0].questions[0].options[0].text\/Lesson.Listening.resources[0].questions[0].options[1].text*<\/p>\n\n<p><strong>Lesson.Listening.resources[0].questions[1].question:<\/strong><\/p>\n\n<p>*Lesson.Listening.resources[0].questions[1].options[0].text\/Lesson.Listening.resources[0].questions[1].options[1].text*<\/p>\n"]},"library":"H5P.Blanks 1.11","metadata":{"contentType":"Fill in the Blanks","license":"U","title":"R1 Listening Fill blanks Lesson.Listening.resources[0].name","authors":[],"changes":[],"extraTitle":"R1 Listening Fill blanks Lesson.Listening.resources[0].name"},"subContentId":"78c4fc61-3ab7-4fc1-8221-dd1ad3d81952"},{"params":{"answers":[{"correct":true,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Lesson.Writing.resources[0].questions[2].options[0].text<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Lesson.Writing.resources[0].questions[2].options[1].text<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Lesson.Writing.resources[0].questions[2].options[2].text<\/div>\n"}],"overallFeedback":[{"from":0,"to":100}],"behaviour":{"enableRetry":true,"enableSolutionsButton":false,"enableCheckButton":true,"type":"single","singlePoint":true,"randomAnswers":true,"showSolutionsRequiresInput":true,"disableImageZooming":false,"confirmCheckDialog":false,"confirmRetryDialog":false,"autoCheck":false,"passPercentage":100,"showScorePoints":false},"UI":{"checkAnswerButton":"Check","showSolutionButton":"Show solution","tryAgainButton":"Retry","tipsLabel":"Show tip","scoreBarLabel":"You got :num out of :total points","tipAvailable":"Tip available","feedbackAvailable":"Feedback available","readFeedback":"Read feedback","wrongAnswer":"Wrong answer","correctAnswer":"Correct answer","shouldCheck":"Should have been checked","shouldNotCheck":"Should not have been checked","noInput":"Please answer before viewing the solution"},"confirmCheck":{"header":"Finish ?","body":"Are you sure you wish to finish ?","cancelLabel":"Cancel","confirmLabel":"Finish"},"confirmRetry":{"header":"Retry ?","body":"Are you sure you wish to retry ?","cancelLabel":"Cancel","confirmLabel":"Confirm"},"question":"<p><em>Lesson.Writing.resources[0].body<\/em><\/p>\n\n<p><strong>Lesson.Writing.resources[0].questions[2].question<\/strong><\/p>\n","media":{"params":{}}},"library":"H5P.MultiChoice 1.13","metadata":{"contentType":"Multiple Choice","license":"U","title":"R5 Writing MC1 Lesson.Writing.resources[0].name","authors":[],"changes":[],"extraTitle":"R5 Writing MC1 Lesson.Writing.resources[0].name"},"subContentId":"20fcd7ec-e4b6-4077-8e1e-50853b5a2342"},{"params":{"text":"<p><em>Lesson.Writing.resources[0].body<\/em><\/p>\n","overallFeedback":[{"from":0,"to":100}],"showSolutions":"Show solution","tryAgain":"Retry","checkAnswer":"Check","notFilledOut":"Please fill in all blanks to view solution","answerIsCorrect":"&#039;:ans&#039; is correct","answerIsWrong":"&#039;:ans&#039; is wrong","answeredCorrectly":"Answered correctly","answeredIncorrectly":"Answered incorrectly","solutionLabel":"Correct answer:","inputLabel":"Blank input @num of @total","inputHasTipLabel":"Tip available","tipLabel":"Tip","behaviour":{"enableRetry":true,"enableSolutionsButton":false,"enableCheckButton":true,"autoCheck":false,"caseSensitive":false,"showSolutionsRequiresInput":false,"separateLines":true,"disableImageZooming":false,"confirmCheckDialog":false,"confirmRetryDialog":false,"acceptSpellingErrors":true},"scoreBarLabel":"You got :num out of :total points","confirmCheck":{"header":"Finish ?","body":"Are you sure you wish to finish ?","cancelLabel":"Cancel","confirmLabel":"Finish"},"confirmRetry":{"header":"Retry ?","body":"Are you sure you wish to retry ?","cancelLabel":"Cancel","confirmLabel":"Confirm"},"questions":["<p><strong>Lesson.Writing.resources[0].questions[0].question:<\/strong><\/p>\n\n<p>*Lesson.Writing.resources[0].questions[0].options[0].text\/Lesson.Writing.resources[0].questions[0].options[1].text*<\/p>\n\n<p>&nbsp;<\/p>\n\n<p><strong>Lesson.Writing.resources[0].questions[1].question:<\/strong><\/p>\n\n<p>*Lesson.Writing.resources[0].questions[1].options[0].text\/Lesson.Writing.resources[0].questions[1].options[1].text*<\/p>\n"],"media":{"params":{}}},"library":"H5P.Blanks 1.11","metadata":{"contentType":"Fill in the Blanks","license":"U","title":"R5 Writing Fill blanks Lesson.Writing.resources[0].name","authors":[],"changes":[],"extraTitle":"R5 Writing Fill blanks Lesson.Writing.resources[0].name"},"subContentId":"70828eda-0545-4a1b-b75f-c5734ab9a24a"},{"params":{"answers":[{"correct":true,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Lesson.Writing.resources[0].questions[3].options[0].text<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Lesson.Writing.resources[0].questions[3].options[1].text<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Lesson.Writing.resources[0].questions[3].options[2].text<\/div>\n"}],"overallFeedback":[{"from":0,"to":100}],"behaviour":{"enableRetry":true,"enableSolutionsButton":false,"enableCheckButton":true,"type":"single","singlePoint":true,"randomAnswers":true,"showSolutionsRequiresInput":true,"disableImageZooming":false,"confirmCheckDialog":false,"confirmRetryDialog":false,"autoCheck":false,"passPercentage":100,"showScorePoints":false},"UI":{"checkAnswerButton":"Check","showSolutionButton":"Show solution","tryAgainButton":"Retry","tipsLabel":"Show tip","scoreBarLabel":"You got :num out of :total points","tipAvailable":"Tip available","feedbackAvailable":"Feedback available","readFeedback":"Read feedback","wrongAnswer":"Wrong answer","correctAnswer":"Correct answer","shouldCheck":"Should have been checked","shouldNotCheck":"Should not have been checked","noInput":"Please answer before viewing the solution"},"confirmCheck":{"header":"Finish ?","body":"Are you sure you wish to finish ?","cancelLabel":"Cancel","confirmLabel":"Finish"},"confirmRetry":{"header":"Retry ?","body":"Are you sure you wish to retry ?","cancelLabel":"Cancel","confirmLabel":"Confirm"},"question":"<p><em>Lesson.Writing.resources[0].body<\/em><\/p>\n\n<p><strong>Lesson.Writing.resources[0].questions[3].question<\/strong><\/p>\n","media":{"params":{}}},"library":"H5P.MultiChoice 1.13","metadata":{"contentType":"Multiple Choice","license":"U","title":"R5 Writing MC2 Lesson.Writing.resources[0].name","authors":[],"changes":[],"extraTitle":"R5 Writing MC2 Lesson.Writing.resources[0].name"},"subContentId":"3050c259-b26e-4bd8-a8d9-97a65c5ca36d"},{"params":{"text":"<p><em>Lesson.Writing.resources[1].instructions.en<\/em><\/p>\n","overallFeedback":[{"from":0,"to":100}],"showSolutions":"Show solution","tryAgain":"Retry","checkAnswer":"Check","notFilledOut":"Please fill in all blanks to view solution","answerIsCorrect":"&#039;:ans&#039; is correct","answerIsWrong":"&#039;:ans&#039; is wrong","answeredCorrectly":"Answered correctly","answeredIncorrectly":"Answered incorrectly","solutionLabel":"Correct answer:","inputLabel":"Blank input @num of @total","inputHasTipLabel":"Tip available","tipLabel":"Tip","behaviour":{"enableRetry":true,"enableSolutionsButton":false,"enableCheckButton":true,"autoCheck":false,"caseSensitive":false,"showSolutionsRequiresInput":false,"separateLines":true,"disableImageZooming":false,"confirmCheckDialog":false,"confirmRetryDialog":false,"acceptSpellingErrors":true},"scoreBarLabel":"You got :num out of :total points","confirmCheck":{"header":"Finish ?","body":"Are you sure you wish to finish ?","cancelLabel":"Cancel","confirmLabel":"Finish"},"confirmRetry":{"header":"Retry ?","body":"Are you sure you wish to retry ?","cancelLabel":"Cancel","confirmLabel":"Confirm"},"questions":["<p><strong>Lesson.Writing.resources[1].questions[0].question:<\/strong><\/p>\n\n<p>*Lesson.Writing.resources[1].questions[0].options[0].text\/Lesson.Writing.resources[1].questions[0].options[1].text*<\/p>\n"],"media":{"params":{"contentName":"Image","alt":"Lesson.Writing.resources[1].picture","file":{"path":"images\/file-5cd467f86cf50.png","mime":"image\/png","copyright":{"license":"U"},"width":150,"height":150}},"library":"H5P.Image 1.1","metadata":{"contentType":"Image","license":"C","title":"Lesson.Writing.resources[1].picture","authors":[{"name":"iDO Learning","role":"Author"}],"changes":[]},"subContentId":"9932cfd2-bf94-4111-aece-b613e7cd8fb3"}},"library":"H5P.Blanks 1.11","metadata":{"contentType":"Fill in the Blanks","license":"U","title":"R6 Writing Fill blanks Lesson.Writing.resources[1].name","authors":[],"changes":[],"extraTitle":"R6 Writing Fill blanks Lesson.Writing.resources[1].name"},"subContentId":"a7360624-7061-405b-ba07-f817e53b35a3"},{"params":{"answers":[{"correct":true,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Lesson.Writing.resources[1].questions[1].options[0].text<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Lesson.Writing.resources[1].questions[1].options[1].text<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Lesson.Writing.resources[1].questions[1].options[2].text<\/div>\n"}],"overallFeedback":[{"from":0,"to":100}],"behaviour":{"enableRetry":true,"enableSolutionsButton":false,"enableCheckButton":true,"type":"single","singlePoint":true,"randomAnswers":true,"showSolutionsRequiresInput":true,"disableImageZooming":false,"confirmCheckDialog":false,"confirmRetryDialog":false,"autoCheck":false,"passPercentage":100,"showScorePoints":false},"UI":{"checkAnswerButton":"Check","showSolutionButton":"Show solution","tryAgainButton":"Retry","tipsLabel":"Show tip","scoreBarLabel":"You got :num out of :total points","tipAvailable":"Tip available","feedbackAvailable":"Feedback available","readFeedback":"Read feedback","wrongAnswer":"Wrong answer","correctAnswer":"Correct answer","shouldCheck":"Should have been checked","shouldNotCheck":"Should not have been checked","noInput":"Please answer before viewing the solution"},"confirmCheck":{"header":"Finish ?","body":"Are you sure you wish to finish ?","cancelLabel":"Cancel","confirmLabel":"Finish"},"confirmRetry":{"header":"Retry ?","body":"Are you sure you wish to retry ?","cancelLabel":"Cancel","confirmLabel":"Confirm"},"question":"<p><em>Lesson.Writing.resources[1].instructions.en<\/em><\/p>\n\n<p><strong>Lesson.Writing.resources[1].questions[1].question<\/strong><\/p>\n","media":{"params":{"contentName":"Image","file":{"path":"images\/file-5cd464fe0f737.png","mime":"image\/png","copyright":{"license":"U"},"width":150,"height":150},"alt":"Lesson.Writing.resources[1].picture"},"library":"H5P.Image 1.1","metadata":{"contentType":"Image","license":"C","title":"Lesson.Writing.resources[1].picture","authors":[{"name":"iDO Learning","role":"Author"}],"changes":[]},"subContentId":"165af46b-a357-4a8e-ba1a-9b5b2fa8a53c"}},"library":"H5P.MultiChoice 1.13","metadata":{"contentType":"Multiple Choice","license":"U","title":"R6 Writing MC1 Lesson.Writing.resources[1].name","authors":[],"changes":[],"extraTitle":"R6 Writing MC1 Lesson.Writing.resources[1].name"},"subContentId":"97c85db6-ed6f-4660-b1cb-00e3e4c7fd0e"},{"params":{"media":{"params":{"playerMode":"full","fitToWrapper":false,"controls":true,"autoplay":false,"contentName":"Audio","audioNotSupported":"Your browser does not support this audio","files":[{"path":"https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3","mime":"audio\/mp3","copyright":{"license":"U"}}]},"library":"H5P.Audio 1.3","metadata":{"contentType":"Audio","license":"C","title":"Lesson.Conversation.resources[0].name","authors":[{"name":"iDO Learning","role":"Author"}],"changes":[],"extraTitle":"Lesson.Conversation.resources[0].name"},"subContentId":"831a64e5-55ca-41b4-97ee-60a6714f7481"},"text":"<p><em>Lesson.Conversation.resources[0].instructions.en<\/em><\/p>\n","overallFeedback":[{"from":0,"to":100}],"showSolutions":"Show solution","tryAgain":"Retry","checkAnswer":"Check","notFilledOut":"Please fill in all blanks to view solution","answerIsCorrect":"&#039;:ans&#039; is correct","answerIsWrong":"&#039;:ans&#039; is wrong","answeredCorrectly":"Answered correctly","answeredIncorrectly":"Answered incorrectly","solutionLabel":"Correct answer:","inputLabel":"Blank input @num of @total","inputHasTipLabel":"Tip available","tipLabel":"Tip","behaviour":{"enableRetry":true,"enableSolutionsButton":false,"enableCheckButton":true,"autoCheck":false,"caseSensitive":false,"showSolutionsRequiresInput":false,"separateLines":true,"disableImageZooming":false,"confirmCheckDialog":false,"confirmRetryDialog":false,"acceptSpellingErrors":true},"scoreBarLabel":"You got :num out of :total points","confirmCheck":{"header":"Finish ?","body":"Are you sure you wish to finish ?","cancelLabel":"Cancel","confirmLabel":"Finish"},"confirmRetry":{"header":"Retry ?","body":"Are you sure you wish to retry ?","cancelLabel":"Cancel","confirmLabel":"Confirm"},"questions":["<p><strong>Lesson.Conversation.resources[0].questions[0].question:<\/strong><\/p>\n\n<p>*Lesson.Conversation.resources[0].questions[0].options[0].text\/Lesson.Conversation.resources[0].questions[0].options[1].text*<\/p>\n\n<p>&nbsp;<\/p>\n\n<p><strong>Lesson.Conversation.resources[0].questions[1].question:<\/strong><\/p>\n\n<p>*Lesson.Conversation.resources[0].questions[1].options[0].text\/Lesson.Conversation.resources[0].questions[1].options[1].text*<\/p>\n"]},"library":"H5P.Blanks 1.11","metadata":{"contentType":"Fill in the Blanks","license":"U","title":"R17 Conversation Fill blanks Lesson.Conversation.resources[0].name","authors":[],"changes":[],"extraTitle":"R17 Conversation Fill blanks Lesson.Conversation.resources[0].name"},"subContentId":"67e49d63-ed4c-434c-b9b1-d19b61df225e"},{"params":{"answers":[{"correct":true,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Lesson.Reading.resources[0].questions[2].options[0].text<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Lesson.Reading.resources[0].questions[2].options[1].text<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Lesson.Reading.resources[0].questions[2].options[2].text<\/div>\n"}],"overallFeedback":[{"from":0,"to":100}],"behaviour":{"enableRetry":true,"enableSolutionsButton":false,"enableCheckButton":true,"type":"single","singlePoint":true,"randomAnswers":true,"showSolutionsRequiresInput":true,"disableImageZooming":false,"confirmCheckDialog":false,"confirmRetryDialog":false,"autoCheck":false,"passPercentage":100,"showScorePoints":false},"UI":{"checkAnswerButton":"Check","showSolutionButton":"Show solution","tryAgainButton":"Retry","tipsLabel":"Show tip","scoreBarLabel":"You got :num out of :total points","tipAvailable":"Tip available","feedbackAvailable":"Feedback available","readFeedback":"Read feedback","wrongAnswer":"Wrong answer","correctAnswer":"Correct answer","shouldCheck":"Should have been checked","shouldNotCheck":"Should not have been checked","noInput":"Please answer before viewing the solution"},"confirmCheck":{"header":"Finish ?","body":"Are you sure you wish to finish ?","cancelLabel":"Cancel","confirmLabel":"Finish"},"confirmRetry":{"header":"Retry ?","body":"Are you sure you wish to retry ?","cancelLabel":"Cancel","confirmLabel":"Confirm"},"question":"<p><em>Lesson.Reading.resources[0].body<\/em><\/p>\n\n<p><strong>Lesson.Reading.resources[0].questions[2].question<\/strong><\/p>\n","media":{"params":{}}},"library":"H5P.MultiChoice 1.13","metadata":{"contentType":"Multiple Choice","license":"U","title":"R9 Writing MC1 Lesson.Reading.resources[0].name","authors":[],"changes":[],"extraTitle":"R9 Writing MC1 Lesson.Reading.resources[0].name"},"subContentId":"b75a90e2-b754-464c-9f71-32fa1c4b0f27"},{"params":{"text":"<p><em>Lesson.Reading.resources[0].body<\/em><\/p>\n","overallFeedback":[{"from":0,"to":100}],"showSolutions":"Show solution","tryAgain":"Retry","checkAnswer":"Check","notFilledOut":"Please fill in all blanks to view solution","answerIsCorrect":"&#039;:ans&#039; is correct","answerIsWrong":"&#039;:ans&#039; is wrong","answeredCorrectly":"Answered correctly","answeredIncorrectly":"Answered incorrectly","solutionLabel":"Correct answer:","inputLabel":"Blank input @num of @total","inputHasTipLabel":"Tip available","tipLabel":"Tip","behaviour":{"enableRetry":true,"enableSolutionsButton":false,"enableCheckButton":true,"autoCheck":false,"caseSensitive":false,"showSolutionsRequiresInput":false,"separateLines":true,"disableImageZooming":false,"confirmCheckDialog":false,"confirmRetryDialog":false,"acceptSpellingErrors":true},"scoreBarLabel":"You got :num out of :total points","confirmCheck":{"header":"Finish ?","body":"Are you sure you wish to finish ?","cancelLabel":"Cancel","confirmLabel":"Finish"},"confirmRetry":{"header":"Retry ?","body":"Are you sure you wish to retry ?","cancelLabel":"Cancel","confirmLabel":"Confirm"},"questions":["<p><strong>Lesson.Reading.resources[0].questions[0].question:<\/strong><\/p>\n\n<p>*Lesson.Reading.resources[0].questions[0].options[0].text\/Lesson.Reading.resources[0].questions[0].options[1].text*<\/p>\n\n<p>&nbsp;<\/p>\n\n<p><strong>Lesson.Reading.resources[0].questions[1].question:<\/strong><\/p>\n\n<p>*Lesson.Reading.resources[0].questions[1].options[0].text\/Lesson.Reading.resources[0].questions[1].options[1].text*<\/p>\n"],"media":{"params":{}}},"library":"H5P.Blanks 1.11","metadata":{"contentType":"Fill in the Blanks","license":"U","title":"R9 Writing Fill blanks Lesson.Reading.resources[0].name","authors":[],"changes":[],"extraTitle":"R9 Writing Fill blanks Lesson.Reading.resources[0].name"},"subContentId":"3549cb4d-5abe-4373-9db9-6b233bf67692"},{"params":{"answers":[{"correct":true,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Lesson.Reading.resources[0].questions[3].options[0].text<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Lesson.Reading.resources[0].questions[3].options[1].text<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Lesson.Reading.resources[0].questions[3].options[2].text<\/div>\n"}],"overallFeedback":[{"from":0,"to":100}],"behaviour":{"enableRetry":true,"enableSolutionsButton":false,"enableCheckButton":true,"type":"single","singlePoint":true,"randomAnswers":true,"showSolutionsRequiresInput":true,"disableImageZooming":false,"confirmCheckDialog":false,"confirmRetryDialog":false,"autoCheck":false,"passPercentage":100,"showScorePoints":false},"UI":{"checkAnswerButton":"Check","showSolutionButton":"Show solution","tryAgainButton":"Retry","tipsLabel":"Show tip","scoreBarLabel":"You got :num out of :total points","tipAvailable":"Tip available","feedbackAvailable":"Feedback available","readFeedback":"Read feedback","wrongAnswer":"Wrong answer","correctAnswer":"Correct answer","shouldCheck":"Should have been checked","shouldNotCheck":"Should not have been checked","noInput":"Please answer before viewing the solution"},"confirmCheck":{"header":"Finish ?","body":"Are you sure you wish to finish ?","cancelLabel":"Cancel","confirmLabel":"Finish"},"confirmRetry":{"header":"Retry ?","body":"Are you sure you wish to retry ?","cancelLabel":"Cancel","confirmLabel":"Confirm"},"question":"<p><em>Lesson.Reading.resources[0].body<\/em><\/p>\n\n<p><strong>Lesson.Reading.resources[0].questions[3].question<\/strong><\/p>\n","media":{"params":{}}},"library":"H5P.MultiChoice 1.13","metadata":{"contentType":"Multiple Choice","license":"U","title":"R9 Writing MC2 Lesson.Reading.resources[0].name","authors":[],"changes":[],"extraTitle":"R9 Writing MC2 Lesson.Reading.resources[0].name"},"subContentId":"be6794f7-a75d-4008-8d88-2d3d8bcf9cda"},{"params":{"answers":[{"correct":true,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Lesson.Reading.resources[1].questions[1].options[0].text<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Lesson.Reading.resources[1].questions[1].options[1].text<\/div>\n"},{"correct":false,"tipsAndFeedback":{"tip":"","chosenFeedback":"","notChosenFeedback":""},"text":"<div>Lesson.Reading.resources[1].questions[1].options[2].text<\/div>\n"}],"overallFeedback":[{"from":0,"to":100}],"behaviour":{"enableRetry":true,"enableSolutionsButton":false,"enableCheckButton":true,"type":"single","singlePoint":true,"randomAnswers":true,"showSolutionsRequiresInput":true,"disableImageZooming":false,"confirmCheckDialog":false,"confirmRetryDialog":false,"autoCheck":false,"passPercentage":100,"showScorePoints":false},"UI":{"checkAnswerButton":"Check","showSolutionButton":"Show solution","tryAgainButton":"Retry","tipsLabel":"Show tip","scoreBarLabel":"You got :num out of :total points","tipAvailable":"Tip available","feedbackAvailable":"Feedback available","readFeedback":"Read feedback","wrongAnswer":"Wrong answer","correctAnswer":"Correct answer","shouldCheck":"Should have been checked","shouldNotCheck":"Should not have been checked","noInput":"Please answer before viewing the solution"},"confirmCheck":{"header":"Finish ?","body":"Are you sure you wish to finish ?","cancelLabel":"Cancel","confirmLabel":"Finish"},"confirmRetry":{"header":"Retry ?","body":"Are you sure you wish to retry ?","cancelLabel":"Cancel","confirmLabel":"Confirm"},"question":"<p><em>Lesson.Reading.resources[1].body<\/em><\/p>\n\n<p><strong>Lesson.Reading.resources[1].questions[1].question<\/strong><\/p>\n","media":{"params":{"contentName":"Image","file":{"path":"images\/file-5cd47cccc41ec.png","mime":"image\/png","copyright":{"license":"U"},"width":150,"height":150},"alt":"Lesson.Reading.resources[1].name"},"library":"H5P.Image 1.1","metadata":{"contentType":"Image","license":"U","title":"Lesson.Reading.resources[1].name","authors":[],"changes":[]},"subContentId":"6c65ca72-e55b-4cb7-aac4-20b9279271cf"}},"library":"H5P.MultiChoice 1.13","metadata":{"contentType":"Multiple Choice","license":"U","title":"R10 Writing MC1 Lesson.Reading.resources[1].name","authors":[],"changes":[],"extraTitle":"R10 Writing MC1 Lesson.Reading.resources[1].name"},"subContentId":"960ad726-98d8-4633-9c6d-cc3d74c06d10"},{"params":{"scoreShow":"Check","tryAgain":"Retry","scoreExplanation":"Correct answers give +1 point. Incorrect answers give -1 point. The lowest possible score is 0.","question":{"settings":{"size":{"width":600,"height":300}},"task":{"elements":[{"x":26.666666666666668,"y":76.666666666666671,"width":8.0250000000000004,"height":3.0249999999999999,"dropZones":["0"],"type":{"library":"H5P.AdvancedText 1.1","params":{"text":"<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Reading.resources[1].questions[0].options[0].text<\/span><\/p>\n"},"metadata":{"contentType":"Text","license":"U","title":"Untitled Text"},"subContentId":"6ae45428-d5f3-4f25-be71-c6c2f49dddd6"},"backgroundOpacity":100,"multiple":false},{"x":51.666666666666664,"y":76.666666666666671,"width":8.0250000000000004,"height":3.0249999999999999,"dropZones":["0"],"type":{"library":"H5P.AdvancedText 1.1","params":{"text":"<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Reading.resources[1].questions[0].options[1].text<\/span><\/p>\n"},"metadata":{"contentType":"Text","license":"U","title":"Untitled Text"},"subContentId":"9d9cc9c5-9feb-444f-9d92-540c690d5f60"},"backgroundOpacity":100,"multiple":false},{"x":76.666666666666671,"y":76.666666666666671,"width":8.0250000000000004,"height":3.0249999999999999,"dropZones":["0"],"type":{"library":"H5P.AdvancedText 1.1","params":{"text":"<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Reading.resources[1].questions[0].options[2].text<\/span><\/p>\n"},"metadata":{"contentType":"Text","license":"U","title":"Untitled Text"},"subContentId":"62a4b783-5e4b-4a6d-857c-56c886789727"},"backgroundOpacity":100,"multiple":false},{"x":26.666666666666668,"y":6.666666666666667,"width":8.0250000000000004,"height":11.837478912353516,"dropZones":["0"],"type":{"library":"H5P.Image 1.1","params":{"contentName":"Image","file":{"path":"images\/file-5cd422f016043.jpg","mime":"image\/jpeg","copyright":{"license":"U"},"width":330,"height":500},"alt":"Lesson.Reading.resources[1].questions[0].options[0].poster"},"subContentId":"a71be4dd-9cdc-4d85-86bd-d2966b8c3ea1","metadata":{"contentType":"Image","license":"C","title":"Lesson.Reading.resources[1].questions[0].options[0].poster","authors":[{"name":"iDO Learning","role":"Author"}]}},"backgroundOpacity":100,"multiple":false},{"x":51.666666666666664,"y":6.666666666666667,"width":7.8127360821533207,"height":11.837478912353516,"dropZones":["0"],"type":{"library":"H5P.Image 1.1","params":{"contentName":"Image","file":{"path":"images\/file-5cd424897c812.jpg","mime":"image\/jpeg","copyright":{"license":"U"},"width":330,"height":500},"alt":"Lesson.Reading.resources[1].questions[0].options[1].poster"},"metadata":{"contentType":"Image","license":"C","title":"Lesson.Reading.resources[1].questions[0].options[1].poster","authors":[{"name":"iDO Learning","role":"Author"}]},"subContentId":"760172ef-3810-412d-b2ee-ceee82e1f091"},"backgroundOpacity":100,"multiple":false},{"x":76.666666666666671,"y":6.666666666666667,"width":7.8127360821533207,"height":11.837478912353516,"dropZones":["0"],"type":{"library":"H5P.Image 1.1","params":{"contentName":"Image","file":{"path":"images\/file-5cd424947fc2e.jpg","mime":"image\/jpeg","copyright":{"license":"U"},"width":330,"height":500},"alt":"Lesson.Reading.resources[1].questions[0].options[2].poster"},"metadata":{"contentType":"Image","license":"C","title":"Lesson.Reading.resources[1].questions[0].options[2].poster","authors":[{"name":"iDO Learning","role":"Author"}]},"subContentId":"56336019-54b6-48f5-8962-687dbe8223cf"},"backgroundOpacity":100,"multiple":false}],"dropZones":[{"x":0,"y":11.333333333333334,"width":8.75,"height":16.25,"correctElements":["0","3"],"showLabel":true,"backgroundOpacity":100,"tipsAndFeedback":{"tip":""},"single":false,"autoAlign":true,"label":"<div style=\"text-align: center;\">Drop answers<\/div>\n"}]}},"overallFeedback":[{"from":0,"to":100}],"behaviour":{"enableRetry":true,"enableCheckButton":true,"showSolutionsRequiresInput":false,"singlePoint":true,"applyPenalties":false,"enableScoreExplanation":false,"dropZoneHighlighting":"dragging","autoAlignSpacing":2,"enableFullScreen":false,"showScorePoints":false,"showTitle":true},"grabbablePrefix":"Grabbable {num} of {total}.","grabbableSuffix":"Placed in dropzone {num}.","dropzonePrefix":"Dropzone {num} of {total}.","noDropzone":"No dropzone.","tipLabel":"Show tip.","tipAvailable":"Tip available","correctAnswer":"Correct answer","wrongAnswer":"Wrong answer","feedbackHeader":"Feedback","scoreBarLabel":"You got :num out of :total points","scoreExplanationButtonLabel":"Show score explanation","localize":{"fullscreen":"Fullscreen","exitFullscreen":"Exit fullscreen"}},"library":"H5P.DragQuestion 1.13","metadata":{"contentType":"Drag and Drop","license":"U","title":"R10 Multiple image Lesson.Reading.resources[1].questions[0].question","authors":[],"changes":[],"extraTitle":"R10 Multiple image Lesson.Reading.resources[1].questions[0].question"},"subContentId":"389004d5-64cc-46b9-9535-33cce01d1869"}],"disableBackwardsNavigation":true,"randomQuestions":false,"endGame":{"showResultPage":true,"showSolutionButton":false,"noResultMessage":"Finished","message":"You have reached the end of the this activity. Your score:","overallFeedback":[{"from":0,"to":50,"feedback":"You missed several points, try again"},{"from":51,"to":70,"feedback":"So close, give it another try"},{"from":71,"to":100,"feedback":"Well done! you may continue with the next activity"}],"solutionButtonText":"Show solution","retryButtonText":"Try again","finishButtonText":"Finish","showAnimations":true,"skippable":false,"skipButtonText":"Skip video","failVideo":[{"path":"https:\/\/media.giphy.com\/media\/qLWdMYX1NYF2g\/giphy.mp4","mime":"video\/mp4","copyright":{"license":"U"}}],"successVideo":[{"path":"https:\/\/media.giphy.com\/media\/SI8DCsjjGnODwlwqW0\/giphy.mp4","mime":"video\/mp4","copyright":{"license":"U"}}]},"override":{"checkButton":true},"texts":{"prevButton":"Previous question","nextButton":"Next question","finishButton":"Finish","textualProgress":"Question: @current of @total questions","jumpToQuestion":"Question %d of %total","questionLabel":"Question","readSpeakerProgress":"Question @current of @total","unansweredText":"Unanswered","answeredText":"Answered","currentQuestionText":"Current question"}}
+{
+    "introPage": {
+        "showIntroPage": true,
+        "startButtonText": "Start learning",
+        "title": "Get ready to practice your Reading and Writing",
+        "introduction": "<p>Make sure to complete every exercise and don't worry, you can go through this activity as many times as you want.<\/p>\n"
+    },
+    "progressType": "bar",
+    "passPercentage": 70,
+    "questions": [
+        {
+            "params": {
+                "media": {
+                    "params": {
+                        "playerMode": "full",
+                        "fitToWrapper": false,
+                        "controls": true,
+                        "autoplay": false,
+                        "contentName": "Audio",
+                        "audioNotSupported": "Your browser does not support this audio",
+                        "files": [
+                            {
+                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
+                                "mime": "audio\/mp3",
+                                "copyright": {
+                                    "license": "U"
+                                }
+                            }
+                        ]
+                    },
+                    "library": "H5P.Audio 1.3",
+                    "metadata": {
+                        "contentType": "Audio",
+                        "license": "U",
+                        "title": "Lesson.Listening.resources[0].name",
+                        "authors": [],
+                        "changes": [],
+                        "extraTitle": "Lesson.Listening.resources[0].name"
+                    },
+                    "subContentId": "5c825b40-a808-4aec-ac8b-32c0fede2424"
+                },
+                "text": "<p><em>Lesson.Listening.resources[0].instructions.en<\/em><\/p>\n",
+                "overallFeedback": [
+                    {
+                        "from": 0,
+                        "to": 100
+                    }
+                ],
+                "showSolutions": "Show solution",
+                "tryAgain": "Retry",
+                "checkAnswer": "Check",
+                "notFilledOut": "Please fill in all blanks to view solution",
+                "answerIsCorrect": "&#039;:ans&#039; is correct",
+                "answerIsWrong": "&#039;:ans&#039; is wrong",
+                "answeredCorrectly": "Answered correctly",
+                "answeredIncorrectly": "Answered incorrectly",
+                "solutionLabel": "Correct answer:",
+                "inputLabel": "Blank input @num of @total",
+                "inputHasTipLabel": "Tip available",
+                "tipLabel": "Tip",
+                "behaviour": {
+                    "enableRetry": true,
+                    "enableSolutionsButton": false,
+                    "enableCheckButton": true,
+                    "autoCheck": false,
+                    "caseSensitive": false,
+                    "showSolutionsRequiresInput": false,
+                    "separateLines": true,
+                    "disableImageZooming": false,
+                    "confirmCheckDialog": false,
+                    "confirmRetryDialog": false,
+                    "acceptSpellingErrors": true
+                },
+                "scoreBarLabel": "You got :num out of :total points",
+                "confirmCheck": {
+                    "header": "Finish ?",
+                    "body": "Are you sure you wish to finish ?",
+                    "cancelLabel": "Cancel",
+                    "confirmLabel": "Finish"
+                },
+                "confirmRetry": {
+                    "header": "Retry ?",
+                    "body": "Are you sure you wish to retry ?",
+                    "cancelLabel": "Cancel",
+                    "confirmLabel": "Confirm"
+                },
+                "questions": [
+                    "<p><strong>Lesson.Listening.resources[0].questions[0].question:<\/strong><\/p>\n\n<p>*Lesson.Listening.resources[0].questions[0].options[0].text\/Lesson.Listening.resources[0].questions[0].options[1].text*<\/p>\n\n<p><strong>Lesson.Listening.resources[0].questions[1].question:<\/strong><\/p>\n\n<p>*Lesson.Listening.resources[0].questions[1].options[0].text\/Lesson.Listening.resources[0].questions[1].options[1].text*<\/p>\n"
+                ]
+            },
+            "library": "H5P.Blanks 1.11",
+            "metadata": {
+                "contentType": "Fill in the Blanks",
+                "license": "U",
+                "title": "R1 Listening Fill blanks Lesson.Listening.resources[0].name",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "R1 Listening Fill blanks Lesson.Listening.resources[0].name"
+            },
+            "subContentId": "78c4fc61-3ab7-4fc1-8221-dd1ad3d81952"
+        },
+        {
+            "params": {
+                "answers": [
+                    {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Lesson.Writing.resources[0].questions[2].options[0].text<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Lesson.Writing.resources[0].questions[2].options[1].text<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Lesson.Writing.resources[0].questions[2].options[2].text<\/div>\n"
+                    }
+                ],
+                "overallFeedback": [
+                    {
+                        "from": 0,
+                        "to": 100
+                    }
+                ],
+                "behaviour": {
+                    "enableRetry": true,
+                    "enableSolutionsButton": false,
+                    "enableCheckButton": true,
+                    "type": "single",
+                    "singlePoint": true,
+                    "randomAnswers": true,
+                    "showSolutionsRequiresInput": true,
+                    "disableImageZooming": false,
+                    "confirmCheckDialog": false,
+                    "confirmRetryDialog": false,
+                    "autoCheck": false,
+                    "passPercentage": 100,
+                    "showScorePoints": false
+                },
+                "UI": {
+                    "checkAnswerButton": "Check",
+                    "showSolutionButton": "Show solution",
+                    "tryAgainButton": "Retry",
+                    "tipsLabel": "Show tip",
+                    "scoreBarLabel": "You got :num out of :total points",
+                    "tipAvailable": "Tip available",
+                    "feedbackAvailable": "Feedback available",
+                    "readFeedback": "Read feedback",
+                    "wrongAnswer": "Wrong answer",
+                    "correctAnswer": "Correct answer",
+                    "shouldCheck": "Should have been checked",
+                    "shouldNotCheck": "Should not have been checked",
+                    "noInput": "Please answer before viewing the solution"
+                },
+                "confirmCheck": {
+                    "header": "Finish ?",
+                    "body": "Are you sure you wish to finish ?",
+                    "cancelLabel": "Cancel",
+                    "confirmLabel": "Finish"
+                },
+                "confirmRetry": {
+                    "header": "Retry ?",
+                    "body": "Are you sure you wish to retry ?",
+                    "cancelLabel": "Cancel",
+                    "confirmLabel": "Confirm"
+                },
+                "question": "<p><em>Lesson.Writing.resources[0].body<\/em><\/p>\n\n<p><strong>Lesson.Writing.resources[0].questions[2].question<\/strong><\/p>\n",
+                "media": {
+                    "params": {}
+                }
+            },
+            "library": "H5P.MultiChoice 1.13",
+            "metadata": {
+                "contentType": "Multiple Choice",
+                "license": "U",
+                "title": "R5 Writing MC1 Lesson.Writing.resources[0].name",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "R5 Writing MC1 Lesson.Writing.resources[0].name"
+            },
+            "subContentId": "20fcd7ec-e4b6-4077-8e1e-50853b5a2342"
+        },
+        {
+            "params": {
+                "text": "<p><em>Lesson.Writing.resources[0].body<\/em><\/p>\n",
+                "overallFeedback": [
+                    {
+                        "from": 0,
+                        "to": 100
+                    }
+                ],
+                "showSolutions": "Show solution",
+                "tryAgain": "Retry",
+                "checkAnswer": "Check",
+                "notFilledOut": "Please fill in all blanks to view solution",
+                "answerIsCorrect": "&#039;:ans&#039; is correct",
+                "answerIsWrong": "&#039;:ans&#039; is wrong",
+                "answeredCorrectly": "Answered correctly",
+                "answeredIncorrectly": "Answered incorrectly",
+                "solutionLabel": "Correct answer:",
+                "inputLabel": "Blank input @num of @total",
+                "inputHasTipLabel": "Tip available",
+                "tipLabel": "Tip",
+                "behaviour": {
+                    "enableRetry": true,
+                    "enableSolutionsButton": false,
+                    "enableCheckButton": true,
+                    "autoCheck": false,
+                    "caseSensitive": false,
+                    "showSolutionsRequiresInput": false,
+                    "separateLines": true,
+                    "disableImageZooming": false,
+                    "confirmCheckDialog": false,
+                    "confirmRetryDialog": false,
+                    "acceptSpellingErrors": true
+                },
+                "scoreBarLabel": "You got :num out of :total points",
+                "confirmCheck": {
+                    "header": "Finish ?",
+                    "body": "Are you sure you wish to finish ?",
+                    "cancelLabel": "Cancel",
+                    "confirmLabel": "Finish"
+                },
+                "confirmRetry": {
+                    "header": "Retry ?",
+                    "body": "Are you sure you wish to retry ?",
+                    "cancelLabel": "Cancel",
+                    "confirmLabel": "Confirm"
+                },
+                "questions": [
+                    "<p><strong>Lesson.Writing.resources[0].questions[0].question:<\/strong><\/p>\n\n<p>*Lesson.Writing.resources[0].questions[0].options[0].text\/Lesson.Writing.resources[0].questions[0].options[1].text*<\/p>\n\n<p>&nbsp;<\/p>\n\n<p><strong>Lesson.Writing.resources[0].questions[1].question:<\/strong><\/p>\n\n<p>*Lesson.Writing.resources[0].questions[1].options[0].text\/Lesson.Writing.resources[0].questions[1].options[1].text*<\/p>\n"
+                ],
+                "media": {
+                    "params": {}
+                }
+            },
+            "library": "H5P.Blanks 1.11",
+            "metadata": {
+                "contentType": "Fill in the Blanks",
+                "license": "U",
+                "title": "R5 Writing Fill blanks Lesson.Writing.resources[0].name",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "R5 Writing Fill blanks Lesson.Writing.resources[0].name"
+            },
+            "subContentId": "70828eda-0545-4a1b-b75f-c5734ab9a24a"
+        },
+        {
+            "params": {
+                "answers": [
+                    {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Lesson.Writing.resources[0].questions[3].options[0].text<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Lesson.Writing.resources[0].questions[3].options[1].text<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Lesson.Writing.resources[0].questions[3].options[2].text<\/div>\n"
+                    }
+                ],
+                "overallFeedback": [
+                    {
+                        "from": 0,
+                        "to": 100
+                    }
+                ],
+                "behaviour": {
+                    "enableRetry": true,
+                    "enableSolutionsButton": false,
+                    "enableCheckButton": true,
+                    "type": "single",
+                    "singlePoint": true,
+                    "randomAnswers": true,
+                    "showSolutionsRequiresInput": true,
+                    "disableImageZooming": false,
+                    "confirmCheckDialog": false,
+                    "confirmRetryDialog": false,
+                    "autoCheck": false,
+                    "passPercentage": 100,
+                    "showScorePoints": false
+                },
+                "UI": {
+                    "checkAnswerButton": "Check",
+                    "showSolutionButton": "Show solution",
+                    "tryAgainButton": "Retry",
+                    "tipsLabel": "Show tip",
+                    "scoreBarLabel": "You got :num out of :total points",
+                    "tipAvailable": "Tip available",
+                    "feedbackAvailable": "Feedback available",
+                    "readFeedback": "Read feedback",
+                    "wrongAnswer": "Wrong answer",
+                    "correctAnswer": "Correct answer",
+                    "shouldCheck": "Should have been checked",
+                    "shouldNotCheck": "Should not have been checked",
+                    "noInput": "Please answer before viewing the solution"
+                },
+                "confirmCheck": {
+                    "header": "Finish ?",
+                    "body": "Are you sure you wish to finish ?",
+                    "cancelLabel": "Cancel",
+                    "confirmLabel": "Finish"
+                },
+                "confirmRetry": {
+                    "header": "Retry ?",
+                    "body": "Are you sure you wish to retry ?",
+                    "cancelLabel": "Cancel",
+                    "confirmLabel": "Confirm"
+                },
+                "question": "<p><em>Lesson.Writing.resources[0].body<\/em><\/p>\n\n<p><strong>Lesson.Writing.resources[0].questions[3].question<\/strong><\/p>\n",
+                "media": {
+                    "params": {}
+                }
+            },
+            "library": "H5P.MultiChoice 1.13",
+            "metadata": {
+                "contentType": "Multiple Choice",
+                "license": "U",
+                "title": "R5 Writing MC2 Lesson.Writing.resources[0].name",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "R5 Writing MC2 Lesson.Writing.resources[0].name"
+            },
+            "subContentId": "3050c259-b26e-4bd8-a8d9-97a65c5ca36d"
+        },
+        {
+            "params": {
+                "text": "<p><em>Lesson.Writing.resources[1].instructions.en<\/em><\/p>\n",
+                "overallFeedback": [
+                    {
+                        "from": 0,
+                        "to": 100
+                    }
+                ],
+                "showSolutions": "Show solution",
+                "tryAgain": "Retry",
+                "checkAnswer": "Check",
+                "notFilledOut": "Please fill in all blanks to view solution",
+                "answerIsCorrect": "&#039;:ans&#039; is correct",
+                "answerIsWrong": "&#039;:ans&#039; is wrong",
+                "answeredCorrectly": "Answered correctly",
+                "answeredIncorrectly": "Answered incorrectly",
+                "solutionLabel": "Correct answer:",
+                "inputLabel": "Blank input @num of @total",
+                "inputHasTipLabel": "Tip available",
+                "tipLabel": "Tip",
+                "behaviour": {
+                    "enableRetry": true,
+                    "enableSolutionsButton": false,
+                    "enableCheckButton": true,
+                    "autoCheck": false,
+                    "caseSensitive": false,
+                    "showSolutionsRequiresInput": false,
+                    "separateLines": true,
+                    "disableImageZooming": false,
+                    "confirmCheckDialog": false,
+                    "confirmRetryDialog": false,
+                    "acceptSpellingErrors": true
+                },
+                "scoreBarLabel": "You got :num out of :total points",
+                "confirmCheck": {
+                    "header": "Finish ?",
+                    "body": "Are you sure you wish to finish ?",
+                    "cancelLabel": "Cancel",
+                    "confirmLabel": "Finish"
+                },
+                "confirmRetry": {
+                    "header": "Retry ?",
+                    "body": "Are you sure you wish to retry ?",
+                    "cancelLabel": "Cancel",
+                    "confirmLabel": "Confirm"
+                },
+                "questions": [
+                    "<p><strong>Lesson.Writing.resources[1].questions[0].question:<\/strong><\/p>\n\n<p>*Lesson.Writing.resources[1].questions[0].options[0].text\/Lesson.Writing.resources[1].questions[0].options[1].text*<\/p>\n"
+                ],
+                "media": {
+                    "params": {
+                        "contentName": "Image",
+                        "alt": "Lesson.Writing.resources[1].picture",
+                        "file": {
+                            "path": "images\/file-5cd467f86cf50.png",
+                            "mime": "image\/png",
+                            "copyright": {
+                                "license": "U"
+                            },
+                            "width": 150,
+                            "height": 150
+                        }
+                    },
+                    "library": "H5P.Image 1.1",
+                    "metadata": {
+                        "contentType": "Image",
+                        "license": "C",
+                        "title": "Lesson.Writing.resources[1].picture",
+                        "authors": [
+                            {
+                                "name": "iDO Learning",
+                                "role": "Author"
+                            }
+                        ],
+                        "changes": []
+                    },
+                    "subContentId": "9932cfd2-bf94-4111-aece-b613e7cd8fb3"
+                }
+            },
+            "library": "H5P.Blanks 1.11",
+            "metadata": {
+                "contentType": "Fill in the Blanks",
+                "license": "U",
+                "title": "R6 Writing Fill blanks Lesson.Writing.resources[1].name",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "R6 Writing Fill blanks Lesson.Writing.resources[1].name"
+            },
+            "subContentId": "a7360624-7061-405b-ba07-f817e53b35a3"
+        },
+        {
+            "params": {
+                "answers": [
+                    {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Lesson.Writing.resources[1].questions[1].options[0].text<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Lesson.Writing.resources[1].questions[1].options[1].text<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Lesson.Writing.resources[1].questions[1].options[2].text<\/div>\n"
+                    }
+                ],
+                "overallFeedback": [
+                    {
+                        "from": 0,
+                        "to": 100
+                    }
+                ],
+                "behaviour": {
+                    "enableRetry": true,
+                    "enableSolutionsButton": false,
+                    "enableCheckButton": true,
+                    "type": "single",
+                    "singlePoint": true,
+                    "randomAnswers": true,
+                    "showSolutionsRequiresInput": true,
+                    "disableImageZooming": false,
+                    "confirmCheckDialog": false,
+                    "confirmRetryDialog": false,
+                    "autoCheck": false,
+                    "passPercentage": 100,
+                    "showScorePoints": false
+                },
+                "UI": {
+                    "checkAnswerButton": "Check",
+                    "showSolutionButton": "Show solution",
+                    "tryAgainButton": "Retry",
+                    "tipsLabel": "Show tip",
+                    "scoreBarLabel": "You got :num out of :total points",
+                    "tipAvailable": "Tip available",
+                    "feedbackAvailable": "Feedback available",
+                    "readFeedback": "Read feedback",
+                    "wrongAnswer": "Wrong answer",
+                    "correctAnswer": "Correct answer",
+                    "shouldCheck": "Should have been checked",
+                    "shouldNotCheck": "Should not have been checked",
+                    "noInput": "Please answer before viewing the solution"
+                },
+                "confirmCheck": {
+                    "header": "Finish ?",
+                    "body": "Are you sure you wish to finish ?",
+                    "cancelLabel": "Cancel",
+                    "confirmLabel": "Finish"
+                },
+                "confirmRetry": {
+                    "header": "Retry ?",
+                    "body": "Are you sure you wish to retry ?",
+                    "cancelLabel": "Cancel",
+                    "confirmLabel": "Confirm"
+                },
+                "question": "<p><em>Lesson.Writing.resources[1].instructions.en<\/em><\/p>\n\n<p><strong>Lesson.Writing.resources[1].questions[1].question<\/strong><\/p>\n",
+                "media": {
+                    "params": {
+                        "contentName": "Image",
+                        "file": {
+                            "path": "images\/file-5cd464fe0f737.png",
+                            "mime": "image\/png",
+                            "copyright": {
+                                "license": "U"
+                            },
+                            "width": 150,
+                            "height": 150
+                        },
+                        "alt": "Lesson.Writing.resources[1].picture"
+                    },
+                    "library": "H5P.Image 1.1",
+                    "metadata": {
+                        "contentType": "Image",
+                        "license": "C",
+                        "title": "Lesson.Writing.resources[1].picture",
+                        "authors": [
+                            {
+                                "name": "iDO Learning",
+                                "role": "Author"
+                            }
+                        ],
+                        "changes": []
+                    },
+                    "subContentId": "165af46b-a357-4a8e-ba1a-9b5b2fa8a53c"
+                }
+            },
+            "library": "H5P.MultiChoice 1.13",
+            "metadata": {
+                "contentType": "Multiple Choice",
+                "license": "U",
+                "title": "R6 Writing MC1 Lesson.Writing.resources[1].name",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "R6 Writing MC1 Lesson.Writing.resources[1].name"
+            },
+            "subContentId": "97c85db6-ed6f-4660-b1cb-00e3e4c7fd0e"
+        },
+        {
+            "params": {
+                "media": {
+                    "params": {
+                        "playerMode": "full",
+                        "fitToWrapper": false,
+                        "controls": true,
+                        "autoplay": false,
+                        "contentName": "Audio",
+                        "audioNotSupported": "Your browser does not support this audio",
+                        "files": [
+                            {
+                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
+                                "mime": "audio\/mp3",
+                                "copyright": {
+                                    "license": "U"
+                                }
+                            }
+                        ]
+                    },
+                    "library": "H5P.Audio 1.3",
+                    "metadata": {
+                        "contentType": "Audio",
+                        "license": "C",
+                        "title": "Lesson.Conversation.resources[0].name",
+                        "authors": [
+                            {
+                                "name": "iDO Learning",
+                                "role": "Author"
+                            }
+                        ],
+                        "changes": [],
+                        "extraTitle": "Lesson.Conversation.resources[0].name"
+                    },
+                    "subContentId": "831a64e5-55ca-41b4-97ee-60a6714f7481"
+                },
+                "text": "<p><em>Lesson.Conversation.resources[0].instructions.en<\/em><\/p>\n",
+                "overallFeedback": [
+                    {
+                        "from": 0,
+                        "to": 100
+                    }
+                ],
+                "showSolutions": "Show solution",
+                "tryAgain": "Retry",
+                "checkAnswer": "Check",
+                "notFilledOut": "Please fill in all blanks to view solution",
+                "answerIsCorrect": "&#039;:ans&#039; is correct",
+                "answerIsWrong": "&#039;:ans&#039; is wrong",
+                "answeredCorrectly": "Answered correctly",
+                "answeredIncorrectly": "Answered incorrectly",
+                "solutionLabel": "Correct answer:",
+                "inputLabel": "Blank input @num of @total",
+                "inputHasTipLabel": "Tip available",
+                "tipLabel": "Tip",
+                "behaviour": {
+                    "enableRetry": true,
+                    "enableSolutionsButton": false,
+                    "enableCheckButton": true,
+                    "autoCheck": false,
+                    "caseSensitive": false,
+                    "showSolutionsRequiresInput": false,
+                    "separateLines": true,
+                    "disableImageZooming": false,
+                    "confirmCheckDialog": false,
+                    "confirmRetryDialog": false,
+                    "acceptSpellingErrors": true
+                },
+                "scoreBarLabel": "You got :num out of :total points",
+                "confirmCheck": {
+                    "header": "Finish ?",
+                    "body": "Are you sure you wish to finish ?",
+                    "cancelLabel": "Cancel",
+                    "confirmLabel": "Finish"
+                },
+                "confirmRetry": {
+                    "header": "Retry ?",
+                    "body": "Are you sure you wish to retry ?",
+                    "cancelLabel": "Cancel",
+                    "confirmLabel": "Confirm"
+                },
+                "questions": [
+                    "<p><strong>Lesson.Conversation.resources[0].questions[0].question:<\/strong><\/p>\n\n<p>*Lesson.Conversation.resources[0].questions[0].options[0].text\/Lesson.Conversation.resources[0].questions[0].options[1].text*<\/p>\n\n<p>&nbsp;<\/p>\n\n<p><strong>Lesson.Conversation.resources[0].questions[1].question:<\/strong><\/p>\n\n<p>*Lesson.Conversation.resources[0].questions[1].options[0].text\/Lesson.Conversation.resources[0].questions[1].options[1].text*<\/p>\n"
+                ]
+            },
+            "library": "H5P.Blanks 1.11",
+            "metadata": {
+                "contentType": "Fill in the Blanks",
+                "license": "U",
+                "title": "R17 Conversation Fill blanks Lesson.Conversation.resources[0].name",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "R17 Conversation Fill blanks Lesson.Conversation.resources[0].name"
+            },
+            "subContentId": "67e49d63-ed4c-434c-b9b1-d19b61df225e"
+        },
+        {
+            "params": {
+                "answers": [
+                    {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Lesson.Reading.resources[0].questions[2].options[0].text<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Lesson.Reading.resources[0].questions[2].options[1].text<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Lesson.Reading.resources[0].questions[2].options[2].text<\/div>\n"
+                    }
+                ],
+                "overallFeedback": [
+                    {
+                        "from": 0,
+                        "to": 100
+                    }
+                ],
+                "behaviour": {
+                    "enableRetry": true,
+                    "enableSolutionsButton": false,
+                    "enableCheckButton": true,
+                    "type": "single",
+                    "singlePoint": true,
+                    "randomAnswers": true,
+                    "showSolutionsRequiresInput": true,
+                    "disableImageZooming": false,
+                    "confirmCheckDialog": false,
+                    "confirmRetryDialog": false,
+                    "autoCheck": false,
+                    "passPercentage": 100,
+                    "showScorePoints": false
+                },
+                "UI": {
+                    "checkAnswerButton": "Check",
+                    "showSolutionButton": "Show solution",
+                    "tryAgainButton": "Retry",
+                    "tipsLabel": "Show tip",
+                    "scoreBarLabel": "You got :num out of :total points",
+                    "tipAvailable": "Tip available",
+                    "feedbackAvailable": "Feedback available",
+                    "readFeedback": "Read feedback",
+                    "wrongAnswer": "Wrong answer",
+                    "correctAnswer": "Correct answer",
+                    "shouldCheck": "Should have been checked",
+                    "shouldNotCheck": "Should not have been checked",
+                    "noInput": "Please answer before viewing the solution"
+                },
+                "confirmCheck": {
+                    "header": "Finish ?",
+                    "body": "Are you sure you wish to finish ?",
+                    "cancelLabel": "Cancel",
+                    "confirmLabel": "Finish"
+                },
+                "confirmRetry": {
+                    "header": "Retry ?",
+                    "body": "Are you sure you wish to retry ?",
+                    "cancelLabel": "Cancel",
+                    "confirmLabel": "Confirm"
+                },
+                "question": "<p><em>Lesson.Reading.resources[0].body<\/em><\/p>\n\n<p><strong>Lesson.Reading.resources[0].questions[2].question<\/strong><\/p>\n",
+                "media": {
+                    "params": {}
+                }
+            },
+            "library": "H5P.MultiChoice 1.13",
+            "metadata": {
+                "contentType": "Multiple Choice",
+                "license": "U",
+                "title": "R9 Writing MC1 Lesson.Reading.resources[0].name",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "R9 Writing MC1 Lesson.Reading.resources[0].name"
+            },
+            "subContentId": "b75a90e2-b754-464c-9f71-32fa1c4b0f27"
+        },
+        {
+            "params": {
+                "text": "<p><em>Lesson.Reading.resources[0].body<\/em><\/p>\n",
+                "overallFeedback": [
+                    {
+                        "from": 0,
+                        "to": 100
+                    }
+                ],
+                "showSolutions": "Show solution",
+                "tryAgain": "Retry",
+                "checkAnswer": "Check",
+                "notFilledOut": "Please fill in all blanks to view solution",
+                "answerIsCorrect": "&#039;:ans&#039; is correct",
+                "answerIsWrong": "&#039;:ans&#039; is wrong",
+                "answeredCorrectly": "Answered correctly",
+                "answeredIncorrectly": "Answered incorrectly",
+                "solutionLabel": "Correct answer:",
+                "inputLabel": "Blank input @num of @total",
+                "inputHasTipLabel": "Tip available",
+                "tipLabel": "Tip",
+                "behaviour": {
+                    "enableRetry": true,
+                    "enableSolutionsButton": false,
+                    "enableCheckButton": true,
+                    "autoCheck": false,
+                    "caseSensitive": false,
+                    "showSolutionsRequiresInput": false,
+                    "separateLines": true,
+                    "disableImageZooming": false,
+                    "confirmCheckDialog": false,
+                    "confirmRetryDialog": false,
+                    "acceptSpellingErrors": true
+                },
+                "scoreBarLabel": "You got :num out of :total points",
+                "confirmCheck": {
+                    "header": "Finish ?",
+                    "body": "Are you sure you wish to finish ?",
+                    "cancelLabel": "Cancel",
+                    "confirmLabel": "Finish"
+                },
+                "confirmRetry": {
+                    "header": "Retry ?",
+                    "body": "Are you sure you wish to retry ?",
+                    "cancelLabel": "Cancel",
+                    "confirmLabel": "Confirm"
+                },
+                "questions": [
+                    "<p><strong>Lesson.Reading.resources[0].questions[0].question:<\/strong><\/p>\n\n<p>*Lesson.Reading.resources[0].questions[0].options[0].text\/Lesson.Reading.resources[0].questions[0].options[1].text*<\/p>\n\n<p>&nbsp;<\/p>\n\n<p><strong>Lesson.Reading.resources[0].questions[1].question:<\/strong><\/p>\n\n<p>*Lesson.Reading.resources[0].questions[1].options[0].text\/Lesson.Reading.resources[0].questions[1].options[1].text*<\/p>\n"
+                ],
+                "media": {
+                    "params": {}
+                }
+            },
+            "library": "H5P.Blanks 1.11",
+            "metadata": {
+                "contentType": "Fill in the Blanks",
+                "license": "U",
+                "title": "R9 Writing Fill blanks Lesson.Reading.resources[0].name",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "R9 Writing Fill blanks Lesson.Reading.resources[0].name"
+            },
+            "subContentId": "3549cb4d-5abe-4373-9db9-6b233bf67692"
+        },
+        {
+            "params": {
+                "answers": [
+                    {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Lesson.Reading.resources[0].questions[3].options[0].text<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Lesson.Reading.resources[0].questions[3].options[1].text<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Lesson.Reading.resources[0].questions[3].options[2].text<\/div>\n"
+                    }
+                ],
+                "overallFeedback": [
+                    {
+                        "from": 0,
+                        "to": 100
+                    }
+                ],
+                "behaviour": {
+                    "enableRetry": true,
+                    "enableSolutionsButton": false,
+                    "enableCheckButton": true,
+                    "type": "single",
+                    "singlePoint": true,
+                    "randomAnswers": true,
+                    "showSolutionsRequiresInput": true,
+                    "disableImageZooming": false,
+                    "confirmCheckDialog": false,
+                    "confirmRetryDialog": false,
+                    "autoCheck": false,
+                    "passPercentage": 100,
+                    "showScorePoints": false
+                },
+                "UI": {
+                    "checkAnswerButton": "Check",
+                    "showSolutionButton": "Show solution",
+                    "tryAgainButton": "Retry",
+                    "tipsLabel": "Show tip",
+                    "scoreBarLabel": "You got :num out of :total points",
+                    "tipAvailable": "Tip available",
+                    "feedbackAvailable": "Feedback available",
+                    "readFeedback": "Read feedback",
+                    "wrongAnswer": "Wrong answer",
+                    "correctAnswer": "Correct answer",
+                    "shouldCheck": "Should have been checked",
+                    "shouldNotCheck": "Should not have been checked",
+                    "noInput": "Please answer before viewing the solution"
+                },
+                "confirmCheck": {
+                    "header": "Finish ?",
+                    "body": "Are you sure you wish to finish ?",
+                    "cancelLabel": "Cancel",
+                    "confirmLabel": "Finish"
+                },
+                "confirmRetry": {
+                    "header": "Retry ?",
+                    "body": "Are you sure you wish to retry ?",
+                    "cancelLabel": "Cancel",
+                    "confirmLabel": "Confirm"
+                },
+                "question": "<p><em>Lesson.Reading.resources[0].body<\/em><\/p>\n\n<p><strong>Lesson.Reading.resources[0].questions[3].question<\/strong><\/p>\n",
+                "media": {
+                    "params": {}
+                }
+            },
+            "library": "H5P.MultiChoice 1.13",
+            "metadata": {
+                "contentType": "Multiple Choice",
+                "license": "U",
+                "title": "R9 Writing MC2 Lesson.Reading.resources[0].name",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "R9 Writing MC2 Lesson.Reading.resources[0].name"
+            },
+            "subContentId": "be6794f7-a75d-4008-8d88-2d3d8bcf9cda"
+        },
+        {
+            "params": {
+                "answers": [
+                    {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Lesson.Reading.resources[1].questions[1].options[0].text<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Lesson.Reading.resources[1].questions[1].options[1].text<\/div>\n"
+                    },
+                    {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "",
+                            "notChosenFeedback": ""
+                        },
+                        "text": "<div>Lesson.Reading.resources[1].questions[1].options[2].text<\/div>\n"
+                    }
+                ],
+                "overallFeedback": [
+                    {
+                        "from": 0,
+                        "to": 100
+                    }
+                ],
+                "behaviour": {
+                    "enableRetry": true,
+                    "enableSolutionsButton": false,
+                    "enableCheckButton": true,
+                    "type": "single",
+                    "singlePoint": true,
+                    "randomAnswers": true,
+                    "showSolutionsRequiresInput": true,
+                    "disableImageZooming": false,
+                    "confirmCheckDialog": false,
+                    "confirmRetryDialog": false,
+                    "autoCheck": false,
+                    "passPercentage": 100,
+                    "showScorePoints": false
+                },
+                "UI": {
+                    "checkAnswerButton": "Check",
+                    "showSolutionButton": "Show solution",
+                    "tryAgainButton": "Retry",
+                    "tipsLabel": "Show tip",
+                    "scoreBarLabel": "You got :num out of :total points",
+                    "tipAvailable": "Tip available",
+                    "feedbackAvailable": "Feedback available",
+                    "readFeedback": "Read feedback",
+                    "wrongAnswer": "Wrong answer",
+                    "correctAnswer": "Correct answer",
+                    "shouldCheck": "Should have been checked",
+                    "shouldNotCheck": "Should not have been checked",
+                    "noInput": "Please answer before viewing the solution"
+                },
+                "confirmCheck": {
+                    "header": "Finish ?",
+                    "body": "Are you sure you wish to finish ?",
+                    "cancelLabel": "Cancel",
+                    "confirmLabel": "Finish"
+                },
+                "confirmRetry": {
+                    "header": "Retry ?",
+                    "body": "Are you sure you wish to retry ?",
+                    "cancelLabel": "Cancel",
+                    "confirmLabel": "Confirm"
+                },
+                "question": "<p><em>Lesson.Reading.resources[1].body<\/em><\/p>\n\n<p><strong>Lesson.Reading.resources[1].questions[1].question<\/strong><\/p>\n",
+                "media": {
+                    "params": {
+                        "contentName": "Image",
+                        "file": {
+                            "path": "images\/file-5cd47cccc41ec.png",
+                            "mime": "image\/png",
+                            "copyright": {
+                                "license": "U"
+                            },
+                            "width": 150,
+                            "height": 150
+                        },
+                        "alt": "Lesson.Reading.resources[1].name"
+                    },
+                    "library": "H5P.Image 1.1",
+                    "metadata": {
+                        "contentType": "Image",
+                        "license": "U",
+                        "title": "Lesson.Reading.resources[1].name",
+                        "authors": [],
+                        "changes": []
+                    },
+                    "subContentId": "6c65ca72-e55b-4cb7-aac4-20b9279271cf"
+                }
+            },
+            "library": "H5P.MultiChoice 1.13",
+            "metadata": {
+                "contentType": "Multiple Choice",
+                "license": "U",
+                "title": "R10 Writing MC1 Lesson.Reading.resources[1].name",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "R10 Writing MC1 Lesson.Reading.resources[1].name"
+            },
+            "subContentId": "960ad726-98d8-4633-9c6d-cc3d74c06d10"
+        },
+        {
+            "params": {
+                "scoreShow": "Check",
+                "tryAgain": "Retry",
+                "scoreExplanation": "Correct answers give +1 point. Incorrect answers give -1 point. The lowest possible score is 0.",
+                "question": {
+                    "settings": {
+                        "size": {
+                            "width": 600,
+                            "height": 300
+                        }
+                    },
+                    "task": {
+                        "elements": [
+                            {
+                                "x": 26.666666666666668,
+                                "y": 76.666666666666671,
+                                "width": 8.0250000000000004,
+                                "height": 3.0249999999999999,
+                                "dropZones": [
+                                    "0"
+                                ],
+                                "type": {
+                                    "library": "H5P.AdvancedText 1.1",
+                                    "params": {
+                                        "text": "<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Reading.resources[1].questions[0].options[0].text<\/span><\/p>\n"
+                                    },
+                                    "metadata": {
+                                        "contentType": "Text",
+                                        "license": "U",
+                                        "title": "Untitled Text"
+                                    },
+                                    "subContentId": "6ae45428-d5f3-4f25-be71-c6c2f49dddd6"
+                                },
+                                "backgroundOpacity": 100,
+                                "multiple": false
+                            },
+                            {
+                                "x": 51.666666666666664,
+                                "y": 76.666666666666671,
+                                "width": 8.0250000000000004,
+                                "height": 3.0249999999999999,
+                                "dropZones": [
+                                    "0"
+                                ],
+                                "type": {
+                                    "library": "H5P.AdvancedText 1.1",
+                                    "params": {
+                                        "text": "<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Reading.resources[1].questions[0].options[1].text<\/span><\/p>\n"
+                                    },
+                                    "metadata": {
+                                        "contentType": "Text",
+                                        "license": "U",
+                                        "title": "Untitled Text"
+                                    },
+                                    "subContentId": "9d9cc9c5-9feb-444f-9d92-540c690d5f60"
+                                },
+                                "backgroundOpacity": 100,
+                                "multiple": false
+                            },
+                            {
+                                "x": 76.666666666666671,
+                                "y": 76.666666666666671,
+                                "width": 8.0250000000000004,
+                                "height": 3.0249999999999999,
+                                "dropZones": [
+                                    "0"
+                                ],
+                                "type": {
+                                    "library": "H5P.AdvancedText 1.1",
+                                    "params": {
+                                        "text": "<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Reading.resources[1].questions[0].options[2].text<\/span><\/p>\n"
+                                    },
+                                    "metadata": {
+                                        "contentType": "Text",
+                                        "license": "U",
+                                        "title": "Untitled Text"
+                                    },
+                                    "subContentId": "62a4b783-5e4b-4a6d-857c-56c886789727"
+                                },
+                                "backgroundOpacity": 100,
+                                "multiple": false
+                            },
+                            {
+                                "x": 26.666666666666668,
+                                "y": 6.666666666666667,
+                                "width": 8.0250000000000004,
+                                "height": 11.837478912353516,
+                                "dropZones": [
+                                    "0"
+                                ],
+                                "type": {
+                                    "library": "H5P.Image 1.1",
+                                    "params": {
+                                        "contentName": "Image",
+                                        "file": {
+                                            "path": "images\/file-5cd422f016043.jpg",
+                                            "mime": "image\/jpeg",
+                                            "copyright": {
+                                                "license": "U"
+                                            },
+                                            "width": 330,
+                                            "height": 500
+                                        },
+                                        "alt": "Lesson.Reading.resources[1].questions[0].options[0].poster"
+                                    },
+                                    "subContentId": "a71be4dd-9cdc-4d85-86bd-d2966b8c3ea1",
+                                    "metadata": {
+                                        "contentType": "Image",
+                                        "license": "C",
+                                        "title": "Lesson.Reading.resources[1].questions[0].options[0].poster",
+                                        "authors": [
+                                            {
+                                                "name": "iDO Learning",
+                                                "role": "Author"
+                                            }
+                                        ]
+                                    }
+                                },
+                                "backgroundOpacity": 100,
+                                "multiple": false
+                            },
+                            {
+                                "x": 51.666666666666664,
+                                "y": 6.666666666666667,
+                                "width": 7.8127360821533207,
+                                "height": 11.837478912353516,
+                                "dropZones": [
+                                    "0"
+                                ],
+                                "type": {
+                                    "library": "H5P.Image 1.1",
+                                    "params": {
+                                        "contentName": "Image",
+                                        "file": {
+                                            "path": "images\/file-5cd424897c812.jpg",
+                                            "mime": "image\/jpeg",
+                                            "copyright": {
+                                                "license": "U"
+                                            },
+                                            "width": 330,
+                                            "height": 500
+                                        },
+                                        "alt": "Lesson.Reading.resources[1].questions[0].options[1].poster"
+                                    },
+                                    "metadata": {
+                                        "contentType": "Image",
+                                        "license": "C",
+                                        "title": "Lesson.Reading.resources[1].questions[0].options[1].poster",
+                                        "authors": [
+                                            {
+                                                "name": "iDO Learning",
+                                                "role": "Author"
+                                            }
+                                        ]
+                                    },
+                                    "subContentId": "760172ef-3810-412d-b2ee-ceee82e1f091"
+                                },
+                                "backgroundOpacity": 100,
+                                "multiple": false
+                            },
+                            {
+                                "x": 76.666666666666671,
+                                "y": 6.666666666666667,
+                                "width": 7.8127360821533207,
+                                "height": 11.837478912353516,
+                                "dropZones": [
+                                    "0"
+                                ],
+                                "type": {
+                                    "library": "H5P.Image 1.1",
+                                    "params": {
+                                        "contentName": "Image",
+                                        "file": {
+                                            "path": "images\/file-5cd424947fc2e.jpg",
+                                            "mime": "image\/jpeg",
+                                            "copyright": {
+                                                "license": "U"
+                                            },
+                                            "width": 330,
+                                            "height": 500
+                                        },
+                                        "alt": "Lesson.Reading.resources[1].questions[0].options[2].poster"
+                                    },
+                                    "metadata": {
+                                        "contentType": "Image",
+                                        "license": "C",
+                                        "title": "Lesson.Reading.resources[1].questions[0].options[2].poster",
+                                        "authors": [
+                                            {
+                                                "name": "iDO Learning",
+                                                "role": "Author"
+                                            }
+                                        ]
+                                    },
+                                    "subContentId": "56336019-54b6-48f5-8962-687dbe8223cf"
+                                },
+                                "backgroundOpacity": 100,
+                                "multiple": false
+                            }
+                        ],
+                        "dropZones": [
+                            {
+                                "x": 0,
+                                "y": 11.333333333333334,
+                                "width": 8.75,
+                                "height": 16.25,
+                                "correctElements": [
+                                    "0",
+                                    "3"
+                                ],
+                                "showLabel": true,
+                                "backgroundOpacity": 100,
+                                "tipsAndFeedback": {
+                                    "tip": ""
+                                },
+                                "single": false,
+                                "autoAlign": true,
+                                "label": "<div style=\"text-align: center;\">Drop answers<\/div>\n"
+                            }
+                        ]
+                    }
+                },
+                "overallFeedback": [
+                    {
+                        "from": 0,
+                        "to": 100
+                    }
+                ],
+                "behaviour": {
+                    "enableRetry": true,
+                    "enableCheckButton": true,
+                    "showSolutionsRequiresInput": false,
+                    "singlePoint": true,
+                    "applyPenalties": false,
+                    "enableScoreExplanation": false,
+                    "dropZoneHighlighting": "dragging",
+                    "autoAlignSpacing": 2,
+                    "enableFullScreen": false,
+                    "showScorePoints": false,
+                    "showTitle": true
+                },
+                "grabbablePrefix": "Grabbable {num} of {total}.",
+                "grabbableSuffix": "Placed in dropzone {num}.",
+                "dropzonePrefix": "Dropzone {num} of {total}.",
+                "noDropzone": "No dropzone.",
+                "tipLabel": "Show tip.",
+                "tipAvailable": "Tip available",
+                "correctAnswer": "Correct answer",
+                "wrongAnswer": "Wrong answer",
+                "feedbackHeader": "Feedback",
+                "scoreBarLabel": "You got :num out of :total points",
+                "scoreExplanationButtonLabel": "Show score explanation",
+                "localize": {
+                    "fullscreen": "Fullscreen",
+                    "exitFullscreen": "Exit fullscreen"
+                }
+            },
+            "library": "H5P.DragQuestion 1.13",
+            "metadata": {
+                "contentType": "Drag and Drop",
+                "license": "U",
+                "title": "R10 Multiple image Lesson.Reading.resources[1].questions[0].question",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "R10 Multiple image Lesson.Reading.resources[1].questions[0].question"
+            },
+            "subContentId": "389004d5-64cc-46b9-9535-33cce01d1869"
+        }
+    ],
+    "disableBackwardsNavigation": true,
+    "randomQuestions": false,
+    "endGame": {
+        "showResultPage": true,
+        "showSolutionButton": false,
+        "noResultMessage": "Finished",
+        "message": "You have reached the end of the this activity. Your score:",
+        "overallFeedback": [
+            {
+                "from": 0,
+                "to": 50,
+                "feedback": "You missed several points, try again"
+            },
+            {
+                "from": 51,
+                "to": 70,
+                "feedback": "So close, give it another try"
+            },
+            {
+                "from": 71,
+                "to": 100,
+                "feedback": "Well done! you may continue with the next activity"
+            }
+        ],
+        "solutionButtonText": "Show solution",
+        "retryButtonText": "Try again",
+        "finishButtonText": "Finish",
+        "showAnimations": true,
+        "skippable": false,
+        "skipButtonText": "Skip video",
+        "failVideo": [
+            {
+                "path": "https:\/\/media.giphy.com\/media\/qLWdMYX1NYF2g\/giphy.mp4",
+                "mime": "video\/mp4",
+                "copyright": {
+                    "license": "U"
+                }
+            }
+        ],
+        "successVideo": [
+            {
+                "path": "https:\/\/media.giphy.com\/media\/SI8DCsjjGnODwlwqW0\/giphy.mp4",
+                "mime": "video\/mp4",
+                "copyright": {
+                    "license": "U"
+                }
+            }
+        ]
+    },
+    "override": {
+        "checkButton": true
+    },
+    "texts": {
+        "prevButton": "Previous question",
+        "nextButton": "Next question",
+        "finishButton": "Finish",
+        "textualProgress": "Question: @current of @total questions",
+        "jumpToQuestion": "Question %d of %total",
+        "questionLabel": "Question",
+        "readSpeakerProgress": "Question @current of @total",
+        "unansweredText": "Unanswered",
+        "answeredText": "Answered",
+        "currentQuestionText": "Current question"
+    }
+}
