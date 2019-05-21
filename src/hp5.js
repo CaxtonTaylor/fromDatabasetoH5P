@@ -15,12 +15,12 @@ module.exports =
     async processJSON(jsonPATH){
         this.jsonPATH=jsonPATH;
         await this.init();
-        const vocabularies = new Vocabularies(this.Lesson);
-        await vocabularies.makeH5Ps();
-        const learnanddiscover = new LearnAndDiscover(this.Lesson);
-        await learnanddiscover.makeH5Ps();
-        // const readandwrite = new ReadAndWrite(this.Lesson);
-        // await readandwrite.makeH5Ps();
+        // const vocabularies = new Vocabularies(this.Lesson);
+        // await vocabularies.makeH5Ps();
+        // const learnanddiscover = new LearnAndDiscover(this.Lesson);
+        // await learnanddiscover.makeH5Ps();
+        const readandwrite = new ReadAndWrite(this.Lesson);
+        await readandwrite.makeH5Ps();
         
 
     }
