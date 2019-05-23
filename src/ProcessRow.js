@@ -20,7 +20,12 @@ module.exports =
                     listH5Ps[h5pName].h5p[key] = eval(value)
                     break;
                 case 1://content update
-                    value = eval('this.' + row[0])
+                    if (row[5]) {
+                        value = row[5]
+                    }else{
+                        value = eval('this.' + row[0])
+                    }
+                    
                     let relDesPath = row[6]
                     if (relDesPath || key.split('.').pop() === "path") {
                         if (value) {
@@ -58,7 +63,7 @@ module.exports =
             return listH5Ps;
         }
         questionToEm(Resources,index) {
-            return `<p><em>${Resources.body}</em></p>
+            return `<p><em>${Resources.instructions.en}</em></p>
 
             <p><strong>${Resources.questions[index].question}</strong></p>`
         }
@@ -72,32 +77,32 @@ module.exports =
                 <strong>
                     ${Questions[0].question}:
                 </strong>
-            </p>nn
+            </p>
             <p>
                 *${Questions[0].options[0].text}/${Questions[0].options[1].text}*
-            </p>nn
+            </p>
             <p>
                 <strong>
                     ${Questions[1].question}:
                 </strong>
-            </p>nn
+            </p>
             <p>
                 *${Questions[1].options[0].text}/${Questions[1].options[1].text}*
-            </p>n`
+            </p>`
 
             } else {
                 html = `<p>
                 <strong>${Questions[0].question}:</strong>
-            </p>nn
+            </p>
             <p>
                 *${Questions[0].options[0].text}*
-            </p>nn
+            </p>
             <p>
                 <strong>${Questions[1].question}:</strong>
-            </p>nn
+            </p>
             <p>
                 *${Questions[1].options[0].text}*
-            </p>n`
+            </p>`
             }
             return html
 
