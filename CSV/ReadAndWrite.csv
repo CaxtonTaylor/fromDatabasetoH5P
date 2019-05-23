@@ -44,12 +44,7 @@ Lesson.Reading.resources[0].questions[3].options[2].text,,,,questions.9.params.a
 Lesson.Reading.resources[1].name,,,,questions.10.params.media.metadata.title,,,
 Lesson.Reading.resources[1].body,VERDADERO,,,questions.10.params.question,,,
 Lesson.Reading.resources[1].questions[0].question,,,,questions.11.metadata.title,,,
-Lesson.Reading.resources[1].questions[0].options[0].text,,,,questions.11.params.question.task.elements.0.type.params.text,,,questionToP
-Lesson.Reading.resources[1].questions[0].options[0].poster,,,,questions.11.params.question.task.elements.3.type.params.file.path,,images/file-5cd422f016043.jpg,
-Lesson.Reading.resources[1].questions[0].options[1].text,,,,questions.11.params.question.task.elements.1.type.params.text,,,
-Lesson.Reading.resources[1].questions[0].options[1].poster,,,,questions.11.params.question.task.elements.4.type.params.file.path,,,
-Lesson.Reading.resources[1].questions[0].options[2].text,,,,questions.11.params.question.task.elements.2.type.params.text,,,
-Lesson.Reading.resources[1].questions[0].options[2].poster,,,,questions.11.params.question.task.elements.5.type.params.file.path,,images/file-5cd424947fc2e.jpg,
+Lesson.Reading.resources[1].questions[0].options,,,,questions.11.params.question.task,,,drag listH5Ps h5pName 11
 Lesson.Reading.resources[1],,,,questions.10.params.question,,,questionToEm 1
 Lesson.Reading.resources[1].questions[1].options[0].text,,,,questions.10.params.answers.0.text,,,
 Lesson.Reading.resources[1].questions[1].options[1].text,,,,questions.10.params.answers.1.text,,,
