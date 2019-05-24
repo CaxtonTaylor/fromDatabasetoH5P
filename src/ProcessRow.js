@@ -31,7 +31,7 @@ module.exports =
             let asset = row[i + 2];
             let format = row[i + 3]
             let content_value = input_value
-            if (!content_value) {
+            if (!content_value && lesson_path) {
                 content_value = eval('this.' + lesson_path)
             }
             if (asset || content_path.split('.').pop() === "path") {
@@ -43,13 +43,17 @@ module.exports =
                 content_value = asset_output_path
 
             } else {
-                if (format) {
+                if (format && lesson_path) {
                     let params = this.params_from_format(format)
                     content_value = await eval("this." + format.split(' ')[0] + "(this." + lesson_path + params + " )")
                 }
             }
-            _.set(listH5Ps[h5pName].content, content_path, content_value)
-            //console.log(_.get(listH5Ps[h5pName].content,content_path))
+            if (content_value ) {
+                _.set(listH5Ps[h5pName].content, content_path, content_value)
+                //console.log(_.get(listH5Ps[h5pName].content,content_path))
+            }
+            
+            
             return listH5Ps
         }
         params_from_format(format) {
@@ -91,6 +95,23 @@ module.exports =
         }
         async random(options, listH5Ps, question_index) {
             return _.random(min, max)
+        }
+        async presentation_li(can_do_statement){
+            return `<ul>
+            <li><span style="font-size:1.5em;">Can1#${can_do_statement}</span></li>
+           </ul></span>`
+        }
+        async presentation_questions(questions){
+            return `<p>${questions[0].question}</p>
+
+            <p>*${questions[0].options[0].text}/${questions[0].options[1].text}*</p>
+            
+            <p>&nbsp;</p>
+            
+            <p>${questions[1].question}</p>
+            
+            <p>*${questions[1].options[0].text}/${questions[1].options[1].text}*</p>
+            `
         }
         async drag(options, listH5Ps, h5pName, question_index) {
             let content = listH5Ps[h5pName].content
