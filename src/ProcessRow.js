@@ -136,8 +136,8 @@ module.exports =
             task.dropZones[0].correctElements[1] = picture_array[0]
             for (let index = 0; index < 3; index++) {
                 task.elements[text_array[index]].type.params.text = options[index].text
-                let asset_output_path=task.elements[picture_array[index]].type.params.file.path;
                 let asset_input_path = options[index].poster
+                let asset_output_path="images/"+asset_input_path.split("/").pop()
                 asset_output_path = await this.copy_file_to_output(asset_input_path, h5pName, asset_output_path)
                 task.elements[picture_array[index]].type.params.file.path = asset_output_path
             }
