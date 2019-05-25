@@ -76,7 +76,16 @@ module.exports =
         }
         async copy_file_to_output(asset_input_path, h5pName, asset_output_path) {
             if (asset_output_path.includes("amazonaws")) {
-                asset_output_path = asset_input_path.split('/').pop()
+                let ext=asset_input_path.split('.').pop().toLowerCase()
+                if (ext=='mp3') {
+                    asset_output_path = 'audios/'+asset_input_path.split('/').pop()
+                }
+                if (ext=='mp4') {
+                    asset_output_path = 'videos/'+asset_input_path.split('/').pop()
+                }
+                if (ext=='jpg'||ext=='png'||ext=='jpeg') {
+                    asset_output_path = 'images/'+asset_input_path.split('/').pop()
+                }
             }
             let output_path = this.ProcessPath + h5pName + '/content/' + asset_output_path
             let input_path = './DATABASE/' + asset_input_path
@@ -93,6 +102,11 @@ module.exports =
 
             <p><strong>${Resources.questions[index].question}</strong></p>`
         }
+        async questionToEmBody(Resource, index) {
+            return `<p><em>${Resource.body}</em></p>
+
+            <p><strong>${Resource.questions[index].question}</strong></p>`
+        }
         async random(options, listH5Ps, question_index) {
             return _.random(min, max)
         }
@@ -101,7 +115,7 @@ module.exports =
             <li><span style="font-size:1.5em;">Can1#${can_do_statement}</span></li>
            </ul></span>`
         }
-        async presentation_questions(questions){
+        async questions(questions){
             return `<p>${questions[0].question}</p>
 
             <p>*${questions[0].options[0].text}/${questions[0].options[1].text}*</p>

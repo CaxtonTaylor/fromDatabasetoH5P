@@ -4,7 +4,7 @@ Lesson.Listening.activation_question[0].en,,,,presentation.slides.2.elements.1.a
 Lesson.Listening.can_do_statements[0].en,,Se debe retornar el texto entre el primer par de <li>,,presentation.slides.2.elements.6.action.params.text,,,presentation_li
 Lesson.Listening.resources[2].instructions.en,,,,presentation.slides.12.elements.4.action.params.text,,,
 Lesson.Listening.resources[2].mp3,,,,presentation.slides.12.elements.5.action.params.files.0.path,,,
-Lesson.Listening.resources[2].questions,,,,presentation.slides.12.elements.4.action.params.questions.0,,,presentation_questions
+Lesson.Listening.resources[2].questions,,,,presentation.slides.12.elements.4.action.params.questions.0,,,questions
 Lesson.Listening.resources[2].questions[2].question,,,,presentation.slides.13.elements.5.action.params.question,,,
 Lesson.Listening.resources[2].questions[2].options[0].text,,,,presentation.slides.13.elements.5.action.params.answers.0.text,,,
 Lesson.Listening.resources[2].questions[2].options[1].text,,,,presentation.slides.13.elements.5.action.params.answers.1.text,,,
@@ -13,7 +13,7 @@ Lesson.Writing.can_do_statements[0].en,,Se debe retornar el texto entre el prime
 Lesson.Writing.resources[3].body,,,,presentation.slides.14.elements.4.action.params.text,,,
 Lesson.Writing.resources[3].body,,,,presentation.slides.15.elements.5.action.params.text,,,
 Lesson.Writing.resources[3].instructions.en,,,,presentation.slides.14.elements.5.action.params.text,,,
-Lesson.Writing.resources[3].questions,,,,presentation.slides.14.elements.5.action.params.questions.0,,,presentation_questions
+Lesson.Writing.resources[3].questions,,,,presentation.slides.14.elements.5.action.params.questions.0,,,questions
 Lesson.Writing.resources[3].questions[1].question,,,,presentation.slides.15.elements.4.action.params.question,,,
 Lesson.Writing.resources[3].questions[1].options[0].text,,,,presentation.slides.15.elements.4.action.params.answers.0.text,,,
 Lesson.Writing.resources[3].questions[1].options[1].text,,,,presentation.slides.15.elements.4.action.params.answers.1.text,,,
