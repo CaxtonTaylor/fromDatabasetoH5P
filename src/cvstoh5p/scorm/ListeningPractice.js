@@ -1,6 +1,5 @@
 'use strict'
-const Utils = require("../../lib/utils");
-const CVStoH5P = require("../cvstoh5p");
+const CVStoH5P = require("../../cvstoh5p");
 module.exports =
     class ListeningPractice extends CVStoH5P {
         constructor(Lesson) {
