@@ -8,7 +8,12 @@ const Presentation = require("./cvstoh5p/Presentation");
 const ProgressCheck = require("./cvstoh5p/ProgressCheck");
 const ListeningPractice = require("./cvstoh5p/ListeningPractice");
 
-
+const GLearnAndDiscover = require("./cvstoh5p/google/GLearnAndDiscover");
+const GListeningPractice = require("./cvstoh5p/google/GListeningPractice");
+const GPresentation = require("./cvstoh5p/google/GPresentation");
+const GProgressCheck = require("./cvstoh5p/google/GProgressCheck");
+const GSpeaking = require("./cvstoh5p/google/GSpeaking");
+const GVocabulary = require("./cvstoh5p/google/GVocabulary");
 
 module.exports =
     class H5P {
@@ -37,8 +42,22 @@ module.exports =
                 
             }
             if (this.Lesson.from === 'gsheet') {
-                const vocabularies = new Vocabularies(this.Lesson);
-                await vocabularies.makeH5Ps();
+
+                const glearnanddiscover = new GLearnAndDiscover(this.Lesson);
+                const glisteningpractice = new GListeningPractice(this.Lesson);
+                const gpresentation = new GPresentation(this.Lesson);
+                const gprogress_check = new GProgressCheck(this.Lesson);
+                const gspeaking = new GSpeaking(this.Lesson);
+                const gvocabulary = new GVocabulary(this.Lesson);
+
+                await Promise.all([
+                    glearnanddiscover.makeH5Ps(),
+                    // glisteningpractice.makeH5Ps(),
+                    // gpresentation.makeH5Ps(),
+                    // gprogress_check.makeH5Ps(),
+                    // gspeaking.makeH5Ps(),
+                    // gvocabulary.makeH5Ps(),
+                ])
             }
         }
     }
