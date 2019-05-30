@@ -1,5 +1,5 @@
 'use strict'
-const CVStoH5P = require("./cvstoh5p");
+const CVStoH5P = require("../cvstoh5p");
 module.exports =
     class Vocabularies extends CVStoH5P {
 

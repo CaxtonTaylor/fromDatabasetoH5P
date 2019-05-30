@@ -1,7 +1,7 @@
 'use strict'
-const Utils = require("../lib/utils");
+const Utils = require("../../lib/utils");
 const utils = new Utils();
-const CVStoH5P = require("./cvstoh5p");
+const CVStoH5P = require("../cvstoh5p");
 module.exports =
     class LearnAndDiscover extends CVStoH5P {
 

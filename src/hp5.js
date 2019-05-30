@@ -1,12 +1,14 @@
 'use strict'
 const Utils = require("../lib/utils");
 const utils = new Utils();
-const Vocabularies = require("./vocabularies");
-const LearnAndDiscover = require("./LearnAndDiscover");
-const ReadAndWrite = require("./ReadAndWrite");
-const Presentation = require("./Presentation");
-const ProgressCheck = require("./ProgressCheck");
-const ListeningPractice = require("./ListeningPractice");
+const Vocabularies = require("./cvstoh5p/vocabularies");
+const LearnAndDiscover = require("./cvstoh5p/LearnAndDiscover");
+const ReadAndWrite = require("./cvstoh5p/ReadAndWrite");
+const Presentation = require("./cvstoh5p/Presentation");
+const ProgressCheck = require("./cvstoh5p/ProgressCheck");
+const ListeningPractice = require("./cvstoh5p/ListeningPractice");
+
+
 
 module.exports =
     class H5P {
