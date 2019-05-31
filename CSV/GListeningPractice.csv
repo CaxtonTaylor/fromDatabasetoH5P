@@ -1,7 +1,5 @@
 DATABASE,,,Listening,,,,
 ,,,h5p.json,content/content.json,Input,Assets,Format
-,,,authorComments,,,,"Se debe poner el nombre de la leccion + el tipo de contenido. Por ejemplo ""GeneralEnglishA1Lesson1Listening_Listening.h5p"""
-,,,title,,,,"Se debe poner el nombre de la leccion + el tipo de contenido. Por ejemplo ""GeneralEnglishA1Lesson1Listening_Listening.h5p"""
 Lesson.Listening.resources[0].name,,,,questions.0.params.interactiveVideo.video.startScreenOptions.title,,,
 Lesson.Listening.resources[0].name,,,,questions.0.metadata.title,,,
 Lesson.Listening.resources[0].name,,,,questions.0.metadata.extraTitle,,,

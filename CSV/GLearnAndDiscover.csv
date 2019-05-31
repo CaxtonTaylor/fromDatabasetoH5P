@@ -1,7 +1,5 @@
 DATABASE,,,Learn&Discover,,,,
 ,,,h5p.json,content/content.json,Input,Assets,Format
-,,,authorComments,,,,"Se debe poner el nombre de la leccion + el tipo de contenido. Por ejemplo ""GeneralEnglishA1Lesson1Listening_LearnAndDiscover.h5p"""
-,,,title,,,,"Se debe poner el nombre de la leccion + el tipo de contenido. Por ejemplo ""GeneralEnglishA1Lesson1Listening_LearnAndDiscover.h5p"""
 Lesson.Listening.resources[0].name,,,,presentation.slides.1.elements.0.action.metadata.title,,,
 Lesson.Listening.can_do_statements[0].en,,,,presentation.slides.0.elements.4.action.params.text,,,
 Lesson.Listening.resources[0].name,,,,Lesson.Listening.resources[0].name,,,

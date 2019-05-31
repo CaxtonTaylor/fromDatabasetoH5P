@@ -1,7 +1,5 @@
 DATABASE,,,ProgressCheck,,,,
 ,,,h5p.json,content/content.json,Input,Assets,Format
-,,,authorComments,,,,"Se debe poner el nombre de la leccion + el tipo de contenido. Por ejemplo ""GeneralEnglishA1Lesson1Listening_ProgressCheck.h5p"""
-,,,title,,,,"Se debe poner el nombre de la leccion + el tipo de contenido. Por ejemplo ""GeneralEnglishA1Lesson1Listening_ProgressCheck.h5p"""
 Lesson.Writing.resources[0].mp3,,,,questions.9.params.media.params.files.0.path,,,
 Lesson.Writing.resources[0].instructions.en,,,,questions.9.params.taskDescription,,,
 Lesson.Writing.resources[0].questions[0].question,,,,questions.9.params.textField,,,

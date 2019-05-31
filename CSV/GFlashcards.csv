@@ -1,7 +1,5 @@
 DATABASE,,,Flashcards,,,,
 ,,,h5p.json,content/content.json,Input,Assets,Format
-,,,authorComments,,,,"Se debe poner el nombre de la leccion + el tipo de contenido. Por ejemplo ""GeneralEnglishA1Lesson1Listening_flashcards.h5p"""
-,,,title,,,,"Se debe poner el nombre de la leccion + el tipo de contenido. Por ejemplo ""GeneralEnglishA1Lesson1Listening_flashcards.h5p"""
 Lesson.Listening.glossary[0].term,,,,dialogs.0.answer,,,
 Lesson.Listening.glossary[0].definition,,,,dialogs.0.text,,,
 Lesson.Listening.glossary[0].picture,,,,dialogs.0.image.path,,content/images/image-5cd0724d1a6d6.png,

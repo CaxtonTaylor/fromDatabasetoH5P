@@ -1,7 +1,5 @@
 DATABASE,,,Lesson_Presentation,,,,
 ,,Format,h5p.json,content/content.json,Input,Assets,Format
-,,,authorComments,,,,"Se debe poner el nombre de la leccion. Por ejemplo ""GeneralEnglishA1Lesson1_LessonPresentation"""
-,,,title,,,,"Se debe poner el nombre de la leccion. Por ejemplo ""GeneralEnglishA1Lesson1_LessonPresentation"""
 Lesson.Listening.activation_question[0].en,,,,presentation.slides.2.elements.1.action.params.text,,,
 Lesson.Listening.can_do_statements[0].en,,Se debe retornar el texto entre el primer par de <li>,,presentation.slides.2.elements.6.action.params.text,,,"<ul> <li><span style=""font-size:1.5em;"">Can#1Lesson.Listening.can_do_statements[0].en<\/span><\/li><\/ul>"
 Lesson.Writing.can_do_statements[0].en,,Se debe retornar el texto entre el primer par de <li>,,presentation.slides.2.elements.7.action.params.text,,,

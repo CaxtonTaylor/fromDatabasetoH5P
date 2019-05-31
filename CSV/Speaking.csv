@@ -1,7 +1,5 @@
 DATABASE,,,Pronunciation,,,,
 ,,,h5p.json,content/content.json,Input,Assets,Format
-,,,authorComments,,,,"Se debe poner el nombre de la leccion + el tipo de contenido. Por ejemplo ""GeneralEnglishA1Lesson1Listening_Speaking.h5p"""
-,,,title,,,,"Se debe poner el nombre de la leccion + el tipo de contenido. Por ejemplo ""GeneralEnglishA1Lesson1Listening_Speaking.h5p"""
 Lesson.Listening.glossary[0].term,,,,dialogs.0.answer,,,
 Lesson.Listening.glossary[0].mp3,,,,dialogs.0.audio.path,,https://s3.us-east-2.amazonaws.com/coreproductido/Greeting.mp3,
 Lesson.Listening.glossary[1].term,,,,dialogs.1.answer,,,
