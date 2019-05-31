@@ -70,6 +70,7 @@ module.exports =
             return params
         }
         async update_h5p(listH5Ps, h5pName, row, i) {
+            let key = row[i]
             let value = row[i + 2];
             listH5Ps[h5pName].h5p[key] = eval(value)
             return listH5Ps
