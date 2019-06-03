@@ -76,17 +76,18 @@ module.exports =
             return listH5Ps
         }
         async copy_file_to_output(asset_input_path, h5pName, asset_output_path) {
-            if (asset_output_path.includes("amazonaws")) {
-                let ext=asset_input_path.split('.').pop().toLowerCase()
-                if (ext=='mp3') {
-                    asset_output_path = 'audios/'+asset_input_path.split('/').pop()
-                }
-                if (ext=='mp4') {
-                    asset_output_path = 'videos/'+asset_input_path.split('/').pop()
-                }
-                if (ext=='jpg'||ext=='png'||ext=='jpeg') {
-                    asset_output_path = 'images/'+asset_input_path.split('/').pop()
-                }
+            let ext=asset_input_path.split('.').pop().toLowerCase()
+            if (ext=='mp3') {
+                asset_output_path = 'audios/'+asset_input_path.split('/').pop()
+            }
+            if (ext=='mp4') {
+                asset_output_path = 'videos/'+asset_input_path.split('/').pop()
+            }
+            if (ext=='jpg'||ext=='png'||ext=='jpeg') {
+                asset_output_path = 'images/'+asset_input_path.split('/').pop()
+            }
+            if (ext=='vtt') {
+                asset_output_path = 'files/'+asset_input_path.split('/').pop()
             }
             let output_path = this.ProcessPath + h5pName + '/content/' + asset_output_path
             let input_path = './DATABASE/' + asset_input_path

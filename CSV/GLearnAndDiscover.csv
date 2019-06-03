@@ -2,7 +2,6 @@ DATABASE,,,Learn&Discover,,,,
 ,,,h5p.json,content/content.json,Input,Assets,Format
 Lesson.Listening.resources[0].name,,,,presentation.slides.1.elements.0.action.metadata.title,,,
 Lesson.Listening.can_do_statements[0].en,,,,presentation.slides.0.elements.4.action.params.text,,,
-Lesson.Listening.resources[0].name,,,,Lesson.Listening.resources[0].name,,,
 Lesson.Listening.resources[0].mp4,,,,presentation.slides.1.elements.0.action.params.sources.0.path,,,
 Lesson.Listening.resources[0].subtitles,,,,presentation.slides.1.elements.0.action.params.a11y.0.track.path,,,
 Lesson.Listening.glossary[0].term,,,,presentation.slides.2.elements.0.action.params.dialogs.0.text,,,
