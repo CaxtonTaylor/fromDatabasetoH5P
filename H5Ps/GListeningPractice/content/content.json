@@ -878,8 +878,7 @@
                                                 "answers": [
                                                     "<p>Lesson.Monologue.resources[0].questions[4].options[0].text<\/p>\n",
                                                     "<p>Lesson.Monologue.resources[0].questions[4].options[1].text<\/p>\n",
-                                                    "<p>Lesson.Monologue.resources[0].questions[4].options[2].text<\/p>\n",
-                                                    "<p>Lesson.Monologue.resources[0].questions[4].options[3].text<\/p>\n"
+                                                    "<p>Lesson.Monologue.resources[0].questions[4].options[2].text<\/p>\n"
                                                 ]
                                             }
                                         ],

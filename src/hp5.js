@@ -8,6 +8,7 @@ const Presentation = require("./cvstoh5p/scorm/Presentation");
 const ProgressCheck = require("./cvstoh5p/scorm/ProgressCheck");
 const ListeningPractice = require("./cvstoh5p/scorm/ListeningPractice");
 
+const GFlashcards = require("./cvstoh5p/google/GFlashcards");
 const GLearnAndDiscover = require("./cvstoh5p/google/GLearnAndDiscover");
 const GListeningPractice = require("./cvstoh5p/google/GListeningPractice");
 const GPresentation = require("./cvstoh5p/google/GPresentation");
@@ -27,6 +28,7 @@ module.exports =
             this.jsonPATH = jsonPATH;
             await this.init();
             if (this.Lesson.from === 'scorm') {
+                const GFlashcards = new GFlashcards(this.Lesson);
                 const learnanddiscover = new LearnAndDiscover(this.Lesson);
                 const readandwrite = new ReadAndWrite(this.Lesson);
                 const presentation = new Presentation(this.Lesson);
@@ -42,7 +44,8 @@ module.exports =
                 
             }
             if (this.Lesson.from === 'gsheet') {
-
+                
+                const gflashcards = new GFlashcards(this.Lesson);
                 const glearnanddiscover = new GLearnAndDiscover(this.Lesson);
                 const glisteningpractice = new GListeningPractice(this.Lesson);
                 const gpresentation = new GPresentation(this.Lesson);
@@ -50,9 +53,10 @@ module.exports =
                 const gspeaking = new GSpeaking(this.Lesson);
                 const gvocabulary = new GVocabulary(this.Lesson);
 
-                await Promise.all([
+                await Promise.all([ 
+                    gflashcards.makeH5Ps(),
                     // glearnanddiscover.makeH5Ps(),
-                    glisteningpractice.makeH5Ps(),
+                    // glisteningpractice.makeH5Ps(),
                     // gpresentation.makeH5Ps(),
                     // gprogress_check.makeH5Ps(),
                     // gspeaking.makeH5Ps(),
