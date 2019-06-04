@@ -1,47 +1,56 @@
 DATABASE,,,Lesson_Presentation,,,,
 ,,Format,h5p.json,content/content.json,Input,Assets,Format
 Lesson.Listening.activation_question[0].en,,,,presentation.slides.2.elements.1.action.params.text,,,
-Lesson.Listening.can_do_statements[0].en,,Se debe retornar el texto entre el primer par de <li>,,presentation.slides.2.elements.6.action.params.text,,,"<ul> <li><span style=""font-size:1.5em;"">Can#1Lesson.Listening.can_do_statements[0].en<\/span><\/li><\/ul>"
+Lesson.Listening.can_do_statements[0].en,,Se debe retornar el texto entre el primer par de <li>,,presentation.slides.2.elements.6.action.params.text,,,can_do_statements
 Lesson.Writing.can_do_statements[0].en,,Se debe retornar el texto entre el primer par de <li>,,presentation.slides.2.elements.7.action.params.text,,,
 Lesson.Reading.can_do_statements[0].en,,Se debe retornar el texto entre el primer par de <li>,,presentation.slides.2.elements.8.action.params.text,,,
 Lesson.Monologue.can_do_statements[0].en,,Se debe retornar el texto entre el primer par de <li>,,presentation.slides.2.elements.9.action.params.text,,,
-Lesson.Grammar.0.concept,,,,presentation.slides.10.elements.4.action.params.text,,,
-Lesson.Grammar,,,,presentation.slides.10.elements.11.action.params.text,,,"<p><em><span style=""font-size:1.5em;""><span style=""color:#4d4d4d;"">Definition Lesson.Grammar.0.explanation <\/span><\/span><\/em><\/p><p>&nbsp;<\/p><p><strong><span style=""font-size:1.5em;"">Lesson.Grammar.0.example <\/span><\/strong><\/p><p>&nbsp;<\/p>"
-Lesson.Grammar.1.concept,,,,presentation.slides.10.elements.7.action.params.text,,,
-Lesson.Grammar,,,,presentation.slides.10.elements.10.action.params.text,,,"<p><em><span style=""font-size:1.5em;""><span style=""color:#4d4d4d;"">Definition Lesson.Grammar.1.explanation <\/span><\/span><\/em><\/p><p>&nbsp;<\/p><p><strong><span style=""font-size:1.5em;"">Lesson.Grammar.1.example <\/span><\/strong><\/p><p>&nbsp;<\/p>"
-Lesson.Grammar.2.concept,,,,presentation.slides.10.elements.6.action.params.text,,,
-Lesson.Grammar,,,,presentation.slides.10.elements.12.action.params.text,,,"<p><em><span style=""font-size:1.5em;""><span style=""color:#4d4d4d;"">Definition Lesson.Grammar.2.explanation <\/span><\/span><\/em><\/p><p>&nbsp;<\/p><p><strong><span style=""font-size:1.5em;"">Lesson.Grammar.2.example <\/span><\/strong><\/p><p>&nbsp;<\/p>"
-Lesson.Grammar.3.concept,,,,presentation.slides.10.elements.8.action.params.text,,,
-Lesson.Grammar,,,,,,,"<p><em><span style=""font-size:1.5em;""><span style=""color:#4d4d4d;"">Definition Lesson.Grammar.3.explanation <\/span><\/span><\/em><\/p><p>&nbsp;<\/p><p><strong><span style=""font-size:1.5em;"">Lesson.Grammar.3.example <\/span><\/strong><\/p><p>&nbsp;<\/p>"
-Lesson.Grammar.4.concept,,,,presentation.slides.10.elements.9.action.params.text,,,
-Lesson.Grammar,,,,,,,"<p><em><span style=""font-size:1.5em;""><span style=""color:#4d4d4d;"">Definition Lesson.Grammar.4.explanation <\/span><\/span><\/em><\/p><p>&nbsp;<\/p><p><strong><span style=""font-size:1.5em;"">Lesson.Grammar.4.example <\/span><\/strong><\/p><p>&nbsp;<\/p>"
-Expressions.0.expression,,,,presentation.slides.4.elements.0.action.params.dialogs.0.text,,,
-Expressions.0.explanation,,,,presentation.slides.4.elements.0.action.params.dialogs.0.answer,,,
-Expressions.0.picture,,,,presentation.slides.4.elements.0.action.params.dialogs.0.image.path,,images\/image-5cd72e44a102a.png,
-Expressions.1.expression,,,,presentation.slides.5.elements.0.action.params.dialogs.0.text,,,
-Expressions.1.explanation,,,,presentation.slides.5.elements.0.action.params.dialogs.0.answer,,,
-Expressions.1.picture,,,,presentation.slides.5.elements.0.action.params.dialogs.0.image.path,,images\/image-5cd72e44a102a.png,
-Expressions.2.expression,,,,presentation.slides.6.elements.0.action.params.dialogs.0.text,,,
-Expressions.2.explanation,,,,presentation.slides.6.elements.0.action.params.dialogs.0.answer,,,
-Expressions.2.picture,,,,presentation.slides.6.elements.0.action.params.dialogs.0.image.path,,images\/image-5cd72e44a102a.png,
-Expressions.3.expression,,,,presentation.slides.7.elements.0.action.params.dialogs.0.text,,,
-Expressions.3.explanation,,,,presentation.slides.7.elements.0.action.params.dialogs.0.answer,,,
-Expressions.3.picture,,,,presentation.slides.7.elements.0.action.params.dialogs.0.image.path,,images\/image-5cd72e44a102a.png,
-Expressions.4.expression,,,,presentation.slides.8.elements.0.action.params.dialogs.0.text,,,
-Expressions.4.explanation,,,,presentation.slides.8.elements.0.action.params.dialogs.0.answer,,,
-Expressions.4.picture,,,,presentation.slides.8.elements.0.action.params.dialogs.0.image.path,,,
+Lesson.Grammar[0].concept,,,,presentation.slides.10.elements.4.action.params.text,,,Grammar_to_em
+Lesson.Grammar[0],,,,presentation.slides.10.elements.11.action.params.text,,,
+Lesson.Grammar[1].concept,,,,presentation.slides.10.elements.7.action.params.text,,,
+Lesson.Grammar[1],,,,presentation.slides.10.elements.10.action.params.text,,,Grammar_to_em
+Lesson.Grammar[2].concept,,,,presentation.slides.10.elements.6.action.params.text,,,
+Lesson.Grammar[2],,,,presentation.slides.10.elements.12.action.params.text,,,Grammar_to_em
+Lesson.Grammar[3].concept,,,,presentation.slides.10.elements.8.action.params.text,,,
+Lesson.Grammar[3],,,,,,,
+Lesson.Grammar[4].concept,,,,presentation.slides.10.elements.9.action.params.text,,,
+Lesson.Grammar[4],,,,,,,
+Lesspn.Expressions[0]expression,,,,presentation.slides.4.elements.0.action.params.dialogs.0.text,,,
+Lesspn.Expressions[0]explanation,,,,presentation.slides.4.elements.0.action.params.dialogs.0.answer,,,
+Lesspn.Expressions[0]picture,,,,presentation.slides.4.elements.0.action.params.dialogs.0.image.path,,images\/image-5cd72e44a102a.png,
+
+Lesspn.Expressions[1]expression,,,,presentation.slides.5.elements.0.action.params.dialogs.0.text,,,
+Lesspn.Expressions[1]explanation,,,,presentation.slides.5.elements.0.action.params.dialogs.0.answer,,,
+Lesspn.Expressions[1]picture,,,,presentation.slides.5.elements.0.action.params.dialogs.0.image.path,,images\/image-5cd72e44a102a.png,
+
+Lesspn.Expressions[2]expression,,,,presentation.slides.6.elements.0.action.params.dialogs.0.text,,,
+Lesspn.Expressions[2]explanation,,,,presentation.slides.6.elements.0.action.params.dialogs.0.answer,,,
+Lesspn.Expressions[2]picture,,,,presentation.slides.6.elements.0.action.params.dialogs.0.image.path,,images\/image-5cd72e44a102a.png,
+
+Lesspn.Expressions[3]expression,,,,presentation.slides.7.elements.0.action.params.dialogs.0.text,,,
+Lesspn.Expressions[3]explanation,,,,presentation.slides.7.elements.0.action.params.dialogs.0.answer,,,
+Lesspn.Expressions[3]picture,,,,presentation.slides.7.elements.0.action.params.dialogs.0.image.path,,images\/image-5cd72e44a102a.png,
+
+Lesspn.Expressions[4]expression,,,,presentation.slides.8.elements.0.action.params.dialogs.0.text,,,
+Lesspn.Expressions[4]explanation,,,,presentation.slides.8.elements.0.action.params.dialogs.0.answer,,,
+Lesspn.Expressions[4]picture,,,,presentation.slides.8.elements.0.action.params.dialogs.0.image.path,,,
+
 Lesson.Conversation.can_do_statements[0].en,,,,presentation.slides.2.elements.10.action.params.text,,,
+
 Lesson.Writing.resources[1].mp3,,,,presentation.slides.12.elements.4.action.params.files.0.path,,,
 Lesson.Writing.resources[1].instructions.en,,,,presentation.slides.12.elements.5.action.params.text,,,
 Lesson.Writing.resources[1].questions[0].question,,,,presentation.slides.12.elements.5.action.params.questions.0,,,
+
 Lesson.Conversation.resources[0].mp3,,,,presentation.slides.13.elements.4.action.params.files.0.path,,,
 Lesson.Conversation.resources[0].questions[0].question,,,,presentation.slides.13.elements.5.action.params.question,,,
 Lesson.Conversation.resources[0].questions[0].options[0].text,,,,presentation.slides.13.elements.5.action.params.answers.0.text,,,
 Lesson.Conversation.resources[0].questions[0].options[1].text,,,,presentation.slides.13.elements.5.action.params.answers.1.text,,,
 Lesson.Conversation.resources[0].questions[0].options[2].text,,,,presentation.slides.13.elements.5.action.params.answers.2.text,,,
 Lesson.Conversation.resources[0].questions[0].options[3].text,,,,presentation.slides.13.elements.5.action.params.answers.3.text,,,
+
 Lesson.Writing.resources[3].instructions.en,,,,presentation.slides.14.elements.4.action.params.taskDescription,,,
 Lesson.Writing.resources[3].body,,,,presentation.slides.14.elements.4.action.params.textField,,,
+
 Lesson.Reading.resources[1].mp3,,,,presentation.slides.15.elements.5.action.params.files.0.path,,,
 Lesson.Reading.resources[1].questions[1].question,,,,presentation.slides.15.elements.4.action.params.question,,,
 Lesson.Reading.resources[1].questions[1].options[0].text,,,,presentation.slides.15.elements.4.action.params.answers.0.text,,,

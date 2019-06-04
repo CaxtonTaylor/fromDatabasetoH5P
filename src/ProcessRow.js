@@ -48,12 +48,10 @@ module.exports =
                     content_value = await eval("this." + format.split(' ')[0] + "(this." + lesson_path + params + " )")
                 }
             }
-            if (content_value ) {
+            if (content_value) {
                 _.set(listH5Ps[h5pName].content, content_path, content_value)
                 //console.log(_.get(listH5Ps[h5pName].content,content_path))
             }
-            
-            
             return listH5Ps
         }
         params_from_format(format) {
@@ -76,18 +74,18 @@ module.exports =
             return listH5Ps
         }
         async copy_file_to_output(asset_input_path, h5pName, asset_output_path) {
-            let ext=asset_input_path.split('.').pop().toLowerCase()
-            if (ext=='mp3') {
-                asset_output_path = 'audios/'+asset_input_path.split('/').pop()
+            let ext = asset_input_path.split('.').pop().toLowerCase()
+            if (ext == 'mp3') {
+                asset_output_path = 'audios/' + asset_input_path.split('/').pop()
             }
-            if (ext=='mp4') {
-                asset_output_path = 'videos/'+asset_input_path.split('/').pop()
+            if (ext == 'mp4') {
+                asset_output_path = 'videos/' + asset_input_path.split('/').pop()
             }
-            if (ext=='jpg'||ext=='png'||ext=='jpeg') {
-                asset_output_path = 'images/'+asset_input_path.split('/').pop()
+            if (ext == 'jpg' || ext == 'png' || ext == 'jpeg') {
+                asset_output_path = 'images/' + asset_input_path.split('/').pop()
             }
-            if (ext=='vtt') {
-                asset_output_path = 'files/'+asset_input_path.split('/').pop()
+            if (ext == 'vtt') {
+                asset_output_path = 'files/' + asset_input_path.split('/').pop()
             }
             let output_path = this.ProcessPath + h5pName + '/content/' + asset_output_path
             let input_path = './DATABASE/' + asset_input_path
@@ -112,12 +110,12 @@ module.exports =
         async random(options, listH5Ps, question_index) {
             return _.random(min, max)
         }
-        async presentation_li(can_do_statement){
+        async presentation_li(can_do_statement) {
             return `<ul>
             <li><span style="font-size:1.5em;">Can1#${can_do_statement}</span></li>
            </ul></span>`
         }
-        async questions(questions){
+        async questions(questions) {
             return `<p>${questions[0].question}</p>
 
             <p>*${questions[0].options[0].text}/${questions[0].options[1].text}*</p>
@@ -139,7 +137,7 @@ module.exports =
             for (let index = 0; index < 3; index++) {
                 task.elements[text_array[index]].type.params.text = options[index].text
                 let asset_input_path = options[index].poster
-                let asset_output_path="images/"+asset_input_path.split("/").pop()
+                let asset_output_path = "images/" + asset_input_path.split("/").pop()
                 asset_output_path = await this.copy_file_to_output(asset_input_path, h5pName, asset_output_path)
                 task.elements[picture_array[index]].type.params.file.path = asset_output_path
             }
@@ -148,6 +146,25 @@ module.exports =
         async questionToP(text) {
             return `<p style="text-align: center;"><span style="font-size:1.375em;">${text}</span></p>`
         }
+        async can_do_statements(text) {
+            return `<ul>
+                <li><span style="font-size:1.5em;">${text}</span></li>
+                </ul>`
+        }
+        async Grammar_to_em(grammar) {
+            return `<p>
+            <em>
+                <span style="font-size:1.5em;">
+                    <span style="color:#4d4d4d;">
+                        Definition: ${grammar.explanation}
+                    </span>
+                </span>
+            </em>
+        </p>
+        <p><strong><span style="font-size:1.5em;">${grammar.explanation.example} </span></strong></p>
+        `
+        }
+
         async questionTofill(Questions) {
             let html
             if (Questions[0].options[1].text) {
