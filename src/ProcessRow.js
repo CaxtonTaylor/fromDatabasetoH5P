@@ -161,7 +161,7 @@ module.exports =
                 </span>
             </em>
         </p>
-        <p><strong><span style="font-size:1.5em;">${grammar.explanation.example} </span></strong></p>
+        <p><strong><span style="font-size:1.5em;">${grammar.example} </span></strong></p>
         `
         }
 
