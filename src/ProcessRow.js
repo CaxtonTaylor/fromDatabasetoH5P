@@ -93,7 +93,7 @@ module.exports =
             if (fs.existsSync(input_path)) {
                 await utils.exec('cp ' + input_path + ' ' + output_path, true);
             } else {
-                console.log('')
+                console.log(' File no exist'+input_path )
             }
             return asset_output_path;
         }
