@@ -54,13 +54,13 @@ module.exports =
                 const gvocabulary = new GVocabulary(this.Lesson);
 
                 await Promise.all([ 
-                    gflashcards.makeH5Ps(),
+                    // gflashcards.makeH5Ps(),
                     // glearnanddiscover.makeH5Ps(),
                     // glisteningpractice.makeH5Ps(),
                     // gpresentation.makeH5Ps(),
                     // gprogress_check.makeH5Ps(),
                     // gspeaking.makeH5Ps(),
-                    // gvocabulary.makeH5Ps(),
+                    gvocabulary.makeH5Ps(),
                 ])
             }
         }
