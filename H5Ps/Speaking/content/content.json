@@ -1,1 +1,991 @@
-{"introduction":{"showIntroPage":true,"introductionImage":{"path":"images\/introductionImage-5ce04b273407e.jpg","mime":"image\/jpeg","copyright":{"license":"U"},"width":625,"height":417},"introductionTitle":"Speaking practice","introductionText":"<div>Push the record button, speak the words and improve your pronunciation<\/div>\n"},"questions":[{"params":{"media":{"params":{"playerMode":"minimalistic","fitToWrapper":false,"controls":false,"autoplay":false,"playAudio":"Play audio","pauseAudio":"Pause audio","contentName":"Audio","audioNotSupported":"Your browser does not support this audio","files":[{"path":"audios\/files-5ce04c5be6571.mp3","mime":"audio\/mpeg","copyright":{"license":"U"}}]},"library":"H5P.Audio 1.4","metadata":{"contentType":"Audio","license":"U","title":"Lesson.Listening.glossary[0].mp3","authors":[],"changes":[],"extraTitle":"Lesson.Listening.glossary[0].mp3"},"subContentId":"76c08d37-3694-49dd-8d70-00ac0cbf72e4"},"incorrectAnswerText":"Incorrect answer","correctAnswerText":"Correct answer","inputLanguage":"en-US","l10n":{"retryLabel":"Retry","showSolutionLabel":"Show solution","speakLabel":"Push to speak","listeningLabel":"Listening...","correctAnswersText":"The correct answer(s):","userAnswersText":"Your answer(s) was interpreted as:","noSound":"I could not hear you, make sure your microphone is enabled","unsupportedBrowserHeader":"It looks like your browser does not support speech recognition","unsupportedBrowserDetails":"Please try again in a browser like Chrome"},"question":"Lesson.Listening.glossary[0].term","acceptedAnswers":["Lesson.Listening.glossary[0].term"]},"library":"H5P.SpeakTheWords 1.3","subContentId":"a0ad8585-8cdd-4245-82d3-85718d82a921","metadata":{"contentType":"Speak the Words","license":"U","title":"Lesson.Listening.glossary[0].term","authors":[],"changes":[],"extraTitle":"Lesson.Listening.glossary[0].term"}},{"params":{"media":{"params":{"playerMode":"minimalistic","fitToWrapper":false,"controls":false,"autoplay":false,"playAudio":"Play audio","pauseAudio":"Pause audio","contentName":"Audio","audioNotSupported":"Your browser does not support this audio","files":[{"path":"audios\/files-5ce04cbe23e2c.mp3","mime":"audio\/mpeg","copyright":{"license":"U"}}]},"library":"H5P.Audio 1.4","metadata":{"contentType":"Audio","license":"U","title":"Lesson.Listening.glossary[1].mp3","authors":[],"changes":[],"extraTitle":"Lesson.Listening.glossary[1].mp3"},"subContentId":"f8ea5f88-271e-453a-84ea-6082c1247aa0"},"incorrectAnswerText":"Incorrect answer","correctAnswerText":"Correct answer","inputLanguage":"en-US","question":"Lesson.Listening.glossary[1].term","acceptedAnswers":["Lesson.Listening.glossary[1].term"],"l10n":{"retryLabel":"Retry","showSolutionLabel":"Show solution","speakLabel":"Push to speak","listeningLabel":"Listening...","correctAnswersText":"The correct answer(s):","userAnswersText":"Your answer(s) was interpreted as:","noSound":"I could not hear you, make sure your microphone is enabled","unsupportedBrowserHeader":"It looks like your browser does not support speech recognition","unsupportedBrowserDetails":"Please try again in a browser like Chrome"}},"library":"H5P.SpeakTheWords 1.3","metadata":{"contentType":"Speak the Words","license":"U","title":"Lesson.Listening.glossary[1].term","authors":[],"changes":[],"extraTitle":"Lesson.Listening.glossary[1].term"},"subContentId":"b5c43b58-ecf4-432a-8bc3-5a94f5019b01"},{"params":{"media":{"params":{"playerMode":"minimalistic","fitToWrapper":false,"controls":false,"autoplay":false,"playAudio":"Play audio","pauseAudio":"Pause audio","contentName":"Audio","audioNotSupported":"Your browser does not support this audio","files":[{"path":"audios\/files-5ce04cbe23e2c.mp3","mime":"audio\/mpeg","copyright":{"license":"U"}}]},"library":"H5P.Audio 1.4","metadata":{"contentType":"Audio","license":"U","title":"Lesson.Listening.glossary[1].mp3","authors":[],"changes":[],"extraTitle":"Lesson.Listening.glossary[1].mp3"},"subContentId":"5db3df7d-c47a-46f5-bce4-43eff6e2aae9"},"incorrectAnswerText":"Incorrect answer","correctAnswerText":"Correct answer","inputLanguage":"en-US","question":"Lesson.Listening.glossary[2].term","acceptedAnswers":["Lesson.Listening.glossary[2].term"],"l10n":{"retryLabel":"Retry","showSolutionLabel":"Show solution","speakLabel":"Push to speak","listeningLabel":"Listening...","correctAnswersText":"The correct answer(s):","userAnswersText":"Your answer(s) was interpreted as:","noSound":"I could not hear you, make sure your microphone is enabled","unsupportedBrowserHeader":"It looks like your browser does not support speech recognition","unsupportedBrowserDetails":"Please try again in a browser like Chrome"}},"library":"H5P.SpeakTheWords 1.3","metadata":{"contentType":"Speak the Words","license":"U","title":"Lesson.Listening.glossary[2].term","authors":[],"changes":[],"extraTitle":"Lesson.Listening.glossary[2].term"},"subContentId":"8741507d-bb81-4aef-a5db-42262553d72a"},{"params":{"media":{"params":{"playerMode":"minimalistic","fitToWrapper":false,"controls":false,"autoplay":false,"playAudio":"Play audio","pauseAudio":"Pause audio","contentName":"Audio","audioNotSupported":"Your browser does not support this audio","files":[{"path":"audios\/files-5ce04cbe23e2c.mp3","mime":"audio\/mpeg","copyright":{"license":"U"}}]},"library":"H5P.Audio 1.4","metadata":{"contentType":"Audio","license":"U","title":"Lesson.Listening.glossary[1].mp3","authors":[],"changes":[],"extraTitle":"Lesson.Listening.glossary[1].mp3"},"subContentId":"381398d0-f7e1-402f-a6d6-14da3176db0f"},"incorrectAnswerText":"Incorrect answer","correctAnswerText":"Correct answer","inputLanguage":"en-US","question":"Lesson.Writing.glossary[0].term","acceptedAnswers":["Lesson.Writing.glossary[0].term"],"l10n":{"retryLabel":"Retry","showSolutionLabel":"Show solution","speakLabel":"Push to speak","listeningLabel":"Listening...","correctAnswersText":"The correct answer(s):","userAnswersText":"Your answer(s) was interpreted as:","noSound":"I could not hear you, make sure your microphone is enabled","unsupportedBrowserHeader":"It looks like your browser does not support speech recognition","unsupportedBrowserDetails":"Please try again in a browser like Chrome"}},"library":"H5P.SpeakTheWords 1.3","metadata":{"contentType":"Speak the Words","license":"U","title":"Lesson.Writing.glossary[0].term","authors":[],"changes":[],"extraTitle":"Lesson.Writing.glossary[0].term"},"subContentId":"41d2eb8e-7be1-491e-af4e-fcbcd76a0832"},{"params":{"media":{"params":{"playerMode":"minimalistic","fitToWrapper":false,"controls":false,"autoplay":false,"playAudio":"Play audio","pauseAudio":"Pause audio","contentName":"Audio","audioNotSupported":"Your browser does not support this audio","files":[{"path":"audios\/files-5ce04cbe23e2c.mp3","mime":"audio\/mpeg","copyright":{"license":"U"}}]},"library":"H5P.Audio 1.4","metadata":{"contentType":"Audio","license":"U","title":"Lesson.Listening.glossary[1].mp3","authors":[],"changes":[],"extraTitle":"Lesson.Listening.glossary[1].mp3"},"subContentId":"eb2dd6a3-29b8-4cc9-9a2d-5ba8f39d2020"},"incorrectAnswerText":"Incorrect answer","correctAnswerText":"Correct answer","inputLanguage":"en-US","question":"Lesson.Writing.glossary[1].term","acceptedAnswers":["Lesson.Writing.glossary[1].term"],"l10n":{"retryLabel":"Retry","showSolutionLabel":"Show solution","speakLabel":"Push to speak","listeningLabel":"Listening...","correctAnswersText":"The correct answer(s):","userAnswersText":"Your answer(s) was interpreted as:","noSound":"I could not hear you, make sure your microphone is enabled","unsupportedBrowserHeader":"It looks like your browser does not support speech recognition","unsupportedBrowserDetails":"Please try again in a browser like Chrome"}},"library":"H5P.SpeakTheWords 1.3","metadata":{"contentType":"Speak the Words","license":"U","title":"Lesson.Writing.glossary[1].term","authors":[],"changes":[],"extraTitle":"Lesson.Writing.glossary[1].term"},"subContentId":"c570eea0-8ce4-43cd-b07e-fc8471a4830c"},{"params":{"media":{"params":{"playerMode":"minimalistic","fitToWrapper":false,"controls":false,"autoplay":false,"playAudio":"Play audio","pauseAudio":"Pause audio","contentName":"Audio","audioNotSupported":"Your browser does not support this audio","files":[{"path":"audios\/files-5ce04cbe23e2c.mp3","mime":"audio\/mpeg","copyright":{"license":"U"}}]},"library":"H5P.Audio 1.4","metadata":{"contentType":"Audio","license":"U","title":"Lesson.Listening.glossary[1].mp3","authors":[],"changes":[],"extraTitle":"Lesson.Listening.glossary[1].mp3"},"subContentId":"b38273d3-670d-417c-b120-76e8710b616e"},"incorrectAnswerText":"Incorrect answer","correctAnswerText":"Correct answer","inputLanguage":"en-US","question":"Lesson.Writing.glossary[2].term","acceptedAnswers":["Lesson.Writing.glossary[2].term"],"l10n":{"retryLabel":"Retry","showSolutionLabel":"Show solution","speakLabel":"Push to speak","listeningLabel":"Listening...","correctAnswersText":"The correct answer(s):","userAnswersText":"Your answer(s) was interpreted as:","noSound":"I could not hear you, make sure your microphone is enabled","unsupportedBrowserHeader":"It looks like your browser does not support speech recognition","unsupportedBrowserDetails":"Please try again in a browser like Chrome"}},"library":"H5P.SpeakTheWords 1.3","metadata":{"contentType":"Speak the Words","license":"U","title":"Lesson.Writing.glossary[2].term","authors":[],"changes":[],"extraTitle":"Lesson.Writing.glossary[2].term"},"subContentId":"62f8dbeb-cd6d-4790-8e8f-c37f868ceeba"},{"params":{"media":{"params":{"playerMode":"minimalistic","fitToWrapper":false,"controls":false,"autoplay":false,"playAudio":"Play audio","pauseAudio":"Pause audio","contentName":"Audio","audioNotSupported":"Your browser does not support this audio","files":[{"path":"audios\/files-5ce04cbe23e2c.mp3","mime":"audio\/mpeg","copyright":{"license":"U"}}]},"library":"H5P.Audio 1.4","metadata":{"contentType":"Audio","license":"U","title":"Lesson.Listening.glossary[1].mp3","authors":[],"changes":[],"extraTitle":"Lesson.Listening.glossary[1].mp3"},"subContentId":"de2b82ff-074a-4e3b-8ed1-5b04a9b23d47"},"incorrectAnswerText":"Incorrect answer","correctAnswerText":"Correct answer","inputLanguage":"en-US","question":"Lesson.Reading.glossary[0].term","acceptedAnswers":["Lesson.Reading.glossary[0].term"],"l10n":{"retryLabel":"Retry","showSolutionLabel":"Show solution","speakLabel":"Push to speak","listeningLabel":"Listening...","correctAnswersText":"The correct answer(s):","userAnswersText":"Your answer(s) was interpreted as:","noSound":"I could not hear you, make sure your microphone is enabled","unsupportedBrowserHeader":"It looks like your browser does not support speech recognition","unsupportedBrowserDetails":"Please try again in a browser like Chrome"}},"library":"H5P.SpeakTheWords 1.3","metadata":{"contentType":"Speak the Words","license":"U","title":"Lesson.Reading.glossary[0].term","authors":[],"changes":[],"extraTitle":"Lesson.Reading.glossary[0].term"},"subContentId":"bc38491c-0f74-4416-8abb-e5263f60dbe8"},{"params":{"media":{"params":{"playerMode":"minimalistic","fitToWrapper":false,"controls":false,"autoplay":false,"playAudio":"Play audio","pauseAudio":"Pause audio","contentName":"Audio","audioNotSupported":"Your browser does not support this audio","files":[{"path":"audios\/files-5ce04cbe23e2c.mp3","mime":"audio\/mpeg","copyright":{"license":"U"}}]},"library":"H5P.Audio 1.4","metadata":{"contentType":"Audio","license":"U","title":"Lesson.Listening.glossary[1].mp3","authors":[],"changes":[],"extraTitle":"Lesson.Listening.glossary[1].mp3"},"subContentId":"090f44aa-0b63-4998-a303-0455aae039bd"},"incorrectAnswerText":"Incorrect answer","correctAnswerText":"Correct answer","inputLanguage":"en-US","question":"Lesson.Reading.glossary[1].term","acceptedAnswers":["Lesson.Reading.glossary[1].term"],"l10n":{"retryLabel":"Retry","showSolutionLabel":"Show solution","speakLabel":"Push to speak","listeningLabel":"Listening...","correctAnswersText":"The correct answer(s):","userAnswersText":"Your answer(s) was interpreted as:","noSound":"I could not hear you, make sure your microphone is enabled","unsupportedBrowserHeader":"It looks like your browser does not support speech recognition","unsupportedBrowserDetails":"Please try again in a browser like Chrome"}},"library":"H5P.SpeakTheWords 1.3","metadata":{"contentType":"Speak the Words","license":"U","title":"Lesson.Reading.glossary[1].term","authors":[],"changes":[],"extraTitle":"Lesson.Reading.glossary[1].term"},"subContentId":"35cfff0b-9780-4d7e-bf01-2cb07d6a9f28"},{"params":{"media":{"params":{"playerMode":"minimalistic","fitToWrapper":false,"controls":false,"autoplay":false,"playAudio":"Play audio","pauseAudio":"Pause audio","contentName":"Audio","audioNotSupported":"Your browser does not support this audio","files":[{"path":"audios\/files-5ce04cbe23e2c.mp3","mime":"audio\/mpeg","copyright":{"license":"U"}}]},"library":"H5P.Audio 1.4","metadata":{"contentType":"Audio","license":"U","title":"Lesson.Listening.glossary[1].mp3","authors":[],"changes":[],"extraTitle":"Lesson.Listening.glossary[1].mp3"},"subContentId":"c4ff5d76-a866-492f-9bf3-d23ba2bdbc74"},"incorrectAnswerText":"Incorrect answer","correctAnswerText":"Correct answer","inputLanguage":"en-US","question":"Lesson.Reading.glossary[2].term","acceptedAnswers":["Lesson.Reading.glossary[2].term"],"l10n":{"retryLabel":"Retry","showSolutionLabel":"Show solution","speakLabel":"Push to speak","listeningLabel":"Listening...","correctAnswersText":"The correct answer(s):","userAnswersText":"Your answer(s) was interpreted as:","noSound":"I could not hear you, make sure your microphone is enabled","unsupportedBrowserHeader":"It looks like your browser does not support speech recognition","unsupportedBrowserDetails":"Please try again in a browser like Chrome"}},"library":"H5P.SpeakTheWords 1.3","metadata":{"contentType":"Speak the Words","license":"U","title":"Lesson.Reading.glossary[2].term","authors":[],"changes":[],"extraTitle":"Lesson.Reading.glossary[2].term"},"subContentId":"64e22eff-752f-4352-accd-a3da03cb2d29"},{"params":{"media":{"params":{"playerMode":"minimalistic","fitToWrapper":false,"controls":false,"autoplay":false,"playAudio":"Play audio","pauseAudio":"Pause audio","contentName":"Audio","audioNotSupported":"Your browser does not support this audio","files":[{"path":"audios\/files-5ce04cbe23e2c.mp3","mime":"audio\/mpeg","copyright":{"license":"U"}}]},"library":"H5P.Audio 1.4","metadata":{"contentType":"Audio","license":"U","title":"Lesson.Listening.glossary[1].mp3","authors":[],"changes":[],"extraTitle":"Lesson.Listening.glossary[1].mp3"},"subContentId":"b1abb05d-e082-4692-b141-27e47090e489"},"incorrectAnswerText":"Incorrect answer","correctAnswerText":"Correct answer","inputLanguage":"en-US","question":"Lesson.Monologue.glossary[0].term","acceptedAnswers":["Lesson.Monologue.glossary[0].term"],"l10n":{"retryLabel":"Retry","showSolutionLabel":"Show solution","speakLabel":"Push to speak","listeningLabel":"Listening...","correctAnswersText":"The correct answer(s):","userAnswersText":"Your answer(s) was interpreted as:","noSound":"I could not hear you, make sure your microphone is enabled","unsupportedBrowserHeader":"It looks like your browser does not support speech recognition","unsupportedBrowserDetails":"Please try again in a browser like Chrome"}},"library":"H5P.SpeakTheWords 1.3","metadata":{"contentType":"Speak the Words","license":"U","title":"Lesson.Monologue.glossary[0].term","authors":[],"changes":[],"extraTitle":"Lesson.Monologue.glossary[0].term"},"subContentId":"3ea6d3e3-3e3e-45bc-b089-bed97e2dd112"},{"params":{"media":{"params":{"playerMode":"minimalistic","fitToWrapper":false,"controls":false,"autoplay":false,"playAudio":"Play audio","pauseAudio":"Pause audio","contentName":"Audio","audioNotSupported":"Your browser does not support this audio","files":[{"path":"audios\/files-5ce04cbe23e2c.mp3","mime":"audio\/mpeg","copyright":{"license":"U"}}]},"library":"H5P.Audio 1.4","metadata":{"contentType":"Audio","license":"U","title":"Lesson.Listening.glossary[1].mp3","authors":[],"changes":[],"extraTitle":"Lesson.Listening.glossary[1].mp3"},"subContentId":"11af3e68-19e0-49b9-b575-325a64ebf77f"},"incorrectAnswerText":"Incorrect answer","correctAnswerText":"Correct answer","inputLanguage":"en-US","question":"Lesson.Monologue.glossary[1].term","acceptedAnswers":["Lesson.Monologue.glossary[1].term"],"l10n":{"retryLabel":"Retry","showSolutionLabel":"Show solution","speakLabel":"Push to speak","listeningLabel":"Listening...","correctAnswersText":"The correct answer(s):","userAnswersText":"Your answer(s) was interpreted as:","noSound":"I could not hear you, make sure your microphone is enabled","unsupportedBrowserHeader":"It looks like your browser does not support speech recognition","unsupportedBrowserDetails":"Please try again in a browser like Chrome"}},"library":"H5P.SpeakTheWords 1.3","metadata":{"contentType":"Speak the Words","license":"U","title":"Lesson.Monologue.glossary[1].term","authors":[],"changes":[],"extraTitle":"Lesson.Monologue.glossary[1].term"},"subContentId":"860357cc-a36b-4dd8-a1ae-9bc55dcdcd9a"},{"params":{"media":{"params":{"playerMode":"minimalistic","fitToWrapper":false,"controls":false,"autoplay":false,"playAudio":"Play audio","pauseAudio":"Pause audio","contentName":"Audio","audioNotSupported":"Your browser does not support this audio","files":[{"path":"audios\/files-5ce04cbe23e2c.mp3","mime":"audio\/mpeg","copyright":{"license":"U"}}]},"library":"H5P.Audio 1.4","metadata":{"contentType":"Audio","license":"U","title":"Lesson.Listening.glossary[1].mp3","authors":[],"changes":[],"extraTitle":"Lesson.Listening.glossary[1].mp3"},"subContentId":"241fa3c1-490b-4eb6-947a-38d6982483c4"},"incorrectAnswerText":"Incorrect answer","correctAnswerText":"Correct answer","inputLanguage":"en-US","question":"Lesson.Monologue.glossary[2].term","acceptedAnswers":["Lesson.Monologue.glossary[2].term"],"l10n":{"retryLabel":"Retry","showSolutionLabel":"Show solution","speakLabel":"Push to speak","listeningLabel":"Listening...","correctAnswersText":"The correct answer(s):","userAnswersText":"Your answer(s) was interpreted as:","noSound":"I could not hear you, make sure your microphone is enabled","unsupportedBrowserHeader":"It looks like your browser does not support speech recognition","unsupportedBrowserDetails":"Please try again in a browser like Chrome"}},"library":"H5P.SpeakTheWords 1.3","metadata":{"contentType":"Speak the Words","license":"U","title":"Lesson.Monologue.glossary[2].term","authors":[],"changes":[],"extraTitle":"Lesson.Monologue.glossary[2].term"},"subContentId":"6568f066-5a61-456a-b206-3805709505f5"},{"params":{"media":{"params":{"playerMode":"minimalistic","fitToWrapper":false,"controls":false,"autoplay":false,"playAudio":"Play audio","pauseAudio":"Pause audio","contentName":"Audio","audioNotSupported":"Your browser does not support this audio","files":[{"path":"audios\/files-5ce04cbe23e2c.mp3","mime":"audio\/mpeg","copyright":{"license":"U"}}]},"library":"H5P.Audio 1.4","metadata":{"contentType":"Audio","license":"U","title":"Lesson.Listening.glossary[1].mp3","authors":[],"changes":[],"extraTitle":"Lesson.Listening.glossary[1].mp3"},"subContentId":"fad57248-3a85-42bf-a8f4-ebcb5fa6620c"},"incorrectAnswerText":"Incorrect answer","correctAnswerText":"Correct answer","inputLanguage":"en-US","question":"Lesson.Conversation.glossary[0].term","acceptedAnswers":["Lesson.Conversation.glossary[0].term"],"l10n":{"retryLabel":"Retry","showSolutionLabel":"Show solution","speakLabel":"Push to speak","listeningLabel":"Listening...","correctAnswersText":"The correct answer(s):","userAnswersText":"Your answer(s) was interpreted as:","noSound":"I could not hear you, make sure your microphone is enabled","unsupportedBrowserHeader":"It looks like your browser does not support speech recognition","unsupportedBrowserDetails":"Please try again in a browser like Chrome"}},"library":"H5P.SpeakTheWords 1.3","metadata":{"contentType":"Speak the Words","license":"U","title":"Lesson.Conversation.glossary[0].term","authors":[],"changes":[],"extraTitle":"Lesson.Conversation.glossary[0].term"},"subContentId":"98c33dac-8efc-43de-b98c-9cf30a7080ff"},{"params":{"media":{"params":{"playerMode":"minimalistic","fitToWrapper":false,"controls":false,"autoplay":false,"playAudio":"Play audio","pauseAudio":"Pause audio","contentName":"Audio","audioNotSupported":"Your browser does not support this audio","files":[{"path":"audios\/files-5ce04cbe23e2c.mp3","mime":"audio\/mpeg","copyright":{"license":"U"}}]},"library":"H5P.Audio 1.4","metadata":{"contentType":"Audio","license":"U","title":"Lesson.Listening.glossary[1].mp3","authors":[],"changes":[],"extraTitle":"Lesson.Listening.glossary[1].mp3"},"subContentId":"4f61146b-2b07-40bb-99d8-b12ab7281b05"},"incorrectAnswerText":"Incorrect answer","correctAnswerText":"Correct answer","inputLanguage":"en-US","question":"Lesson.Conversation.glossary[1].term","acceptedAnswers":["Lesson.Conversation.glossary[1].term"],"l10n":{"retryLabel":"Retry","showSolutionLabel":"Show solution","speakLabel":"Push to speak","listeningLabel":"Listening...","correctAnswersText":"The correct answer(s):","userAnswersText":"Your answer(s) was interpreted as:","noSound":"I could not hear you, make sure your microphone is enabled","unsupportedBrowserHeader":"It looks like your browser does not support speech recognition","unsupportedBrowserDetails":"Please try again in a browser like Chrome"}},"library":"H5P.SpeakTheWords 1.3","metadata":{"contentType":"Speak the Words","license":"U","title":"Lesson.Conversation.glossary[1].term","authors":[],"changes":[],"extraTitle":"Lesson.Conversation.glossary[1].term"},"subContentId":"109a95bb-7c3b-4032-aa28-2956e801e75f"},{"params":{"media":{"params":{"playerMode":"minimalistic","fitToWrapper":false,"controls":false,"autoplay":false,"playAudio":"Play audio","pauseAudio":"Pause audio","contentName":"Audio","audioNotSupported":"Your browser does not support this audio","files":[{"path":"audios\/files-5ce04cbe23e2c.mp3","mime":"audio\/mpeg","copyright":{"license":"U"}}]},"library":"H5P.Audio 1.4","metadata":{"contentType":"Audio","license":"U","title":"Lesson.Listening.glossary[1].mp3","authors":[],"changes":[],"extraTitle":"Lesson.Listening.glossary[1].mp3"},"subContentId":"01548aea-ed97-4a85-b7ff-851da2efe0d7"},"incorrectAnswerText":"Incorrect answer","correctAnswerText":"Correct answer","inputLanguage":"en-US","question":"Lesson.Conversation.glossary[2].term","acceptedAnswers":["Lesson.Conversation.glossary[2].term"],"l10n":{"retryLabel":"Retry","showSolutionLabel":"Show solution","speakLabel":"Push to speak","listeningLabel":"Listening...","correctAnswersText":"The correct answer(s):","userAnswersText":"Your answer(s) was interpreted as:","noSound":"I could not hear you, make sure your microphone is enabled","unsupportedBrowserHeader":"It looks like your browser does not support speech recognition","unsupportedBrowserDetails":"Please try again in a browser like Chrome"}},"library":"H5P.SpeakTheWords 1.3","metadata":{"contentType":"Speak the Words","license":"U","title":"Lesson.Conversation.glossary[2].term","authors":[],"changes":[],"extraTitle":"Lesson.Conversation.glossary[2].term"},"subContentId":"90849741-3cda-4914-859d-40f17d4001d1"}],"overallFeedback":[{"from":0,"to":50,"feedback":"You missed several points, try again"},{"from":51,"to":70,"feedback":"So close, give it another try"},{"from":71,"to":100,"feedback":"Well done! you may continue with the next activity"}],"l10n":{"introductionButtonLabel":"Start speaking!","solutionScreenResultsLabel":"You have reached the end of the this activity. Your score:","showSolutionsButtonLabel":"Show solution","retryButtonLabel":"Try again","nextQuestionAriaLabel":"Next","previousQuestionAriaLabel":"Previous","navigationBarTitle":"Slide :num","answeredSlideAriaLabel":"Answered","activeSlideAriaLabel":"Currently active"}}
+{
+    "introduction": {
+        "showIntroPage": true,
+        "introductionImage": {
+            "path": "images\/introductionImage-5ce04b273407e.jpg",
+            "mime": "image\/jpeg",
+            "copyright": {
+                "license": "U"
+            },
+            "width": 625,
+            "height": 417
+        },
+        "introductionTitle": "Speaking practice",
+        "introductionText": "<div>Push the record button, speak the words and improve your pronunciation<\/div>\n"
+    },
+    "questions": [
+        {
+            "params": {
+                "media": {
+                    "params": {
+                        "playerMode": "minimalistic",
+                        "fitToWrapper": false,
+                        "controls": false,
+                        "autoplay": false,
+                        "playAudio": "Play audio",
+                        "pauseAudio": "Pause audio",
+                        "contentName": "Audio",
+                        "audioNotSupported": "Your browser does not support this audio",
+                        "files": [
+                            {
+                                "path": "audios\/files-5ce04c5be6571.mp3",
+                                "mime": "audio\/mpeg",
+                                "copyright": {
+                                    "license": "U"
+                                }
+                            }
+                        ]
+                    },
+                    "library": "H5P.Audio 1.4",
+                    "metadata": {
+                        "contentType": "Audio",
+                        "license": "U",
+                        "title": "Lesson.Listening.glossary[0].mp3",
+                        "authors": [],
+                        "changes": [],
+                        "extraTitle": "Lesson.Listening.glossary[0].mp3"
+                    },
+                    "subContentId": "76c08d37-3694-49dd-8d70-00ac0cbf72e4"
+                },
+                "incorrectAnswerText": "Incorrect answer",
+                "correctAnswerText": "Correct answer",
+                "inputLanguage": "en-US",
+                "l10n": {
+                    "retryLabel": "Retry",
+                    "showSolutionLabel": "Show solution",
+                    "speakLabel": "Push to speak",
+                    "listeningLabel": "Listening...",
+                    "correctAnswersText": "The correct answer(s):",
+                    "userAnswersText": "Your answer(s) was interpreted as:",
+                    "noSound": "I could not hear you, make sure your microphone is enabled",
+                    "unsupportedBrowserHeader": "It looks like your browser does not support speech recognition",
+                    "unsupportedBrowserDetails": "Please try again in a browser like Chrome"
+                },
+                "question": "Lesson.Listening.glossary[0].term",
+                "acceptedAnswers": [
+                    "Lesson.Listening.glossary[0].term"
+                ]
+            },
+            "library": "H5P.SpeakTheWords 1.3",
+            "subContentId": "a0ad8585-8cdd-4245-82d3-85718d82a921",
+            "metadata": {
+                "contentType": "Speak the Words",
+                "license": "U",
+                "title": "Lesson.Listening.glossary[0].term",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Lesson.Listening.glossary[0].term"
+            }
+        },
+        {
+            "params": {
+                "media": {
+                    "params": {
+                        "playerMode": "minimalistic",
+                        "fitToWrapper": false,
+                        "controls": false,
+                        "autoplay": false,
+                        "playAudio": "Play audio",
+                        "pauseAudio": "Pause audio",
+                        "contentName": "Audio",
+                        "audioNotSupported": "Your browser does not support this audio",
+                        "files": [
+                            {
+                                "path": "audios\/files-5ce04cbe23e2c.mp3",
+                                "mime": "audio\/mpeg",
+                                "copyright": {
+                                    "license": "U"
+                                }
+                            }
+                        ]
+                    },
+                    "library": "H5P.Audio 1.4",
+                    "metadata": {
+                        "contentType": "Audio",
+                        "license": "U",
+                        "title": "Lesson.Listening.glossary[1].mp3",
+                        "authors": [],
+                        "changes": [],
+                        "extraTitle": "Lesson.Listening.glossary[1].mp3"
+                    },
+                    "subContentId": "f8ea5f88-271e-453a-84ea-6082c1247aa0"
+                },
+                "incorrectAnswerText": "Incorrect answer",
+                "correctAnswerText": "Correct answer",
+                "inputLanguage": "en-US",
+                "question": "Lesson.Listening.glossary[1].term",
+                "acceptedAnswers": [
+                    "Lesson.Listening.glossary[1].term"
+                ],
+                "l10n": {
+                    "retryLabel": "Retry",
+                    "showSolutionLabel": "Show solution",
+                    "speakLabel": "Push to speak",
+                    "listeningLabel": "Listening...",
+                    "correctAnswersText": "The correct answer(s):",
+                    "userAnswersText": "Your answer(s) was interpreted as:",
+                    "noSound": "I could not hear you, make sure your microphone is enabled",
+                    "unsupportedBrowserHeader": "It looks like your browser does not support speech recognition",
+                    "unsupportedBrowserDetails": "Please try again in a browser like Chrome"
+                }
+            },
+            "library": "H5P.SpeakTheWords 1.3",
+            "metadata": {
+                "contentType": "Speak the Words",
+                "license": "U",
+                "title": "Lesson.Listening.glossary[1].term",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Lesson.Listening.glossary[1].term"
+            },
+            "subContentId": "b5c43b58-ecf4-432a-8bc3-5a94f5019b01"
+        },
+        {
+            "params": {
+                "media": {
+                    "params": {
+                        "playerMode": "minimalistic",
+                        "fitToWrapper": false,
+                        "controls": false,
+                        "autoplay": false,
+                        "playAudio": "Play audio",
+                        "pauseAudio": "Pause audio",
+                        "contentName": "Audio",
+                        "audioNotSupported": "Your browser does not support this audio",
+                        "files": [
+                            {
+                                "path": "audios\/files-5ce04cbe23e2c.mp3",
+                                "mime": "audio\/mpeg",
+                                "copyright": {
+                                    "license": "U"
+                                }
+                            }
+                        ]
+                    },
+                    "library": "H5P.Audio 1.4",
+                    "metadata": {
+                        "contentType": "Audio",
+                        "license": "U",
+                        "title": "Lesson.Listening.glossary[1].mp3",
+                        "authors": [],
+                        "changes": [],
+                        "extraTitle": "Lesson.Listening.glossary[1].mp3"
+                    },
+                    "subContentId": "5db3df7d-c47a-46f5-bce4-43eff6e2aae9"
+                },
+                "incorrectAnswerText": "Incorrect answer",
+                "correctAnswerText": "Correct answer",
+                "inputLanguage": "en-US",
+                "question": "Lesson.Listening.glossary[2].term",
+                "acceptedAnswers": [
+                    "Lesson.Listening.glossary[2].term"
+                ],
+                "l10n": {
+                    "retryLabel": "Retry",
+                    "showSolutionLabel": "Show solution",
+                    "speakLabel": "Push to speak",
+                    "listeningLabel": "Listening...",
+                    "correctAnswersText": "The correct answer(s):",
+                    "userAnswersText": "Your answer(s) was interpreted as:",
+                    "noSound": "I could not hear you, make sure your microphone is enabled",
+                    "unsupportedBrowserHeader": "It looks like your browser does not support speech recognition",
+                    "unsupportedBrowserDetails": "Please try again in a browser like Chrome"
+                }
+            },
+            "library": "H5P.SpeakTheWords 1.3",
+            "metadata": {
+                "contentType": "Speak the Words",
+                "license": "U",
+                "title": "Lesson.Listening.glossary[2].term",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Lesson.Listening.glossary[2].term"
+            },
+            "subContentId": "8741507d-bb81-4aef-a5db-42262553d72a"
+        },
+        {
+            "params": {
+                "media": {
+                    "params": {
+                        "playerMode": "minimalistic",
+                        "fitToWrapper": false,
+                        "controls": false,
+                        "autoplay": false,
+                        "playAudio": "Play audio",
+                        "pauseAudio": "Pause audio",
+                        "contentName": "Audio",
+                        "audioNotSupported": "Your browser does not support this audio",
+                        "files": [
+                            {
+                                "path": "audios\/files-5ce04cbe23e2c.mp3",
+                                "mime": "audio\/mpeg",
+                                "copyright": {
+                                    "license": "U"
+                                }
+                            }
+                        ]
+                    },
+                    "library": "H5P.Audio 1.4",
+                    "metadata": {
+                        "contentType": "Audio",
+                        "license": "U",
+                        "title": "Lesson.Listening.glossary[1].mp3",
+                        "authors": [],
+                        "changes": [],
+                        "extraTitle": "Lesson.Listening.glossary[1].mp3"
+                    },
+                    "subContentId": "381398d0-f7e1-402f-a6d6-14da3176db0f"
+                },
+                "incorrectAnswerText": "Incorrect answer",
+                "correctAnswerText": "Correct answer",
+                "inputLanguage": "en-US",
+                "question": "Lesson.Writing.glossary[0].term",
+                "acceptedAnswers": [
+                    "Lesson.Writing.glossary[0].term"
+                ],
+                "l10n": {
+                    "retryLabel": "Retry",
+                    "showSolutionLabel": "Show solution",
+                    "speakLabel": "Push to speak",
+                    "listeningLabel": "Listening...",
+                    "correctAnswersText": "The correct answer(s):",
+                    "userAnswersText": "Your answer(s) was interpreted as:",
+                    "noSound": "I could not hear you, make sure your microphone is enabled",
+                    "unsupportedBrowserHeader": "It looks like your browser does not support speech recognition",
+                    "unsupportedBrowserDetails": "Please try again in a browser like Chrome"
+                }
+            },
+            "library": "H5P.SpeakTheWords 1.3",
+            "metadata": {
+                "contentType": "Speak the Words",
+                "license": "U",
+                "title": "Lesson.Writing.glossary[0].term",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Lesson.Writing.glossary[0].term"
+            },
+            "subContentId": "41d2eb8e-7be1-491e-af4e-fcbcd76a0832"
+        },
+        {
+            "params": {
+                "media": {
+                    "params": {
+                        "playerMode": "minimalistic",
+                        "fitToWrapper": false,
+                        "controls": false,
+                        "autoplay": false,
+                        "playAudio": "Play audio",
+                        "pauseAudio": "Pause audio",
+                        "contentName": "Audio",
+                        "audioNotSupported": "Your browser does not support this audio",
+                        "files": [
+                            {
+                                "path": "audios\/files-5ce04cbe23e2c.mp3",
+                                "mime": "audio\/mpeg",
+                                "copyright": {
+                                    "license": "U"
+                                }
+                            }
+                        ]
+                    },
+                    "library": "H5P.Audio 1.4",
+                    "metadata": {
+                        "contentType": "Audio",
+                        "license": "U",
+                        "title": "Lesson.Listening.glossary[1].mp3",
+                        "authors": [],
+                        "changes": [],
+                        "extraTitle": "Lesson.Listening.glossary[1].mp3"
+                    },
+                    "subContentId": "eb2dd6a3-29b8-4cc9-9a2d-5ba8f39d2020"
+                },
+                "incorrectAnswerText": "Incorrect answer",
+                "correctAnswerText": "Correct answer",
+                "inputLanguage": "en-US",
+                "question": "Lesson.Writing.glossary[1].term",
+                "acceptedAnswers": [
+                    "Lesson.Writing.glossary[1].term"
+                ],
+                "l10n": {
+                    "retryLabel": "Retry",
+                    "showSolutionLabel": "Show solution",
+                    "speakLabel": "Push to speak",
+                    "listeningLabel": "Listening...",
+                    "correctAnswersText": "The correct answer(s):",
+                    "userAnswersText": "Your answer(s) was interpreted as:",
+                    "noSound": "I could not hear you, make sure your microphone is enabled",
+                    "unsupportedBrowserHeader": "It looks like your browser does not support speech recognition",
+                    "unsupportedBrowserDetails": "Please try again in a browser like Chrome"
+                }
+            },
+            "library": "H5P.SpeakTheWords 1.3",
+            "metadata": {
+                "contentType": "Speak the Words",
+                "license": "U",
+                "title": "Lesson.Writing.glossary[1].term",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Lesson.Writing.glossary[1].term"
+            },
+            "subContentId": "c570eea0-8ce4-43cd-b07e-fc8471a4830c"
+        },
+        {
+            "params": {
+                "media": {
+                    "params": {
+                        "playerMode": "minimalistic",
+                        "fitToWrapper": false,
+                        "controls": false,
+                        "autoplay": false,
+                        "playAudio": "Play audio",
+                        "pauseAudio": "Pause audio",
+                        "contentName": "Audio",
+                        "audioNotSupported": "Your browser does not support this audio",
+                        "files": [
+                            {
+                                "path": "audios\/files-5ce04cbe23e2c.mp3",
+                                "mime": "audio\/mpeg",
+                                "copyright": {
+                                    "license": "U"
+                                }
+                            }
+                        ]
+                    },
+                    "library": "H5P.Audio 1.4",
+                    "metadata": {
+                        "contentType": "Audio",
+                        "license": "U",
+                        "title": "Lesson.Listening.glossary[1].mp3",
+                        "authors": [],
+                        "changes": [],
+                        "extraTitle": "Lesson.Listening.glossary[1].mp3"
+                    },
+                    "subContentId": "b38273d3-670d-417c-b120-76e8710b616e"
+                },
+                "incorrectAnswerText": "Incorrect answer",
+                "correctAnswerText": "Correct answer",
+                "inputLanguage": "en-US",
+                "question": "Lesson.Writing.glossary[2].term",
+                "acceptedAnswers": [
+                    "Lesson.Writing.glossary[2].term"
+                ],
+                "l10n": {
+                    "retryLabel": "Retry",
+                    "showSolutionLabel": "Show solution",
+                    "speakLabel": "Push to speak",
+                    "listeningLabel": "Listening...",
+                    "correctAnswersText": "The correct answer(s):",
+                    "userAnswersText": "Your answer(s) was interpreted as:",
+                    "noSound": "I could not hear you, make sure your microphone is enabled",
+                    "unsupportedBrowserHeader": "It looks like your browser does not support speech recognition",
+                    "unsupportedBrowserDetails": "Please try again in a browser like Chrome"
+                }
+            },
+            "library": "H5P.SpeakTheWords 1.3",
+            "metadata": {
+                "contentType": "Speak the Words",
+                "license": "U",
+                "title": "Lesson.Writing.glossary[2].term",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Lesson.Writing.glossary[2].term"
+            },
+            "subContentId": "62f8dbeb-cd6d-4790-8e8f-c37f868ceeba"
+        },
+        {
+            "params": {
+                "media": {
+                    "params": {
+                        "playerMode": "minimalistic",
+                        "fitToWrapper": false,
+                        "controls": false,
+                        "autoplay": false,
+                        "playAudio": "Play audio",
+                        "pauseAudio": "Pause audio",
+                        "contentName": "Audio",
+                        "audioNotSupported": "Your browser does not support this audio",
+                        "files": [
+                            {
+                                "path": "audios\/files-5ce04cbe23e2c.mp3",
+                                "mime": "audio\/mpeg",
+                                "copyright": {
+                                    "license": "U"
+                                }
+                            }
+                        ]
+                    },
+                    "library": "H5P.Audio 1.4",
+                    "metadata": {
+                        "contentType": "Audio",
+                        "license": "U",
+                        "title": "Lesson.Listening.glossary[1].mp3",
+                        "authors": [],
+                        "changes": [],
+                        "extraTitle": "Lesson.Listening.glossary[1].mp3"
+                    },
+                    "subContentId": "de2b82ff-074a-4e3b-8ed1-5b04a9b23d47"
+                },
+                "incorrectAnswerText": "Incorrect answer",
+                "correctAnswerText": "Correct answer",
+                "inputLanguage": "en-US",
+                "question": "Lesson.Reading.glossary[0].term",
+                "acceptedAnswers": [
+                    "Lesson.Reading.glossary[0].term"
+                ],
+                "l10n": {
+                    "retryLabel": "Retry",
+                    "showSolutionLabel": "Show solution",
+                    "speakLabel": "Push to speak",
+                    "listeningLabel": "Listening...",
+                    "correctAnswersText": "The correct answer(s):",
+                    "userAnswersText": "Your answer(s) was interpreted as:",
+                    "noSound": "I could not hear you, make sure your microphone is enabled",
+                    "unsupportedBrowserHeader": "It looks like your browser does not support speech recognition",
+                    "unsupportedBrowserDetails": "Please try again in a browser like Chrome"
+                }
+            },
+            "library": "H5P.SpeakTheWords 1.3",
+            "metadata": {
+                "contentType": "Speak the Words",
+                "license": "U",
+                "title": "Lesson.Reading.glossary[0].term",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Lesson.Reading.glossary[0].term"
+            },
+            "subContentId": "bc38491c-0f74-4416-8abb-e5263f60dbe8"
+        },
+        {
+            "params": {
+                "media": {
+                    "params": {
+                        "playerMode": "minimalistic",
+                        "fitToWrapper": false,
+                        "controls": false,
+                        "autoplay": false,
+                        "playAudio": "Play audio",
+                        "pauseAudio": "Pause audio",
+                        "contentName": "Audio",
+                        "audioNotSupported": "Your browser does not support this audio",
+                        "files": [
+                            {
+                                "path": "audios\/files-5ce04cbe23e2c.mp3",
+                                "mime": "audio\/mpeg",
+                                "copyright": {
+                                    "license": "U"
+                                }
+                            }
+                        ]
+                    },
+                    "library": "H5P.Audio 1.4",
+                    "metadata": {
+                        "contentType": "Audio",
+                        "license": "U",
+                        "title": "Lesson.Listening.glossary[1].mp3",
+                        "authors": [],
+                        "changes": [],
+                        "extraTitle": "Lesson.Listening.glossary[1].mp3"
+                    },
+                    "subContentId": "090f44aa-0b63-4998-a303-0455aae039bd"
+                },
+                "incorrectAnswerText": "Incorrect answer",
+                "correctAnswerText": "Correct answer",
+                "inputLanguage": "en-US",
+                "question": "Lesson.Reading.glossary[1].term",
+                "acceptedAnswers": [
+                    "Lesson.Reading.glossary[1].term"
+                ],
+                "l10n": {
+                    "retryLabel": "Retry",
+                    "showSolutionLabel": "Show solution",
+                    "speakLabel": "Push to speak",
+                    "listeningLabel": "Listening...",
+                    "correctAnswersText": "The correct answer(s):",
+                    "userAnswersText": "Your answer(s) was interpreted as:",
+                    "noSound": "I could not hear you, make sure your microphone is enabled",
+                    "unsupportedBrowserHeader": "It looks like your browser does not support speech recognition",
+                    "unsupportedBrowserDetails": "Please try again in a browser like Chrome"
+                }
+            },
+            "library": "H5P.SpeakTheWords 1.3",
+            "metadata": {
+                "contentType": "Speak the Words",
+                "license": "U",
+                "title": "Lesson.Reading.glossary[1].term",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Lesson.Reading.glossary[1].term"
+            },
+            "subContentId": "35cfff0b-9780-4d7e-bf01-2cb07d6a9f28"
+        },
+        {
+            "params": {
+                "media": {
+                    "params": {
+                        "playerMode": "minimalistic",
+                        "fitToWrapper": false,
+                        "controls": false,
+                        "autoplay": false,
+                        "playAudio": "Play audio",
+                        "pauseAudio": "Pause audio",
+                        "contentName": "Audio",
+                        "audioNotSupported": "Your browser does not support this audio",
+                        "files": [
+                            {
+                                "path": "audios\/files-5ce04cbe23e2c.mp3",
+                                "mime": "audio\/mpeg",
+                                "copyright": {
+                                    "license": "U"
+                                }
+                            }
+                        ]
+                    },
+                    "library": "H5P.Audio 1.4",
+                    "metadata": {
+                        "contentType": "Audio",
+                        "license": "U",
+                        "title": "Lesson.Listening.glossary[1].mp3",
+                        "authors": [],
+                        "changes": [],
+                        "extraTitle": "Lesson.Listening.glossary[1].mp3"
+                    },
+                    "subContentId": "c4ff5d76-a866-492f-9bf3-d23ba2bdbc74"
+                },
+                "incorrectAnswerText": "Incorrect answer",
+                "correctAnswerText": "Correct answer",
+                "inputLanguage": "en-US",
+                "question": "Lesson.Reading.glossary[2].term",
+                "acceptedAnswers": [
+                    "Lesson.Reading.glossary[2].term"
+                ],
+                "l10n": {
+                    "retryLabel": "Retry",
+                    "showSolutionLabel": "Show solution",
+                    "speakLabel": "Push to speak",
+                    "listeningLabel": "Listening...",
+                    "correctAnswersText": "The correct answer(s):",
+                    "userAnswersText": "Your answer(s) was interpreted as:",
+                    "noSound": "I could not hear you, make sure your microphone is enabled",
+                    "unsupportedBrowserHeader": "It looks like your browser does not support speech recognition",
+                    "unsupportedBrowserDetails": "Please try again in a browser like Chrome"
+                }
+            },
+            "library": "H5P.SpeakTheWords 1.3",
+            "metadata": {
+                "contentType": "Speak the Words",
+                "license": "U",
+                "title": "Lesson.Reading.glossary[2].term",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Lesson.Reading.glossary[2].term"
+            },
+            "subContentId": "64e22eff-752f-4352-accd-a3da03cb2d29"
+        },
+        {
+            "params": {
+                "media": {
+                    "params": {
+                        "playerMode": "minimalistic",
+                        "fitToWrapper": false,
+                        "controls": false,
+                        "autoplay": false,
+                        "playAudio": "Play audio",
+                        "pauseAudio": "Pause audio",
+                        "contentName": "Audio",
+                        "audioNotSupported": "Your browser does not support this audio",
+                        "files": [
+                            {
+                                "path": "audios\/files-5ce04cbe23e2c.mp3",
+                                "mime": "audio\/mpeg",
+                                "copyright": {
+                                    "license": "U"
+                                }
+                            }
+                        ]
+                    },
+                    "library": "H5P.Audio 1.4",
+                    "metadata": {
+                        "contentType": "Audio",
+                        "license": "U",
+                        "title": "Lesson.Listening.glossary[1].mp3",
+                        "authors": [],
+                        "changes": [],
+                        "extraTitle": "Lesson.Listening.glossary[1].mp3"
+                    },
+                    "subContentId": "b1abb05d-e082-4692-b141-27e47090e489"
+                },
+                "incorrectAnswerText": "Incorrect answer",
+                "correctAnswerText": "Correct answer",
+                "inputLanguage": "en-US",
+                "question": "Lesson.Monologue.glossary[0].term",
+                "acceptedAnswers": [
+                    "Lesson.Monologue.glossary[0].term"
+                ],
+                "l10n": {
+                    "retryLabel": "Retry",
+                    "showSolutionLabel": "Show solution",
+                    "speakLabel": "Push to speak",
+                    "listeningLabel": "Listening...",
+                    "correctAnswersText": "The correct answer(s):",
+                    "userAnswersText": "Your answer(s) was interpreted as:",
+                    "noSound": "I could not hear you, make sure your microphone is enabled",
+                    "unsupportedBrowserHeader": "It looks like your browser does not support speech recognition",
+                    "unsupportedBrowserDetails": "Please try again in a browser like Chrome"
+                }
+            },
+            "library": "H5P.SpeakTheWords 1.3",
+            "metadata": {
+                "contentType": "Speak the Words",
+                "license": "U",
+                "title": "Lesson.Monologue.glossary[0].term",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Lesson.Monologue.glossary[0].term"
+            },
+            "subContentId": "3ea6d3e3-3e3e-45bc-b089-bed97e2dd112"
+        },
+        {
+            "params": {
+                "media": {
+                    "params": {
+                        "playerMode": "minimalistic",
+                        "fitToWrapper": false,
+                        "controls": false,
+                        "autoplay": false,
+                        "playAudio": "Play audio",
+                        "pauseAudio": "Pause audio",
+                        "contentName": "Audio",
+                        "audioNotSupported": "Your browser does not support this audio",
+                        "files": [
+                            {
+                                "path": "audios\/files-5ce04cbe23e2c.mp3",
+                                "mime": "audio\/mpeg",
+                                "copyright": {
+                                    "license": "U"
+                                }
+                            }
+                        ]
+                    },
+                    "library": "H5P.Audio 1.4",
+                    "metadata": {
+                        "contentType": "Audio",
+                        "license": "U",
+                        "title": "Lesson.Listening.glossary[1].mp3",
+                        "authors": [],
+                        "changes": [],
+                        "extraTitle": "Lesson.Listening.glossary[1].mp3"
+                    },
+                    "subContentId": "11af3e68-19e0-49b9-b575-325a64ebf77f"
+                },
+                "incorrectAnswerText": "Incorrect answer",
+                "correctAnswerText": "Correct answer",
+                "inputLanguage": "en-US",
+                "question": "Lesson.Monologue.glossary[1].term",
+                "acceptedAnswers": [
+                    "Lesson.Monologue.glossary[1].term"
+                ],
+                "l10n": {
+                    "retryLabel": "Retry",
+                    "showSolutionLabel": "Show solution",
+                    "speakLabel": "Push to speak",
+                    "listeningLabel": "Listening...",
+                    "correctAnswersText": "The correct answer(s):",
+                    "userAnswersText": "Your answer(s) was interpreted as:",
+                    "noSound": "I could not hear you, make sure your microphone is enabled",
+                    "unsupportedBrowserHeader": "It looks like your browser does not support speech recognition",
+                    "unsupportedBrowserDetails": "Please try again in a browser like Chrome"
+                }
+            },
+            "library": "H5P.SpeakTheWords 1.3",
+            "metadata": {
+                "contentType": "Speak the Words",
+                "license": "U",
+                "title": "Lesson.Monologue.glossary[1].term",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Lesson.Monologue.glossary[1].term"
+            },
+            "subContentId": "860357cc-a36b-4dd8-a1ae-9bc55dcdcd9a"
+        },
+        {
+            "params": {
+                "media": {
+                    "params": {
+                        "playerMode": "minimalistic",
+                        "fitToWrapper": false,
+                        "controls": false,
+                        "autoplay": false,
+                        "playAudio": "Play audio",
+                        "pauseAudio": "Pause audio",
+                        "contentName": "Audio",
+                        "audioNotSupported": "Your browser does not support this audio",
+                        "files": [
+                            {
+                                "path": "audios\/files-5ce04cbe23e2c.mp3",
+                                "mime": "audio\/mpeg",
+                                "copyright": {
+                                    "license": "U"
+                                }
+                            }
+                        ]
+                    },
+                    "library": "H5P.Audio 1.4",
+                    "metadata": {
+                        "contentType": "Audio",
+                        "license": "U",
+                        "title": "Lesson.Listening.glossary[1].mp3",
+                        "authors": [],
+                        "changes": [],
+                        "extraTitle": "Lesson.Listening.glossary[1].mp3"
+                    },
+                    "subContentId": "241fa3c1-490b-4eb6-947a-38d6982483c4"
+                },
+                "incorrectAnswerText": "Incorrect answer",
+                "correctAnswerText": "Correct answer",
+                "inputLanguage": "en-US",
+                "question": "Lesson.Monologue.glossary[2].term",
+                "acceptedAnswers": [
+                    "Lesson.Monologue.glossary[2].term"
+                ],
+                "l10n": {
+                    "retryLabel": "Retry",
+                    "showSolutionLabel": "Show solution",
+                    "speakLabel": "Push to speak",
+                    "listeningLabel": "Listening...",
+                    "correctAnswersText": "The correct answer(s):",
+                    "userAnswersText": "Your answer(s) was interpreted as:",
+                    "noSound": "I could not hear you, make sure your microphone is enabled",
+                    "unsupportedBrowserHeader": "It looks like your browser does not support speech recognition",
+                    "unsupportedBrowserDetails": "Please try again in a browser like Chrome"
+                }
+            },
+            "library": "H5P.SpeakTheWords 1.3",
+            "metadata": {
+                "contentType": "Speak the Words",
+                "license": "U",
+                "title": "Lesson.Monologue.glossary[2].term",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Lesson.Monologue.glossary[2].term"
+            },
+            "subContentId": "6568f066-5a61-456a-b206-3805709505f5"
+        },
+        {
+            "params": {
+                "media": {
+                    "params": {
+                        "playerMode": "minimalistic",
+                        "fitToWrapper": false,
+                        "controls": false,
+                        "autoplay": false,
+                        "playAudio": "Play audio",
+                        "pauseAudio": "Pause audio",
+                        "contentName": "Audio",
+                        "audioNotSupported": "Your browser does not support this audio",
+                        "files": [
+                            {
+                                "path": "audios\/files-5ce04cbe23e2c.mp3",
+                                "mime": "audio\/mpeg",
+                                "copyright": {
+                                    "license": "U"
+                                }
+                            }
+                        ]
+                    },
+                    "library": "H5P.Audio 1.4",
+                    "metadata": {
+                        "contentType": "Audio",
+                        "license": "U",
+                        "title": "Lesson.Listening.glossary[1].mp3",
+                        "authors": [],
+                        "changes": [],
+                        "extraTitle": "Lesson.Listening.glossary[1].mp3"
+                    },
+                    "subContentId": "fad57248-3a85-42bf-a8f4-ebcb5fa6620c"
+                },
+                "incorrectAnswerText": "Incorrect answer",
+                "correctAnswerText": "Correct answer",
+                "inputLanguage": "en-US",
+                "question": "Lesson.Conversation.glossary[0].term",
+                "acceptedAnswers": [
+                    "Lesson.Conversation.glossary[0].term"
+                ],
+                "l10n": {
+                    "retryLabel": "Retry",
+                    "showSolutionLabel": "Show solution",
+                    "speakLabel": "Push to speak",
+                    "listeningLabel": "Listening...",
+                    "correctAnswersText": "The correct answer(s):",
+                    "userAnswersText": "Your answer(s) was interpreted as:",
+                    "noSound": "I could not hear you, make sure your microphone is enabled",
+                    "unsupportedBrowserHeader": "It looks like your browser does not support speech recognition",
+                    "unsupportedBrowserDetails": "Please try again in a browser like Chrome"
+                }
+            },
+            "library": "H5P.SpeakTheWords 1.3",
+            "metadata": {
+                "contentType": "Speak the Words",
+                "license": "U",
+                "title": "Lesson.Conversation.glossary[0].term",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Lesson.Conversation.glossary[0].term"
+            },
+            "subContentId": "98c33dac-8efc-43de-b98c-9cf30a7080ff"
+        },
+        {
+            "params": {
+                "media": {
+                    "params": {
+                        "playerMode": "minimalistic",
+                        "fitToWrapper": false,
+                        "controls": false,
+                        "autoplay": false,
+                        "playAudio": "Play audio",
+                        "pauseAudio": "Pause audio",
+                        "contentName": "Audio",
+                        "audioNotSupported": "Your browser does not support this audio",
+                        "files": [
+                            {
+                                "path": "audios\/files-5ce04cbe23e2c.mp3",
+                                "mime": "audio\/mpeg",
+                                "copyright": {
+                                    "license": "U"
+                                }
+                            }
+                        ]
+                    },
+                    "library": "H5P.Audio 1.4",
+                    "metadata": {
+                        "contentType": "Audio",
+                        "license": "U",
+                        "title": "Lesson.Listening.glossary[1].mp3",
+                        "authors": [],
+                        "changes": [],
+                        "extraTitle": "Lesson.Listening.glossary[1].mp3"
+                    },
+                    "subContentId": "4f61146b-2b07-40bb-99d8-b12ab7281b05"
+                },
+                "incorrectAnswerText": "Incorrect answer",
+                "correctAnswerText": "Correct answer",
+                "inputLanguage": "en-US",
+                "question": "Lesson.Conversation.glossary[1].term",
+                "acceptedAnswers": [
+                    "Lesson.Conversation.glossary[1].term"
+                ],
+                "l10n": {
+                    "retryLabel": "Retry",
+                    "showSolutionLabel": "Show solution",
+                    "speakLabel": "Push to speak",
+                    "listeningLabel": "Listening...",
+                    "correctAnswersText": "The correct answer(s):",
+                    "userAnswersText": "Your answer(s) was interpreted as:",
+                    "noSound": "I could not hear you, make sure your microphone is enabled",
+                    "unsupportedBrowserHeader": "It looks like your browser does not support speech recognition",
+                    "unsupportedBrowserDetails": "Please try again in a browser like Chrome"
+                }
+            },
+            "library": "H5P.SpeakTheWords 1.3",
+            "metadata": {
+                "contentType": "Speak the Words",
+                "license": "U",
+                "title": "Lesson.Conversation.glossary[1].term",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Lesson.Conversation.glossary[1].term"
+            },
+            "subContentId": "109a95bb-7c3b-4032-aa28-2956e801e75f"
+        },
+        {
+            "params": {
+                "media": {
+                    "params": {
+                        "playerMode": "minimalistic",
+                        "fitToWrapper": false,
+                        "controls": false,
+                        "autoplay": false,
+                        "playAudio": "Play audio",
+                        "pauseAudio": "Pause audio",
+                        "contentName": "Audio",
+                        "audioNotSupported": "Your browser does not support this audio",
+                        "files": [
+                            {
+                                "path": "audios\/files-5ce04cbe23e2c.mp3",
+                                "mime": "audio\/mpeg",
+                                "copyright": {
+                                    "license": "U"
+                                }
+                            }
+                        ]
+                    },
+                    "library": "H5P.Audio 1.4",
+                    "metadata": {
+                        "contentType": "Audio",
+                        "license": "U",
+                        "title": "Lesson.Listening.glossary[1].mp3",
+                        "authors": [],
+                        "changes": [],
+                        "extraTitle": "Lesson.Listening.glossary[1].mp3"
+                    },
+                    "subContentId": "01548aea-ed97-4a85-b7ff-851da2efe0d7"
+                },
+                "incorrectAnswerText": "Incorrect answer",
+                "correctAnswerText": "Correct answer",
+                "inputLanguage": "en-US",
+                "question": "Lesson.Conversation.glossary[2].term",
+                "acceptedAnswers": [
+                    "Lesson.Conversation.glossary[2].term"
+                ],
+                "l10n": {
+                    "retryLabel": "Retry",
+                    "showSolutionLabel": "Show solution",
+                    "speakLabel": "Push to speak",
+                    "listeningLabel": "Listening...",
+                    "correctAnswersText": "The correct answer(s):",
+                    "userAnswersText": "Your answer(s) was interpreted as:",
+                    "noSound": "I could not hear you, make sure your microphone is enabled",
+                    "unsupportedBrowserHeader": "It looks like your browser does not support speech recognition",
+                    "unsupportedBrowserDetails": "Please try again in a browser like Chrome"
+                }
+            },
+            "library": "H5P.SpeakTheWords 1.3",
+            "metadata": {
+                "contentType": "Speak the Words",
+                "license": "U",
+                "title": "Lesson.Conversation.glossary[2].term",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Lesson.Conversation.glossary[2].term"
+            },
+            "subContentId": "90849741-3cda-4914-859d-40f17d4001d1"
+        }
+    ],
+    "overallFeedback": [
+        {
+            "from": 0,
+            "to": 50,
+            "feedback": "You missed several points, try again"
+        },
+        {
+            "from": 51,
+            "to": 70,
+            "feedback": "So close, give it another try"
+        },
+        {
+            "from": 71,
+            "to": 100,
+            "feedback": "Well done! you may continue with the next activity"
+        }
+    ],
+    "l10n": {
+        "introductionButtonLabel": "Start speaking!",
+        "solutionScreenResultsLabel": "You have reached the end of the this activity. Your score:",
+        "showSolutionsButtonLabel": "Show solution",
+        "retryButtonLabel": "Try again",
+        "nextQuestionAriaLabel": "Next",
+        "previousQuestionAriaLabel": "Previous",
+        "navigationBarTitle": "Slide :num",
+        "answeredSlideAriaLabel": "Answered",
+        "activeSlideAriaLabel": "Currently active"
+    }
+}

@@ -1,1 +1,2411 @@
-{"presentation":{"slides":[{"elements":[{"x":61.873638344226585,"y":0,"width":37.908496732026144,"height":57.751937984496124,"action":{"library":"H5P.Image 1.1","params":{"contentName":"Image","file":{"path":"images\/file-5cd2fdd75a5a8.png","mime":"image\/png","copyright":{"license":"U"},"width":1083,"height":924},"alt":"Ask yourself"},"subContentId":"6aee16eb-59bd-4476-a987-a4a2e5c44e8a","metadata":{"contentType":"Image","license":"U","title":"Untitled Image","authors":[],"changes":[]}},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":0,"y":59.496124031007753,"width":18.701916683270809,"height":40,"action":{"library":"H5P.Image 1.1","params":{"contentName":"Image","file":{"path":"images\/file-5cd2fe5322f1d.png","mime":"image\/png","copyright":{"license":"U"},"width":302,"height":327},"alt":"Ask"},"subContentId":"6d4e17da-e8b6-4cd7-bb61-b54a19c7e07a","metadata":{"contentType":"Image","license":"U","title":"Untitled Image","authors":[],"changes":[]}},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":20.697167755991288,"y":3.8759689922480618,"width":32.46187363834423,"height":9.3023255813953494,"action":{"library":"H5P.AdvancedText 1.1","params":{"text":"<h2><span style=\"color:#3498db;\"><span style=\"font-size:1.5em;\">Ask yourself:<\/span><\/span><\/h2>\n"},"subContentId":"05f995be-b613-481a-aa86-08b62d4e607a","metadata":{"contentType":"Text","license":"U","title":"Text 1","authors":[],"changes":[]}},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":8.7145969498910674,"y":15.503875968992247,"width":32.46187363834423,"height":9.3023255813953494,"action":{"library":"H5P.AdvancedText 1.1","params":{"text":"<h2><span style=\"font-size:1.25em;\">How can you?<\/span><\/h2>\n"},"metadata":{"contentType":"Text","license":"U","title":"Text 1","authors":[],"changes":[]},"subContentId":"9e339b47-2d8c-4a8c-b5de-f70c044fccd9"},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":10.893246187363834,"y":27.151162790697676,"width":65.141612200435731,"height":12.209302325581396,"action":{"library":"H5P.AdvancedText 1.1","params":{"text":"<p><span style=\"font-size:1.5em;\"><strong>Talk about ways to improve the world.<\/strong><\/span><\/p>\n"},"metadata":{"contentType":"Text","license":"U","title":"Text 1","authors":[],"changes":[]},"subContentId":"de6580c9-6519-459c-9052-4dbaa2fef4b8"},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":14.161220043572984,"y":38.78546511627907,"width":65.141612200435731,"height":12.209302325581396,"action":{"library":"H5P.AdvancedText 1.1","params":{"text":"<p><span style=\"font-size:1.5em;\"><strong>Discuss how every member of society can become better.<\/strong><\/span><\/p>\n"},"metadata":{"contentType":"Text","license":"U","title":"Text 1","authors":[],"changes":[]},"subContentId":"a2dda9eb-d6d5-41c5-ba7d-7a262ab2aab7"},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":17.864923747276691,"y":50.423062015503874,"width":65.141612200435731,"height":12.209302325581396,"action":{"library":"H5P.AdvancedText 1.1","params":{"text":"<p><span style=\"font-size:1.5em;\"><strong>Describe the difference between social value nowadays and in the past.<\/strong><\/span><\/p>\n"},"metadata":{"contentType":"Text","license":"U","title":"Text 1","authors":[],"changes":[]},"subContentId":"a365fdcd-f6ac-40c1-81c1-456703801c3d"},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":20.697167755991288,"y":62.060658914728684,"width":65.141612200435731,"height":12.209302325581396,"action":{"library":"H5P.AdvancedText 1.1","params":{"text":"<p><span style=\"font-size:1.5em;\"><strong>Discuss how you collaborate with others.<\/strong><\/span><\/p>\n"},"metadata":{"contentType":"Text","license":"U","title":"Text 1","authors":[],"changes":[]},"subContentId":"7e392580-076f-42de-af53-b8a2cb46f59c"},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":26.906318082788673,"y":73.69515503875968,"width":65.141612200435731,"height":12.209302325581396,"action":{"library":"H5P.AdvancedText 1.1","params":{"text":"<p><span style=\"font-size:1.5em;\"><strong>Talk about the best way to change society<\/strong><\/span><\/p>\n"},"metadata":{"contentType":"Text","license":"U","title":"Text 1","authors":[],"changes":[]},"subContentId":"13d920c2-afb0-45d8-a7c3-5fcae757c244"},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":8.9324618736383439,"y":29.45736434108527,"width":0.88961503267973852,"height":1.5826872093023254,"action":{"library":"H5P.Shape 1.0","params":{"shape":{"fillColor":"rgb(122, 209, 92)","borderWidth":"0","borderStyle":"solid","borderColor":"rgb(80, 210, 75)","borderRadius":"0"},"type":"circle","line":{"borderColor":"#000000","borderWidth":"1","borderStyle":"solid"}},"subContentId":"c04de6da-31d6-4dcc-8f56-783314f0f851","metadata":{"contentType":"Shapes","license":"U"}},"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false},{"x":12.418300653594772,"y":40.697674418604649,"width":0.88961503267973852,"height":1.5826872093023254,"action":{"library":"H5P.Shape 1.0","params":{"shape":{"fillColor":"rgb(122, 209, 92)","borderWidth":"0","borderStyle":"solid","borderColor":"rgb(80, 210, 75)","borderRadius":"0"},"type":"circle","line":{"borderColor":"#000000","borderWidth":"1","borderStyle":"solid"}},"metadata":{"contentType":"Shapes","license":"U"},"subContentId":"3c0bd2f5-db70-4c1e-860f-b84367a38982"},"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false},{"x":16.122004357298476,"y":52.325581395348834,"width":0.88961503267973852,"height":1.5826872093023254,"action":{"library":"H5P.Shape 1.0","params":{"shape":{"fillColor":"rgb(122, 209, 92)","borderWidth":"0","borderStyle":"solid","borderColor":"rgb(80, 210, 75)","borderRadius":"0"},"type":"circle","line":{"borderColor":"#000000","borderWidth":"1","borderStyle":"solid"}},"metadata":{"contentType":"Shapes","license":"U"},"subContentId":"bc5d126b-aaf7-4ba1-838f-3f76d8b48c15"},"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false},{"x":19.063180827886711,"y":63.95348837209302,"width":0.88961503267973852,"height":1.5826872093023254,"action":{"library":"H5P.Shape 1.0","params":{"shape":{"fillColor":"rgb(122, 209, 92)","borderWidth":"0","borderStyle":"solid","borderColor":"rgb(80, 210, 75)","borderRadius":"0"},"type":"circle","line":{"borderColor":"#000000","borderWidth":"1","borderStyle":"solid"}},"metadata":{"contentType":"Shapes","license":"U"},"subContentId":"aa6b5189-a6d3-4c9e-8f63-1d327d9c529f"},"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false},{"x":25.163398692810457,"y":75.775193798449607,"width":0.88961503267973852,"height":1.5826872093023254,"action":{"library":"H5P.Shape 1.0","params":{"shape":{"fillColor":"rgb(122, 209, 92)","borderWidth":"0","borderStyle":"solid","borderColor":"rgb(80, 210, 75)","borderRadius":"0"},"type":"circle","line":{"borderColor":"#000000","borderWidth":"1","borderStyle":"solid"}},"metadata":{"contentType":"Shapes","license":"U"},"subContentId":"0c6b5731-a74c-420b-88e8-f1bd1dc6b5d4"},"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false},{"x":68.627450980392155,"y":85.200193798449604,"width":26.797385620915033,"height":13.178294573643411,"action":{"library":"H5P.Image 1.1","params":{"contentName":"Image","alt":"Start learning","file":{"path":"images\/file-5cd321234783e.png","mime":"image\/png","copyright":{"license":"U"},"width":366,"height":91}},"subContentId":"8e1b9988-7c5d-4dd4-98ee-7e652c258a28","metadata":{"contentType":"Image","license":"U","title":"Untitled Image","authors":[],"changes":[]}},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":70.806100217864923,"y":85.516860465116267,"width":23.747276688453159,"height":9.3023255813953494,"goToSlide":1,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"next","invisible":true}],"slideBackgroundSelector":{},"keywords":[{"main":"Can do Statements"}]},{"elements":[{"x":4.9019607843137258,"y":3.8759689922480618,"width":90.196078431372555,"height":90.697674418604649,"action":{"library":"H5P.Video 1.5","params":{"visuals":{"fit":true,"controls":true,"poster":{"path":"images\/poster-5ce84305c635e.png#tmp","mime":"image\/png","copyright":{"license":"U"},"width":1920,"height":1080}},"playback":{"autoplay":false,"loop":false},"l10n":{"name":"Video","loading":"Video player loading...","noPlayers":"Found no video players that supports the given video format.","noSources":"Video is missing sources.","aborted":"Media playback has been aborted.","networkFailure":"Network failure.","cannotDecode":"Unable to decode media.","formatNotSupported":"Video format not supported.","mediaEncrypted":"Media encrypted.","unknownError":"Unknown error.","invalidYtId":"Invalid YouTube ID.","unknownYtId":"Unable to find video with the given YouTube ID.","restrictedYt":"The owner of this video does not allow it to be embedded."},"a11y":[{"kind":"subtitles","srcLang":"en","track":{"path":"files\/track-5cd2ca5132170.vtt","mime":"text\/plain","copyright":{"license":"U"}},"label":"Subtitles"}],"sources":[{"path":"videos\/sources-5cd2cad7a713e.mp4","mime":"video\/mp4","copyright":{"license":"U"}}]},"subContentId":"05be15eb-1c27-48c5-a2d9-deb0886fdee7","metadata":{"contentType":"Video","license":"U","title":"What is social value?","authors":[],"changes":[],"extraTitle":"What is social value?"}},"alwaysDisplayComments":false,"backgroundOpacity":50,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":91.28540305010894,"y":38.737015503875973,"width":8.4967320261437909,"height":15.116279069767442,"action":{"library":"H5P.Image 1.1","params":{"contentName":"Image","file":{"path":"images\/file-5cd2df1591fa0.png","mime":"image\/png","copyright":{"license":"U"},"width":190,"height":190},"alt":"Next","title":"Next"},"subContentId":"5f84a962-d2bd-4218-8915-edc19285f636","metadata":{"contentType":"Image","license":"U","title":"Untitled Image","authors":[],"changes":[]}},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":92.592592592592595,"y":38.78546511627907,"width":7.1895424836601309,"height":13.372093023255813,"goToSlide":1,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"next","invisible":true},{"x":0,"y":38.78546511627907,"width":8.4967320261437909,"height":15.116279069767442,"action":{"library":"H5P.Image 1.1","params":{"contentName":"Image","alt":"Back","file":{"path":"images\/file-5cd2deef791f0.png","mime":"image\/png","copyright":{"license":"U"},"width":190,"height":190},"title":"Back"},"metadata":{"contentType":"Image","license":"U","title":"Untitled Image","authors":[],"changes":[]},"subContentId":"c14758d7-d4b4-4b57-98aa-a89b1ef0dc8d"},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":0,"y":38.759689922480618,"width":7.4074074074074074,"height":13.178294573643411,"goToSlide":1,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"previous","invisible":true}],"slideBackgroundSelector":{},"keywords":[{"main":"Video 1"}]},{"elements":[{"x":0,"y":0,"width":99.782135076252729,"height":99.612403100775197,"action":{"library":"H5P.Dialogcards 1.7","params":{"mode":"repetition","description":"","dialogs":[{"tips":{},"text":"<p>Cooperation<\/p>\n","answer":"<p>Cooperation<\/p>\n","image":{"path":"images\/image-5cd0724d1a6d6.png","mime":"image\/png","copyright":{"license":"C"},"width":606,"height":647},"audio":[{"path":"https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3","mime":"audio\/mp3","copyright":{"license":"C"}}]},{"tips":{},"text":"<p>Lesson.Listening.glossary[1].definition<\/p>\n","answer":"<p>Lesson.Listening.glossary[1].term<\/p>\n","image":{"path":"images\/image-5cd07304ab251.png","mime":"image\/png","copyright":{"license":"C"},"width":664,"height":535},"audio":[{"path":"https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3","mime":"audio\/mp3","copyright":{"license":"C"}}]},{"tips":{},"answer":"<p>Lesson.Listening.glossary[2].term<\/p>\n","text":"<p>Lesson.Listening.glossary[2].definition<\/p>\n","image":{"path":"images\/image-5cd0c5824492f.png","mime":"image\/png","copyright":{"license":"C"},"width":606,"height":647},"audio":[{"path":"https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3","mime":"audio\/mp3","copyright":{"license":"C"}}]},{"tips":{},"text":"<p>Lesson.Listening.glossary[3].definition<\/p>\n","answer":"<p>Lesson.Listening.glossary[3].term<\/p>\n","image":{"path":"images\/image-5cd0c58d6398a.png","mime":"image\/png","copyright":{"license":"C"},"width":272,"height":550},"audio":[{"path":"https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3","mime":"audio\/mp3","copyright":{"license":"C"}}]},{"tips":{},"text":"<p>Contribution<\/p>\n","answer":"<p>Contribution<\/p>\n","image":{"path":"images\/image-5cd0c595b1a20.png","mime":"image\/png","copyright":{"license":"C"},"width":272,"height":550},"audio":[{"path":"https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3","mime":"audio\/mp3","copyright":{"license":"C"}}]}],"behaviour":{"enableRetry":false,"disableBackwardsNavigation":false,"scaleTextNotCard":true,"randomCards":true,"maxProficiency":3,"quickProgression":false},"answer":"Turn","next":"Next","prev":"Previous","retry":"Retry","correctAnswer":"I got it right!","incorrectAnswer":"I got it wrong","round":"Round @round","cardsLeft":"Words left: @number","nextRound":"Proceed to round @round","showSummary":"Next","summary":"Summary","summaryCardsRight":"Words you got right:","summaryCardsWrong":"Words you got wrong:","summaryCardsNotShown":"Words in pool not shown:","summaryOverallScore":"Overall Score","summaryCardsCompleted":"Words you have completed learning:","summaryCompletedRounds":"Completed rounds:","summaryAllDone":"Well done! You got all @cards words correct @max times in a row!","progressText":"Words @card of @total","cardFrontLabel":"Card front","cardBackLabel":"Card back","tipButtonLabel":"Show tip","audioNotSupported":"Your browser does not support this audio","title":""},"metadata":{"title":"Listening FlashCards","authors":[{"name":"iDO Learning","role":"Author"}],"license":"C","authorComments":"GeneralEnglishB1_3Lesson1_ActivityName","contentType":"Dialog Cards","changes":[],"extraTitle":"Listening FlashCards"},"subContentId":"6ad31376-7019-4fa7-a284-5ccbc9d71446"},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":0,"y":38.78546511627907,"width":8.4967320261437909,"height":15.116279069767442,"action":{"library":"H5P.Image 1.1","params":{"contentName":"Image","alt":"Back","file":{"path":"images\/file-5cd2deef791f0.png","mime":"image\/png","copyright":{"license":"U"},"width":190,"height":190},"title":"Back"},"subContentId":"fe6a2075-8ff3-4316-96a6-556fd7e2bb08","metadata":{"contentType":"Image","license":"U","title":"Untitled Image","authors":[],"changes":[]}},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":91.28540305010894,"y":38.737015503875973,"width":8.4967320261437909,"height":15.116279069767442,"action":{"library":"H5P.Image 1.1","params":{"contentName":"Image","file":{"path":"images\/file-5cd2df1591fa0.png","mime":"image\/png","copyright":{"license":"U"},"width":190,"height":190},"alt":"Next","title":"Next"},"subContentId":"5f84a962-d2bd-4218-8915-edc19285f636","metadata":{"contentType":"Image","license":"U","title":"Untitled Image","authors":[],"changes":[]}},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":92.374727668845324,"y":38.759689922480618,"width":7.4074074074074074,"height":13.178294573643411,"goToSlide":1,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"next","invisible":true},{"x":0,"y":38.759689922480618,"width":7.4074074074074074,"height":13.178294573643411,"goToSlide":1,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"previous","invisible":true}],"slideBackgroundSelector":{},"keywords":[{"main":"Flashcards 1"}]},{"elements":[{"x":4.9019607843137258,"y":3.8759689922480618,"width":90.196078431372555,"height":90.697674418604649,"action":{"library":"H5P.Video 1.5","params":{"visuals":{"fit":true,"controls":true,"poster":{"path":"images\/poster-5ce8432ec5d2c.png#tmp","mime":"image\/png","copyright":{"license":"U"},"width":1920,"height":1080}},"playback":{"autoplay":false,"loop":false},"l10n":{"name":"Video","loading":"Video player loading...","noPlayers":"Found no video players that supports the given video format.","noSources":"Video is missing sources.","aborted":"Media playback has been aborted.","networkFailure":"Network failure.","cannotDecode":"Unable to decode media.","formatNotSupported":"Video format not supported.","mediaEncrypted":"Media encrypted.","unknownError":"Unknown error.","invalidYtId":"Invalid YouTube ID.","unknownYtId":"Unable to find video with the given YouTube ID.","restrictedYt":"The owner of this video does not allow it to be embedded."},"a11y":[{"kind":"subtitles","srcLang":"en","label":"Subtitles","track":{"path":"files\/track-5cd2f41154bb3.vtt","mime":"text\/plain","copyright":{"license":"U"}}}],"sources":[{"path":"videos\/sources-5cd2f4066a065.mp4","mime":"video\/mp4","copyright":{"license":"U"}}]},"subContentId":"05be15eb-1c27-48c5-a2d9-deb0886fdee7","metadata":{"contentType":"Video","license":"U","title":"The power of Volunteering","authors":[],"changes":[],"extraTitle":"The power of Volunteering"}},"alwaysDisplayComments":false,"backgroundOpacity":50,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":0,"y":38.78546511627907,"width":8.4967320261437909,"height":15.116279069767442,"action":{"library":"H5P.Image 1.1","params":{"contentName":"Image","alt":"Back","file":{"path":"images\/file-5cd2deef791f0.png","mime":"image\/png","copyright":{"license":"U"},"width":190,"height":190},"title":"Back"},"subContentId":"fe6a2075-8ff3-4316-96a6-556fd7e2bb08","metadata":{"contentType":"Image","license":"U","title":"Untitled Image","authors":[],"changes":[]}},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":91.28540305010894,"y":38.737015503875973,"width":8.4967320261437909,"height":15.116279069767442,"action":{"library":"H5P.Image 1.1","params":{"contentName":"Image","file":{"path":"images\/file-5cd2df1591fa0.png","mime":"image\/png","copyright":{"license":"U"},"width":190,"height":190},"alt":"Next","title":"Next"},"subContentId":"5f84a962-d2bd-4218-8915-edc19285f636","metadata":{"contentType":"Image","license":"U","title":"Untitled Image","authors":[],"changes":[]}},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":92.374727668845324,"y":38.759689922480618,"width":7.4074074074074074,"height":13.178294573643411,"goToSlide":1,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"next","invisible":true},{"x":0,"y":38.837209302325583,"width":7.4074074074074074,"height":13.178294573643411,"goToSlide":1,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"previous","invisible":true}],"slideBackgroundSelector":{},"keywords":[{"main":"Video 2"}]},{"elements":[{"x":0,"y":0,"width":99.782135076252729,"height":99.612403100775197,"action":{"library":"H5P.Dialogcards 1.7","params":{"mode":"repetition","description":"","dialogs":[{"tips":{},"text":"<p>Society<\/p>\n","answer":"<p>Lesson.Listening.glossary[1].term<\/p>\n","image":{"path":"images\/image-5cd07304ab251.png","mime":"image\/png","copyright":{"license":"C"},"width":664,"height":535},"audio":[{"path":"https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3","mime":"audio\/mp3","copyright":{"license":"C"}}]},{"tips":{},"answer":"<p>Lesson.Listening.glossary[2].term<\/p>\n","text":"<p>Lesson.Listening.glossary[2].definition<\/p>\n","image":{"path":"images\/image-5cd0c5824492f.png","mime":"image\/png","copyright":{"license":"C"},"width":606,"height":647},"audio":[{"path":"https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3","mime":"audio\/mp3","copyright":{"license":"C"}}]},{"tips":{},"text":"<p>Lesson.Listening.glossary[3].definition<\/p>\n","answer":"<p>Lesson.Listening.glossary[3].term<\/p>\n","image":{"path":"images\/image-5cd0c58d6398a.png","mime":"image\/png","copyright":{"license":"C"},"width":272,"height":550},"audio":[{"path":"https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3","mime":"audio\/mp3","copyright":{"license":"C"}}]},{"tips":{},"text":"<p>Lesson.Listening.glossary[4].definition<\/p>\n","answer":"<p>Lesson.Listening.glossary[4].term<\/p>\n","image":{"path":"images\/image-5cd0c595b1a20.png","mime":"image\/png","copyright":{"license":"C"},"width":272,"height":550},"audio":[{"path":"https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3","mime":"audio\/mp3","copyright":{"license":"C"}}]},{"tips":{},"text":"<p>Community<\/p>\n","answer":"<p>Lesson.Listening.glossary[5].term<\/p>\n","image":{"path":"images\/image-5cd0c5a0db822.png","mime":"image\/png","copyright":{"license":"C"},"width":272,"height":550},"audio":[{"path":"https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3","mime":"audio\/mp3","copyright":{"license":"C"}}]}],"behaviour":{"enableRetry":false,"disableBackwardsNavigation":false,"scaleTextNotCard":true,"randomCards":true,"maxProficiency":3,"quickProgression":false},"answer":"Turn","next":"Next","prev":"Previous","retry":"Retry","correctAnswer":"I got it right!","incorrectAnswer":"I got it wrong","round":"Round @round","cardsLeft":"Words left: @number","nextRound":"Proceed to round @round","showSummary":"Next","summary":"Summary","summaryCardsRight":"Words you got right:","summaryCardsWrong":"Words you got wrong:","summaryCardsNotShown":"Words in pool not shown:","summaryOverallScore":"Overall Score","summaryCardsCompleted":"Words you have completed learning:","summaryCompletedRounds":"Completed rounds:","summaryAllDone":"Well done! You got all @cards words correct @max times in a row!","progressText":"Words @card of @total","cardFrontLabel":"Card front","cardBackLabel":"Card back","tipButtonLabel":"Show tip","audioNotSupported":"Your browser does not support this audio","title":""},"metadata":{"title":"Writing FlashCards","authors":[{"name":"iDO Learning","role":"Author"}],"license":"C","authorComments":"GeneralEnglishB1_3Lesson1_ActivityName","contentType":"Dialog Cards","changes":[],"extraTitle":"Writing FlashCards"},"subContentId":"f20014ee-59a7-4a2d-ad9c-4c6b2b6258e1"},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":0,"y":38.78546511627907,"width":8.4967320261437909,"height":15.116279069767442,"action":{"library":"H5P.Image 1.1","params":{"contentName":"Image","alt":"Back","file":{"path":"images\/file-5cd2deef791f0.png","mime":"image\/png","copyright":{"license":"U"},"width":190,"height":190},"title":"Back"},"subContentId":"fe6a2075-8ff3-4316-96a6-556fd7e2bb08","metadata":{"contentType":"Image","license":"U","title":"Untitled Image","authors":[],"changes":[]}},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":91.28540305010894,"y":38.737015503875973,"width":8.4967320261437909,"height":15.116279069767442,"action":{"library":"H5P.Image 1.1","params":{"contentName":"Image","file":{"path":"images\/file-5cd2df1591fa0.png","mime":"image\/png","copyright":{"license":"U"},"width":190,"height":190},"alt":"Next","title":"Next"},"subContentId":"5f84a962-d2bd-4218-8915-edc19285f636","metadata":{"contentType":"Image","license":"U","title":"Untitled Image","authors":[],"changes":[]}},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":92.374727668845324,"y":38.759689922480618,"width":7.4074074074074074,"height":13.178294573643411,"goToSlide":1,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"next","invisible":true},{"x":0,"y":38.837209302325583,"width":7.4074074074074074,"height":13.178294573643411,"goToSlide":1,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"previous","invisible":true}],"slideBackgroundSelector":{},"keywords":[{"main":"Flashcards 2"}]},{"elements":[{"x":4.9019607843137258,"y":3.8759689922480618,"width":90.196078431372555,"height":90.697674418604649,"action":{"library":"H5P.Video 1.5","params":{"visuals":{"fit":true,"controls":true,"poster":{"path":"images\/poster-5ce8437bc7fac.png#tmp","mime":"image\/png","copyright":{"license":"U","title":"Lesson.Reading.context.poster"},"width":1920,"height":1080}},"playback":{"autoplay":false,"loop":false},"l10n":{"name":"Video","loading":"Video player loading...","noPlayers":"Found no video players that supports the given video format.","noSources":"Video is missing sources.","aborted":"Media playback has been aborted.","networkFailure":"Network failure.","cannotDecode":"Unable to decode media.","formatNotSupported":"Video format not supported.","mediaEncrypted":"Media encrypted.","unknownError":"Unknown error.","invalidYtId":"Invalid YouTube ID.","unknownYtId":"Unable to find video with the given YouTube ID.","restrictedYt":"The owner of this video does not allow it to be embedded."},"a11y":[{"kind":"subtitles","srcLang":"en","label":"Subtitles","track":{"path":"files\/track-5cd2f4364d8d5.vtt","mime":"text\/plain","copyright":{"license":"U"}}}],"sources":[{"path":"videos\/sources-5cd2f4260112d.MP4","mime":"video\/mp4","copyright":{"license":"U"}}]},"subContentId":"05be15eb-1c27-48c5-a2d9-deb0886fdee7","metadata":{"contentType":"Video","license":"U","title":"How social investing can change the world","authors":[],"changes":[],"extraTitle":"How social investing can change the world"}},"alwaysDisplayComments":false,"backgroundOpacity":50,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":0,"y":38.78546511627907,"width":8.4967320261437909,"height":15.116279069767442,"action":{"library":"H5P.Image 1.1","params":{"contentName":"Image","alt":"Back","file":{"path":"images\/file-5cd2deef791f0.png","mime":"image\/png","copyright":{"license":"U"},"width":190,"height":190},"title":"Back"},"subContentId":"fe6a2075-8ff3-4316-96a6-556fd7e2bb08","metadata":{"contentType":"Image","license":"U","title":"Untitled Image","authors":[],"changes":[]}},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":91.28540305010894,"y":38.737015503875973,"width":8.4967320261437909,"height":15.116279069767442,"action":{"library":"H5P.Image 1.1","params":{"contentName":"Image","file":{"path":"images\/file-5cd2df1591fa0.png","mime":"image\/png","copyright":{"license":"U"},"width":190,"height":190},"alt":"Next","title":"Next"},"subContentId":"5f84a962-d2bd-4218-8915-edc19285f636","metadata":{"contentType":"Image","license":"U","title":"Untitled Image","authors":[],"changes":[]}},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":92.374727668845324,"y":38.759689922480618,"width":7.4074074074074074,"height":13.178294573643411,"goToSlide":1,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"next","invisible":true},{"x":0,"y":38.837209302325583,"width":7.4074074074074074,"height":13.178294573643411,"goToSlide":1,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"previous","invisible":true}],"slideBackgroundSelector":{},"keywords":[{"main":"Video 3"}]},{"elements":[{"x":0,"y":0,"width":99.782135076252729,"height":99.612403100775197,"action":{"library":"H5P.Dialogcards 1.7","params":{"mode":"repetition","description":"","dialogs":[{"tips":{},"text":"<p>Improvement<\/p>\n","answer":"<p>Lesson.Listening.glossary[0].term<\/p>\n","image":{"path":"images\/image-5cd0724d1a6d6.png","mime":"image\/png","copyright":{"license":"C"},"width":606,"height":647},"audio":[{"path":"https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3","mime":"audio\/mp3","copyright":{"license":"C"}}]},{"tips":{},"text":"<p>Lesson.Listening.glossary[1].definition<\/p>\n","answer":"<p>Lesson.Listening.glossary[1].term<\/p>\n","image":{"path":"images\/image-5cd07304ab251.png","mime":"image\/png","copyright":{"license":"C"},"width":664,"height":535},"audio":[{"path":"https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3","mime":"audio\/mp3","copyright":{"license":"C"}}]},{"tips":{},"answer":"<p>Lesson.Listening.glossary[2].term<\/p>\n","text":"<p>Lesson.Listening.glossary[2].definition<\/p>\n","image":{"path":"images\/image-5cd0c5824492f.png","mime":"image\/png","copyright":{"license":"C"},"width":606,"height":647},"audio":[{"path":"https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3","mime":"audio\/mp3","copyright":{"license":"C"}}]},{"tips":{},"text":"<p>Lesson.Listening.glossary[4].definition<\/p>\n","answer":"<p>Lesson.Listening.glossary[4].term<\/p>\n","image":{"path":"images\/image-5cd0c595b1a20.png","mime":"image\/png","copyright":{"license":"C"},"width":272,"height":550},"audio":[{"path":"https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3","mime":"audio\/mp3","copyright":{"license":"C"}}]},{"tips":{},"text":"<p>Lesson.Listening.glossary[6].definition<\/p>\n","answer":"<p>Program<\/p>\n","image":{"path":"images\/image-5cd0c5a85365b.png","mime":"image\/png","copyright":{"license":"C"},"width":272,"height":550},"audio":[{"path":"https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3","mime":"audio\/mp3","copyright":{"license":"C"}}]}],"behaviour":{"enableRetry":false,"disableBackwardsNavigation":false,"scaleTextNotCard":true,"randomCards":true,"maxProficiency":3,"quickProgression":false},"answer":"Turn","next":"Next","prev":"Previous","retry":"Retry","correctAnswer":"I got it right!","incorrectAnswer":"I got it wrong","round":"Round @round","cardsLeft":"Words left: @number","nextRound":"Proceed to round @round","showSummary":"Next","summary":"Summary","summaryCardsRight":"Words you got right:","summaryCardsWrong":"Words you got wrong:","summaryCardsNotShown":"Words in pool not shown:","summaryOverallScore":"Overall Score","summaryCardsCompleted":"Words you have completed learning:","summaryCompletedRounds":"Completed rounds:","summaryAllDone":"Well done! You got all @cards words correct @max times in a row!","progressText":"Words @card of @total","cardFrontLabel":"Card front","cardBackLabel":"Card back","tipButtonLabel":"Show tip","audioNotSupported":"Your browser does not support this audio","title":""},"metadata":{"title":"Reading FlashCards","authors":[{"name":"iDO Learning","role":"Author"}],"license":"C","authorComments":"GeneralEnglishB1_3Lesson1_ActivityName","contentType":"Dialog Cards","changes":[],"extraTitle":"Reading FlashCards"},"subContentId":"ac79a73a-d224-455a-9c93-ccc8482f0bf9"},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":0,"y":38.78546511627907,"width":8.4967320261437909,"height":15.116279069767442,"action":{"library":"H5P.Image 1.1","params":{"contentName":"Image","alt":"Back","file":{"path":"images\/file-5cd2deef791f0.png","mime":"image\/png","copyright":{"license":"U"},"width":190,"height":190},"title":"Back"},"subContentId":"fe6a2075-8ff3-4316-96a6-556fd7e2bb08","metadata":{"contentType":"Image","license":"U","title":"Untitled Image","authors":[],"changes":[]}},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":91.28540305010894,"y":38.737015503875973,"width":8.4967320261437909,"height":15.116279069767442,"action":{"library":"H5P.Image 1.1","params":{"contentName":"Image","file":{"path":"images\/file-5cd2df1591fa0.png","mime":"image\/png","copyright":{"license":"U"},"width":190,"height":190},"alt":"Next","title":"Next"},"subContentId":"5f84a962-d2bd-4218-8915-edc19285f636","metadata":{"contentType":"Image","license":"U","title":"Untitled Image","authors":[],"changes":[]}},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":92.374727668845324,"y":38.759689922480618,"width":7.4074074074074074,"height":13.178294573643411,"goToSlide":1,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"next","invisible":true},{"x":0,"y":38.837209302325583,"width":7.4074074074074074,"height":13.178294573643411,"goToSlide":1,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"previous","invisible":true}],"slideBackgroundSelector":{},"keywords":[{"main":"Flashcards 3"}]},{"elements":[{"x":4.9019607843137258,"y":3.8759689922480618,"width":90.196078431372555,"height":90.697674418604649,"action":{"library":"H5P.Video 1.5","params":{"visuals":{"fit":true,"controls":true,"poster":{"path":"images\/poster-5ce843ca8c6ae.png#tmp","mime":"image\/png","copyright":{"license":"U"},"width":1920,"height":1080}},"playback":{"autoplay":false,"loop":false},"l10n":{"name":"Video","loading":"Video player loading...","noPlayers":"Found no video players that supports the given video format.","noSources":"Video is missing sources.","aborted":"Media playback has been aborted.","networkFailure":"Network failure.","cannotDecode":"Unable to decode media.","formatNotSupported":"Video format not supported.","mediaEncrypted":"Media encrypted.","unknownError":"Unknown error.","invalidYtId":"Invalid YouTube ID.","unknownYtId":"Unable to find video with the given YouTube ID.","restrictedYt":"The owner of this video does not allow it to be embedded."},"a11y":[{"kind":"subtitles","srcLang":"en","label":"Subtitles","track":{"path":"files\/track-5cd2f458973f8.vtt","mime":"text\/plain","copyright":{"license":"U"}}}],"sources":[{"path":"videos\/sources-5cd2f44ae4f02.MP4","mime":"video\/mp4","copyright":{"license":"U"}}]},"subContentId":"05be15eb-1c27-48c5-a2d9-deb0886fdee7","metadata":{"contentType":"Video","license":"U","title":"B1.3_Unit7_Lesson19_10.png","authors":[],"changes":[],"extraTitle":"B1.3_Unit7_Lesson19_10.png"}},"alwaysDisplayComments":false,"backgroundOpacity":50,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":0,"y":38.78546511627907,"width":8.4967320261437909,"height":15.116279069767442,"action":{"library":"H5P.Image 1.1","params":{"contentName":"Image","alt":"Back","file":{"path":"images\/file-5cd2deef791f0.png","mime":"image\/png","copyright":{"license":"U"},"width":190,"height":190},"title":"Back"},"subContentId":"fe6a2075-8ff3-4316-96a6-556fd7e2bb08","metadata":{"contentType":"Image","license":"U","title":"Untitled Image","authors":[],"changes":[]}},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":91.28540305010894,"y":38.737015503875973,"width":8.4967320261437909,"height":15.116279069767442,"action":{"library":"H5P.Image 1.1","params":{"contentName":"Image","file":{"path":"images\/file-5cd2df1591fa0.png","mime":"image\/png","copyright":{"license":"U"},"width":190,"height":190},"alt":"Next","title":"Next"},"subContentId":"5f84a962-d2bd-4218-8915-edc19285f636","metadata":{"contentType":"Image","license":"U","title":"Untitled Image","authors":[],"changes":[]}},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":92.374727668845324,"y":38.759689922480618,"width":7.4074074074074074,"height":13.178294573643411,"goToSlide":1,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"next","invisible":true},{"x":0,"y":38.837209302325583,"width":7.4074074074074074,"height":13.178294573643411,"goToSlide":1,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"previous","invisible":true}],"slideBackgroundSelector":{},"keywords":[{"main":"Video 4"}]},{"elements":[{"x":0,"y":38.78546511627907,"width":8.4967320261437909,"height":15.116279069767442,"action":{"library":"H5P.Image 1.1","params":{"contentName":"Image","alt":"Back","file":{"path":"images\/file-5cd2deef791f0.png","mime":"image\/png","copyright":{"license":"U"},"width":190,"height":190},"title":"Back"},"subContentId":"fe6a2075-8ff3-4316-96a6-556fd7e2bb08","metadata":{"contentType":"Image","license":"U","title":"Untitled Image","authors":[],"changes":[]}},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":0,"y":38.837209302325583,"width":7.4074074074074074,"height":13.178294573643411,"goToSlide":1,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"previous","invisible":true},{"x":35.947712418300654,"y":21.31782945736434,"width":27.015250544662312,"height":48.062015503875969,"action":{"library":"H5P.Image 1.1","params":{"contentName":"Image","file":{"path":"images\/file-5cd3129d393f9.png","mime":"image\/png","copyright":{"license":"U"},"width":205,"height":205},"alt":"Completed"},"subContentId":"c076f187-5b05-4767-83d2-049d79ed4ea7","metadata":{"contentType":"Image","license":"U","title":"Untitled Image","authors":[],"changes":[]}},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":0,"y":73.075000000000003,"width":99.782135076252729,"height":20.930232558139533,"action":{"library":"H5P.AdvancedText 1.1","params":{"text":"<h3 style=\"text-align: center;\"><strong><span style=\"color:#00b3e1;\">Awesome! you have completed the learn and discover section<\/span><\/strong><\/h3>\n\n<h3 style=\"text-align: center;\"><strong><span style=\"color:#00b3e1;\">You may exit this activity and continue learning<\/span><\/strong><\/h3>\n"},"subContentId":"c5f38371-b86d-4cdf-b224-91e6f2b1d210","metadata":{"contentType":"Text","license":"U","title":"Untitled Text","authors":[],"changes":[]}},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":0,"y":59.496124031007753,"width":18.701916683270809,"height":40,"action":{"library":"H5P.Image 1.1","params":{"contentName":"Image","file":{"path":"images\/file-5cd319ae660da.png","mime":"image\/png","copyright":{"license":"U"},"width":302,"height":327},"alt":"corner"},"subContentId":"0ce8cd63-8062-49d7-ab0a-a683f5eafe95","metadata":{"contentType":"Image","license":"U","title":"Untitled Image","authors":[],"changes":[]}},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""},{"x":68.191721132897612,"y":0,"width":31.590138206854657,"height":40,"action":{"library":"H5P.Image 1.1","params":{"contentName":"Image","file":{"path":"images\/file-5cd319ef39cc8.png","mime":"image\/png","copyright":{"license":"U"},"width":585,"height":375},"alt":"corner"},"subContentId":"13cc39e6-9131-4a18-8420-e9e44272a440","metadata":{"contentType":"Image","license":"U","title":"Untitled Image","authors":[],"changes":[]}},"alwaysDisplayComments":false,"backgroundOpacity":0,"displayAsButton":false,"buttonSize":"big","goToSlideType":"specified","invisible":false,"solution":""}],"slideBackgroundSelector":{}}],"keywordListEnabled":false,"globalBackgroundSelector":{"fillGlobalBackground":"#ffffff"},"keywordListAlwaysShow":false,"keywordListAutoHide":false,"keywordListOpacity":90},"override":{"activeSurface":true,"hideSummarySlide":false,"enablePrintButton":false,"social":{"showFacebookShare":false,"facebookShare":{"url":"@currentpageurl","quote":"I scored @score out of @maxScore on a task at @currentpageurl."},"showTwitterShare":false,"twitterShare":{"statement":"I scored @score out of @maxScore on a task at @currentpageurl.","url":"@currentpageurl","hashtags":"h5p, course"},"showGoogleShare":false,"googleShareUrl":"@currentpageurl"}},"l10n":{"slide":"Slide","score":"Score","yourScore":"Your Score","maxScore":"Max Score","total":"Total","totalScore":"Total Score","showSolutions":"Show solutions","retry":"Retry","exportAnswers":"Export text","hideKeywords":"Hide keywords list","showKeywords":"Show keywords list","fullscreen":"Fullscreen","exitFullscreen":"Exit fullscreen","prevSlide":"Previous slide","nextSlide":"Next slide","currentSlide":"Current slide","lastSlide":"Last slide","solutionModeTitle":"Exit solution mode","solutionModeText":"Solution Mode","summaryMultipleTaskText":"Multiple tasks","scoreMessage":"You achieved:","shareFacebook":"Share on Facebook","shareTwitter":"Share on Twitter","shareGoogle":"Share on Google+","summary":"Summary","solutionsButtonTitle":"Show comments","printTitle":"Print","printIngress":"How would you like to print this presentation?","printAllSlides":"Print all slides","printCurrentSlide":"Print current slide","noTitle":"No title","accessibilitySlideNavigationExplanation":"Use left and right arrow to change slide in that direction whenever canvas is selected.","accessibilityCanvasLabel":"Presentation canvas. Use left and right arrow to move between slides.","containsNotCompleted":"@slideName contains not completed interaction","containsCompleted":"@slideName contains completed interaction","slideCount":"Slide @index of @total","containsOnlyCorrect":"@slideName only has correct answers","containsIncorrectAnswers":"@slideName has incorrect answers","shareResult":"Share Result","accessibilityTotalScore":"You got @score of @maxScore points in total"}}
+{
+    "presentation": {
+        "slides": [
+            {
+                "elements": [
+                    {
+                        "x": 61.873638344226585,
+                        "y": 0,
+                        "width": 37.908496732026144,
+                        "height": 57.751937984496124,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-5cd2fdd75a5a8.png",
+                                    "mime": "image\/png",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 1083,
+                                    "height": 924
+                                },
+                                "alt": "Ask yourself"
+                            },
+                            "subContentId": "6aee16eb-59bd-4476-a987-a4a2e5c44e8a",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 0,
+                        "y": 59.496124031007753,
+                        "width": 18.701916683270809,
+                        "height": 40,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-5cd2fe5322f1d.png",
+                                    "mime": "image\/png",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 302,
+                                    "height": 327
+                                },
+                                "alt": "Ask"
+                            },
+                            "subContentId": "6d4e17da-e8b6-4cd7-bb61-b54a19c7e07a",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 20.697167755991288,
+                        "y": 3.8759689922480618,
+                        "width": 32.46187363834423,
+                        "height": 9.3023255813953494,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<h2><span style=\"color:#3498db;\"><span style=\"font-size:1.5em;\">Ask yourself:<\/span><\/span><\/h2>\n"
+                            },
+                            "subContentId": "05f995be-b613-481a-aa86-08b62d4e607a",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Text 1",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 8.7145969498910674,
+                        "y": 15.503875968992247,
+                        "width": 32.46187363834423,
+                        "height": 9.3023255813953494,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<h2><span style=\"font-size:1.25em;\">How can you?<\/span><\/h2>\n"
+                            },
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Text 1",
+                                "authors": [],
+                                "changes": []
+                            },
+                            "subContentId": "9e339b47-2d8c-4a8c-b5de-f70c044fccd9"
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 10.893246187363834,
+                        "y": 27.151162790697676,
+                        "width": 65.141612200435731,
+                        "height": 12.209302325581396,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<p><span style=\"font-size:1.5em;\"><strong>Talk about ways to improve the world.<\/strong><\/span><\/p>\n"
+                            },
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Text 1",
+                                "authors": [],
+                                "changes": []
+                            },
+                            "subContentId": "de6580c9-6519-459c-9052-4dbaa2fef4b8"
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 14.161220043572984,
+                        "y": 38.78546511627907,
+                        "width": 65.141612200435731,
+                        "height": 12.209302325581396,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<p><span style=\"font-size:1.5em;\"><strong>Discuss how every member of society can become better.<\/strong><\/span><\/p>\n"
+                            },
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Text 1",
+                                "authors": [],
+                                "changes": []
+                            },
+                            "subContentId": "a2dda9eb-d6d5-41c5-ba7d-7a262ab2aab7"
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 17.864923747276691,
+                        "y": 50.423062015503874,
+                        "width": 65.141612200435731,
+                        "height": 12.209302325581396,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<p><span style=\"font-size:1.5em;\"><strong>Describe the difference between social value nowadays and in the past.<\/strong><\/span><\/p>\n"
+                            },
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Text 1",
+                                "authors": [],
+                                "changes": []
+                            },
+                            "subContentId": "a365fdcd-f6ac-40c1-81c1-456703801c3d"
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 20.697167755991288,
+                        "y": 62.060658914728684,
+                        "width": 65.141612200435731,
+                        "height": 12.209302325581396,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<p><span style=\"font-size:1.5em;\"><strong>Discuss how you collaborate with others.<\/strong><\/span><\/p>\n"
+                            },
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Text 1",
+                                "authors": [],
+                                "changes": []
+                            },
+                            "subContentId": "7e392580-076f-42de-af53-b8a2cb46f59c"
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 26.906318082788673,
+                        "y": 73.69515503875968,
+                        "width": 65.141612200435731,
+                        "height": 12.209302325581396,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<p><span style=\"font-size:1.5em;\"><strong>Talk about the best way to change society<\/strong><\/span><\/p>\n"
+                            },
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Text 1",
+                                "authors": [],
+                                "changes": []
+                            },
+                            "subContentId": "13d920c2-afb0-45d8-a7c3-5fcae757c244"
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 8.9324618736383439,
+                        "y": 29.45736434108527,
+                        "width": 0.88961503267973852,
+                        "height": 1.5826872093023254,
+                        "action": {
+                            "library": "H5P.Shape 1.0",
+                            "params": {
+                                "shape": {
+                                    "fillColor": "rgb(122, 209, 92)",
+                                    "borderWidth": "0",
+                                    "borderStyle": "solid",
+                                    "borderColor": "rgb(80, 210, 75)",
+                                    "borderRadius": "0"
+                                },
+                                "type": "circle",
+                                "line": {
+                                    "borderColor": "#000000",
+                                    "borderWidth": "1",
+                                    "borderStyle": "solid"
+                                }
+                            },
+                            "subContentId": "c04de6da-31d6-4dcc-8f56-783314f0f851",
+                            "metadata": {
+                                "contentType": "Shapes",
+                                "license": "U"
+                            }
+                        },
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 12.418300653594772,
+                        "y": 40.697674418604649,
+                        "width": 0.88961503267973852,
+                        "height": 1.5826872093023254,
+                        "action": {
+                            "library": "H5P.Shape 1.0",
+                            "params": {
+                                "shape": {
+                                    "fillColor": "rgb(122, 209, 92)",
+                                    "borderWidth": "0",
+                                    "borderStyle": "solid",
+                                    "borderColor": "rgb(80, 210, 75)",
+                                    "borderRadius": "0"
+                                },
+                                "type": "circle",
+                                "line": {
+                                    "borderColor": "#000000",
+                                    "borderWidth": "1",
+                                    "borderStyle": "solid"
+                                }
+                            },
+                            "metadata": {
+                                "contentType": "Shapes",
+                                "license": "U"
+                            },
+                            "subContentId": "3c0bd2f5-db70-4c1e-860f-b84367a38982"
+                        },
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 16.122004357298476,
+                        "y": 52.325581395348834,
+                        "width": 0.88961503267973852,
+                        "height": 1.5826872093023254,
+                        "action": {
+                            "library": "H5P.Shape 1.0",
+                            "params": {
+                                "shape": {
+                                    "fillColor": "rgb(122, 209, 92)",
+                                    "borderWidth": "0",
+                                    "borderStyle": "solid",
+                                    "borderColor": "rgb(80, 210, 75)",
+                                    "borderRadius": "0"
+                                },
+                                "type": "circle",
+                                "line": {
+                                    "borderColor": "#000000",
+                                    "borderWidth": "1",
+                                    "borderStyle": "solid"
+                                }
+                            },
+                            "metadata": {
+                                "contentType": "Shapes",
+                                "license": "U"
+                            },
+                            "subContentId": "bc5d126b-aaf7-4ba1-838f-3f76d8b48c15"
+                        },
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 19.063180827886711,
+                        "y": 63.95348837209302,
+                        "width": 0.88961503267973852,
+                        "height": 1.5826872093023254,
+                        "action": {
+                            "library": "H5P.Shape 1.0",
+                            "params": {
+                                "shape": {
+                                    "fillColor": "rgb(122, 209, 92)",
+                                    "borderWidth": "0",
+                                    "borderStyle": "solid",
+                                    "borderColor": "rgb(80, 210, 75)",
+                                    "borderRadius": "0"
+                                },
+                                "type": "circle",
+                                "line": {
+                                    "borderColor": "#000000",
+                                    "borderWidth": "1",
+                                    "borderStyle": "solid"
+                                }
+                            },
+                            "metadata": {
+                                "contentType": "Shapes",
+                                "license": "U"
+                            },
+                            "subContentId": "aa6b5189-a6d3-4c9e-8f63-1d327d9c529f"
+                        },
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 25.163398692810457,
+                        "y": 75.775193798449607,
+                        "width": 0.88961503267973852,
+                        "height": 1.5826872093023254,
+                        "action": {
+                            "library": "H5P.Shape 1.0",
+                            "params": {
+                                "shape": {
+                                    "fillColor": "rgb(122, 209, 92)",
+                                    "borderWidth": "0",
+                                    "borderStyle": "solid",
+                                    "borderColor": "rgb(80, 210, 75)",
+                                    "borderRadius": "0"
+                                },
+                                "type": "circle",
+                                "line": {
+                                    "borderColor": "#000000",
+                                    "borderWidth": "1",
+                                    "borderStyle": "solid"
+                                }
+                            },
+                            "metadata": {
+                                "contentType": "Shapes",
+                                "license": "U"
+                            },
+                            "subContentId": "0c6b5731-a74c-420b-88e8-f1bd1dc6b5d4"
+                        },
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false
+                    },
+                    {
+                        "x": 68.627450980392155,
+                        "y": 85.200193798449604,
+                        "width": 26.797385620915033,
+                        "height": 13.178294573643411,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "alt": "Start learning",
+                                "file": {
+                                    "path": "images\/file-5cd321234783e.png",
+                                    "mime": "image\/png",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 366,
+                                    "height": 91
+                                }
+                            },
+                            "subContentId": "8e1b9988-7c5d-4dd4-98ee-7e652c258a28",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 70.806100217864923,
+                        "y": 85.516860465116267,
+                        "width": 23.747276688453159,
+                        "height": 9.3023255813953494,
+                        "goToSlide": 1,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "next",
+                        "invisible": true
+                    }
+                ],
+                "slideBackgroundSelector": {},
+                "keywords": [
+                    {
+                        "main": "Can do Statements"
+                    }
+                ]
+            },
+            {
+                "elements": [
+                    {
+                        "x": 4.9019607843137258,
+                        "y": 3.8759689922480618,
+                        "width": 90.196078431372555,
+                        "height": 90.697674418604649,
+                        "action": {
+                            "library": "H5P.Video 1.5",
+                            "params": {
+                                "visuals": {
+                                    "fit": true,
+                                    "controls": true,
+                                    "poster": {
+                                        "path": "images\/poster-5ce84305c635e.png#tmp",
+                                        "mime": "image\/png",
+                                        "copyright": {
+                                            "license": "U"
+                                        },
+                                        "width": 1920,
+                                        "height": 1080
+                                    }
+                                },
+                                "playback": {
+                                    "autoplay": false,
+                                    "loop": false
+                                },
+                                "l10n": {
+                                    "name": "Video",
+                                    "loading": "Video player loading...",
+                                    "noPlayers": "Found no video players that supports the given video format.",
+                                    "noSources": "Video is missing sources.",
+                                    "aborted": "Media playback has been aborted.",
+                                    "networkFailure": "Network failure.",
+                                    "cannotDecode": "Unable to decode media.",
+                                    "formatNotSupported": "Video format not supported.",
+                                    "mediaEncrypted": "Media encrypted.",
+                                    "unknownError": "Unknown error.",
+                                    "invalidYtId": "Invalid YouTube ID.",
+                                    "unknownYtId": "Unable to find video with the given YouTube ID.",
+                                    "restrictedYt": "The owner of this video does not allow it to be embedded."
+                                },
+                                "a11y": [
+                                    {
+                                        "kind": "subtitles",
+                                        "srcLang": "en",
+                                        "track": {
+                                            "path": "files\/track-5cd2ca5132170.vtt",
+                                            "mime": "text\/plain",
+                                            "copyright": {
+                                                "license": "U"
+                                            }
+                                        },
+                                        "label": "Subtitles"
+                                    }
+                                ],
+                                "sources": [
+                                    {
+                                        "path": "videos\/sources-5cd2cad7a713e.mp4",
+                                        "mime": "video\/mp4",
+                                        "copyright": {
+                                            "license": "U"
+                                        }
+                                    }
+                                ]
+                            },
+                            "subContentId": "05be15eb-1c27-48c5-a2d9-deb0886fdee7",
+                            "metadata": {
+                                "contentType": "Video",
+                                "license": "U",
+                                "title": "What is social value?",
+                                "authors": [],
+                                "changes": [],
+                                "extraTitle": "What is social value?"
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 50,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 91.28540305010894,
+                        "y": 38.737015503875973,
+                        "width": 8.4967320261437909,
+                        "height": 15.116279069767442,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-5cd2df1591fa0.png",
+                                    "mime": "image\/png",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 190,
+                                    "height": 190
+                                },
+                                "alt": "Next",
+                                "title": "Next"
+                            },
+                            "subContentId": "5f84a962-d2bd-4218-8915-edc19285f636",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 92.592592592592595,
+                        "y": 38.78546511627907,
+                        "width": 7.1895424836601309,
+                        "height": 13.372093023255813,
+                        "goToSlide": 1,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "next",
+                        "invisible": true
+                    },
+                    {
+                        "x": 0,
+                        "y": 38.78546511627907,
+                        "width": 8.4967320261437909,
+                        "height": 15.116279069767442,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "alt": "Back",
+                                "file": {
+                                    "path": "images\/file-5cd2deef791f0.png",
+                                    "mime": "image\/png",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 190,
+                                    "height": 190
+                                },
+                                "title": "Back"
+                            },
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image",
+                                "authors": [],
+                                "changes": []
+                            },
+                            "subContentId": "c14758d7-d4b4-4b57-98aa-a89b1ef0dc8d"
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 0,
+                        "y": 38.759689922480618,
+                        "width": 7.4074074074074074,
+                        "height": 13.178294573643411,
+                        "goToSlide": 1,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "previous",
+                        "invisible": true
+                    }
+                ],
+                "slideBackgroundSelector": {},
+                "keywords": [
+                    {
+                        "main": "Video 1"
+                    }
+                ]
+            },
+            {
+                "elements": [
+                    {
+                        "x": 0,
+                        "y": 0,
+                        "width": 99.782135076252729,
+                        "height": 99.612403100775197,
+                        "action": {
+                            "library": "H5P.Dialogcards 1.7",
+                            "params": {
+                                "mode": "repetition",
+                                "description": "",
+                                "dialogs": [
+                                    {
+                                        "tips": {},
+                                        "text": "<p>Cooperation<\/p>\n",
+                                        "answer": "<p>Cooperation<\/p>\n",
+                                        "image": {
+                                            "path": "images\/image-5cd0724d1a6d6.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "C"
+                                            },
+                                            "width": 606,
+                                            "height": 647
+                                        },
+                                        "audio": [
+                                            {
+                                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
+                                                "mime": "audio\/mp3",
+                                                "copyright": {
+                                                    "license": "C"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "tips": {},
+                                        "text": "<p>Lesson.Listening.glossary[1].definition<\/p>\n",
+                                        "answer": "<p>Lesson.Listening.glossary[1].term<\/p>\n",
+                                        "image": {
+                                            "path": "images\/image-5cd07304ab251.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "C"
+                                            },
+                                            "width": 664,
+                                            "height": 535
+                                        },
+                                        "audio": [
+                                            {
+                                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
+                                                "mime": "audio\/mp3",
+                                                "copyright": {
+                                                    "license": "C"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "tips": {},
+                                        "answer": "<p>Lesson.Listening.glossary[2].term<\/p>\n",
+                                        "text": "<p>Lesson.Listening.glossary[2].definition<\/p>\n",
+                                        "image": {
+                                            "path": "images\/image-5cd0c5824492f.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "C"
+                                            },
+                                            "width": 606,
+                                            "height": 647
+                                        },
+                                        "audio": [
+                                            {
+                                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
+                                                "mime": "audio\/mp3",
+                                                "copyright": {
+                                                    "license": "C"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "tips": {},
+                                        "text": "<p>Lesson.Listening.glossary[3].definition<\/p>\n",
+                                        "answer": "<p>Lesson.Listening.glossary[3].term<\/p>\n",
+                                        "image": {
+                                            "path": "images\/image-5cd0c58d6398a.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "C"
+                                            },
+                                            "width": 272,
+                                            "height": 550
+                                        },
+                                        "audio": [
+                                            {
+                                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
+                                                "mime": "audio\/mp3",
+                                                "copyright": {
+                                                    "license": "C"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "tips": {},
+                                        "text": "<p>Contribution<\/p>\n",
+                                        "answer": "<p>Contribution<\/p>\n",
+                                        "image": {
+                                            "path": "images\/image-5cd0c595b1a20.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "C"
+                                            },
+                                            "width": 272,
+                                            "height": 550
+                                        },
+                                        "audio": [
+                                            {
+                                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
+                                                "mime": "audio\/mp3",
+                                                "copyright": {
+                                                    "license": "C"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "behaviour": {
+                                    "enableRetry": false,
+                                    "disableBackwardsNavigation": false,
+                                    "scaleTextNotCard": true,
+                                    "randomCards": true,
+                                    "maxProficiency": 3,
+                                    "quickProgression": false
+                                },
+                                "answer": "Turn",
+                                "next": "Next",
+                                "prev": "Previous",
+                                "retry": "Retry",
+                                "correctAnswer": "I got it right!",
+                                "incorrectAnswer": "I got it wrong",
+                                "round": "Round @round",
+                                "cardsLeft": "Words left: @number",
+                                "nextRound": "Proceed to round @round",
+                                "showSummary": "Next",
+                                "summary": "Summary",
+                                "summaryCardsRight": "Words you got right:",
+                                "summaryCardsWrong": "Words you got wrong:",
+                                "summaryCardsNotShown": "Words in pool not shown:",
+                                "summaryOverallScore": "Overall Score",
+                                "summaryCardsCompleted": "Words you have completed learning:",
+                                "summaryCompletedRounds": "Completed rounds:",
+                                "summaryAllDone": "Well done! You got all @cards words correct @max times in a row!",
+                                "progressText": "Words @card of @total",
+                                "cardFrontLabel": "Card front",
+                                "cardBackLabel": "Card back",
+                                "tipButtonLabel": "Show tip",
+                                "audioNotSupported": "Your browser does not support this audio",
+                                "title": ""
+                            },
+                            "metadata": {
+                                "title": "Listening FlashCards",
+                                "authors": [
+                                    {
+                                        "name": "iDO Learning",
+                                        "role": "Author"
+                                    }
+                                ],
+                                "license": "C",
+                                "authorComments": "GeneralEnglishB1_3Lesson1_ActivityName",
+                                "contentType": "Dialog Cards",
+                                "changes": [],
+                                "extraTitle": "Listening FlashCards"
+                            },
+                            "subContentId": "6ad31376-7019-4fa7-a284-5ccbc9d71446"
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 0,
+                        "y": 38.78546511627907,
+                        "width": 8.4967320261437909,
+                        "height": 15.116279069767442,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "alt": "Back",
+                                "file": {
+                                    "path": "images\/file-5cd2deef791f0.png",
+                                    "mime": "image\/png",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 190,
+                                    "height": 190
+                                },
+                                "title": "Back"
+                            },
+                            "subContentId": "fe6a2075-8ff3-4316-96a6-556fd7e2bb08",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 91.28540305010894,
+                        "y": 38.737015503875973,
+                        "width": 8.4967320261437909,
+                        "height": 15.116279069767442,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-5cd2df1591fa0.png",
+                                    "mime": "image\/png",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 190,
+                                    "height": 190
+                                },
+                                "alt": "Next",
+                                "title": "Next"
+                            },
+                            "subContentId": "5f84a962-d2bd-4218-8915-edc19285f636",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 92.374727668845324,
+                        "y": 38.759689922480618,
+                        "width": 7.4074074074074074,
+                        "height": 13.178294573643411,
+                        "goToSlide": 1,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "next",
+                        "invisible": true
+                    },
+                    {
+                        "x": 0,
+                        "y": 38.759689922480618,
+                        "width": 7.4074074074074074,
+                        "height": 13.178294573643411,
+                        "goToSlide": 1,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "previous",
+                        "invisible": true
+                    }
+                ],
+                "slideBackgroundSelector": {},
+                "keywords": [
+                    {
+                        "main": "Flashcards 1"
+                    }
+                ]
+            },
+            {
+                "elements": [
+                    {
+                        "x": 4.9019607843137258,
+                        "y": 3.8759689922480618,
+                        "width": 90.196078431372555,
+                        "height": 90.697674418604649,
+                        "action": {
+                            "library": "H5P.Video 1.5",
+                            "params": {
+                                "visuals": {
+                                    "fit": true,
+                                    "controls": true,
+                                    "poster": {
+                                        "path": "images\/poster-5ce8432ec5d2c.png#tmp",
+                                        "mime": "image\/png",
+                                        "copyright": {
+                                            "license": "U"
+                                        },
+                                        "width": 1920,
+                                        "height": 1080
+                                    }
+                                },
+                                "playback": {
+                                    "autoplay": false,
+                                    "loop": false
+                                },
+                                "l10n": {
+                                    "name": "Video",
+                                    "loading": "Video player loading...",
+                                    "noPlayers": "Found no video players that supports the given video format.",
+                                    "noSources": "Video is missing sources.",
+                                    "aborted": "Media playback has been aborted.",
+                                    "networkFailure": "Network failure.",
+                                    "cannotDecode": "Unable to decode media.",
+                                    "formatNotSupported": "Video format not supported.",
+                                    "mediaEncrypted": "Media encrypted.",
+                                    "unknownError": "Unknown error.",
+                                    "invalidYtId": "Invalid YouTube ID.",
+                                    "unknownYtId": "Unable to find video with the given YouTube ID.",
+                                    "restrictedYt": "The owner of this video does not allow it to be embedded."
+                                },
+                                "a11y": [
+                                    {
+                                        "kind": "subtitles",
+                                        "srcLang": "en",
+                                        "label": "Subtitles",
+                                        "track": {
+                                            "path": "files\/track-5cd2f41154bb3.vtt",
+                                            "mime": "text\/plain",
+                                            "copyright": {
+                                                "license": "U"
+                                            }
+                                        }
+                                    }
+                                ],
+                                "sources": [
+                                    {
+                                        "path": "videos\/sources-5cd2f4066a065.mp4",
+                                        "mime": "video\/mp4",
+                                        "copyright": {
+                                            "license": "U"
+                                        }
+                                    }
+                                ]
+                            },
+                            "subContentId": "05be15eb-1c27-48c5-a2d9-deb0886fdee7",
+                            "metadata": {
+                                "contentType": "Video",
+                                "license": "U",
+                                "title": "The power of Volunteering",
+                                "authors": [],
+                                "changes": [],
+                                "extraTitle": "The power of Volunteering"
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 50,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 0,
+                        "y": 38.78546511627907,
+                        "width": 8.4967320261437909,
+                        "height": 15.116279069767442,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "alt": "Back",
+                                "file": {
+                                    "path": "images\/file-5cd2deef791f0.png",
+                                    "mime": "image\/png",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 190,
+                                    "height": 190
+                                },
+                                "title": "Back"
+                            },
+                            "subContentId": "fe6a2075-8ff3-4316-96a6-556fd7e2bb08",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 91.28540305010894,
+                        "y": 38.737015503875973,
+                        "width": 8.4967320261437909,
+                        "height": 15.116279069767442,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-5cd2df1591fa0.png",
+                                    "mime": "image\/png",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 190,
+                                    "height": 190
+                                },
+                                "alt": "Next",
+                                "title": "Next"
+                            },
+                            "subContentId": "5f84a962-d2bd-4218-8915-edc19285f636",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 92.374727668845324,
+                        "y": 38.759689922480618,
+                        "width": 7.4074074074074074,
+                        "height": 13.178294573643411,
+                        "goToSlide": 1,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "next",
+                        "invisible": true
+                    },
+                    {
+                        "x": 0,
+                        "y": 38.837209302325583,
+                        "width": 7.4074074074074074,
+                        "height": 13.178294573643411,
+                        "goToSlide": 1,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "previous",
+                        "invisible": true
+                    }
+                ],
+                "slideBackgroundSelector": {},
+                "keywords": [
+                    {
+                        "main": "Video 2"
+                    }
+                ]
+            },
+            {
+                "elements": [
+                    {
+                        "x": 0,
+                        "y": 0,
+                        "width": 99.782135076252729,
+                        "height": 99.612403100775197,
+                        "action": {
+                            "library": "H5P.Dialogcards 1.7",
+                            "params": {
+                                "mode": "repetition",
+                                "description": "",
+                                "dialogs": [
+                                    {
+                                        "tips": {},
+                                        "text": "<p>Society<\/p>\n",
+                                        "answer": "<p>Lesson.Listening.glossary[1].term<\/p>\n",
+                                        "image": {
+                                            "path": "images\/image-5cd07304ab251.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "C"
+                                            },
+                                            "width": 664,
+                                            "height": 535
+                                        },
+                                        "audio": [
+                                            {
+                                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
+                                                "mime": "audio\/mp3",
+                                                "copyright": {
+                                                    "license": "C"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "tips": {},
+                                        "answer": "<p>Lesson.Listening.glossary[2].term<\/p>\n",
+                                        "text": "<p>Lesson.Listening.glossary[2].definition<\/p>\n",
+                                        "image": {
+                                            "path": "images\/image-5cd0c5824492f.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "C"
+                                            },
+                                            "width": 606,
+                                            "height": 647
+                                        },
+                                        "audio": [
+                                            {
+                                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
+                                                "mime": "audio\/mp3",
+                                                "copyright": {
+                                                    "license": "C"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "tips": {},
+                                        "text": "<p>Lesson.Listening.glossary[3].definition<\/p>\n",
+                                        "answer": "<p>Lesson.Listening.glossary[3].term<\/p>\n",
+                                        "image": {
+                                            "path": "images\/image-5cd0c58d6398a.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "C"
+                                            },
+                                            "width": 272,
+                                            "height": 550
+                                        },
+                                        "audio": [
+                                            {
+                                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
+                                                "mime": "audio\/mp3",
+                                                "copyright": {
+                                                    "license": "C"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "tips": {},
+                                        "text": "<p>Lesson.Listening.glossary[4].definition<\/p>\n",
+                                        "answer": "<p>Lesson.Listening.glossary[4].term<\/p>\n",
+                                        "image": {
+                                            "path": "images\/image-5cd0c595b1a20.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "C"
+                                            },
+                                            "width": 272,
+                                            "height": 550
+                                        },
+                                        "audio": [
+                                            {
+                                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
+                                                "mime": "audio\/mp3",
+                                                "copyright": {
+                                                    "license": "C"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "tips": {},
+                                        "text": "<p>Community<\/p>\n",
+                                        "answer": "<p>Lesson.Listening.glossary[5].term<\/p>\n",
+                                        "image": {
+                                            "path": "images\/image-5cd0c5a0db822.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "C"
+                                            },
+                                            "width": 272,
+                                            "height": 550
+                                        },
+                                        "audio": [
+                                            {
+                                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
+                                                "mime": "audio\/mp3",
+                                                "copyright": {
+                                                    "license": "C"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "behaviour": {
+                                    "enableRetry": false,
+                                    "disableBackwardsNavigation": false,
+                                    "scaleTextNotCard": true,
+                                    "randomCards": true,
+                                    "maxProficiency": 3,
+                                    "quickProgression": false
+                                },
+                                "answer": "Turn",
+                                "next": "Next",
+                                "prev": "Previous",
+                                "retry": "Retry",
+                                "correctAnswer": "I got it right!",
+                                "incorrectAnswer": "I got it wrong",
+                                "round": "Round @round",
+                                "cardsLeft": "Words left: @number",
+                                "nextRound": "Proceed to round @round",
+                                "showSummary": "Next",
+                                "summary": "Summary",
+                                "summaryCardsRight": "Words you got right:",
+                                "summaryCardsWrong": "Words you got wrong:",
+                                "summaryCardsNotShown": "Words in pool not shown:",
+                                "summaryOverallScore": "Overall Score",
+                                "summaryCardsCompleted": "Words you have completed learning:",
+                                "summaryCompletedRounds": "Completed rounds:",
+                                "summaryAllDone": "Well done! You got all @cards words correct @max times in a row!",
+                                "progressText": "Words @card of @total",
+                                "cardFrontLabel": "Card front",
+                                "cardBackLabel": "Card back",
+                                "tipButtonLabel": "Show tip",
+                                "audioNotSupported": "Your browser does not support this audio",
+                                "title": ""
+                            },
+                            "metadata": {
+                                "title": "Writing FlashCards",
+                                "authors": [
+                                    {
+                                        "name": "iDO Learning",
+                                        "role": "Author"
+                                    }
+                                ],
+                                "license": "C",
+                                "authorComments": "GeneralEnglishB1_3Lesson1_ActivityName",
+                                "contentType": "Dialog Cards",
+                                "changes": [],
+                                "extraTitle": "Writing FlashCards"
+                            },
+                            "subContentId": "f20014ee-59a7-4a2d-ad9c-4c6b2b6258e1"
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 0,
+                        "y": 38.78546511627907,
+                        "width": 8.4967320261437909,
+                        "height": 15.116279069767442,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "alt": "Back",
+                                "file": {
+                                    "path": "images\/file-5cd2deef791f0.png",
+                                    "mime": "image\/png",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 190,
+                                    "height": 190
+                                },
+                                "title": "Back"
+                            },
+                            "subContentId": "fe6a2075-8ff3-4316-96a6-556fd7e2bb08",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 91.28540305010894,
+                        "y": 38.737015503875973,
+                        "width": 8.4967320261437909,
+                        "height": 15.116279069767442,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-5cd2df1591fa0.png",
+                                    "mime": "image\/png",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 190,
+                                    "height": 190
+                                },
+                                "alt": "Next",
+                                "title": "Next"
+                            },
+                            "subContentId": "5f84a962-d2bd-4218-8915-edc19285f636",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 92.374727668845324,
+                        "y": 38.759689922480618,
+                        "width": 7.4074074074074074,
+                        "height": 13.178294573643411,
+                        "goToSlide": 1,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "next",
+                        "invisible": true
+                    },
+                    {
+                        "x": 0,
+                        "y": 38.837209302325583,
+                        "width": 7.4074074074074074,
+                        "height": 13.178294573643411,
+                        "goToSlide": 1,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "previous",
+                        "invisible": true
+                    }
+                ],
+                "slideBackgroundSelector": {},
+                "keywords": [
+                    {
+                        "main": "Flashcards 2"
+                    }
+                ]
+            },
+            {
+                "elements": [
+                    {
+                        "x": 4.9019607843137258,
+                        "y": 3.8759689922480618,
+                        "width": 90.196078431372555,
+                        "height": 90.697674418604649,
+                        "action": {
+                            "library": "H5P.Video 1.5",
+                            "params": {
+                                "visuals": {
+                                    "fit": true,
+                                    "controls": true,
+                                    "poster": {
+                                        "path": "images\/poster-5ce8437bc7fac.png#tmp",
+                                        "mime": "image\/png",
+                                        "copyright": {
+                                            "license": "U",
+                                            "title": "Lesson.Reading.context.poster"
+                                        },
+                                        "width": 1920,
+                                        "height": 1080
+                                    }
+                                },
+                                "playback": {
+                                    "autoplay": false,
+                                    "loop": false
+                                },
+                                "l10n": {
+                                    "name": "Video",
+                                    "loading": "Video player loading...",
+                                    "noPlayers": "Found no video players that supports the given video format.",
+                                    "noSources": "Video is missing sources.",
+                                    "aborted": "Media playback has been aborted.",
+                                    "networkFailure": "Network failure.",
+                                    "cannotDecode": "Unable to decode media.",
+                                    "formatNotSupported": "Video format not supported.",
+                                    "mediaEncrypted": "Media encrypted.",
+                                    "unknownError": "Unknown error.",
+                                    "invalidYtId": "Invalid YouTube ID.",
+                                    "unknownYtId": "Unable to find video with the given YouTube ID.",
+                                    "restrictedYt": "The owner of this video does not allow it to be embedded."
+                                },
+                                "a11y": [
+                                    {
+                                        "kind": "subtitles",
+                                        "srcLang": "en",
+                                        "label": "Subtitles",
+                                        "track": {
+                                            "path": "files\/track-5cd2f4364d8d5.vtt",
+                                            "mime": "text\/plain",
+                                            "copyright": {
+                                                "license": "U"
+                                            }
+                                        }
+                                    }
+                                ],
+                                "sources": [
+                                    {
+                                        "path": "videos\/sources-5cd2f4260112d.MP4",
+                                        "mime": "video\/mp4",
+                                        "copyright": {
+                                            "license": "U"
+                                        }
+                                    }
+                                ]
+                            },
+                            "subContentId": "05be15eb-1c27-48c5-a2d9-deb0886fdee7",
+                            "metadata": {
+                                "contentType": "Video",
+                                "license": "U",
+                                "title": "How social investing can change the world",
+                                "authors": [],
+                                "changes": [],
+                                "extraTitle": "How social investing can change the world"
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 50,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 0,
+                        "y": 38.78546511627907,
+                        "width": 8.4967320261437909,
+                        "height": 15.116279069767442,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "alt": "Back",
+                                "file": {
+                                    "path": "images\/file-5cd2deef791f0.png",
+                                    "mime": "image\/png",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 190,
+                                    "height": 190
+                                },
+                                "title": "Back"
+                            },
+                            "subContentId": "fe6a2075-8ff3-4316-96a6-556fd7e2bb08",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 91.28540305010894,
+                        "y": 38.737015503875973,
+                        "width": 8.4967320261437909,
+                        "height": 15.116279069767442,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-5cd2df1591fa0.png",
+                                    "mime": "image\/png",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 190,
+                                    "height": 190
+                                },
+                                "alt": "Next",
+                                "title": "Next"
+                            },
+                            "subContentId": "5f84a962-d2bd-4218-8915-edc19285f636",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 92.374727668845324,
+                        "y": 38.759689922480618,
+                        "width": 7.4074074074074074,
+                        "height": 13.178294573643411,
+                        "goToSlide": 1,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "next",
+                        "invisible": true
+                    },
+                    {
+                        "x": 0,
+                        "y": 38.837209302325583,
+                        "width": 7.4074074074074074,
+                        "height": 13.178294573643411,
+                        "goToSlide": 1,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "previous",
+                        "invisible": true
+                    }
+                ],
+                "slideBackgroundSelector": {},
+                "keywords": [
+                    {
+                        "main": "Video 3"
+                    }
+                ]
+            },
+            {
+                "elements": [
+                    {
+                        "x": 0,
+                        "y": 0,
+                        "width": 99.782135076252729,
+                        "height": 99.612403100775197,
+                        "action": {
+                            "library": "H5P.Dialogcards 1.7",
+                            "params": {
+                                "mode": "repetition",
+                                "description": "",
+                                "dialogs": [
+                                    {
+                                        "tips": {},
+                                        "text": "<p>Improvement<\/p>\n",
+                                        "answer": "<p>Lesson.Listening.glossary[0].term<\/p>\n",
+                                        "image": {
+                                            "path": "images\/image-5cd0724d1a6d6.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "C"
+                                            },
+                                            "width": 606,
+                                            "height": 647
+                                        },
+                                        "audio": [
+                                            {
+                                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
+                                                "mime": "audio\/mp3",
+                                                "copyright": {
+                                                    "license": "C"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "tips": {},
+                                        "text": "<p>Lesson.Listening.glossary[1].definition<\/p>\n",
+                                        "answer": "<p>Lesson.Listening.glossary[1].term<\/p>\n",
+                                        "image": {
+                                            "path": "images\/image-5cd07304ab251.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "C"
+                                            },
+                                            "width": 664,
+                                            "height": 535
+                                        },
+                                        "audio": [
+                                            {
+                                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
+                                                "mime": "audio\/mp3",
+                                                "copyright": {
+                                                    "license": "C"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "tips": {},
+                                        "answer": "<p>Lesson.Listening.glossary[2].term<\/p>\n",
+                                        "text": "<p>Lesson.Listening.glossary[2].definition<\/p>\n",
+                                        "image": {
+                                            "path": "images\/image-5cd0c5824492f.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "C"
+                                            },
+                                            "width": 606,
+                                            "height": 647
+                                        },
+                                        "audio": [
+                                            {
+                                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
+                                                "mime": "audio\/mp3",
+                                                "copyright": {
+                                                    "license": "C"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "tips": {},
+                                        "text": "<p>Lesson.Listening.glossary[4].definition<\/p>\n",
+                                        "answer": "<p>Lesson.Listening.glossary[4].term<\/p>\n",
+                                        "image": {
+                                            "path": "images\/image-5cd0c595b1a20.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "C"
+                                            },
+                                            "width": 272,
+                                            "height": 550
+                                        },
+                                        "audio": [
+                                            {
+                                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
+                                                "mime": "audio\/mp3",
+                                                "copyright": {
+                                                    "license": "C"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "tips": {},
+                                        "text": "<p>Lesson.Listening.glossary[6].definition<\/p>\n",
+                                        "answer": "<p>Program<\/p>\n",
+                                        "image": {
+                                            "path": "images\/image-5cd0c5a85365b.png",
+                                            "mime": "image\/png",
+                                            "copyright": {
+                                                "license": "C"
+                                            },
+                                            "width": 272,
+                                            "height": 550
+                                        },
+                                        "audio": [
+                                            {
+                                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
+                                                "mime": "audio\/mp3",
+                                                "copyright": {
+                                                    "license": "C"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "behaviour": {
+                                    "enableRetry": false,
+                                    "disableBackwardsNavigation": false,
+                                    "scaleTextNotCard": true,
+                                    "randomCards": true,
+                                    "maxProficiency": 3,
+                                    "quickProgression": false
+                                },
+                                "answer": "Turn",
+                                "next": "Next",
+                                "prev": "Previous",
+                                "retry": "Retry",
+                                "correctAnswer": "I got it right!",
+                                "incorrectAnswer": "I got it wrong",
+                                "round": "Round @round",
+                                "cardsLeft": "Words left: @number",
+                                "nextRound": "Proceed to round @round",
+                                "showSummary": "Next",
+                                "summary": "Summary",
+                                "summaryCardsRight": "Words you got right:",
+                                "summaryCardsWrong": "Words you got wrong:",
+                                "summaryCardsNotShown": "Words in pool not shown:",
+                                "summaryOverallScore": "Overall Score",
+                                "summaryCardsCompleted": "Words you have completed learning:",
+                                "summaryCompletedRounds": "Completed rounds:",
+                                "summaryAllDone": "Well done! You got all @cards words correct @max times in a row!",
+                                "progressText": "Words @card of @total",
+                                "cardFrontLabel": "Card front",
+                                "cardBackLabel": "Card back",
+                                "tipButtonLabel": "Show tip",
+                                "audioNotSupported": "Your browser does not support this audio",
+                                "title": ""
+                            },
+                            "metadata": {
+                                "title": "Reading FlashCards",
+                                "authors": [
+                                    {
+                                        "name": "iDO Learning",
+                                        "role": "Author"
+                                    }
+                                ],
+                                "license": "C",
+                                "authorComments": "GeneralEnglishB1_3Lesson1_ActivityName",
+                                "contentType": "Dialog Cards",
+                                "changes": [],
+                                "extraTitle": "Reading FlashCards"
+                            },
+                            "subContentId": "ac79a73a-d224-455a-9c93-ccc8482f0bf9"
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 0,
+                        "y": 38.78546511627907,
+                        "width": 8.4967320261437909,
+                        "height": 15.116279069767442,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "alt": "Back",
+                                "file": {
+                                    "path": "images\/file-5cd2deef791f0.png",
+                                    "mime": "image\/png",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 190,
+                                    "height": 190
+                                },
+                                "title": "Back"
+                            },
+                            "subContentId": "fe6a2075-8ff3-4316-96a6-556fd7e2bb08",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 91.28540305010894,
+                        "y": 38.737015503875973,
+                        "width": 8.4967320261437909,
+                        "height": 15.116279069767442,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-5cd2df1591fa0.png",
+                                    "mime": "image\/png",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 190,
+                                    "height": 190
+                                },
+                                "alt": "Next",
+                                "title": "Next"
+                            },
+                            "subContentId": "5f84a962-d2bd-4218-8915-edc19285f636",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 92.374727668845324,
+                        "y": 38.759689922480618,
+                        "width": 7.4074074074074074,
+                        "height": 13.178294573643411,
+                        "goToSlide": 1,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "next",
+                        "invisible": true
+                    },
+                    {
+                        "x": 0,
+                        "y": 38.837209302325583,
+                        "width": 7.4074074074074074,
+                        "height": 13.178294573643411,
+                        "goToSlide": 1,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "previous",
+                        "invisible": true
+                    }
+                ],
+                "slideBackgroundSelector": {},
+                "keywords": [
+                    {
+                        "main": "Flashcards 3"
+                    }
+                ]
+            },
+            {
+                "elements": [
+                    {
+                        "x": 4.9019607843137258,
+                        "y": 3.8759689922480618,
+                        "width": 90.196078431372555,
+                        "height": 90.697674418604649,
+                        "action": {
+                            "library": "H5P.Video 1.5",
+                            "params": {
+                                "visuals": {
+                                    "fit": true,
+                                    "controls": true,
+                                    "poster": {
+                                        "path": "images\/poster-5ce843ca8c6ae.png#tmp",
+                                        "mime": "image\/png",
+                                        "copyright": {
+                                            "license": "U"
+                                        },
+                                        "width": 1920,
+                                        "height": 1080
+                                    }
+                                },
+                                "playback": {
+                                    "autoplay": false,
+                                    "loop": false
+                                },
+                                "l10n": {
+                                    "name": "Video",
+                                    "loading": "Video player loading...",
+                                    "noPlayers": "Found no video players that supports the given video format.",
+                                    "noSources": "Video is missing sources.",
+                                    "aborted": "Media playback has been aborted.",
+                                    "networkFailure": "Network failure.",
+                                    "cannotDecode": "Unable to decode media.",
+                                    "formatNotSupported": "Video format not supported.",
+                                    "mediaEncrypted": "Media encrypted.",
+                                    "unknownError": "Unknown error.",
+                                    "invalidYtId": "Invalid YouTube ID.",
+                                    "unknownYtId": "Unable to find video with the given YouTube ID.",
+                                    "restrictedYt": "The owner of this video does not allow it to be embedded."
+                                },
+                                "a11y": [
+                                    {
+                                        "kind": "subtitles",
+                                        "srcLang": "en",
+                                        "label": "Subtitles",
+                                        "track": {
+                                            "path": "files\/track-5cd2f458973f8.vtt",
+                                            "mime": "text\/plain",
+                                            "copyright": {
+                                                "license": "U"
+                                            }
+                                        }
+                                    }
+                                ],
+                                "sources": [
+                                    {
+                                        "path": "videos\/sources-5cd2f44ae4f02.MP4",
+                                        "mime": "video\/mp4",
+                                        "copyright": {
+                                            "license": "U"
+                                        }
+                                    }
+                                ]
+                            },
+                            "subContentId": "05be15eb-1c27-48c5-a2d9-deb0886fdee7",
+                            "metadata": {
+                                "contentType": "Video",
+                                "license": "U",
+                                "title": "B1.3_Unit7_Lesson19_10.png",
+                                "authors": [],
+                                "changes": [],
+                                "extraTitle": "B1.3_Unit7_Lesson19_10.png"
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 50,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 0,
+                        "y": 38.78546511627907,
+                        "width": 8.4967320261437909,
+                        "height": 15.116279069767442,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "alt": "Back",
+                                "file": {
+                                    "path": "images\/file-5cd2deef791f0.png",
+                                    "mime": "image\/png",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 190,
+                                    "height": 190
+                                },
+                                "title": "Back"
+                            },
+                            "subContentId": "fe6a2075-8ff3-4316-96a6-556fd7e2bb08",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 91.28540305010894,
+                        "y": 38.737015503875973,
+                        "width": 8.4967320261437909,
+                        "height": 15.116279069767442,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-5cd2df1591fa0.png",
+                                    "mime": "image\/png",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 190,
+                                    "height": 190
+                                },
+                                "alt": "Next",
+                                "title": "Next"
+                            },
+                            "subContentId": "5f84a962-d2bd-4218-8915-edc19285f636",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 92.374727668845324,
+                        "y": 38.759689922480618,
+                        "width": 7.4074074074074074,
+                        "height": 13.178294573643411,
+                        "goToSlide": 1,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "next",
+                        "invisible": true
+                    },
+                    {
+                        "x": 0,
+                        "y": 38.837209302325583,
+                        "width": 7.4074074074074074,
+                        "height": 13.178294573643411,
+                        "goToSlide": 1,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "previous",
+                        "invisible": true
+                    }
+                ],
+                "slideBackgroundSelector": {},
+                "keywords": [
+                    {
+                        "main": "Video 4"
+                    }
+                ]
+            },
+            {
+                "elements": [
+                    {
+                        "x": 0,
+                        "y": 38.78546511627907,
+                        "width": 8.4967320261437909,
+                        "height": 15.116279069767442,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "alt": "Back",
+                                "file": {
+                                    "path": "images\/file-5cd2deef791f0.png",
+                                    "mime": "image\/png",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 190,
+                                    "height": 190
+                                },
+                                "title": "Back"
+                            },
+                            "subContentId": "fe6a2075-8ff3-4316-96a6-556fd7e2bb08",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 0,
+                        "y": 38.837209302325583,
+                        "width": 7.4074074074074074,
+                        "height": 13.178294573643411,
+                        "goToSlide": 1,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "previous",
+                        "invisible": true
+                    },
+                    {
+                        "x": 35.947712418300654,
+                        "y": 21.31782945736434,
+                        "width": 27.015250544662312,
+                        "height": 48.062015503875969,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-5cd3129d393f9.png",
+                                    "mime": "image\/png",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 205,
+                                    "height": 205
+                                },
+                                "alt": "Completed"
+                            },
+                            "subContentId": "c076f187-5b05-4767-83d2-049d79ed4ea7",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 0,
+                        "y": 73.075000000000003,
+                        "width": 99.782135076252729,
+                        "height": 20.930232558139533,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<h3 style=\"text-align: center;\"><strong><span style=\"color:#00b3e1;\">Awesome! you have completed the learn and discover section<\/span><\/strong><\/h3>\n\n<h3 style=\"text-align: center;\"><strong><span style=\"color:#00b3e1;\">You may exit this activity and continue learning<\/span><\/strong><\/h3>\n"
+                            },
+                            "subContentId": "c5f38371-b86d-4cdf-b224-91e6f2b1d210",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 0,
+                        "y": 59.496124031007753,
+                        "width": 18.701916683270809,
+                        "height": 40,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-5cd319ae660da.png",
+                                    "mime": "image\/png",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 302,
+                                    "height": 327
+                                },
+                                "alt": "corner"
+                            },
+                            "subContentId": "0ce8cd63-8062-49d7-ab0a-a683f5eafe95",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 68.191721132897612,
+                        "y": 0,
+                        "width": 31.590138206854657,
+                        "height": 40,
+                        "action": {
+                            "library": "H5P.Image 1.1",
+                            "params": {
+                                "contentName": "Image",
+                                "file": {
+                                    "path": "images\/file-5cd319ef39cc8.png",
+                                    "mime": "image\/png",
+                                    "copyright": {
+                                        "license": "U"
+                                    },
+                                    "width": 585,
+                                    "height": 375
+                                },
+                                "alt": "corner"
+                            },
+                            "subContentId": "13cc39e6-9131-4a18-8420-e9e44272a440",
+                            "metadata": {
+                                "contentType": "Image",
+                                "license": "U",
+                                "title": "Untitled Image",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    }
+                ],
+                "slideBackgroundSelector": {}
+            }
+        ],
+        "keywordListEnabled": false,
+        "globalBackgroundSelector": {
+            "fillGlobalBackground": "#ffffff"
+        },
+        "keywordListAlwaysShow": false,
+        "keywordListAutoHide": false,
+        "keywordListOpacity": 90
+    },
+    "override": {
+        "activeSurface": true,
+        "hideSummarySlide": false,
+        "enablePrintButton": false,
+        "social": {
+            "showFacebookShare": false,
+            "facebookShare": {
+                "url": "@currentpageurl",
+                "quote": "I scored @score out of @maxScore on a task at @currentpageurl."
+            },
+            "showTwitterShare": false,
+            "twitterShare": {
+                "statement": "I scored @score out of @maxScore on a task at @currentpageurl.",
+                "url": "@currentpageurl",
+                "hashtags": "h5p, course"
+            },
+            "showGoogleShare": false,
+            "googleShareUrl": "@currentpageurl"
+        }
+    },
+    "l10n": {
+        "slide": "Slide",
+        "score": "Score",
+        "yourScore": "Your Score",
+        "maxScore": "Max Score",
+        "total": "Total",
+        "totalScore": "Total Score",
+        "showSolutions": "Show solutions",
+        "retry": "Retry",
+        "exportAnswers": "Export text",
+        "hideKeywords": "Hide keywords list",
+        "showKeywords": "Show keywords list",
+        "fullscreen": "Fullscreen",
+        "exitFullscreen": "Exit fullscreen",
+        "prevSlide": "Previous slide",
+        "nextSlide": "Next slide",
+        "currentSlide": "Current slide",
+        "lastSlide": "Last slide",
+        "solutionModeTitle": "Exit solution mode",
+        "solutionModeText": "Solution Mode",
+        "summaryMultipleTaskText": "Multiple tasks",
+        "scoreMessage": "You achieved:",
+        "shareFacebook": "Share on Facebook",
+        "shareTwitter": "Share on Twitter",
+        "shareGoogle": "Share on Google+",
+        "summary": "Summary",
+        "solutionsButtonTitle": "Show comments",
+        "printTitle": "Print",
+        "printIngress": "How would you like to print this presentation?",
+        "printAllSlides": "Print all slides",
+        "printCurrentSlide": "Print current slide",
+        "noTitle": "No title",
+        "accessibilitySlideNavigationExplanation": "Use left and right arrow to change slide in that direction whenever canvas is selected.",
+        "accessibilityCanvasLabel": "Presentation canvas. Use left and right arrow to move between slides.",
+        "containsNotCompleted": "@slideName contains not completed interaction",
+        "containsCompleted": "@slideName contains completed interaction",
+        "slideCount": "Slide @index of @total",
+        "containsOnlyCorrect": "@slideName only has correct answers",
+        "containsIncorrectAnswers": "@slideName has incorrect answers",
+        "shareResult": "Share Result",
+        "accessibilityTotalScore": "You got @score of @maxScore points in total"
+    }
+}
