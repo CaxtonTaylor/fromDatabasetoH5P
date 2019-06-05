@@ -52,7 +52,7 @@ module.exports =
                     let params = this.params_from_format(format)
                     try {
                         content_value = await eval("this." + format.split(' ')[0] + "(this." + lesson_path + params + " )")
-             
+
                     } catch (error) {
                         console.log(`Format :(${format})`)
                         throw error

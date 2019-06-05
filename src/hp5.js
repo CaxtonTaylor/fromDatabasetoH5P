@@ -41,10 +41,10 @@ module.exports =
                         listening_practice.makeH5Ps(),
                         progress_check.makeH5Ps(),
                     ])
-                    
+
                 }
                 if (this.Lesson.from === 'gsheet') {
-                    
+
                     const gflashcards = new GFlashcards(this.Lesson);
                     const glearnanddiscover = new GLearnAndDiscover(this.Lesson);
                     const glisteningpractice = new GListeningPractice(this.Lesson);
@@ -52,8 +52,8 @@ module.exports =
                     const gprogress_check = new GProgressCheck(this.Lesson);
                     const gspeaking = new GSpeaking(this.Lesson);
                     const gvocabulary = new GVocabulary(this.Lesson);
-    
-                    await Promise.all([ 
+
+                    await Promise.all([
                         gflashcards.makeH5Ps(),
                         glearnanddiscover.makeH5Ps(),
                         glisteningpractice.makeH5Ps(),
@@ -65,7 +65,7 @@ module.exports =
                 }
             } catch (error) {
                 console.log(`Lesson :(${this.jsonPATH})`)
-                throw error        
+                throw error
             }
 
         }

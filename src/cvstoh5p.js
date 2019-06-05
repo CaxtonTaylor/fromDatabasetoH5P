@@ -100,7 +100,7 @@ module.exports =
 
                 } catch (error) {
                     console.log(`css :(${this.cvs_path})`)
-                    console.log(`fila :(${i+3})`)
+                    console.log(`fila :(${i + 3})`)
                     throw error
 
                 }
