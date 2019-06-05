@@ -10,7 +10,8 @@ module.exports =
             this.nameFolder = nameFolder
             this.Lesson = Lesson;
             this.listH5Ps = [];
-            let relativePath = 'English/General/' + this.Lesson.Level + '/Lesson' + this.Lesson.name + '/' + this.nameFolder
+            this.withoutgeneralPath = this.Lesson.Level + '/Lesson' + this.Lesson.name + '/' + this.nameFolder
+            let relativePath = 'English/General/' + this.withoutgeneralPath
             this.ProcessPath = './H5Pprocess/' + relativePath
             this.UPPath = './UP/' + relativePath
             this.process_row = new ProcessRow(this.Lesson, this.ProcessPath);
@@ -19,6 +20,7 @@ module.exports =
             this.Lesson = await utils.readJSON(this.jsonPATH);
         }
         async makeH5Ps() {
+
             await this.makeFolders();
             await this.makeSubFolders();
             await this.loadJSONs();
@@ -32,8 +34,16 @@ module.exports =
             for (let i = 1; i < row.length; i++) {
                 let column = row[i];
                 if (column) {
-                    let h5pName = await this.h5pNamefromrowindex(i)
-                    this.listH5Ps = await this.process_row.process(this.listH5Ps, h5pName, row, i)
+                    try {
+                        let h5pName = await this.h5pNamefromrowindex(i)
+                        this.listH5Ps = await this.process_row.process(this.listH5Ps, h5pName, row, i)
+
+                    } catch (error) {
+                        console.log(`lesson_path :(${row[0]})`)
+                        console.log(`column :(${column})`)
+                        console.log(`# column :(${i})`)
+                        throw error
+                    }
                 }
             }
         }
@@ -59,7 +69,8 @@ module.exports =
             }.bind(this))
         }
         async loadCVS() {
-            let cvs = await utils.readCVS('./CSV/' + this.cvs_name);
+            this.cvs_path = './CSV/' + this.cvs_name
+            let cvs = await utils.readCVS(this.cvs_path);
             cvs.shift()
             cvs.shift();//remove two rows titles
             this.cvs = cvs;
@@ -81,9 +92,18 @@ module.exports =
             }.bind(this))
         }
         async executeCVS() {
+
             for (let i = 0; i < this.cvs.length; i++) {
                 let row = this.cvs[i];
-                await this.processRow(row);
+                try {
+                    await this.processRow(row);
+
+                } catch (error) {
+                    console.log(`css :(${this.cvs_path})`)
+                    console.log(`fila :(${i+3})`)
+                    throw error
+
+                }
             }
         }
 
@@ -96,9 +116,6 @@ module.exports =
                 }
                 return h5p;
             }.bind(this))
-            if (!name) {
-                console.log('name')
-            }
             return name
         }
         async updateforeachH5P(funct) {

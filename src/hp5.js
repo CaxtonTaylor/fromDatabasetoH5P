@@ -25,43 +25,48 @@ module.exports =
             this.Lesson = await utils.readJSON(this.jsonPATH);
         }
         async processJSON(jsonPATH) {
-            this.jsonPATH = jsonPATH;
-            await this.init();
-            if (this.Lesson.from === 'scorm') {
-                const GFlashcards = new GFlashcards(this.Lesson);
-                const learnanddiscover = new LearnAndDiscover(this.Lesson);
-                const readandwrite = new ReadAndWrite(this.Lesson);
-                const presentation = new Presentation(this.Lesson);
-                const listening_practice = new ListeningPractice(this.Lesson);
-                const progress_check = new ProgressCheck(this.Lesson);
-                await Promise.all([
-                    learnanddiscover.makeH5Ps(),
-                    readandwrite.makeH5Ps(),
-                    presentation.makeH5Ps(),
-                    listening_practice.makeH5Ps(),
-                    progress_check.makeH5Ps(),
-                ])
-                
+            try {
+                this.jsonPATH = jsonPATH;
+                await this.init();
+                if (this.Lesson.from === 'scorm') {
+                    const learnanddiscover = new LearnAndDiscover(this.Lesson);
+                    const listening_practice = new ListeningPractice(this.Lesson);
+                    const presentation = new Presentation(this.Lesson);
+                    const progress_check = new ProgressCheck(this.Lesson);
+                    const readandwrite = new ReadAndWrite(this.Lesson);
+                    await Promise.all([
+                        learnanddiscover.makeH5Ps(),
+                        readandwrite.makeH5Ps(),
+                        presentation.makeH5Ps(),
+                        listening_practice.makeH5Ps(),
+                        progress_check.makeH5Ps(),
+                    ])
+                    
+                }
+                if (this.Lesson.from === 'gsheet') {
+                    
+                    const gflashcards = new GFlashcards(this.Lesson);
+                    const glearnanddiscover = new GLearnAndDiscover(this.Lesson);
+                    const glisteningpractice = new GListeningPractice(this.Lesson);
+                    const gpresentation = new GPresentation(this.Lesson);
+                    const gprogress_check = new GProgressCheck(this.Lesson);
+                    const gspeaking = new GSpeaking(this.Lesson);
+                    const gvocabulary = new GVocabulary(this.Lesson);
+    
+                    await Promise.all([ 
+                        gflashcards.makeH5Ps(),
+                        glearnanddiscover.makeH5Ps(),
+                        glisteningpractice.makeH5Ps(),
+                        gpresentation.makeH5Ps(),
+                        gprogress_check.makeH5Ps(),
+                        gspeaking.makeH5Ps(),
+                        gvocabulary.makeH5Ps(),
+                    ])
+                }
+            } catch (error) {
+                console.log(`Lesson :(${this.jsonPATH})`)
+                throw error        
             }
-            if (this.Lesson.from === 'gsheet') {
-                
-                const gflashcards = new GFlashcards(this.Lesson);
-                const glearnanddiscover = new GLearnAndDiscover(this.Lesson);
-                const glisteningpractice = new GListeningPractice(this.Lesson);
-                const gpresentation = new GPresentation(this.Lesson);
-                const gprogress_check = new GProgressCheck(this.Lesson);
-                const gspeaking = new GSpeaking(this.Lesson);
-                const gvocabulary = new GVocabulary(this.Lesson);
 
-                await Promise.all([ 
-                    // gflashcards.makeH5Ps(),
-                    // glearnanddiscover.makeH5Ps(),
-                    // glisteningpractice.makeH5Ps(),
-                    gpresentation.makeH5Ps(),
-                    // gprogress_check.makeH5Ps(),
-                    // gspeaking.makeH5Ps(),
-                    // gvocabulary.makeH5Ps(),
-                ])
-            }
         }
     }

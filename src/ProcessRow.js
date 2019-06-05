@@ -11,17 +11,22 @@ module.exports =
             this.ProcessPath = ProcessPath
         }
         async process(listH5Ps, h5pName, row, i) {
-            let mod = (i - 3) % 5;
-            switch (mod) {
-                case 0:
-                    listH5Ps = this.update_h5p(listH5Ps, h5pName, row, i)
-                    break;
-                case 1:
-                    listH5Ps = this.update_content(listH5Ps, h5pName, row, i)
-                    break;
-                default:
-                    break;
+            try {
+                let mod = (i - 3) % 5;
+                switch (mod) {
+                    case 0:
+                        listH5Ps = this.update_h5p(listH5Ps, h5pName, row, i)
+                        break;
+                    case 1:
+                        listH5Ps = this.update_content(listH5Ps, h5pName, row, i)
+                        break;
+                    default:
+                        break;
+                }
+            } catch (error) {
+                console.log(error)
             }
+
             return listH5Ps;
         }
         async update_content(listH5Ps, h5pName, row, i) {
@@ -45,7 +50,13 @@ module.exports =
             } else {
                 if (format && lesson_path) {
                     let params = this.params_from_format(format)
-                    content_value = await eval("this." + format.split(' ')[0] + "(this." + lesson_path + params + " )")
+                    try {
+                        content_value = await eval("this." + format.split(' ')[0] + "(this." + lesson_path + params + " )")
+             
+                    } catch (error) {
+                        console.log(`Format :(${format})`)
+                        throw error
+                    }
                 }
             }
             if (content_value) {
@@ -93,7 +104,7 @@ module.exports =
             if (fs.existsSync(input_path)) {
                 await utils.exec('cp ' + input_path + ' ' + output_path, true);
             } else {
-                console.log(' File no exist'+input_path )
+                console.log(' File no exist' + input_path)
             }
             return asset_output_path;
         }
@@ -167,7 +178,7 @@ module.exports =
 
         async questionTofill(Questions) {
             let html
-            if (Questions[0].options[1].text) {
+            if (Questions[0].options[1]) {
                 html = `<p>
                 <strong>
                     ${Questions[0].question}:
