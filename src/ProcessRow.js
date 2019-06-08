@@ -127,16 +127,22 @@ module.exports =
            </ul></span>`
         }
         async questions(questions) {
-            return `<p>${questions[0].question}</p>
+            let html =`<p>${questions[0].question}</p>`
+            if (questions[0].options[1]) {
+                html =html +`<p>*${questions[0].options[0].text}/${questions[0].options[1].text}*</p>`
+            } else {
+                html =html +`<p>*${questions[0].options[0].text}*</p>`
 
-            <p>*${questions[0].options[0].text}/${questions[0].options[1].text}*</p>
-            
-            <p>&nbsp;</p>
-            
-            <p>${questions[1].question}</p>
-            
-            <p>*${questions[1].options[0].text}/${questions[1].options[1].text}*</p>
-            `
+            }
+            if (questions[1].question) {
+                html =html +`<p>&nbsp;</p><p>${questions[1].question}</p>`
+                if (questions[1].options[1]) {
+                    html =html +`<p>*${questions[1].options[0].text}/${questions[1].options[1].text}*</p>`
+                }else{
+                    html =html +`<p>*${questions[1].options[0].text}*</p>`
+                }
+            }
+            return html
         }
         async drag(options, listH5Ps, h5pName, question_index) {
             let content = listH5Ps[h5pName].content
@@ -177,39 +183,21 @@ module.exports =
         }
 
         async questionTofill(Questions) {
-            let html
+            let html = `<p><strong>${Questions[0].question}:</strong></p>`
             if (Questions[0].options[1]) {
-                html = `<p>
-                <strong>
-                    ${Questions[0].question}:
-                </strong>
-            </p>
-            <p>
-                *${Questions[0].options[0].text}/${Questions[0].options[1].text}*
-            </p>
-            <p>
-                <strong>
-                    ${Questions[1].question}:
-                </strong>
-            </p>
-            <p>
-                *${Questions[1].options[0].text}/${Questions[1].options[1].text}*
-            </p>`
-
+                html = html + `<p>*${Questions[0].options[0].text}/${Questions[0].options[1].text}*</p>`
             } else {
-                html = `<p>
-                <strong>${Questions[0].question}:</strong>
-            </p>
-            <p>
-                *${Questions[0].options[0].text}*
-            </p>
-            <p>
-                <strong>${Questions[1].question}:</strong>
-            </p>
-            <p>
-                *${Questions[1].options[0].text}*
-            </p>`
+                html = html + `<p>*${Questions[0].options[0].text}*</p>`
             }
+            if (Questions[1].question) {
+                html = html + `<p><strong>${Questions[1].question}:</strong></p>`
+                if (Questions[1].options[1]) {
+                    html = html + `<p>*${Questions[1].options[0].text}/${Questions[1].options[1].text}*</p>`
+                } else {
+                    html = html + `<p>*${Questions[1].options[0].text}*</p>`
+                }
+            }
+
             return html
 
         }
