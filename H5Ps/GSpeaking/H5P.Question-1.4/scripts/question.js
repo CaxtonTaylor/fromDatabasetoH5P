@@ -812,7 +812,7 @@ H5P.Question = (function ($, EventDispatcher, JoubelUI) {
       });
       self.on('resize', function () {
         if (!fromAudio) {
-          sections.audio.instance.trigger('resize');
+          //sections.audio.instance.trigger('resize');
         }
       });
 

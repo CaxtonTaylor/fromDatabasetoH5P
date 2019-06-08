@@ -7,6 +7,7 @@ const ReadAndWrite = require("./cvstoh5p/scorm/ReadAndWrite");
 const Presentation = require("./cvstoh5p/scorm/Presentation");
 const ProgressCheck = require("./cvstoh5p/scorm/ProgressCheck");
 const ListeningPractice = require("./cvstoh5p/scorm/ListeningPractice");
+const Speaking = require("./cvstoh5p/scorm/Speaking");
 
 const GFlashcards = require("./cvstoh5p/google/GFlashcards");
 const GLearnAndDiscover = require("./cvstoh5p/google/GLearnAndDiscover");
@@ -35,12 +36,15 @@ module.exports =
                     const presentation = new Presentation(this.Lesson);
                     const progress_check = new ProgressCheck(this.Lesson);
                     const readandwrite = new ReadAndWrite(this.Lesson);
+                    const speaking = new Speaking(this.Lesson);
+
                     await Promise.all([
                         learnanddiscover.makeH5Ps(),
                         readandwrite.makeH5Ps(),
                         presentation.makeH5Ps(),
                         listening_practice.makeH5Ps(),
                         progress_check.makeH5Ps(),
+                        //speaking.makeH5Ps(),
                     ])
 
                 }
@@ -55,21 +59,22 @@ module.exports =
                     const gvocabulary = new GVocabulary(this.Lesson);
                     const greadandwrite = new GReadandWrite(this.Lesson);
 
-                    
+
 
                     await Promise.all([
-                        // gflashcards.makeH5Ps(),
-                        // glearnanddiscover.makeH5Ps(),
-                        // glisteningpractice.makeH5Ps(),
-                        // gpresentation.makeH5Ps(),
-                        // gprogress_check.makeH5Ps(),
-                        // gspeaking.makeH5Ps(),
-                        // gvocabulary.makeH5Ps(),
-                        greadandwrite.makeH5Ps()
+                        gflashcards.makeH5Ps(),
+                        glearnanddiscover.makeH5Ps(),
+                        glisteningpractice.makeH5Ps(),
+                        gpresentation.makeH5Ps(),
+                        gprogress_check.makeH5Ps(),
+                        greadandwrite.makeH5Ps(),
+                        gvocabulary.makeH5Ps(),
+                        gspeaking.makeH5Ps(),
+
                     ])
                 }
             } catch (error) {
-                console.log(`Lesson :(${process.cwd()+this.jsonPATH})`)
+                console.log(`Lesson :(${process.cwd() + this.jsonPATH})`)
                 throw error
             }
 
