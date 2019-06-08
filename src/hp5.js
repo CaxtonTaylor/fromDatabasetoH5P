@@ -15,6 +15,7 @@ const GPresentation = require("./cvstoh5p/google/GPresentation");
 const GProgressCheck = require("./cvstoh5p/google/GProgressCheck");
 const GSpeaking = require("./cvstoh5p/google/GSpeaking");
 const GVocabulary = require("./cvstoh5p/google/GVocabulary");
+const GReadandWrite = require("./cvstoh5p/google/GReadandWrite");
 
 module.exports =
     class H5P {
@@ -52,19 +53,23 @@ module.exports =
                     const gprogress_check = new GProgressCheck(this.Lesson);
                     const gspeaking = new GSpeaking(this.Lesson);
                     const gvocabulary = new GVocabulary(this.Lesson);
+                    const greadandwrite = new GReadandWrite(this.Lesson);
+
+                    
 
                     await Promise.all([
-                        gflashcards.makeH5Ps(),
-                        glearnanddiscover.makeH5Ps(),
-                        glisteningpractice.makeH5Ps(),
-                        gpresentation.makeH5Ps(),
-                        gprogress_check.makeH5Ps(),
-                        gspeaking.makeH5Ps(),
-                        gvocabulary.makeH5Ps(),
+                        // gflashcards.makeH5Ps(),
+                        // glearnanddiscover.makeH5Ps(),
+                        // glisteningpractice.makeH5Ps(),
+                        // gpresentation.makeH5Ps(),
+                        // gprogress_check.makeH5Ps(),
+                        // gspeaking.makeH5Ps(),
+                        // gvocabulary.makeH5Ps(),
+                        greadandwrite.makeH5Ps()
                     ])
                 }
             } catch (error) {
-                console.log(`Lesson :(${this.jsonPATH})`)
+                console.log(`Lesson :(${process.cwd()+this.jsonPATH})`)
                 throw error
             }
 
