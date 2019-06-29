@@ -110,12 +110,15 @@ module.exports =
         }
         async questionToEm(Resources, index) {
             return `<p><em>${Resources.instructions.en}</em></p>
-
+            <p>${Resources.body}</p>
             <p><strong>${Resources.questions[index].question}</strong></p>`
+        }
+        async questionToEmInstrucionsBody(Resources) {
+            return `<p><strong><em>${Resources.instructions.en}</em></strong></p>
+            <p>${Resources.body}</p>` 
         }
         async questionToEmBody(Resource, index) {
             return `<p><em>${Resource.body}</em></p>
-
             <p><strong>${Resource.questions[index].question}</strong></p>`
         }
         async random(options, listH5Ps, question_index) {

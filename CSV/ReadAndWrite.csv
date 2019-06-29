@@ -7,7 +7,7 @@ Lesson.Listening.resources[0].mp3,,,,questions.0.params.media.params.files.0.pat
 Lesson.Listening.resources[0].instructions.en,,,,questions.0.params.text,,,
 Lesson.Listening.resources[0].questions,,,,questions.0.params.questions.0,,,questionTofill
 Lesson.Writing.resources[0].name,,,,questions.1.metadata.title,,,
-Lesson.Writing.resources[0].body,,,,questions.2.params.text,,,
+Lesson.Writing.resources[0],,,,questions.2.params.text,,,questionToEmInstrucionsBody
 Lesson.Writing.resources[0].questions[0].type,,,,,,,
 Lesson.Writing.resources[0].questions,,,,questions.2.params.questions.0,,,questionTofill
 Lesson.Writing.resources[0],,,,questions.1.params.question,,,questionToEm 2
