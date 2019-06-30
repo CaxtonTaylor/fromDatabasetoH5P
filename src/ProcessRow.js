@@ -124,6 +124,9 @@ module.exports =
         async random(options, listH5Ps, question_index) {
             return _.random(min, max)
         }
+        addSeconds(inputMiliSeconds, seconds){
+            return Math.round(Number(inputMiliSeconds)/1000) + seconds
+        }
         async presentation_li(can_do_statement) {
             return `<ul>
             <li><span style="font-size:1.5em;">Can1#${can_do_statement}</span></li>
