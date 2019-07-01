@@ -996,31 +996,7 @@
                     "cancelLabel": "Cancel",
                     "confirmLabel": "Confirm"
                 },
-                "question": "<p><em>Lesson.Reading.resources[1].body<\/em><\/p>\n\n<p><strong>Lesson.Reading.resources[1].questions[1].question<\/strong><\/p>\n",
-                "media": {
-                    "params": {
-                        "contentName": "Image",
-                        "file": {
-                            "path": "images\/file-5cd47cccc41ec.png",
-                            "mime": "image\/png",
-                            "copyright": {
-                                "license": "U"
-                            },
-                            "width": 150,
-                            "height": 150
-                        },
-                        "alt": "Lesson.Reading.resources[1].name"
-                    },
-                    "library": "H5P.Image 1.1",
-                    "metadata": {
-                        "contentType": "Image",
-                        "license": "U",
-                        "title": "Lesson.Reading.resources[1].name",
-                        "authors": [],
-                        "changes": []
-                    },
-                    "subContentId": "6c65ca72-e55b-4cb7-aac4-20b9279271cf"
-                }
+                "question": "<p><em>Lesson.Reading.resources[1].body<\/em><\/p>\n\n<p><strong>Lesson.Reading.resources[1].questions[1].question<\/strong><\/p>\n"
             },
             "library": "H5P.MultiChoice 1.13",
             "metadata": {

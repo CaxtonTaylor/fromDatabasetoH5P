@@ -109,9 +109,17 @@ module.exports =
             return asset_output_path;
         }
         async questionToEm(Resources, index) {
-            return `<p><em>${Resources.instructions.en}</em></p>
-            <p>${Resources.body}</p>
-            <p><strong>${Resources.questions[index].question}</strong></p>`
+            let html = ''
+            if (Resources.instructions.en) {
+                html = html + `<p><em>${Resources.instructions.en}</em></p>`
+            }
+            if (Resources.body) {
+                html = html + `<p>${Resources.body}</p>`
+            }
+            if (Resources.questions[index].question) {
+                html = html + `<p><strong>${Resources.questions[index].question}</strong></p>`
+            }
+            return html 
         }
         async questionToEmInstrucionsBody(Resources) {
             return `<p><strong><em>${Resources.instructions.en}</em></strong></p>
@@ -189,21 +197,21 @@ module.exports =
         }
 
         async questionTofill(Questions) {
-            let html = `<p><strong>${Questions[0].question}:</strong></p>`
-            if (Questions[0].options[1]) {
+            
+            let html = `<p><strong>${Questions[0].question}</strong></p>`
+            if (typeof Questions[0].options[1].text !== 'undefined') {
                 html = html + `<p>*${Questions[0].options[0].text}/${Questions[0].options[1].text}*</p>`
             } else {
                 html = html + `<p>*${Questions[0].options[0].text}*</p>`
             }
             if (Questions[1].question) {
                 html = html + `<p><strong>${Questions[1].question}:</strong></p>`
-                if (Questions[1].options[1]) {
+                if (typeof Questions[1].options[1].text !== 'undefined') {
                     html = html + `<p>*${Questions[1].options[0].text}/${Questions[1].options[1].text}*</p>`
                 } else {
                     html = html + `<p>*${Questions[1].options[0].text}*</p>`
                 }
             }
-
             return html
 
         }

@@ -28,14 +28,18 @@ Lesson.Writing.resources[1],,,,questions.5.params.question,,,questionToEm 1
 Lesson.Writing.resources[1].questions[1].options[0].text,,,,questions.5.params.answers.0.text,,,
 Lesson.Writing.resources[1].questions[1].options[1].text,,,,questions.5.params.answers.1.text,,,
 Lesson.Writing.resources[1].questions[1].options[2].text,,,,questions.5.params.answers.2.text,,,
-Lesson.Reading.resources[0].name,,,,"questions.7.metadata.title, questions.8.metadata.title, questions.9.metadata.title",,,
-Lesson.Reading.resources[0].body,,,,"questions.7.params.question, questions.9.params.question",,,
+Lesson.Reading.resources[0].name,,,,questions.7.metadata.title,,,
+Lesson.Reading.resources[0].name,,,,questions.8.metadata.title,,,
+Lesson.Reading.resources[0].name,,,,questions.9.metadata.title,,,
+Lesson.Reading.resources[0].body,,,,questions.7.params.question,,,
+Lesson.Reading.resources[0].body,,,,questions.8.params.question,,,
+Lesson.Reading.resources[0].body,,,,questions.9.params.question,,,
+Lesson.Reading.resources[0].body,,,,questions.8.params.text,,,
 Lesson.Reading.resources[0].questions,,,,questions.8.params.questions.0,,,questionTofill
 Lesson.Reading.resources[0],,,,questions.7.params.question,,,questionToEm 2
 Lesson.Reading.resources[0].questions[2].options[0].text,,,,questions.7.params.answers.0.text,,,
 Lesson.Reading.resources[0].questions[2].options[1].text,,,,questions.7.params.answers.1.text,,,
 Lesson.Reading.resources[0].questions[2].options[2].text,,,,questions.7.params.answers.2.text,,,
-Lesson.Reading.resources[0].questions[2].options[3].text,,,,questions.7.params.answers.3.text,some,,
 Lesson.Reading.resources[0].questions[3].type,,,,,,,
 Lesson.Reading.resources[0],,,,questions.9.params.question,,,questionToEm 3
 Lesson.Reading.resources[0].questions[3].options[0].text,,,,questions.9.params.answers.0.text,,,
