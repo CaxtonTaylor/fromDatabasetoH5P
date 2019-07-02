@@ -140,17 +140,20 @@ module.exports =
             <li><span style="font-size:1.5em;">Can1#${can_do_statement}</span></li>
            </ul></span>`
         }
-        async questions(questions) {
-            let html =`<p>${questions[0].question}</p>`
-            if (questions[0].options[1]) {
+        async questions(resource) {
+            let questions= resource.questions
+            let html = ``
+            if (questions[0].question) {
+                html = html + `<p><strong>${questions[0].question}</strong></p>`
+            }
+            if (typeof questions[0].options[1].text !== 'undefined') {
                 html =html +`<p>*${questions[0].options[0].text}/${questions[0].options[1].text}*</p>`
             } else {
                 html =html +`<p>*${questions[0].options[0].text}*</p>`
-
             }
             if (questions[1].question) {
-                html =html +`<p>&nbsp;</p><p>${questions[1].question}</p>`
-                if (questions[1].options[1]) {
+                html =html +`<p>&nbsp;</p><p><strong>${questions[1].question}</strong></p>`
+                if (typeof questions[1].options[1].text !== 'undefined' ) {
                     html =html +`<p>*${questions[1].options[0].text}/${questions[1].options[1].text}*</p>`
                 }else{
                     html =html +`<p>*${questions[1].options[0].text}*</p>`
