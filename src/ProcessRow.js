@@ -198,6 +198,22 @@ module.exports =
         <p><strong><span style="font-size:1.5em;">${grammar.example} </span></strong></p>
         `
         }
+        async bullectPoint(point) {
+            return `<p>
+            <em>
+                <span style="font-size:1.5em;">
+                    <strong>
+                        ${point}
+                    </strong>
+                </span>
+            </em>
+        </p>
+        `
+        }
+        // lesson slide 
+        // <h2 style=\"text-align: center;\">&nbsp;</h2>\n\n<h2 style=\"text-align: center;\"><span style=\"font-size:3em;\"><span style=\"color:#ffffff;\"><strong>Lesson 10#:</strong></span></span></h2>\n\n<h2 style=\"text-align: center;\"><span style=\"font-size:3em;\"><span style=\"color:#ffffff;\"><strong>Lesson Name</strong></span></span></h2>\n\n<h2 style=\"text-align: center;\">&nbsp;</h2>\n
+        // object►presentation►slides►1►elements►4►action►params►text
+
 
         async questionTofill(Questions) {
             

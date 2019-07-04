@@ -26,7 +26,7 @@ Lesson.Monologue.resources[0].picture,,,,questions.4.params.interactiveVideo.vid
 Lesson.Monologue.resources[0].instructions.en,,,,questions.4.params.interactiveVideo.video.startScreenOptions.shortStartDescription,,,
 Lesson.Monologue.resources[0].mp4_properties.durationmillis,,,,questions.4.params.interactiveVideo.assets.interactions.0.duration.from,,,addSeconds -2
 Lesson.Monologue.resources[0].mp4_properties.durationmillis,,,,questions.4.params.interactiveVideo.assets.interactions.0.duration.to,,,addSeconds -2
-Lesson.Monologue.resources[0].questions,,,,questions.4.params.interactiveVideo.assets.interactions.0.action.params.questions.0,,,questions
+Lesson.Monologue.resources[0],,,,questions.4.params.interactiveVideo.assets.interactions.0.action.params.questions.0,,,questions
 Lesson.Monologue.resources[0].mp4_properties.durationmillis,,,,questions.4.params.interactiveVideo.assets.interactions.1.duration.from,,,addSeconds -4
 Lesson.Monologue.resources[0].mp4_properties.durationmillis,,,,questions.4.params.interactiveVideo.assets.interactions.1.duration.to,,,addSeconds -4
 Lesson.Monologue.resources[0].questions[2].question,,,,questions.4.params.interactiveVideo.assets.interactions.1.action.params.choices.0.question,,,
