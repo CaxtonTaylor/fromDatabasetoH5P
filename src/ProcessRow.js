@@ -214,7 +214,17 @@ module.exports =
         // <h2 style=\"text-align: center;\">&nbsp;</h2>\n\n<h2 style=\"text-align: center;\"><span style=\"font-size:3em;\"><span style=\"color:#ffffff;\"><strong>Lesson 10#:</strong></span></span></h2>\n\n<h2 style=\"text-align: center;\"><span style=\"font-size:3em;\"><span style=\"color:#ffffff;\"><strong>Lesson Name</strong></span></span></h2>\n\n<h2 style=\"text-align: center;\">&nbsp;</h2>\n
         // object►presentation►slides►1►elements►4►action►params►text
 
-
+        MMSStoSeconds(MMSS){
+            let seconds = 0
+            let split = MMSS.split(':')
+            if (split.length!=2) {
+                throw new Error('error en el tiempo')
+            }else{
+                 seconds = Number(split[0])*60 + Number(split[1])
+            }
+            return seconds
+            
+        }
         async questionTofill(Questions) {
             
             let html = `<p><strong>${Questions[0].question}</strong></p>`
