@@ -268,7 +268,7 @@
             "params": {
                 "media": {
                     "params": {
-                        "playerMode": "minimalistic",
+                        "playerMode": "full",
                         "fitToWrapper": false,
                         "controls": true,
                         "autoplay": false,
@@ -753,7 +753,7 @@
                                             "timeoutCorrect": 2000,
                                             "timeoutWrong": 3000,
                                             "soundEffectsEnabled": true,
-                                            "enableRetry": true,
+                                            "enableRetry": false,
                                             "enableSolutionsButton": false,
                                             "passPercentage": 100
                                         },
@@ -1414,28 +1414,6 @@
         },
         {
             "params": {
-                "overallFeedback": [
-                    {
-                        "from": 0,
-                        "to": 100
-                    }
-                ],
-                "checkAnswerButton": "Check",
-                "tryAgainButton": "Retry",
-                "showSolutionButton": "Show solution",
-                "behaviour": {
-                    "enableRetry": true,
-                    "enableSolutionsButton": false,
-                    "enableCheckButton": true,
-                    "showScorePoints": false
-                },
-                "correctAnswer": "Correct!",
-                "incorrectAnswer": "Incorrect!",
-                "missedAnswer": "Missed!",
-                "displaySolutionDescription": "Task is updated to contain the solution.",
-                "scoreBarLabel": "You got :num out of :total points",
-                "taskDescription": "<p><em>Lesson.Reading.resources[1].instructions.en<\/em><\/p>\n",
-                "textField": "<p>Lesson.Reading.resources[1].questions[0].question<\/p>\n",
                 "media": {
                     "params": {
                         "playerMode": "minimalistic",
@@ -1464,16 +1442,48 @@
                         "extraTitle": "Lesson.Reading.resources[1].mp3"
                     },
                     "subContentId": "817f98a0-f2c7-4a7b-8ed6-52ece62bd8a2"
-                }
+                },
+                "taskDescription": "<p><em>Lesson.Reading.resources[1].instructions.en<\/em><\/p>\n",
+                "overallFeedback": [
+                    {
+                        "from": 0,
+                        "to": 100
+                    }
+                ],
+                "checkAnswer": "Check",
+                "tryAgain": "Retry",
+                "showSolution": "Show solution",
+                "dropZoneIndex": "Drop Zone @index.",
+                "empty": "Drop Zone @index is empty.",
+                "contains": "Drop Zone @index contains draggable @draggable.",
+                "draggableIndex": "Draggable @text. @index of @count draggables.",
+                "tipLabel": "Show tip",
+                "correctText": "Correct!",
+                "incorrectText": "Incorrect!",
+                "resetDropTitle": "Reset drop",
+                "resetDropDescription": "Are you sure you want to reset this drop zone?",
+                "grabbed": "Draggable is grabbed.",
+                "cancelledDragging": "Cancelled dragging.",
+                "correctAnswer": "Correct answer:",
+                "feedbackHeader": "Feedback",
+                "behaviour": {
+                    "enableRetry": true,
+                    "enableSolutionsButton": false,
+                    "enableCheckButton": true,
+                    "instantFeedback": false
+                },
+                "scoreBarLabel": "You got :num out of :total points",
+                "textField": "<p>Lesson.Reading.resources[1].questions[0].question<\/p>\n"
+
             },
-            "library": "H5P.MarkTheWords 1.9",
+            "library": "H5P.DragText 1.8",
             "metadata": {
-                "contentType": "Mark the Words",
+                "contentType": "Drag Text",
                 "license": "U",
-                "title": "R5 Audio Drag Words",
+                "title": "R6 Drag text with audio",
                 "authors": [],
                 "changes": [],
-                "extraTitle": "R5 Audio Drag Words"
+                "extraTitle": "R6 Drag text with audio"
             },
             "subContentId": "c4c01a88-c61e-4b88-a078-7fe6d38fd933"
         },
