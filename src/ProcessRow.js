@@ -210,6 +210,24 @@ module.exports =
         </p>
         `
         }
+        lessonSlide(Lesson){
+            let html =`<h2 style=\"text-align: center;\">&nbsp;</h2>\n\n
+            <h2 style=\"text-align: center;\">
+                <span style=\"font-size:3em;\">
+                    <span style=\"color:#ffffff;\">
+                        <strong>Lesson ${Lesson.name}:</strong>
+                    </span>
+                </span>
+            </h2>\n\n
+            <h2 style=\"text-align: center;\">
+                <span style=\"font-size:2em;\"><span style=\"color:#ffffff;\">
+                    <strong>${Lesson.Listening.objective}</strong>
+                </span></span>
+            </h2>\n\n
+            <h2 style=\"text-align: center;\">&nbsp;</h2>\n
+            `
+            return html
+        }
         // lesson slide 
         // <h2 style=\"text-align: center;\">&nbsp;</h2>\n\n<h2 style=\"text-align: center;\"><span style=\"font-size:3em;\"><span style=\"color:#ffffff;\"><strong>Lesson 10#:</strong></span></span></h2>\n\n<h2 style=\"text-align: center;\"><span style=\"font-size:3em;\"><span style=\"color:#ffffff;\"><strong>Lesson Name</strong></span></span></h2>\n\n<h2 style=\"text-align: center;\">&nbsp;</h2>\n
         // object►presentation►slides►1►elements►4►action►params►text
