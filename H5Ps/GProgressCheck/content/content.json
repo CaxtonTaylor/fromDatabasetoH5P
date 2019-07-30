@@ -200,7 +200,7 @@
                     }
                 },
                 "override": {
-                    "autoplay": true,
+                    "autoplay": false,
                     "loop": false,
                     "showBookmarksmenuOnLoad": false,
                     "showRewind10": true,
@@ -846,7 +846,7 @@
                     }
                 },
                 "override": {
-                    "autoplay": true,
+                    "autoplay": false,
                     "loop": false,
                     "showBookmarksmenuOnLoad": false,
                     "showRewind10": true,
@@ -1285,7 +1285,7 @@
                     }
                 },
                 "override": {
-                    "autoplay": true,
+                    "autoplay": false,
                     "loop": false,
                     "showBookmarksmenuOnLoad": false,
                     "showRewind10": true,
