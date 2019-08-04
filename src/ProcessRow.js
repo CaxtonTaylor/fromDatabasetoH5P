@@ -46,12 +46,24 @@ module.exports =
                     asset_output_path = await this.copy_file_to_output(asset_input_path, h5pName, asset_output_path)
                 }
                 content_value = asset_output_path
+                if (format) {
+                    let this_lesson_path = ''
+                    if (lesson_path) {
+                        this_lesson_path = "this." + lesson_path
+                    }
+                    let params = this.params_from_format(format)
+                    content_value = await eval("this." + format.split(' ')[0] + "(" + this_lesson_path + params + " )")                }
 
             } else {
                 if (format && lesson_path) {
                     let params = this.params_from_format(format)
                     try {
-                        content_value = await eval("this." + format.split(' ')[0] + "(this." + lesson_path + params + " )")
+                        let this_lesson_path = ''
+                        if (lesson_path) {
+                            this_lesson_path = "this." + lesson_path
+                        }
+                        
+                        content_value = await eval("this." + format.split(' ')[0] + "(" + this_lesson_path + params + " )")
 
                     } catch (error) {
                         console.log(`Format :(${format})`)
@@ -261,6 +273,60 @@ module.exports =
             }
             return html
 
+        }
+        randomFailVideo() {
+            let videoNames = [
+                'almostgotme',
+                'anothershot',
+                'barttry',
+                'briane',
+                'candobetter',
+                'candocamila',
+                'guardiola',
+                'homer',
+                'jonknows',
+                'lisacan',
+                'lisiada',
+                'notwhatimeant',
+                'nowayowl',
+                'shockedcat',
+                'soclosegirl',
+                'socloseteam',
+                'terry',
+                'thoranother',
+                'tonyugh',
+                'tryagaingolf',
+                'tryfailbetter',
+                'minute',
+                'youcandobetter'
+            ]
+            let random = videoNames[Math.floor(Math.random()*videoNames.length)]
+            let domain = 'https://coreproductido.s3.us-east-2.amazonaws.com/GIFs_Feedback/Fail/'
+            return domain + random + '.mp4'
+
+        }
+        randomSuccessVideo() {
+            let videoNames =[
+                'AmericasGOT',
+                'Obama',
+                'Snapeapproves',
+                'Welldone',
+                'geofrry',
+                'giphy',
+                'goodjob',
+                'greatjob',
+                'jamie',
+                'merryl',
+                'oscars',
+                'pickard',
+                'thoryes',
+                'weirdguy',
+                'willsmith',
+                'yay',
+                'yougotit']
+            let random = videoNames[Math.floor(Math.random()*videoNames.length)]
+            let domain = 'https://coreproductido.s3.us-east-2.amazonaws.com/GIFs_Feedback/Pass/'
+            return domain + random + '.mp4'
         }
 
     }

@@ -1,5 +1,7 @@
 DATABASE,,,Learn&Discover,,,,
 ,,,h5p.json,content/content.json,Input,Assets,Format
+,,,,endGame.failVideo.0.path,,,randomFailVideo
+,,,,endGame.successVideo.0.path,,,randomSuccessVideo
 Lesson.Listening.resources[0].name,,,,presentation.slides.1.elements.0.action.metadata.title,,,
 Lesson.Listening.can_do_statements[0].en,,,,presentation.slides.0.elements.4.action.params.text,,,bullectPoint
 Lesson.Listening.resources[0].mp4,,,,presentation.slides.1.elements.0.action.params.sources.0.path,,,

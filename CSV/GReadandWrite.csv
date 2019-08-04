@@ -1,5 +1,8 @@
 DATABASE,,,Read&Write,,,,
 ,,,h5p.json,content/content.json,Input,Assets,Format
+,,,,endGame.failVideo.0.path,,,randomFailVideo
+,,,,endGame.successVideo.0.path,,,randomSuccessVideo
+Lesson.Writing.resources[0].mp3,,,,questions.2.params.media.params.files.0.path,,https://s3.us-east-2.amazonaws.com/coreproductido/B1.3/M%C3%B3dulo+III/B1.3_Unit7_Lesson19_TextReadAloud_6_1.mp3,
 Lesson.Writing.resources[0].mp3,,,,questions.2.params.media.params.files.0.path,,https://s3.us-east-2.amazonaws.com/coreproductido/B1.3/M%C3%B3dulo+III/B1.3_Unit7_Lesson19_TextReadAloud_6_1.mp3,
 Lesson.Writing.resources[0].instructions.en,,,,questions.2.params.taskDescription,,,
 Lesson.Writing.resources[0].questions[0].question,,,,questions.2.params.textField,,,
