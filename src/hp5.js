@@ -44,7 +44,7 @@ module.exports =
                         presentation.makeH5Ps(),
                         listening_practice.makeH5Ps(),
                         progress_check.makeH5Ps(),
-                        //speaking.makeH5Ps(),
+                        speaking.makeH5Ps()
                     ])
 
                 }
