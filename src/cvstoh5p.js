@@ -89,10 +89,10 @@ module.exports =
         async zipH5Ps() {
             await this.updateforeachH5P(async function (h5p) {
                 let lessonNumber = this.Lesson.Lesson
-                if(lessonNumber){
+                if(!lessonNumber){
                     lessonNumber = this.Lesson.name
                 }
-                let h5p_name = this.Lesson.Level + 'Lesson' + lessonNumber + h5p.name + this.subh5pname + '.h5p';
+                let h5p_name = this.Lesson.Level + 'Lesson' + lessonNumber + this.Lesson.name + h5p.name + '.h5p';
                 await utils.exec('cd ' + h5p.path + ' && zip -r ' + h5p_name + ' .');
                 await utils.exec('mv ' + h5p.path + h5p_name + ' ' + this.UPPath + h5p_name, true);
 
