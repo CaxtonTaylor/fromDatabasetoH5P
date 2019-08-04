@@ -215,13 +215,13 @@ module.exports =
             <h2 style=\"text-align: center;\">
                 <span style=\"font-size:3em;\">
                     <span style=\"color:#ffffff;\">
-                        <strong>Lesson ${Lesson.name}:</strong>
+                        <strong>Lesson ${Lesson.Lesson}:</strong>
                     </span>
                 </span>
             </h2>\n\n
             <h2 style=\"text-align: center;\">
                 <span style=\"font-size:2em;\"><span style=\"color:#ffffff;\">
-                    <strong>${Lesson.Listening.objective}</strong>
+                    <strong>${Lesson.name}</strong>
                 </span></span>
             </h2>\n\n
             <h2 style=\"text-align: center;\">&nbsp;</h2>\n
