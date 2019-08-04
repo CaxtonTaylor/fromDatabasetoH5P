@@ -1,5 +1,6 @@
 DATABASE,,,ProgressCheck,,,,,
 ,,,h5p.json,content/content.json,Input,Assets,Format,
+Lesson.name,,,title,,,,,
 ,,,,endGame.failVideo.0.path,,,randomFailVideo,
 ,,,,endGame.successVideo.0.path,,,randomSuccessVideo,
 Lesson.Writing.resources[0].mp3,,,,questions.9.params.media.params.files.0.path,,,,

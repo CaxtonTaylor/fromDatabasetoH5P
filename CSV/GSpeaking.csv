@@ -1,5 +1,6 @@
 DATABASE,,,Speaking,,,
 ,,,h5p.json,content/content.json,Input,Assets
+Lesson.name,,,title,,,
 Lesson.Listening.glossary[0].term,,,,questions.0.params.question,,
 Lesson.Listening.glossary[0].term,,,,questions.0.params.acceptedAnswers.0,,
 Lesson.Listening.glossary[0].mp3,,,,questions.0.params.media.params.files.0.path,,https://s3.us-east-2.amazonaws.com/coreproductido/Greeting.mp3

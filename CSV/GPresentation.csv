@@ -1,5 +1,6 @@
 DATABASE,,,Lesson_Presentation,,,,
 ,,Format,h5p.json,content/content.json,Input,Assets,Format
+Lesson.name,,,title,,,,
 Lesson,,,,presentation.slides.1.elements.4.action.params.text,,,lessonSlide
 Lesson.Listening.activation_question[0].en,,,,presentation.slides.2.elements.1.action.params.text,,,
 Lesson.Listening.can_do_statements[0].en,,Se debe retornar el texto entre el primer par de <li>,,presentation.slides.2.elements.6.action.params.text,,,can_do_statements

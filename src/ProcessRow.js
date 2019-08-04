@@ -92,8 +92,13 @@ module.exports =
         }
         async update_h5p(listH5Ps, h5pName, row, i) {
             let key = row[i]
-            let value = row[i + 2];
-            listH5Ps[h5pName].h5p[key] = eval(value)
+            if (row[0]) {
+                let value = row[0]
+                listH5Ps[h5pName].h5p[key] = eval('this.' + value)
+            }else{
+                let value = row[i + 2];
+                listH5Ps[h5pName].h5p[key] = eval(value)
+            }
             return listH5Ps
         }
         async copy_file_to_output(asset_input_path, h5pName, asset_output_path) {
