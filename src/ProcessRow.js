@@ -103,17 +103,18 @@ module.exports =
         }
         async copy_file_to_output(asset_input_path, h5pName, asset_output_path) {
             let ext = asset_input_path.split('.').pop().toLowerCase()
+            let fileName = Date.now() + asset_input_path.split('/').pop()
             if (ext == 'mp3') {
-                asset_output_path = 'audios/' + asset_input_path.split('/').pop()
+                asset_output_path = 'audios/' + fileName
             }
             if (ext == 'mp4') {
-                asset_output_path = 'videos/' + asset_input_path.split('/').pop()
+                asset_output_path = 'videos/' + fileName
             }
             if (ext == 'jpg' || ext == 'png' || ext == 'jpeg') {
-                asset_output_path = 'images/' + asset_input_path.split('/').pop()
+                asset_output_path = 'images/' + fileName
             }
             if (ext == 'vtt') {
-                asset_output_path = 'files/' + asset_input_path.split('/').pop()
+                asset_output_path = 'files/' + fileName
             }
             let output_path = this.ProcessPath + h5pName + '/content/' + asset_output_path
             let input_path = './DATABASE/' + asset_input_path
