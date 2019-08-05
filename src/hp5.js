@@ -69,8 +69,7 @@ module.exports =
                         gprogress_check.makeH5Ps(),
                         greadandwrite.makeH5Ps(),
                         gvocabulary.makeH5Ps(),
-                        gspeaking.makeH5Ps(),
-
+                        // gspeaking.makeH5Ps()
                     ])
                 }
             } catch (error) {
