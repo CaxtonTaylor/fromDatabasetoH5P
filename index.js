@@ -16,9 +16,9 @@ async function index(){
     // await h5p.processJSON('./DATABASE/English/General/A1/Lesson2/GeneralEnglishA1Lesson2.json');
     // await h5p.processJSON('./DATABASE/English/General/A1/Lesson3/GeneralEnglishA1Lesson3.json');
     
-    await h5p.processJSON('./DATABASE/English/General/Waystage/Lesson1/GeneralEnglishWaystageLesson1.json');
-    await h5p.processJSON('./DATABASE/English/General/Elementary/Lesson2/GeneralEnglishElementaryLesson2.json');
-    await h5p.processJSON('./DATABASE/English/General/Lower-Intermediate/Lesson2/GeneralEnglishLower-IntermediateLesson2.json');
+    await h5p.processJSON('./DATABASE/English/General/Waystage/Lesson2/GeneralEnglishWaystageLesson2.json');
+    // await h5p.processJSON('./DATABASE/English/General/Elementary/Lesson2/GeneralEnglishElementaryLesson2.json');
+    // await h5p.processJSON('./DATABASE/English/General/Lower-Intermediate/Lesson2/GeneralEnglishLower-IntermediateLesson2.json');
 
     
     console.log('finish')
