@@ -1,0 +1,301 @@
+{
+    "interactiveVideo": {
+        "video": {
+            "startScreenOptions": {
+                "title": "Lesson.Conversation.resources[1].name",
+                "hideStartTitle": false,
+                "poster": {
+                    "path": "images\/poster-5cec2aebb7a0b.png",
+                    "mime": "image\/png",
+                    "copyright": {
+                        "license": "U"
+                    },
+                    "width": 1920,
+                    "height": 1080
+                }
+            },
+            "textTracks": [
+                {
+                    "label": "Subtitles",
+                    "kind": "subtitles",
+                    "srcLang": "en",
+                    "track": {
+                        "path": "files\/track-5cec5f6f551eb.vtt",
+                        "mime": "text\/plain",
+                        "copyright": {
+                            "license": "U"
+                        }
+                    }
+                }
+            ],
+            "files": [
+                {
+                    "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/B1.3\/M%C3%B3dulo+III\/B1.3_Unit7_Lesson19_10.mp4",
+                    "mime": "video\/mp4",
+                    "copyright": {
+                        "license": "U"
+                    },
+                    "metadata": {
+                        "qualityName": "HD"
+                    }
+                }
+            ]
+        },
+        "assets": {
+            "interactions": [
+                {
+                    "x": 6.0514372163389,
+                    "y": 8.0645161290323,
+                    "width": 35.098335854766,
+                    "height": 19.364599092284,
+                    "duration": {
+                        "from": 31,
+                        "to": 31
+                    },
+                    "libraryTitle": "Single Choice Set",
+                    "action": {
+                        "library": "H5P.SingleChoiceSet 1.11",
+                        "params": {
+                            "choices": [
+                                {
+                                    "subContentId": "3f9c2f07-7a4e-4af7-9b5d-e03e6f1f6ab0",
+                                    "question": "<p>Lesson.Conversation.resources[1].questions[1].question<\/p>\n",
+                                    "answers": [
+                                        "<p>Lesson.Conversation.resources[1].questions[1].options[0].text<\/p>\n",
+                                        "<p>Lesson.Conversation.resources[1].questions[1].options[1].text<\/p>\n",
+                                        "<p>Lesson.Conversation.resources[1].questions[1].options[2].text<\/p>\n"
+                                    ]
+                                },
+                                {
+                                    "subContentId": "d64c71c4-6c1d-4eca-8360-e414d122a161",
+                                    "question": "<p>Lesson.Monologue.resources[0].questions[3].question<\/p>\n",
+                                    "answers": [
+                                        "<p>Lesson.Conversation.resources[1].questions[2].options[0].text<\/p>\n",
+                                        "<p>Lesson.Conversation.resources[1].questions[2].options[1].text<\/p>\n"
+                                    ]
+                                },
+                                {
+                                    "subContentId": "05dbe769-a30d-4692-8d7a-93985602d9c0",
+                                    "question": "<p>Lesson.Conversation.resources[1].questions[3].question<\/p>\n",
+                                    "answers": [
+                                        "<p>Lesson.Conversation.resources[1].questions[3].options[0].text<\/p>\n",
+                                        "<p>Lesson.Conversation.resources[1].questions[3].options[1].text<\/p>\n",
+                                        "<p>Lesson.Conversation.resources[1].questions[3].options[2].text<\/p>\n"
+                                    ]
+                                }
+                            ],
+                            "overallFeedback": [
+                                {
+                                    "from": 0,
+                                    "to": 100
+                                }
+                            ],
+                            "behaviour": {
+                                "autoContinue": true,
+                                "timeoutCorrect": 2000,
+                                "timeoutWrong": 3000,
+                                "soundEffectsEnabled": true,
+                                "enableRetry": true,
+                                "enableSolutionsButton": false,
+                                "passPercentage": 100
+                            },
+                            "l10n": {
+                                "nextButtonLabel": "Next question",
+                                "showSolutionButtonLabel": "Show solution",
+                                "retryButtonLabel": "Retry",
+                                "solutionViewTitle": "Solution list",
+                                "correctText": "Correct!",
+                                "incorrectText": "Incorrect!",
+                                "muteButtonLabel": "Mute feedback sound",
+                                "closeButtonLabel": "Close",
+                                "slideOfTotal": "Slide :num of :total",
+                                "scoreBarLabel": "You got :num out of :total points"
+                            }
+                        },
+                        "metadata": {
+                            "contentType": "Single Choice Set",
+                            "license": "U",
+                            "title": "Check your understanding",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Check your understanding"
+                        },
+                        "subContentId": "76c41689-9469-4064-90ba-94e1e2dc5868"
+                    },
+                    "pause": true,
+                    "displayType": "poster",
+                    "buttonOnMobile": false,
+                    "adaptivity": {
+                        "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                        },
+                        "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                        },
+                        "requireCompletion": false
+                    },
+                    "label": ""
+                },
+                {
+                    "x": 1.5128593040847,
+                    "y": 2.6851200557255,
+                    "width": 38.729198184569,
+                    "height": 21.180030257186,
+                    "duration": {
+                        "from": 24,
+                        "to": 24
+                    },
+                    "libraryTitle": "Mark the Words",
+                    "action": {
+                        "library": "H5P.MarkTheWords 1.9",
+                        "params": {
+                            "overallFeedback": [
+                                {
+                                    "from": 0,
+                                    "to": 100
+                                }
+                            ],
+                            "checkAnswerButton": "Check",
+                            "tryAgainButton": "Retry",
+                            "showSolutionButton": "Show solution",
+                            "behaviour": {
+                                "enableRetry": true,
+                                "enableSolutionsButton": false,
+                                "enableCheckButton": true,
+                                "showScorePoints": false
+                            },
+                            "correctAnswer": "Correct!",
+                            "incorrectAnswer": "Incorrect!",
+                            "missedAnswer": "Missed!",
+                            "displaySolutionDescription": "Task is updated to contain the solution.",
+                            "scoreBarLabel": "You got :num out of :total points",
+                            "textField": "<p>Lesson.Conversation.resources[1].questions[0].question<\/p>\n\n<p>When you consider consumer demand, millennials, by an overwhelming amount, will choose to buy a product associated with a *social mission*. A big percentage of millenials prefer to have a *social impact* on their local *community*.<\/p>\n",
+                            "taskDescription": "<p>Lesson.Conversation.resources[1].questions[0].options[0].text<\/p>\n",
+                            "media": {
+                                "params": {}
+                            }
+                        },
+                        "metadata": {
+                            "contentType": "Mark the Words",
+                            "license": "U",
+                            "title": "Mark the Words",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Mark the Words"
+                        },
+                        "subContentId": "120c2ef1-41c5-4a7d-8bcc-14b007631e88"
+                    },
+                    "pause": true,
+                    "displayType": "poster",
+                    "buttonOnMobile": false,
+                    "adaptivity": {
+                        "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                        },
+                        "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                        },
+                        "requireCompletion": false
+                    },
+                    "label": ""
+                }
+            ],
+            "bookmarks": [],
+            "endscreens": []
+        },
+        "summary": {
+            "task": {
+                "library": "H5P.Summary 1.10",
+                "params": {
+                    "intro": "Choose the correct statement.",
+                    "summaries": [
+                        {
+                            "subContentId": "75d1de19-6e9f-4599-98b3-4cc44177149a",
+                            "tip": ""
+                        }
+                    ],
+                    "overallFeedback": [
+                        {
+                            "from": 0,
+                            "to": 100
+                        }
+                    ],
+                    "solvedLabel": "Progress:",
+                    "scoreLabel": "Wrong answers:",
+                    "resultLabel": "Your result",
+                    "labelCorrect": "Correct.",
+                    "labelIncorrect": "Incorrect! Please try again.",
+                    "labelCorrectAnswers": "Correct answers.",
+                    "tipButtonLabel": "Show tip",
+                    "scoreBarLabel": "You got :num out of :total points",
+                    "progressText": "Progress :num of :total"
+                },
+                "metadata": {
+                    "contentType": "Summary",
+                    "license": "U",
+                    "title": "Untitled Summary",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "Untitled Summary"
+                },
+                "subContentId": "17ca0581-363d-4b53-b60e-8d8930e8f6a6"
+            },
+            "displayAt": 3
+        }
+    },
+    "override": {
+        "autoplay": true,
+        "loop": false,
+        "showBookmarksmenuOnLoad": false,
+        "showRewind10": true,
+        "preventSkipping": false,
+        "deactivateSound": false
+    },
+    "l10n": {
+        "interaction": "Interaction",
+        "play": "Play",
+        "pause": "Pause",
+        "mute": "Mute",
+        "unmute": "Unmute",
+        "quality": "Video Quality",
+        "captions": "Captions",
+        "close": "Close",
+        "fullscreen": "Fullscreen",
+        "exitFullscreen": "Exit Fullscreen",
+        "summary": "Summary",
+        "bookmarks": "Bookmarks",
+        "endscreen": "Submit screen",
+        "defaultAdaptivitySeekLabel": "Continue",
+        "continueWithVideo": "Continue with video",
+        "playbackRate": "Playback Rate",
+        "rewind10": "Rewind 10 Seconds",
+        "navDisabled": "Navigation is disabled",
+        "sndDisabled": "Sound is disabled",
+        "requiresCompletionWarning": "You need to answer all the questions correctly before continuing.",
+        "back": "Back",
+        "hours": "Hours",
+        "minutes": "Minutes",
+        "seconds": "Seconds",
+        "currentTime": "Current time:",
+        "totalTime": "Total time:",
+        "navigationHotkeyInstructions": "Use key k for starting and stopping video at any time",
+        "singleInteractionAnnouncement": "Interaction appeared:",
+        "multipleInteractionsAnnouncement": "Multiple interactions appeared.",
+        "videoPausedAnnouncement": "Video is paused",
+        "content": "Content",
+        "answered": "@answered answered",
+        "endcardTitle": "@answered Question(s) answered",
+        "endcardInformation": "You have answered @answered questions, click below to submit your answers.",
+        "endcardInformationNoAnswers": "You have not answered any questions.",
+        "endcardInformationMustHaveAnswer": "You have to answer at least one question before you can submit your answers.",
+        "endcardSubmitButton": "Submit Answers",
+        "endcardSubmitMessage": "Your answers have been submitted!",
+        "endcardTableRowAnswered": "Answered questions",
+        "endcardTableRowScore": "Score",
+        "endcardAnsweredScore": "answered"
+    }
+}
