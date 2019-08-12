@@ -1,0 +1,322 @@
+{
+    "interactiveVideo": {
+        "video": {
+            "startScreenOptions": {
+                "title": "Lesson.Listening.resources[0].name",
+                "hideStartTitle": false,
+                "poster": {
+                    "path": "images\/poster-5cec2aebb7a0b.png",
+                    "mime": "image\/png",
+                    "copyright": {
+                        "license": "U"
+                    },
+                    "width": 1920,
+                    "height": 1080
+                },
+                "shortStartDescription": "Lesson.Listening.resources[0].instructions.en"
+            },
+            "textTracks": [
+                {
+                    "label": "Subtitles",
+                    "kind": "subtitles",
+                    "srcLang": "en",
+                    "track": {
+                        "path": "files\/track-5cec5f3e3a2b2.vtt",
+                        "mime": "text\/plain",
+                        "copyright": {
+                            "license": "U"
+                        }
+                    }
+                }
+            ],
+            "files": [
+                {
+                    "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/B1.3\/M%C3%B3dulo+III\/B1.3_Unit7_Lesson19_4.mp4",
+                    "mime": "video\/mp4",
+                    "copyright": {
+                        "license": "U"
+                    },
+                    "metadata": {
+                        "qualityName": "HD"
+                    }
+                }
+            ]
+        },
+        "assets": {
+            "interactions": [
+                {
+                    "x": 16.641452344932,
+                    "y": 26.881720430108,
+                    "width": 23.600605143722,
+                    "height": 10.89258698941,
+                    "duration": {
+                        "from": 15,
+                        "to": 15
+                    },
+                    "libraryTitle": "Text",
+                    "action": {
+                        "library": "H5P.Text 1.1",
+                        "params": {
+                            "text": "<p>Lesson.Listening.resources[0].questions[0].question<\/p>\n"
+                        },
+                        "metadata": {
+                            "contentType": "Text",
+                            "license": "U",
+                            "title": "Untitled Text",
+                            "authors": [],
+                            "changes": []
+                        },
+                        "subContentId": "9146a718-ffed-4014-a790-065582f83507"
+                    },
+                    "pause": true,
+                    "displayType": "button",
+                    "buttonOnMobile": false,
+                    "visuals": {
+                        "backgroundColor": "rgb(255, 255, 255)",
+                        "boxShadow": true
+                    },
+                    "goto": {
+                        "url": {
+                            "protocol": "http:\/\/"
+                        },
+                        "visualize": false,
+                        "type": ""
+                    },
+                    "label": "<p>Click here for a fun fact<\/p>\n"
+                },
+                {
+                    "x": 16.641452344932,
+                    "y": 26.881720430108,
+                    "width": 23.600605143722,
+                    "height": 10.89258698941,
+                    "duration": {
+                        "from": 30,
+                        "to": 30
+                    },
+                    "libraryTitle": "Text",
+                    "action": {
+                        "library": "H5P.Text 1.1",
+                        "params": {
+                            "text": "<p>Lesson.Listening.resources[0].questions[1].question<\/p>\n"
+                        },
+                        "metadata": {
+                            "contentType": "Text",
+                            "license": "U",
+                            "title": "Untitled Text",
+                            "authors": [],
+                            "changes": []
+                        },
+                        "subContentId": "8f1004fc-a66e-49b9-ad6a-bb3394822f33"
+                    },
+                    "pause": true,
+                    "displayType": "button",
+                    "buttonOnMobile": false,
+                    "visuals": {
+                        "backgroundColor": "rgb(255, 255, 255)",
+                        "boxShadow": true
+                    },
+                    "goto": {
+                        "url": {
+                            "protocol": "http:\/\/"
+                        },
+                        "visualize": false,
+                        "type": ""
+                    },
+                    "label": "<p>Click here for another fun fact<\/p>\n"
+                },
+                {
+                    "x": 6.0514372163389,
+                    "y": 8.0645161290323,
+                    "width": 35.098335854766,
+                    "height": 19.364599092284,
+                    "duration": {
+                        "from": 42,
+                        "to": 42
+                    },
+                    "libraryTitle": "Single Choice Set",
+                    "action": {
+                        "library": "H5P.SingleChoiceSet 1.11",
+                        "params": {
+                            "choices": [
+                                {
+                                    "subContentId": "3f9c2f07-7a4e-4af7-9b5d-e03e6f1f6ab0",
+                                    "question": "<p>Lesson.Listening.resources[0].questions[2].question<\/p>\n",
+                                    "answers": [
+                                        "<p>Lesson.Listening.resources[0].questions[2].options[0].text<\/p>\n",
+                                        "<p>Lesson.Listening.resources[0].questions[2].options[1].text<\/p>\n",
+                                        "<p>Lesson.Listening.resources[0].questions[2].options[2].text<\/p>\n"
+                                    ]
+                                },
+                                {
+                                    "subContentId": "d64c71c4-6c1d-4eca-8360-e414d122a161",
+                                    "question": "<p>Lesson.Listening.resources[0].questions[3].question<\/p>\n",
+                                    "answers": [
+                                        "<p>Lesson.Listening.resources[0].questions[3].options[0].text<\/p>\n",
+                                        "<p>Lesson.Listening.resources[0].questions[3].options[1].text<\/p>\n"
+                                    ]
+                                },
+                                {
+                                    "subContentId": "05dbe769-a30d-4692-8d7a-93985602d9c0",
+                                    "question": "<p>Lesson.Listening.resources[0].questions[4].question<\/p>\n",
+                                    "answers": [
+                                        "<p>Lesson.Listening.resources[0].questions[4].options[0].text<\/p>\n",
+                                        "<p>Lesson.Listening.resources[0].questions[4].options[1].text<\/p>\n",
+                                        "<p>Lesson.Listening.resources[0].questions[4].options[2].text<\/p>\n"
+                                    ]
+                                }
+                            ],
+                            "overallFeedback": [
+                                {
+                                    "from": 0,
+                                    "to": 100
+                                }
+                            ],
+                            "behaviour": {
+                                "autoContinue": true,
+                                "timeoutCorrect": 2000,
+                                "timeoutWrong": 3000,
+                                "soundEffectsEnabled": true,
+                                "enableRetry": true,
+                                "enableSolutionsButton": false,
+                                "passPercentage": 100
+                            },
+                            "l10n": {
+                                "nextButtonLabel": "Next question",
+                                "showSolutionButtonLabel": "Show solution",
+                                "retryButtonLabel": "Retry",
+                                "solutionViewTitle": "Solution list",
+                                "correctText": "Correct!",
+                                "incorrectText": "Incorrect!",
+                                "muteButtonLabel": "Mute feedback sound",
+                                "closeButtonLabel": "Close",
+                                "slideOfTotal": "Slide :num of :total",
+                                "scoreBarLabel": "You got :num out of :total points"
+                            }
+                        },
+                        "metadata": {
+                            "contentType": "Single Choice Set",
+                            "license": "U",
+                            "title": "Check your understanding",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Check your understanding"
+                        },
+                        "subContentId": "cce28f2f-cb7d-4daf-be18-9ca26aa53e6a"
+                    },
+                    "pause": true,
+                    "displayType": "poster",
+                    "buttonOnMobile": false,
+                    "adaptivity": {
+                        "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                        },
+                        "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                        },
+                        "requireCompletion": false
+                    },
+                    "label": ""
+                }
+            ],
+            "bookmarks": [],
+            "endscreens": [
+                {
+                    "time": 44.565333,
+                    "label": "0:44 Submit screen"
+                }
+            ]
+        },
+        "summary": {
+            "task": {
+                "library": "H5P.Summary 1.10",
+                "params": {
+                    "intro": "Choose the correct statement.",
+                    "summaries": [
+                        {
+                            "subContentId": "75d1de19-6e9f-4599-98b3-4cc44177149a",
+                            "tip": ""
+                        }
+                    ],
+                    "overallFeedback": [
+                        {
+                            "from": 0,
+                            "to": 100
+                        }
+                    ],
+                    "solvedLabel": "Progress:",
+                    "scoreLabel": "Wrong answers:",
+                    "resultLabel": "Your result",
+                    "labelCorrect": "Correct.",
+                    "labelIncorrect": "Incorrect! Please try again.",
+                    "labelCorrectAnswers": "Correct answers.",
+                    "tipButtonLabel": "Show tip",
+                    "scoreBarLabel": "You got :num out of :total points",
+                    "progressText": "Progress :num of :total"
+                },
+                "metadata": {
+                    "contentType": "Summary",
+                    "license": "U",
+                    "title": "Untitled Summary",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "Untitled Summary"
+                },
+                "subContentId": "9d4a7d61-fe72-409c-b2dc-0ca58b1c8b9b"
+            },
+            "displayAt": 3
+        }
+    },
+    "override": {
+        "autoplay": true,
+        "loop": false,
+        "showBookmarksmenuOnLoad": false,
+        "showRewind10": true,
+        "preventSkipping": false,
+        "deactivateSound": false
+    },
+    "l10n": {
+        "interaction": "Interaction",
+        "play": "Play",
+        "pause": "Pause",
+        "mute": "Mute",
+        "unmute": "Unmute",
+        "quality": "Video Quality",
+        "captions": "Captions",
+        "close": "Close",
+        "fullscreen": "Fullscreen",
+        "exitFullscreen": "Exit Fullscreen",
+        "summary": "Summary",
+        "bookmarks": "Bookmarks",
+        "endscreen": "Submit screen",
+        "defaultAdaptivitySeekLabel": "Continue",
+        "continueWithVideo": "Continue with video",
+        "playbackRate": "Playback Rate",
+        "rewind10": "Rewind 10 Seconds",
+        "navDisabled": "Navigation is disabled",
+        "sndDisabled": "Sound is disabled",
+        "requiresCompletionWarning": "You need to answer all the questions correctly before continuing.",
+        "back": "Back",
+        "hours": "Hours",
+        "minutes": "Minutes",
+        "seconds": "Seconds",
+        "currentTime": "Current time:",
+        "totalTime": "Total time:",
+        "navigationHotkeyInstructions": "Use key k for starting and stopping video at any time",
+        "singleInteractionAnnouncement": "Interaction appeared:",
+        "multipleInteractionsAnnouncement": "Multiple interactions appeared.",
+        "videoPausedAnnouncement": "Video is paused",
+        "content": "Content",
+        "answered": "@answered answered",
+        "endcardTitle": "@answered Question(s) answered",
+        "endcardInformation": "You have answered @answered questions, click below to submit your answers.",
+        "endcardInformationNoAnswers": "You have not answered any questions.",
+        "endcardInformationMustHaveAnswer": "You have to answer at least one question before you can submit your answers.",
+        "endcardSubmitButton": "Submit Answers",
+        "endcardSubmitMessage": "Your answers have been submitted!",
+        "endcardTableRowAnswered": "Answered questions",
+        "endcardTableRowScore": "Score",
+        "endcardAnsweredScore": "answered"
+    }
+}

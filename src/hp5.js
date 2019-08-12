@@ -12,6 +12,7 @@ const Speaking = require("./cvstoh5p/scorm/Speaking");
 const GFlashcards = require("./cvstoh5p/google/GFlashcards");
 const GLearnAndDiscover = require("./cvstoh5p/google/GLearnAndDiscover");
 const GListeningPractice = require("./cvstoh5p/google/GListeningPractice");
+const GListeningVideo1 = require("./cvstoh5p/google/GListeningVideo1");
 const GPresentation = require("./cvstoh5p/google/GPresentation");
 const GProgressCheck = require("./cvstoh5p/google/GProgressCheck");
 const GSpeaking = require("./cvstoh5p/google/GSpeaking");
@@ -51,8 +52,9 @@ module.exports =
                 if (this.Lesson.from === 'gsheet') {
 
                     const gflashcards = new GFlashcards(this.Lesson);
-                    const glearnanddiscover = new GLearnAndDiscover(this.Lesson);
+                    const glearnanddiscover = new GLearnAndDiscover(this.Lesson);                    
                     const glisteningpractice = new GListeningPractice(this.Lesson);
+                    const glisteningvideo1 = new GListeningVideo1(this.Lesson);
                     const gpresentation = new GPresentation(this.Lesson);
                     const gprogress_check = new GProgressCheck(this.Lesson);
                     const gspeaking = new GSpeaking(this.Lesson);
@@ -65,11 +67,12 @@ module.exports =
                         gflashcards.makeH5Ps(),
                         glearnanddiscover.makeH5Ps(),
                         glisteningpractice.makeH5Ps(),
+                        glisteningvideo1.makeH5Ps(),
                         gpresentation.makeH5Ps(),
                         gprogress_check.makeH5Ps(),
                         greadandwrite.makeH5Ps(),
                         gvocabulary.makeH5Ps(),
-                        // gspeaking.makeH5Ps()
+                        gspeaking.makeH5Ps()
                     ])
                 }
             } catch (error) {
