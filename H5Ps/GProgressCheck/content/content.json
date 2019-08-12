@@ -10,265 +10,9 @@
     "questions": [
         {
             "params": {
-                "interactiveVideo": {
-                    "video": {
-                        "startScreenOptions": {
-                            "title": "Lesson.Listening.resources[0].name",
-                            "hideStartTitle": false,
-                            "poster": {
-                                "path": "images\/poster-5cec2aebb7a0b.png",
-                                "mime": "image\/png",
-                                "copyright": {
-                                    "license": "U"
-                                },
-                                "width": 1920,
-                                "height": 1080
-                            },
-                            "shortStartDescription": "Lesson.Listening.resources[0].instructions.en"
-                        },
-                        "textTracks": [
-                            {
-                                "label": "Subtitles",
-                                "kind": "subtitles",
-                                "srcLang": "en",
-                                "track": {
-                                    "path": "files\/track-5cec6c98a0dd0.vtt",
-                                    "mime": "text\/plain",
-                                    "copyright": {
-                                        "license": "U"
-                                    }
-                                }
-                            }
-                        ],
-                        "files": [
-                            {
-                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/B1.3\/M%C3%B3dulo+III\/B1.3_Unit7_Lesson19_4.mp4",
-                                "mime": "video\/mp4",
-                                "copyright": {
-                                    "license": "U"
-                                },
-                                "metadata": {
-                                    "qualityName": "HD"
-                                }
-                            }
-                        ]
-                    },
-                    "assets": {
-                        "interactions": [
-                            {
-                                "x": 6.0514372163388801,
-                                "y": 8.064516129032258,
-                                "width": 35.098335854765509,
-                                "height": 19.364599092284418,
-                                "duration": {
-                                    "from": 42,
-                                    "to": 42
-                                },
-                                "libraryTitle": "Single Choice Set",
-                                "action": {
-                                    "library": "H5P.SingleChoiceSet 1.11",
-                                    "params": {
-                                        "choices": [
-                                            {
-                                                "subContentId": "3f9c2f07-7a4e-4af7-9b5d-e03e6f1f6ab0",
-                                                "question": "<p>Lesson.Listening.resources[0].questions[2].question<\/p>\n",
-                                                "answers": [
-                                                    "<p>Lesson.Listening.resources[0].questions[2].options[0].text<\/p>\n",
-                                                    "<p>Lesson.Listening.resources[0].questions[2].options[1].text<\/p>\n",
-                                                    "<p>Lesson.Listening.resources[0].questions[2].options[2].text<\/p>\n"
-                                                ]
-                                            },
-                                            {
-                                                "subContentId": "d64c71c4-6c1d-4eca-8360-e414d122a161",
-                                                "question": "<p>Lesson.Listening.resources[0].questions[3].question<\/p>\n",
-                                                "answers": [
-                                                    "<p>Lesson.Listening.resources[0].questions[3].options[0].text<\/p>\n",
-                                                    "<p>Lesson.Listening.resources[0].questions[3].options[1].text<\/p>\n"
-                                                ]
-                                            },
-                                            {
-                                                "subContentId": "05dbe769-a30d-4692-8d7a-93985602d9c0",
-                                                "question": "<p>Lesson.Listening.resources[0].questions[4].question<\/p>\n",
-                                                "answers": [
-                                                    "<p>Lesson.Listening.resources[0].questions[4].options[0].text<\/p>\n",
-                                                    "<p>Lesson.Listening.resources[0].questions[4].options[1].text<\/p>\n",
-                                                    "<p>Lesson.Listening.resources[0].questions[4].options[2].text<\/p>\n"
-                                                ]
-                                            }
-                                        ],
-                                        "overallFeedback": [
-                                            {
-                                                "from": 0,
-                                                "to": 100
-                                            }
-                                        ],
-                                        "behaviour": {
-                                            "autoContinue": true,
-                                            "timeoutCorrect": 2000,
-                                            "timeoutWrong": 3000,
-                                            "soundEffectsEnabled": true,
-                                            "enableRetry": true,
-                                            "enableSolutionsButton": false,
-                                            "passPercentage": 100
-                                        },
-                                        "l10n": {
-                                            "nextButtonLabel": "Next question",
-                                            "showSolutionButtonLabel": "Show solution",
-                                            "retryButtonLabel": "Retry",
-                                            "solutionViewTitle": "Solution list",
-                                            "correctText": "Correct!",
-                                            "incorrectText": "Incorrect!",
-                                            "muteButtonLabel": "Mute feedback sound",
-                                            "closeButtonLabel": "Close",
-                                            "slideOfTotal": "Slide :num of :total",
-                                            "scoreBarLabel": "You got :num out of :total points"
-                                        }
-                                    },
-                                    "subContentId": "13de6ec2-0e72-4602-8f03-78bf37aae8e0",
-                                    "metadata": {
-                                        "contentType": "Single Choice Set",
-                                        "license": "U",
-                                        "title": "Check your understanding",
-                                        "authors": [],
-                                        "changes": [],
-                                        "extraTitle": "Check your understanding"
-                                    }
-                                },
-                                "pause": true,
-                                "displayType": "poster",
-                                "buttonOnMobile": false,
-                                "adaptivity": {
-                                    "correct": {
-                                        "allowOptOut": false,
-                                        "message": ""
-                                    },
-                                    "wrong": {
-                                        "allowOptOut": false,
-                                        "message": ""
-                                    },
-                                    "requireCompletion": false
-                                },
-                                "label": ""
-                            }
-                        ],
-                        "bookmarks": [],
-                        "endscreens": [
-                            {
-                                "time": 44.565333000000003,
-                                "label": "0:44 Submit screen"
-                            }
-                        ]
-                    },
-                    "summary": {
-                        "task": {
-                            "library": "H5P.Summary 1.10",
-                            "params": {
-                                "intro": "Choose the correct statement.",
-                                "summaries": [
-                                    {
-                                        "subContentId": "75d1de19-6e9f-4599-98b3-4cc44177149a",
-                                        "tip": ""
-                                    }
-                                ],
-                                "overallFeedback": [
-                                    {
-                                        "from": 0,
-                                        "to": 100
-                                    }
-                                ],
-                                "solvedLabel": "Progress:",
-                                "scoreLabel": "Wrong answers:",
-                                "resultLabel": "Your result",
-                                "labelCorrect": "Correct.",
-                                "labelIncorrect": "Incorrect! Please try again.",
-                                "labelCorrectAnswers": "Correct answers.",
-                                "tipButtonLabel": "Show tip",
-                                "scoreBarLabel": "You got :num out of :total points",
-                                "progressText": "Progress :num of :total"
-                            },
-                            "subContentId": "4659b195-bf28-45cb-a228-ceef3a3dc89b",
-                            "metadata": {
-                                "contentType": "Summary",
-                                "license": "U",
-                                "title": "Untitled Summary",
-                                "authors": [],
-                                "changes": [],
-                                "extraTitle": "Untitled Summary"
-                            }
-                        },
-                        "displayAt": 3
-                    }
-                },
-                "override": {
-                    "autoplay": false,
-                    "loop": false,
-                    "showBookmarksmenuOnLoad": false,
-                    "showRewind10": true,
-                    "preventSkipping": false,
-                    "deactivateSound": false,
-                    "showSolutionButton": "off",
-                    "retryButton": "off"
-                },
-                "l10n": {
-                    "interaction": "Interaction",
-                    "play": "Play",
-                    "pause": "Pause",
-                    "mute": "Mute",
-                    "unmute": "Unmute",
-                    "quality": "Video Quality",
-                    "captions": "Captions",
-                    "close": "Close",
-                    "fullscreen": "Fullscreen",
-                    "exitFullscreen": "Exit Fullscreen",
-                    "summary": "Summary",
-                    "bookmarks": "Bookmarks",
-                    "endscreen": "Submit screen",
-                    "defaultAdaptivitySeekLabel": "Continue",
-                    "continueWithVideo": "Continue with video",
-                    "playbackRate": "Playback Rate",
-                    "rewind10": "Rewind 10 Seconds",
-                    "navDisabled": "Navigation is disabled",
-                    "sndDisabled": "Sound is disabled",
-                    "requiresCompletionWarning": "You need to answer all the questions correctly before continuing.",
-                    "back": "Back",
-                    "hours": "Hours",
-                    "minutes": "Minutes",
-                    "seconds": "Seconds",
-                    "currentTime": "Current time:",
-                    "totalTime": "Total time:",
-                    "navigationHotkeyInstructions": "Use key k for starting and stopping video at any time",
-                    "singleInteractionAnnouncement": "Interaction appeared:",
-                    "multipleInteractionsAnnouncement": "Multiple interactions appeared.",
-                    "videoPausedAnnouncement": "Video is paused",
-                    "content": "Content",
-                    "answered": "@answered answered",
-                    "endcardTitle": "@answered Question(s) answered",
-                    "endcardInformation": "You have answered @answered questions, click below to submit your answers.",
-                    "endcardInformationNoAnswers": "You have not answered any questions.",
-                    "endcardInformationMustHaveAnswer": "You have to answer at least one question before you can submit your answers.",
-                    "endcardSubmitButton": "Submit Answers",
-                    "endcardSubmitMessage": "Your answers have been submitted!",
-                    "endcardTableRowAnswered": "Answered questions",
-                    "endcardTableRowScore": "Score",
-                    "endcardAnsweredScore": "answered"
-                }
-            },
-            "library": "H5P.InteractiveVideo 1.20",
-            "metadata": {
-                "contentType": "Interactive Video",
-                "license": "U",
-                "title": "R4 - Interactive Video Lesson.Listening.resources[0].name",
-                "authors": [],
-                "changes": [],
-                "extraTitle": "R4 - Interactive Video Lesson.Listening.resources[0].name"
-            },
-            "subContentId": "fc46cbee-1b30-40d2-9ed3-b01a6381fb10"
-        },
-        {
-            "params": {
                 "media": {
                     "params": {
-                        "playerMode": "full",
+                        "playerMode": "minimalistic",
                         "fitToWrapper": false,
                         "controls": true,
                         "autoplay": false,
@@ -284,7 +28,7 @@
                             }
                         ]
                     },
-                    "library": "H5P.Audio 1.3",
+                    "library": "H5P.Audio 1.4",
                     "metadata": {
                         "contentType": "Audio",
                         "license": "U",
@@ -383,7 +127,7 @@
                 },
                 "question": "<p>&nbsp;Lesson.Conversation.resources[0].questions[0].question<\/p>\n"
             },
-            "library": "H5P.MultiChoice 1.13",
+            "library": "H5P.MultiChoiceIDO 1.13",
             "metadata": {
                 "contentType": "Multiple Choice",
                 "license": "U",
@@ -414,7 +158,7 @@
                             }
                         ]
                     },
-                    "library": "H5P.Audio 1.3",
+                    "library": "H5P.Audio 1.4",
                     "metadata": {
                         "contentType": "Audio",
                         "license": "U",
@@ -513,7 +257,7 @@
                 },
                 "question": "<p>&nbsp;Lesson.Conversation.resources[0].questions[1].question<\/p>\n"
             },
-            "library": "H5P.MultiChoice 1.13",
+            "library": "H5P.MultiChoiceIDO 1.13",
             "metadata": {
                 "contentType": "Multiple Choice",
                 "license": "U",
@@ -544,7 +288,7 @@
                             }
                         ]
                     },
-                    "library": "H5P.Audio 1.3",
+                    "library": "H5P.Audio 1.4",
                     "metadata": {
                         "contentType": "Audio",
                         "license": "U",
@@ -643,7 +387,7 @@
                 },
                 "question": "<p>&nbsp;Lesson.Conversation.resources[0].questions[2].question<\/p>\n"
             },
-            "library": "H5P.MultiChoice 1.13",
+            "library": "H5P.MultiChoiceIDO 1.13",
             "metadata": {
                 "contentType": "Multiple Choice",
                 "license": "U",
@@ -653,260 +397,6 @@
                 "extraTitle": "R5 MC3"
             },
             "subContentId": "e79e63bf-a840-401f-b6a8-5ccb2ab75cb0"
-        },
-        {
-            "params": {
-                "interactiveVideo": {
-                    "video": {
-                        "startScreenOptions": {
-                            "title": "Lesson.Monologue.resources[0].name",
-                            "hideStartTitle": false,
-                            "poster": {
-                                "path": "images\/poster-5cec2aebb7a0b.png",
-                                "mime": "image\/png",
-                                "copyright": {
-                                    "license": "U"
-                                },
-                                "width": 1920,
-                                "height": 1080
-                            },
-                            "shortStartDescription": "Lesson.Monologue.resources[0].instructions.en"
-                        },
-                        "textTracks": [
-                            {
-                                "label": "Subtitles",
-                                "kind": "subtitles",
-                                "srcLang": "en",
-                                "track": {
-                                    "path": "files\/track-5cec6c8bc2603.vtt",
-                                    "mime": "text\/plain",
-                                    "copyright": {
-                                        "license": "U"
-                                    }
-                                }
-                            }
-                        ],
-                        "files": [
-                            {
-                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/B1.3\/M%C3%B3dulo+III\/B1.3_Unit7_Lesson19_7.mp4",
-                                "mime": "video\/mp4",
-                                "copyright": {
-                                    "license": "U"
-                                },
-                                "metadata": {
-                                    "qualityName": "HD"
-                                }
-                            }
-                        ]
-                    },
-                    "assets": {
-                        "interactions": [
-                            {
-                                "x": 6.0514372163388801,
-                                "y": 8.064516129032258,
-                                "width": 35.098335854765509,
-                                "height": 19.364599092284418,
-                                "duration": {
-                                    "from": 38,
-                                    "to": 38
-                                },
-                                "libraryTitle": "Single Choice Set",
-                                "action": {
-                                    "library": "H5P.SingleChoiceSet 1.11",
-                                    "params": {
-                                        "choices": [
-                                            {
-                                                "subContentId": "3f9c2f07-7a4e-4af7-9b5d-e03e6f1f6ab0",
-                                                "question": "<p>Lesson.Monologue.resources[0].questions[2].question<\/p>\n",
-                                                "answers": [
-                                                    "<p>Lesson.Monologue.resources[0].questions[2].options[0].text<\/p>\n",
-                                                    "<p>Lesson.Monologue.resources[0].questions[2].options[1].text<\/p>\n",
-                                                    "<p>Lesson.Monologue.resources[0].questions[2].options[2].text<\/p>\n"
-                                                ]
-                                            },
-                                            {
-                                                "subContentId": "d64c71c4-6c1d-4eca-8360-e414d122a161",
-                                                "question": "<p>Lesson.Monologue.resources[0].questions[3].question<\/p>\n",
-                                                "answers": [
-                                                    "<p>Lesson.Monologue.resources[0].questions[3].options[0].text<\/p>\n",
-                                                    "<p>Lesson.Monologue.resources[0].questions[3].options[1].text<\/p>\n"
-                                                ]
-                                            },
-                                            {
-                                                "subContentId": "05dbe769-a30d-4692-8d7a-93985602d9c0",
-                                                "question": "<p>Lesson.Monologue.resources[0].questions[4].question<\/p>\n",
-                                                "answers": [
-                                                    "<p>Lesson.Monologue.resources[0].questions[4].options[0].text<\/p>\n",
-                                                    "<p>Lesson.Monologue.resources[0].questions[4].options[1].text<\/p>\n",
-                                                    "<p>Lesson.Monologue.resources[0].questions[4].options[2].text<\/p>\n"
-                                                ]
-                                            }
-                                        ],
-                                        "overallFeedback": [
-                                            {
-                                                "from": 0,
-                                                "to": 100
-                                            }
-                                        ],
-                                        "behaviour": {
-                                            "autoContinue": true,
-                                            "timeoutCorrect": 2000,
-                                            "timeoutWrong": 3000,
-                                            "soundEffectsEnabled": true,
-                                            "enableRetry": false,
-                                            "enableSolutionsButton": false,
-                                            "passPercentage": 100
-                                        },
-                                        "l10n": {
-                                            "nextButtonLabel": "Next question",
-                                            "showSolutionButtonLabel": "Show solution",
-                                            "retryButtonLabel": "Retry",
-                                            "solutionViewTitle": "Solution list",
-                                            "correctText": "Correct!",
-                                            "incorrectText": "Incorrect!",
-                                            "muteButtonLabel": "Mute feedback sound",
-                                            "closeButtonLabel": "Close",
-                                            "slideOfTotal": "Slide :num of :total",
-                                            "scoreBarLabel": "You got :num out of :total points"
-                                        }
-                                    },
-                                    "metadata": {
-                                        "contentType": "Single Choice Set",
-                                        "license": "U",
-                                        "title": "Check your understanding",
-                                        "authors": [],
-                                        "changes": [],
-                                        "extraTitle": "Check your understanding"
-                                    },
-                                    "subContentId": "424b8776-66ca-4d42-8307-5ba48ece65e8"
-                                },
-                                "pause": true,
-                                "displayType": "poster",
-                                "buttonOnMobile": false,
-                                "adaptivity": {
-                                    "correct": {
-                                        "allowOptOut": false,
-                                        "message": ""
-                                    },
-                                    "wrong": {
-                                        "allowOptOut": false,
-                                        "message": ""
-                                    },
-                                    "requireCompletion": false
-                                },
-                                "label": ""
-                            }
-                        ],
-                        "bookmarks": [],
-                        "endscreens": [
-                            {
-                                "time": 41.088000000000001,
-                                "label": "0:41 Submit screen"
-                            }
-                        ]
-                    },
-                    "summary": {
-                        "task": {
-                            "library": "H5P.Summary 1.10",
-                            "params": {
-                                "intro": "Choose the correct statement.",
-                                "summaries": [
-                                    {
-                                        "subContentId": "75d1de19-6e9f-4599-98b3-4cc44177149a",
-                                        "tip": ""
-                                    }
-                                ],
-                                "overallFeedback": [
-                                    {
-                                        "from": 0,
-                                        "to": 100
-                                    }
-                                ],
-                                "solvedLabel": "Progress:",
-                                "scoreLabel": "Wrong answers:",
-                                "resultLabel": "Your result",
-                                "labelCorrect": "Correct.",
-                                "labelIncorrect": "Incorrect! Please try again.",
-                                "labelCorrectAnswers": "Correct answers.",
-                                "tipButtonLabel": "Show tip",
-                                "scoreBarLabel": "You got :num out of :total points",
-                                "progressText": "Progress :num of :total"
-                            },
-                            "metadata": {
-                                "contentType": "Summary",
-                                "license": "U",
-                                "title": "Untitled Summary",
-                                "authors": [],
-                                "changes": [],
-                                "extraTitle": "Untitled Summary"
-                            },
-                            "subContentId": "b0591313-e1d2-429d-8f3e-a2fb156b7e9f"
-                        },
-                        "displayAt": 3
-                    }
-                },
-                "override": {
-                    "autoplay": false,
-                    "loop": false,
-                    "showBookmarksmenuOnLoad": false,
-                    "showRewind10": true,
-                    "preventSkipping": false,
-                    "deactivateSound": false
-                },
-                "l10n": {
-                    "interaction": "Interaction",
-                    "play": "Play",
-                    "pause": "Pause",
-                    "mute": "Mute",
-                    "unmute": "Unmute",
-                    "quality": "Video Quality",
-                    "captions": "Captions",
-                    "close": "Close",
-                    "fullscreen": "Fullscreen",
-                    "exitFullscreen": "Exit Fullscreen",
-                    "summary": "Summary",
-                    "bookmarks": "Bookmarks",
-                    "endscreen": "Submit screen",
-                    "defaultAdaptivitySeekLabel": "Continue",
-                    "continueWithVideo": "Continue with video",
-                    "playbackRate": "Playback Rate",
-                    "rewind10": "Rewind 10 Seconds",
-                    "navDisabled": "Navigation is disabled",
-                    "sndDisabled": "Sound is disabled",
-                    "requiresCompletionWarning": "You need to answer all the questions correctly before continuing.",
-                    "back": "Back",
-                    "hours": "Hours",
-                    "minutes": "Minutes",
-                    "seconds": "Seconds",
-                    "currentTime": "Current time:",
-                    "totalTime": "Total time:",
-                    "navigationHotkeyInstructions": "Use key k for starting and stopping video at any time",
-                    "singleInteractionAnnouncement": "Interaction appeared:",
-                    "multipleInteractionsAnnouncement": "Multiple interactions appeared.",
-                    "videoPausedAnnouncement": "Video is paused",
-                    "content": "Content",
-                    "answered": "@answered answered",
-                    "endcardTitle": "@answered Question(s) answered",
-                    "endcardInformation": "You have answered @answered questions, click below to submit your answers.",
-                    "endcardInformationNoAnswers": "You have not answered any questions.",
-                    "endcardInformationMustHaveAnswer": "You have to answer at least one question before you can submit your answers.",
-                    "endcardSubmitButton": "Submit Answers",
-                    "endcardSubmitMessage": "Your answers have been submitted!",
-                    "endcardTableRowAnswered": "Answered questions",
-                    "endcardTableRowScore": "Score",
-                    "endcardAnsweredScore": "answered"
-                }
-            },
-            "library": "H5P.InteractiveVideo 1.20",
-            "metadata": {
-                "contentType": "Interactive Video",
-                "license": "U",
-                "title": "R7 - Interactive Video Lesson.Monologue.resources[0].name",
-                "authors": [],
-                "changes": [],
-                "extraTitle": "R7 - Interactive Video Lesson.Monologue.resources[0].name"
-            },
-            "subContentId": "716667cb-2931-451a-b0ea-830038b62f5d"
         },
         {
             "params": {
@@ -928,7 +418,7 @@
                             }
                         ]
                     },
-                    "library": "H5P.Audio 1.3",
+                    "library": "H5P.Audio 1.4",
                     "metadata": {
                         "contentType": "Audio",
                         "license": "U",
@@ -1018,7 +508,7 @@
                 },
                 "question": "<p>Lesson.Reading.resources[1].questions[1].question<\/p>\n"
             },
-            "library": "H5P.MultiChoice 1.13",
+            "library": "H5P.MultiChoiceIDO 1.13",
             "metadata": {
                 "contentType": "Multiple Choice",
                 "license": "U",
@@ -1028,324 +518,6 @@
                 "extraTitle": "R5 MC"
             },
             "subContentId": "566596c8-5cbe-44fe-9390-f39c6d555015"
-        },
-        {
-            "params": {
-                "interactiveVideo": {
-                    "video": {
-                        "startScreenOptions": {
-                            "title": "Lesson.Conversation.resources[1].name",
-                            "hideStartTitle": false,
-                            "poster": {
-                                "path": "images\/poster-5cec2aebb7a0b.png",
-                                "mime": "image\/png",
-                                "copyright": {
-                                    "license": "U"
-                                },
-                                "width": 1920,
-                                "height": 1080
-                            }
-                        },
-                        "textTracks": [
-                            {
-                                "label": "Subtitles",
-                                "kind": "subtitles",
-                                "srcLang": "en",
-                                "track": {
-                                    "path": "files\/track-5cec6ca83cf6f.vtt",
-                                    "mime": "text\/plain",
-                                    "copyright": {
-                                        "license": "U"
-                                    }
-                                }
-                            }
-                        ],
-                        "files": [
-                            {
-                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/B1.3\/M%C3%B3dulo+III\/B1.3_Unit7_Lesson19_10.mp4",
-                                "mime": "video\/mp4",
-                                "copyright": {
-                                    "license": "U"
-                                },
-                                "metadata": {
-                                    "qualityName": "HD"
-                                }
-                            }
-                        ]
-                    },
-                    "assets": {
-                        "interactions": [
-                            {
-                                "x": 6.0514372163388801,
-                                "y": 8.064516129032258,
-                                "width": 35.098335854765509,
-                                "height": 19.364599092284418,
-                                "duration": {
-                                    "from": 31,
-                                    "to": 31
-                                },
-                                "libraryTitle": "Single Choice Set",
-                                "action": {
-                                    "library": "H5P.SingleChoiceSet 1.11",
-                                    "params": {
-                                        "choices": [
-                                            {
-                                                "subContentId": "3f9c2f07-7a4e-4af7-9b5d-e03e6f1f6ab0",
-                                                "question": "<p>Lesson.Conversation.resources[1].questions[1].question<\/p>\n",
-                                                "answers": [
-                                                    "<p>Lesson.Conversation.resources[1].questions[1].options[0].text<\/p>\n",
-                                                    "<p>Lesson.Conversation.resources[1].questions[1].options[1].text<\/p>\n",
-                                                    "<p>Lesson.Conversation.resources[1].questions[1].options[2].text<\/p>\n"
-                                                ]
-                                            },
-                                            {
-                                                "subContentId": "d64c71c4-6c1d-4eca-8360-e414d122a161",
-                                                "question": "<p>Lesson.Conversation.resources[1].questions[2].question<\/p>\n",
-                                                "answers": [
-                                                    "<p>Lesson.Conversation.resources[1].questions[2].options[0].text<\/p>\n",
-                                                    "<p>Lesson.Conversation.resources[1].questions[2].options[1].text<\/p>\n"
-                                                ]
-                                            },
-                                            {
-                                                "subContentId": "05dbe769-a30d-4692-8d7a-93985602d9c0",
-                                                "question": "<p>Lesson.Conversation.resources[1].questions[3].question<\/p>\n",
-                                                "answers": [
-                                                    "<p>Lesson.Conversation.resources[1].questions[3].options[0].text<\/p>\n",
-                                                    "<p>Lesson.Conversation.resources[1].questions[3].options[1].text<\/p>\n",
-                                                    "<p>Lesson.Conversation.resources[1].questions[3].options[2].text<\/p>\n"
-                                                ]
-                                            }
-                                        ],
-                                        "overallFeedback": [
-                                            {
-                                                "from": 0,
-                                                "to": 100
-                                            }
-                                        ],
-                                        "behaviour": {
-                                            "autoContinue": true,
-                                            "timeoutCorrect": 2000,
-                                            "timeoutWrong": 3000,
-                                            "soundEffectsEnabled": true,
-                                            "enableRetry": true,
-                                            "enableSolutionsButton": false,
-                                            "passPercentage": 100
-                                        },
-                                        "l10n": {
-                                            "nextButtonLabel": "Next question",
-                                            "showSolutionButtonLabel": "Show solution",
-                                            "retryButtonLabel": "Retry",
-                                            "solutionViewTitle": "Solution list",
-                                            "correctText": "Correct!",
-                                            "incorrectText": "Incorrect!",
-                                            "muteButtonLabel": "Mute feedback sound",
-                                            "closeButtonLabel": "Close",
-                                            "slideOfTotal": "Slide :num of :total",
-                                            "scoreBarLabel": "You got :num out of :total points"
-                                        }
-                                    },
-                                    "metadata": {
-                                        "contentType": "Single Choice Set",
-                                        "license": "U",
-                                        "title": "Check your understanding",
-                                        "authors": [],
-                                        "changes": [],
-                                        "extraTitle": "Check your understanding"
-                                    },
-                                    "subContentId": "37e035df-0f99-4086-bc93-8b5bb0d1142c"
-                                },
-                                "pause": true,
-                                "displayType": "poster",
-                                "buttonOnMobile": false,
-                                "adaptivity": {
-                                    "correct": {
-                                        "allowOptOut": false,
-                                        "message": ""
-                                    },
-                                    "wrong": {
-                                        "allowOptOut": false,
-                                        "message": ""
-                                    },
-                                    "requireCompletion": false
-                                },
-                                "label": ""
-                            },
-                            {
-                                "x": 1.51285930408472,
-                                "y": 2.6851200557255246,
-                                "width": 38.729198184568837,
-                                "height": 21.180030257186083,
-                                "duration": {
-                                    "from": 24,
-                                    "to": 24
-                                },
-                                "libraryTitle": "Mark the Words",
-                                "action": {
-                                    "library": "H5P.MarkTheWords 1.9",
-                                    "params": {
-                                        "overallFeedback": [
-                                            {
-                                                "from": 0,
-                                                "to": 100
-                                            }
-                                        ],
-                                        "checkAnswerButton": "Check",
-                                        "tryAgainButton": "Retry",
-                                        "showSolutionButton": "Show solution",
-                                        "behaviour": {
-                                            "enableRetry": true,
-                                            "enableSolutionsButton": false,
-                                            "enableCheckButton": true,
-                                            "showScorePoints": false
-                                        },
-                                        "correctAnswer": "Correct!",
-                                        "incorrectAnswer": "Incorrect!",
-                                        "missedAnswer": "Missed!",
-                                        "displaySolutionDescription": "Task is updated to contain the solution.",
-                                        "scoreBarLabel": "You got :num out of :total points",
-                                        "textField": "<p>Lesson.Conversation.resources[1].questions[0].question<\/p>\n\n<p>When you consider consumer demand, millennials, by an overwhelming amount, will choose to buy a product associated with a *social mission*. A big percentage of millenials prefer to have a *social impact* on their local *community*.<\/p>\n",
-                                        "taskDescription": "<p>Lesson.Conversation.resources[1].questions[0].options[0].text<\/p>\n",
-                                        "media": {
-                                            "params": {}
-                                        }
-                                    },
-                                    "subContentId": "5e8c4b84-319c-45d5-8eaf-6c32467b13a2",
-                                    "metadata": {
-                                        "contentType": "Mark the Words",
-                                        "license": "U",
-                                        "title": "Mark the Words",
-                                        "authors": [],
-                                        "changes": [],
-                                        "extraTitle": "Mark the Words"
-                                    }
-                                },
-                                "pause": true,
-                                "displayType": "poster",
-                                "buttonOnMobile": false,
-                                "adaptivity": {
-                                    "correct": {
-                                        "allowOptOut": false,
-                                        "message": ""
-                                    },
-                                    "wrong": {
-                                        "allowOptOut": false,
-                                        "message": ""
-                                    },
-                                    "requireCompletion": false
-                                },
-                                "label": ""
-                            }
-                        ],
-                        "bookmarks": [],
-                        "endscreens": [
-                            {
-                                "time": 57.408000000000001,
-                                "label": "0:57 Submit screen"
-                            }
-                        ]
-                    },
-                    "summary": {
-                        "task": {
-                            "library": "H5P.Summary 1.10",
-                            "params": {
-                                "intro": "Choose the correct statement.",
-                                "summaries": [
-                                    {
-                                        "subContentId": "75d1de19-6e9f-4599-98b3-4cc44177149a",
-                                        "tip": ""
-                                    }
-                                ],
-                                "overallFeedback": [
-                                    {
-                                        "from": 0,
-                                        "to": 100
-                                    }
-                                ],
-                                "solvedLabel": "Progress:",
-                                "scoreLabel": "Wrong answers:",
-                                "resultLabel": "Your result",
-                                "labelCorrect": "Correct.",
-                                "labelIncorrect": "Incorrect! Please try again.",
-                                "labelCorrectAnswers": "Correct answers.",
-                                "tipButtonLabel": "Show tip",
-                                "scoreBarLabel": "You got :num out of :total points",
-                                "progressText": "Progress :num of :total"
-                            },
-                            "metadata": {
-                                "contentType": "Summary",
-                                "license": "U",
-                                "title": "Untitled Summary",
-                                "authors": [],
-                                "changes": [],
-                                "extraTitle": "Untitled Summary"
-                            },
-                            "subContentId": "acc58dee-7f22-40bf-9e20-5351b6dd95d4"
-                        },
-                        "displayAt": 3
-                    }
-                },
-                "override": {
-                    "autoplay": false,
-                    "loop": false,
-                    "showBookmarksmenuOnLoad": false,
-                    "showRewind10": true,
-                    "preventSkipping": false,
-                    "deactivateSound": false
-                },
-                "l10n": {
-                    "interaction": "Interaction",
-                    "play": "Play",
-                    "pause": "Pause",
-                    "mute": "Mute",
-                    "unmute": "Unmute",
-                    "quality": "Video Quality",
-                    "captions": "Captions",
-                    "close": "Close",
-                    "fullscreen": "Fullscreen",
-                    "exitFullscreen": "Exit Fullscreen",
-                    "summary": "Summary",
-                    "bookmarks": "Bookmarks",
-                    "endscreen": "Submit screen",
-                    "defaultAdaptivitySeekLabel": "Continue",
-                    "continueWithVideo": "Continue with video",
-                    "playbackRate": "Playback Rate",
-                    "rewind10": "Rewind 10 Seconds",
-                    "navDisabled": "Navigation is disabled",
-                    "sndDisabled": "Sound is disabled",
-                    "requiresCompletionWarning": "You need to answer all the questions correctly before continuing.",
-                    "back": "Back",
-                    "hours": "Hours",
-                    "minutes": "Minutes",
-                    "seconds": "Seconds",
-                    "currentTime": "Current time:",
-                    "totalTime": "Total time:",
-                    "navigationHotkeyInstructions": "Use key k for starting and stopping video at any time",
-                    "singleInteractionAnnouncement": "Interaction appeared:",
-                    "multipleInteractionsAnnouncement": "Multiple interactions appeared.",
-                    "videoPausedAnnouncement": "Video is paused",
-                    "content": "Content",
-                    "answered": "@answered answered",
-                    "endcardTitle": "@answered Question(s) answered",
-                    "endcardInformation": "You have answered @answered questions, click below to submit your answers.",
-                    "endcardInformationNoAnswers": "You have not answered any questions.",
-                    "endcardInformationMustHaveAnswer": "You have to answer at least one question before you can submit your answers.",
-                    "endcardSubmitButton": "Submit Answers",
-                    "endcardSubmitMessage": "Your answers have been submitted!",
-                    "endcardTableRowAnswered": "Answered questions",
-                    "endcardTableRowScore": "Score",
-                    "endcardAnsweredScore": "answered"
-                }
-            },
-            "library": "H5P.InteractiveVideo 1.20",
-            "metadata": {
-                "contentType": "Interactive Video",
-                "license": "U",
-                "title": "R8 - Interactive Video Lesson.Conversation.resources[1].name",
-                "authors": [],
-                "changes": [],
-                "extraTitle": "R8 - Interactive Video Lesson.Conversation.resources[1].name"
-            },
-            "subContentId": "8da69488-fbbc-4eea-b523-def8e8e206a9"
         },
         {
             "params": {
@@ -1370,38 +542,9 @@
                 "displaySolutionDescription": "Task is updated to contain the solution.",
                 "scoreBarLabel": "You got :num out of :total points",
                 "taskDescription": "<p><em>Lesson.Reading.resources[0].instructions.en<\/em><\/p>\n",
-                "textField": "<p>Lesson.Reading.resources[0].questions[0].question<\/p>\n",
-                "media": {
-                    "params": {
-                        "playerMode": "minimalistic",
-                        "fitToWrapper": false,
-                        "controls": true,
-                        "autoplay": false,
-                        "contentName": "Audio",
-                        "audioNotSupported": "Your browser does not support this audio",
-                        "files": [
-                            {
-                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/B1.3\/M%C3%B3dulo+III\/B1.3_Unit7_Lesson19_TextReadAloud_3.mp3",
-                                "mime": "audio\/mp3",
-                                "copyright": {
-                                    "license": "U"
-                                }
-                            }
-                        ]
-                    },
-                    "library": "H5P.Audio 1.3",
-                    "metadata": {
-                        "contentType": "Audio",
-                        "license": "U",
-                        "title": "Lesson.Reading.resources[0].mp3",
-                        "authors": [],
-                        "changes": [],
-                        "extraTitle": "Lesson.Reading.resources[0].mp3"
-                    },
-                    "subContentId": "ba9d03a5-d096-45af-9880-0ba0460ae8e3"
-                }
+                "textField": "<p>Lesson.Reading.resources[0].questions[0].question<\/p>\n"
             },
-            "library": "H5P.MarkTheWords 1.9",
+            "library": "H5P.MarkTheWordsIDO 1.9",
             "metadata": {
                 "contentType": "Mark the Words",
                 "license": "U",
@@ -1414,110 +557,42 @@
         },
         {
             "params": {
-                "media": {
-                    "params": {
-                        "playerMode": "minimalistic",
-                        "fitToWrapper": false,
-                        "controls": true,
-                        "autoplay": false,
-                        "contentName": "Audio",
-                        "audioNotSupported": "Your browser does not support this audio",
-                        "files": [
-                            {
-                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/B1.3\/M%C3%B3dulo+III\/B1.3_Unit7_Lesson19_TextReadAloud_5.mp3",
-                                "mime": "audio\/mp3",
-                                "copyright": {
-                                    "license": "U"
-                                }
-                            }
-                        ]
-                    },
-                    "library": "H5P.Audio 1.3",
-                    "metadata": {
-                        "contentType": "Audio",
-                        "license": "U",
-                        "title": "Lesson.Reading.resources[1].mp3",
-                        "authors": [],
-                        "changes": [],
-                        "extraTitle": "Lesson.Reading.resources[1].mp3"
-                    },
-                    "subContentId": "817f98a0-f2c7-4a7b-8ed6-52ece62bd8a2"
-                },
-                "taskDescription": "<p><em>Lesson.Reading.resources[1].instructions.en<\/em><\/p>\n",
                 "overallFeedback": [
                     {
                         "from": 0,
                         "to": 100
                     }
                 ],
-                "checkAnswer": "Check",
-                "tryAgain": "Retry",
-                "showSolution": "Show solution",
-                "dropZoneIndex": "Drop Zone @index.",
-                "empty": "Drop Zone @index is empty.",
-                "contains": "Drop Zone @index contains draggable @draggable.",
-                "draggableIndex": "Draggable @text. @index of @count draggables.",
-                "tipLabel": "Show tip",
-                "correctText": "Correct!",
-                "incorrectText": "Incorrect!",
-                "resetDropTitle": "Reset drop",
-                "resetDropDescription": "Are you sure you want to reset this drop zone?",
-                "grabbed": "Draggable is grabbed.",
-                "cancelledDragging": "Cancelled dragging.",
-                "correctAnswer": "Correct answer:",
-                "feedbackHeader": "Feedback",
+                "checkAnswerButton": "Check",
+                "tryAgainButton": "Retry",
+                "showSolutionButton": "Show solution",
                 "behaviour": {
                     "enableRetry": true,
                     "enableSolutionsButton": false,
                     "enableCheckButton": true,
-                    "instantFeedback": false
+                    "showScorePoints": false
                 },
+                "correctAnswer": "Correct!",
+                "incorrectAnswer": "Incorrect!",
+                "missedAnswer": "Missed!",
+                "displaySolutionDescription": "Task is updated to contain the solution.",
                 "scoreBarLabel": "You got :num out of :total points",
+                "taskDescription": "<p><em>Lesson.Reading.resources[1].instructions.en<\/em><\/p>\n",
                 "textField": "<p>Lesson.Reading.resources[1].questions[0].question<\/p>\n"
-
             },
-            "library": "H5P.DragText 1.8",
+            "library": "H5P.MarkTheWordsIDO 1.9",
             "metadata": {
-                "contentType": "Drag Text",
+                "contentType": "Mark the Words",
                 "license": "U",
-                "title": "R6 Drag text with audio",
+                "title": "R5 Audio Drag Words",
                 "authors": [],
                 "changes": [],
-                "extraTitle": "R6 Drag text with audio"
+                "extraTitle": "R5 Audio Drag Words"
             },
             "subContentId": "c4c01a88-c61e-4b88-a078-7fe6d38fd933"
         },
         {
             "params": {
-                "media": {
-                    "params": {
-                        "playerMode": "minimalistic",
-                        "fitToWrapper": false,
-                        "controls": true,
-                        "autoplay": false,
-                        "contentName": "Audio",
-                        "audioNotSupported": "Your browser does not support this audio",
-                        "files": [
-                            {
-                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/B1.3\/M%C3%B3dulo+III\/B1.3_Unit7_Lesson19_TextReadAloud_6_1.mp3",
-                                "mime": "audio\/mp3",
-                                "copyright": {
-                                    "license": "U"
-                                }
-                            }
-                        ]
-                    },
-                    "library": "H5P.Audio 1.3",
-                    "metadata": {
-                        "contentType": "Audio",
-                        "license": "U",
-                        "title": "Lesson.Writing.resources[0].mp3",
-                        "authors": [],
-                        "changes": [],
-                        "extraTitle": "Lesson.Writing.resources[0].mp3"
-                    },
-                    "subContentId": "fcb06898-73d3-4652-9b24-8c5b0ec8452b"
-                },
                 "taskDescription": "<p><em>Lesson.Writing.resources[0].instructions.en<\/em><\/p>\n",
                 "overallFeedback": [
                     {
@@ -1550,7 +625,7 @@
                 "scoreBarLabel": "You got :num out of :total points",
                 "textField": "Lesson.Writing.resources[0].questions[0].question"
             },
-            "library": "H5P.DragText 1.8",
+            "library": "H5P.DragTextIDO 1.8",
             "metadata": {
                 "contentType": "Drag Text",
                 "license": "U",
@@ -1581,7 +656,7 @@
                             }
                         ]
                     },
-                    "library": "H5P.Audio 1.3",
+                    "library": "H5P.Audio 1.4",
                     "metadata": {
                         "contentType": "Audio",
                         "license": "U",
@@ -1641,7 +716,7 @@
                     "<p>Lesson.Writing.resources[1].questions[0].type<\/p>\n"
                 ]
             },
-            "library": "H5P.Blanks 1.11",
+            "library": "H5P.BlanksIDO 1.11",
             "metadata": {
                 "contentType": "Fill in the Blanks",
                 "license": "U",
@@ -1675,38 +750,9 @@
                 "displaySolutionDescription": "Task is updated to contain the solution.",
                 "scoreBarLabel": "You got :num out of :total points",
                 "taskDescription": "<p><em>Lesson.Reading.resources[2].instructions.en<\/em><\/p>\n",
-                "textField": "<p>Lesson.Reading.resources[2].questions[0].question<\/p>\n",
-                "media": {
-                    "params": {
-                        "playerMode": "minimalistic",
-                        "fitToWrapper": false,
-                        "controls": true,
-                        "autoplay": false,
-                        "contentName": "Audio",
-                        "audioNotSupported": "Your browser does not support this audio",
-                        "files": [
-                            {
-                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/B1.3\/M%C3%B3dulo+III\/B1.3_Unit7_Lesson19_TextReadAloud_8_1.mp3",
-                                "mime": "audio\/mp3",
-                                "copyright": {
-                                    "license": "U"
-                                }
-                            }
-                        ]
-                    },
-                    "library": "H5P.Audio 1.3",
-                    "metadata": {
-                        "contentType": "Audio",
-                        "license": "U",
-                        "title": "Lesson.Reading.resources[2].mp3",
-                        "authors": [],
-                        "changes": [],
-                        "extraTitle": "Lesson.Reading.resources[2].mp3"
-                    },
-                    "subContentId": "77ca0bfc-9e68-4981-b0d2-d7b370840602"
-                }
+                "textField": "<p>Lesson.Reading.resources[2].questions[0].question<\/p>\n"
             },
-            "library": "H5P.MarkTheWords 1.9",
+            "library": "H5P.MarkTheWordsIDO 1.9",
             "metadata": {
                 "contentType": "Mark the Words",
                 "license": "U",
@@ -1740,12 +786,9 @@
                 "displaySolutionDescription": "Task is updated to contain the solution.",
                 "scoreBarLabel": "You got :num out of :total points",
                 "taskDescription": "<p><em>Lesson.Writing.resources[2].instructions.en<\/em><\/p>\n",
-                "textField": "<p>Lesson.Writing.resources[2].questions[0].question<\/p>\n",
-                "media": {
-                    "params": {}
-                }
+                "textField": "<p>Lesson.Writing.resources[2].questions[0].question<\/p>\n"
             },
-            "library": "H5P.MarkTheWords 1.9",
+            "library": "H5P.MarkTheWordsIDO 1.9",
             "metadata": {
                 "contentType": "Mark the Words",
                 "license": "U",
@@ -1758,35 +801,6 @@
         },
         {
             "params": {
-                "media": {
-                    "params": {
-                        "playerMode": "minimalistic",
-                        "fitToWrapper": false,
-                        "controls": true,
-                        "autoplay": false,
-                        "contentName": "Audio",
-                        "audioNotSupported": "Your browser does not support this audio",
-                        "files": [
-                            {
-                                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/B1.3\/M%C3%B3dulo+III\/B1.3_Unit7_Lesson19_TextReadAloud_8_2.mp3",
-                                "mime": "audio\/mp3",
-                                "copyright": {
-                                    "license": "U"
-                                }
-                            }
-                        ]
-                    },
-                    "library": "H5P.Audio 1.3",
-                    "metadata": {
-                        "contentType": "Audio",
-                        "license": "U",
-                        "title": "Lesson.Writing.resources[3].mp3",
-                        "authors": [],
-                        "changes": [],
-                        "extraTitle": "Lesson.Writing.resources[3].mp3"
-                    },
-                    "subContentId": "bf14083e-b3f2-4765-8920-6e8e01c992de"
-                },
                 "taskDescription": "<p><em>Lesson.Writing.resources[3].instructions.en<\/em><\/p>\n",
                 "overallFeedback": [
                     {
@@ -1819,7 +833,7 @@
                 "scoreBarLabel": "You got :num out of :total points",
                 "textField": "Lesson.Writing.resources[3].body"
             },
-            "library": "H5P.DragText 1.8",
+            "library": "H5P.DragTextIDO 1.8",
             "metadata": {
                 "contentType": "Drag Text",
                 "license": "U",
@@ -1914,7 +928,7 @@
                     "params": {}
                 }
             },
-            "library": "H5P.MultiChoice 1.13",
+            "library": "H5P.MultiChoiceIDO 1.13",
             "metadata": {
                 "contentType": "Multiple Choice",
                 "license": "U",
@@ -2061,7 +1075,7 @@
                 },
                 "question": "<p>Lesson.Monologue.resources[1].questions[0].question<\/p>\n"
             },
-            "library": "H5P.MultiChoice 1.13",
+            "library": "H5P.MultiChoiceIDO 1.13",
             "metadata": {
                 "contentType": "Multiple Choice",
                 "license": "U",
