@@ -1,14 +1,15 @@
-                       | GFlashcards                   (H5P.Dialogcards)
-                       | GLearnAndDiscover             ("H5P.CoursePresentation")
+                       | GSpeaking                     H5P.SpeakTheWordsSet
                        | GListeningPractice  (!FIX)    H5P.QuestionSet
-                       | GListeningVideo1    (!NUEVO)
-                       | GListeningVideo2    (!NUEVO) 
-                       | GListeningVideo3    (!NUEVO) 
-         Gsheet        | GPresentation                 H5P.CoursePresentation 
                        | GProgressCheck      (!FIX)    H5P.QuestionSet
                        | GReadAndWrite                 H5P.QuestionSet
-                       | GSpeaking                     H5P.SpeakTheWordsSet
+                       | GLearnAndDiscover             ("H5P.CoursePresentation")
+                       | GPresentation                 H5P.CoursePresentation 
+      Gsheet           | GFlashcards                   (H5P.Dialogcards)
                        | GVocabulary                   H5P.Flashcards
+                       | GListeningVideo1    (!NUEVO)  H5P.InteractiveVideo
+                       | GListeningVideo2    (!NUEVO)  H5P.InteractiveVideo
+                       | GListeningVideo3    (!NUEVO)  H5P.InteractiveVideo
+
 
 
                        | LearnAndDiscover

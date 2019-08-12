@@ -98,7 +98,7 @@
       "minorVersion": "4"
     },
     {
-      "machineName": "H5P.MultiChoice",
+      "machineName": "H5P.MultiChoiceIDO",
       "majorVersion": "1",
       "minorVersion": "13"
     },
@@ -108,7 +108,7 @@
       "minorVersion": "0"
     },
     {
-      "machineName": "H5P.MarkTheWords",
+      "machineName": "H5P.MarkTheWordsIDO",
       "majorVersion": "1",
       "minorVersion": "9"
     },
