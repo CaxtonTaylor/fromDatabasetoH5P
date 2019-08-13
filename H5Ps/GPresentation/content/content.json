@@ -2456,7 +2456,7 @@
                         "width": 8.4967320261437909,
                         "height": 15.116279069767442,
                         "action": {
-                            "library": "H5P.Audio 1.3",
+                            "library": "H5P.Audio 1.4",
                             "params": {
                                 "fitToWrapper": true,
                                 "playerMode": "minimalistic",
@@ -2690,7 +2690,7 @@
                         "width": 8.4967320261437909,
                         "height": 15.116279069767442,
                         "action": {
-                            "library": "H5P.Audio 1.3",
+                            "library": "H5P.Audio 1.4",
                             "params": {
                                 "fitToWrapper": true,
                                 "playerMode": "minimalistic",
@@ -2824,7 +2824,7 @@
                                     "params": {}
                                 }
                             },
-                            "library": "H5P.MultiChoice 1.13",
+                            "library": "H5P.MultiChoiceIDO 1.13",
                             "metadata": {
                                 "contentType": "Multiple Choice",
                                 "license": "U",
@@ -2999,7 +2999,7 @@
                                     "params": {}
                                 }
                             },
-                            "library": "H5P.DragText 1.8",
+                            "library": "H5P.DragTextIDO 1.8",
                             "metadata": {
                                 "contentType": "Drag Text",
                                 "license": "U",
@@ -3221,7 +3221,7 @@
                                     "params": {}
                                 }
                             },
-                            "library": "H5P.MultiChoice 1.13",
+                            "library": "H5P.MultiChoiceIDO 1.13",
                             "metadata": {
                                 "contentType": "Multiple Choice",
                                 "license": "U",
@@ -3246,7 +3246,7 @@
                         "width": 8.4967320261437909,
                         "height": 15.116279069767442,
                         "action": {
-                            "library": "H5P.Audio 1.3",
+                            "library": "H5P.Audio 1.4",
                             "params": {
                                 "fitToWrapper": true,
                                 "playerMode": "minimalistic",
