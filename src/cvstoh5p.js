@@ -14,7 +14,7 @@ module.exports =
             if(!lessonNumber){
                 lessonNumber = this.Lesson.name
             }
-            this.withoutgeneralPath = this.Lesson.Level + '/Lesson' + lessonNumber  + '/' + this.nameFolder
+            this.withoutgeneralPath = this.Lesson.Level + '/Lesson' + lessonNumber  + '/' 
             let relativePath = 'English/General/' + this.withoutgeneralPath
             this.ProcessPath = './H5Pprocess/' + relativePath
             this.UPPath = './UP/' + relativePath
@@ -93,8 +93,8 @@ module.exports =
                 if(!lessonNumber){
                     lessonNumber = lessonName
                 }
-                
-                let h5p_name = this.Lesson.Level + 'Lesson' + lessonNumber + lessonName + h5p.name + '.h5p';
+                const version = require(process.cwd()+'/package.json').version
+                let h5p_name = h5p.name + '_' + this.Lesson.Level + '_' +  'Lesson' + lessonNumber  + '_' + lessonName + '_'+ 'V' + version +'.h5p';
                 await utils.exec('cd ' + h5p.path + ' && zip -r ' + h5p_name + ' .');
                 await utils.exec('mv ' + h5p.path + h5p_name + ' ' + this.UPPath + h5p_name, true);
 

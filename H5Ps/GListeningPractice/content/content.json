@@ -503,7 +503,7 @@
         }
     ],
     "disableBackwardsNavigation": true,
-    "randomQuestions": false,
+    "randomQuestions": true,
     "endGame": {
         "showResultPage": true,
         "showSolutionButton": false,

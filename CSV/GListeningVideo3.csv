@@ -8,8 +8,8 @@ Lesson.Conversation.resources[1].mp4,,,,interactiveVideo.video.files.0.path,,,
 Lesson.Conversation.resources[1].subtitles,,,,interactiveVideo.video.textTracks.0.track.path,,files\/track-5cec5f6f551eb.vtt,
 Lesson.Conversation.resources[1].questions[0].time,,,,interactiveVideo.assets.interactions.1.duration.from,,,MMSStoSeconds
 Lesson.Conversation.resources[1].questions[0].time,,,,interactiveVideo.assets.interactions.1.duration.to,,,MMSStoSeconds
-Lesson.Conversation.resources[1].questions[0].question,,,,interactiveVideo.assets.interactions.1.action.params.textField,,,
-Lesson.Conversation.resources[1].questions[0].options[0].text,,,,interactiveVideo.assets.interactions.1.action.params.taskDescription,,,
+Lesson.Conversation.resources[1].questions[0].question,,,,interactiveVideo.assets.interactions.1.action.params.taskDescription,,,
+Lesson.Conversation.resources[1].questions[0].options[0].text,,,,interactiveVideo.assets.interactions.1.action.params.textField,,,
 Lesson.Conversation.resources[1].questions[1].time,,,,interactiveVideo.assets.interactions.0.duration.from,,,MMSStoSeconds
 Lesson.Conversation.resources[1].questions[1].time,,,,interactiveVideo.assets.interactions.0.duration.to,,,MMSStoSeconds
 Lesson.Conversation.resources[1].questions[1].question,,,,interactiveVideo.assets.interactions.0.action.params.choices.0.question,,,
