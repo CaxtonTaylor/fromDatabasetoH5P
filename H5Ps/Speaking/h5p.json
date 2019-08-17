@@ -1,7 +1,7 @@
 {
   "title": "Speaking practice",
   "language": "und",
-  "mainLibrary": "H5P.SpeakTheWordsSet",
+  "mainLibrary": "H5P.SpeakTheWordsSetIDO",
   "embedTypes": ["div"],
   "license": "U",
   "preloadedDependencies": [
@@ -9,11 +9,11 @@
     { "machineName": "flowplayer", "majorVersion": "1", "minorVersion": "0" },
     { "machineName": "FontAwesome", "majorVersion": "4", "minorVersion": "5" },
     {
-      "machineName": "H5P.SpeakTheWords",
+      "machineName": "H5P.SpeakTheWordsIDO",
       "majorVersion": "1",
       "minorVersion": "3"
     },
-    { "machineName": "H5P.Question", "majorVersion": "1", "minorVersion": "4" },
+    { "machineName": "H5P.QuestionIDO", "majorVersion": "1", "minorVersion": "4" },
     { "machineName": "H5P.JoubelUI", "majorVersion": "1", "minorVersion": "3" },
     {
       "machineName": "H5P.Transition",
@@ -28,7 +28,7 @@
       "minorVersion": "0"
     },
     {
-      "machineName": "H5P.SpeakTheWordsSet",
+      "machineName": "H5P.SpeakTheWordsSetIDO",
       "majorVersion": "1",
       "minorVersion": "1"
     }
