@@ -95,7 +95,7 @@ module.exports =
                 }
                 const version = require(process.cwd()+'/package.json').version
                 let h5p_name = h5p.name + '_' + this.Lesson.Level + '_' +  'Lesson' + lessonNumber  + '_' + lessonName + '_'+ 'V' + version +'.h5p';
-                await utils.exec('cd ' + h5p.path + ' && zip -r ' + h5p_name + ' .');
+                await utils.exec('cd ' + h5p.path + ' && zip -r -D ' + h5p_name + ' .');
                 await utils.exec('mv ' + h5p.path + h5p_name + ' ' + this.UPPath + h5p_name, true);
 
                 return h5p;
