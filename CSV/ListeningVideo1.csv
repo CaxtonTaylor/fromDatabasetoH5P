@@ -1,0 +1,22 @@
+DATABASE,,,Listening_FlashCards,,,,
+,,Format,h5p.json,content/content.json,Input,Assets,Format
+Lesson.Monologue.resources[0].name,,,,interactiveVideo.video.startScreenOptions.title,,,
+Lesson.Monologue.resources[0].mp4,,,,interactiveVideo.video.files.0.path,,videos/files-5cdc154cc1b78.mp4,
+Lesson.Monologue.resources[0].subtitles,,,,interactiveVideo.video.textTracks.0.track.path,,files/track-5cdc1590c31ea.vtt,
+Lesson.Monologue.resources[0].picture,,,,interactiveVideo.video.startScreenOptions.poster.path,,images/poster-5cdc157a23141.png,
+Lesson.Monologue.resources[0].instructions.en,,,,interactiveVideo.video.startScreenOptions.shortStartDescription,,,
+Lesson.Monologue.resources[0].mp4_properties.durationmillis,,,,interactiveVideo.assets.interactions.0.duration.from,,,addSeconds -2
+Lesson.Monologue.resources[0].mp4_properties.durationmillis,,,,interactiveVideo.assets.interactions.0.duration.to,,,addSeconds -2
+Lesson.Monologue.resources[0],,,,interactiveVideo.assets.interactions.0.action.params.questions.0,,,questions
+Lesson.Monologue.resources[0].mp4_properties.durationmillis,,,,interactiveVideo.assets.interactions.1.duration.from,,,addSeconds -4
+Lesson.Monologue.resources[0].mp4_properties.durationmillis,,,,interactiveVideo.assets.interactions.1.duration.to,,,addSeconds -4
+Lesson.Monologue.resources[0].questions[2].question,,,,interactiveVideo.assets.interactions.1.action.params.choices.0.question,,,
+Lesson.Monologue.resources[0].questions[2].options[0].text,,,,interactiveVideo.assets.interactions.1.action.params.choices.0.answers.0,,,
+Lesson.Monologue.resources[0].questions[2].options[1].text,,,,interactiveVideo.assets.interactions.1.action.params.choices.0.answers.1,,,
+Lesson.Monologue.resources[0].questions[2].options[2].text,,,,interactiveVideo.assets.interactions.1.action.params.choices.0.answers.2,,,
+Lesson.Monologue.resources[0].questions[3].question,,,,interactiveVideo.assets.interactions.1.action.params.choices.1.question,,,
+Lesson.Monologue.resources[0].questions[3].options[0].text,,,,interactiveVideo.assets.interactions.1.action.params.choices.1.answers.0,,,
+Lesson.Monologue.resources[0].questions[3].options[1].text,,,,interactiveVideo.assets.interactions.1.action.params.choices.1.answers.1,,,
+Lesson.Monologue.resources[0].questions[3].options[2].text,,,,interactiveVideo.assets.interactions.1.action.params.choices.1.answers.2,,,
+Lesson.Monologue.resources[0].mp4_properties.durationmillis,,,,interactiveVideo.assets.endscreens.0.time,,,addSeconds -1
+Lesson.Monologue.resources[0].mp4_properties.durationmillis,,,,interactiveVideo.assets.endscreens.0.label,,,addSeconds -1

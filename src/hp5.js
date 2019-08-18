@@ -6,7 +6,9 @@ const LearnAndDiscover = require("./cvstoh5p/scorm/LearnAndDiscover");
 const ReadAndWrite = require("./cvstoh5p/scorm/ReadAndWrite");
 const Presentation = require("./cvstoh5p/scorm/Presentation");
 const ProgressCheck = require("./cvstoh5p/scorm/ProgressCheck");
-const ListeningPractice = require("./cvstoh5p/scorm/ListeningPractice");
+const ListeningPractice = require("./cvstoh5p/scorm/ListeningPractice")
+const ListeningVideo1 = require("./cvstoh5p/scorm/ListeningVideo1");
+
 const Speaking = require("./cvstoh5p/scorm/Speaking");
 
 const GFlashcards = require("./cvstoh5p/google/GFlashcards");
@@ -36,6 +38,8 @@ module.exports =
                 if (this.Lesson.from === 'scorm') {
                     const learnanddiscover = new LearnAndDiscover(this.Lesson);
                     const listening_practice = new ListeningPractice(this.Lesson);
+                    const listening_video1 = new ListeningVideo1(this.Lesson);
+                    
                     const presentation = new Presentation(this.Lesson);
                     const progress_check = new ProgressCheck(this.Lesson);
                     const readandwrite = new ReadAndWrite(this.Lesson);
@@ -46,6 +50,7 @@ module.exports =
                         readandwrite.makeH5Ps(),
                         presentation.makeH5Ps(),
                         listening_practice.makeH5Ps(),
+                        listening_video1.makeH5Ps(),
                         progress_check.makeH5Ps(),
                         speaking.makeH5Ps()
                     ])
