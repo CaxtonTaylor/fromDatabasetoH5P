@@ -1,7 +1,7 @@
 {
   "title": "Lesson Presentation",
   "language": "und",
-  "mainLibrary": "H5P.CoursePresentation",
+  "mainLibrary": "H5P.CoursePresentationIDO",
   "embedTypes": ["div"],
   "license": "U",
   "preloadedDependencies": [
@@ -32,21 +32,21 @@
     },
     { "machineName": "H5P.Audio", "majorVersion": "1", "minorVersion": "3" },
     { "machineName": "flowplayer", "majorVersion": "1", "minorVersion": "0" },
-    { "machineName": "H5P.Blanks", "majorVersion": "1", "minorVersion": "11" },
-    { "machineName": "H5P.Question", "majorVersion": "1", "minorVersion": "4" },
+    { "machineName": "H5P.BlanksIDO", "majorVersion": "1", "minorVersion": "11" },
+    { "machineName": "H5P.QuestionIDO", "majorVersion": "1", "minorVersion": "4" },
     {
       "machineName": "H5P.TextUtilities",
       "majorVersion": "1",
       "minorVersion": "3"
     },
     {
-      "machineName": "H5P.MultiChoice",
+      "machineName": "H5P.MultiChoiceIDO",
       "majorVersion": "1",
       "minorVersion": "13"
     },
     { "machineName": "EmbeddedJS", "majorVersion": "1", "minorVersion": "0" },
     {
-      "machineName": "H5P.CoursePresentation",
+      "machineName": "H5P.CoursePresentationIDO",
       "majorVersion": "1",
       "minorVersion": "20"
     }
