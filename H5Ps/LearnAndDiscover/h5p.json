@@ -1,7 +1,7 @@
 {
   "title": "Learn and discover",
   "language": "und",
-  "mainLibrary": "H5P.CoursePresentation",
+  "mainLibrary": "H5P.CoursePresentationIDO",
   "embedTypes": ["div"],
   "license": "U",
   "preloadedDependencies": [
@@ -35,7 +35,7 @@
     },
     { "machineName": "H5P.Audio", "majorVersion": "1", "minorVersion": "3" },
     {
-      "machineName": "H5P.CoursePresentation",
+      "machineName": "H5P.CoursePresentationIDO",
       "majorVersion": "1",
       "minorVersion": "20"
     }
