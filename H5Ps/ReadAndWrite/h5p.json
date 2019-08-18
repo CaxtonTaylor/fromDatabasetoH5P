@@ -1,15 +1,15 @@
 {
   "title": "Read&Write Practice",
   "language": "und",
-  "mainLibrary": "H5P.QuestionSet",
+  "mainLibrary": "H5P.QuestionSetIDO",
   "embedTypes": ["div"],
   "license": "U",
   "preloadedDependencies": [
-    { "machineName": "H5P.Audio", "majorVersion": "1", "minorVersion": "3" },
+    { "machineName": "H5P.Audio", "majorVersion": "1", "minorVersion": "4" },
     { "machineName": "flowplayer", "majorVersion": "1", "minorVersion": "0" },
     { "machineName": "FontAwesome", "majorVersion": "4", "minorVersion": "5" },
-    { "machineName": "H5P.Blanks", "majorVersion": "1", "minorVersion": "11" },
-    { "machineName": "H5P.Question", "majorVersion": "1", "minorVersion": "4" },
+    { "machineName": "H5P.BlanksIDO", "majorVersion": "1", "minorVersion": "11" },
+    { "machineName": "H5P.QuestionIDO", "majorVersion": "1", "minorVersion": "4" },
     { "machineName": "H5P.JoubelUI", "majorVersion": "1", "minorVersion": "3" },
     {
       "machineName": "H5P.Transition",
@@ -29,7 +29,7 @@
       "minorVersion": "3"
     },
     {
-      "machineName": "H5P.MultiChoice",
+      "machineName": "H5P.MultiChoiceIDO",
       "majorVersion": "1",
       "minorVersion": "13"
     },
@@ -47,7 +47,7 @@
     },
     { "machineName": "jQuery.ui", "majorVersion": "1", "minorVersion": "10" },
     {
-      "machineName": "H5P.QuestionSet",
+      "machineName": "H5P.QuestionSetIDO",
       "majorVersion": "1",
       "minorVersion": "16"
     },
