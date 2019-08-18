@@ -1,2138 +1,1800 @@
 {
-    "introPage": {
-      "showIntroPage": true,
-      "startButtonText": "Let&#039;s go!",
-      "title": "Get ready to practice your Listening",
-      "introduction": "<p>Make sure to complete every exercise and don't worry, you can go through this activity as many times as you want.</p>\n"
-    },
-    "progressType": "bar",
-    "passPercentage": 70,
-    "questions": [
-      {
-        "params": {
-          "media": {
-            "params": {
-              "playerMode": "full",
-              "fitToWrapper": false,
-              "controls": true,
-              "autoplay": false,
-              "contentName": "Audio",
-              "audioNotSupported": "Your browser does not support this audio",
-              "files": [
-                {
-                  "path": "https://s3.us-east-2.amazonaws.com/coreproductido/Greeting.mp3",
-                  "mime": "audio/mp3",
-                  "copyright": {
-                    "license": "U"
-                  }
+  "introPage": {
+    "showIntroPage": true,
+    "startButtonText": "Let&#039;s go!",
+    "title": "Get ready to practice your Listening",
+    "introduction": "<p>Make sure to complete every exercise and don't worry, you can go through this activity as many times as you want.<\/p>\n"
+  },
+  "progressType": "bar",
+  "passPercentage": 70,
+  "questions": [
+    {
+      "params": {
+        "media": {
+          "params": {
+            "playerMode": "full",
+            "fitToWrapper": false,
+            "controls": true,
+            "autoplay": false,
+            "contentName": "Audio",
+            "audioNotSupported": "Your browser does not support this audio",
+            "files": [
+              {
+                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
+                "mime": "audio\/mp3",
+                "copyright": {
+                  "license": "U"
                 }
-              ]
-            },
-            "library": "H5P.Audio 1.3",
-            "metadata": {
-              "contentType": "Audio",
-              "license": "C",
-              "title": "Lesson.Listening.resources[0].name",
-              "authors": [
-                {
-                  "name": "iDO Learning",
-                  "role": "Author"
-                }
-              ],
-              "changes": [],
-              "extraTitle": "Lesson.Listening.resources[0].name"
-            },
-            "subContentId": "b64ac23e-f5dc-4842-8558-112ae236d8cd"
-          },
-          "answers": [
-            {
-              "correct": true,
-              "tipsAndFeedback": {
-                "tip": "",
-                "chosenFeedback": "",
-                "notChosenFeedback": ""
-              },
-              "text": "<div>Lesson.Listening.resources[0].questions[2].options[0].text</div>\n"
-            },
-            {
-              "correct": false,
-              "tipsAndFeedback": {
-                "tip": "",
-                "chosenFeedback": "",
-                "notChosenFeedback": ""
-              },
-              "text": "<div>Lesson.Listening.resources[0].questions[2].options[1].text</div>\n"
-            },
-            {
-              "correct": false,
-              "tipsAndFeedback": {
-                "tip": "",
-                "chosenFeedback": "",
-                "notChosenFeedback": ""
-              },
-              "text": "<div>Lesson.Listening.resources[0].questions[2].options[2].text</div>\n"
-            }
-          ],
-          "overallFeedback": [
-            {
-              "from": 0,
-              "to": 100
-            }
-          ],
-          "behaviour": {
-            "enableRetry": true,
-            "enableSolutionsButton": false,
-            "enableCheckButton": true,
-            "type": "single",
-            "singlePoint": true,
-            "randomAnswers": true,
-            "showSolutionsRequiresInput": true,
-            "disableImageZooming": false,
-            "confirmCheckDialog": false,
-            "confirmRetryDialog": false,
-            "autoCheck": false,
-            "passPercentage": 100,
-            "showScorePoints": false
-          },
-          "UI": {
-            "checkAnswerButton": "Check",
-            "showSolutionButton": "Show solution",
-            "tryAgainButton": "Retry",
-            "tipsLabel": "Show tip",
-            "scoreBarLabel": "You got :num out of :total points",
-            "tipAvailable": "Tip available",
-            "feedbackAvailable": "Feedback available",
-            "readFeedback": "Read feedback",
-            "wrongAnswer": "Wrong answer",
-            "correctAnswer": "Correct answer",
-            "shouldCheck": "Should have been checked",
-            "shouldNotCheck": "Should not have been checked",
-            "noInput": "Please answer before viewing the solution"
-          },
-          "confirmCheck": {
-            "header": "Finish ?",
-            "body": "Are you sure you wish to finish ?",
-            "cancelLabel": "Cancel",
-            "confirmLabel": "Finish"
-          },
-          "confirmRetry": {
-            "header": "Retry ?",
-            "body": "Are you sure you wish to retry ?",
-            "cancelLabel": "Cancel",
-            "confirmLabel": "Confirm"
-          },
-          "question": "\n\t\n\t\t\n\t\n\t\n\t\t\n\t\t\tLesson.Listening.resources[0].questions[2].question\n\t\t\n\t\n\n"
-        },
-        "library": "H5P.MultiChoice 1.13",
-        "metadata": {
-          "contentType": "Multiple Choice",
-          "license": "U",
-          "title": "R1 Listening MC1 Lesson.Listening.resources[0].name",
-          "authors": [],
-          "changes": [],
-          "extraTitle": "R1 Listening MC1 Lesson.Listening.resources[0].name"
-        },
-        "subContentId": "20fcd7ec-e4b6-4077-8e1e-50853b5a2342"
-      },
-      {
-        "params": {
-          "media": {
-            "params": {
-              "playerMode": "full",
-              "fitToWrapper": false,
-              "controls": true,
-              "autoplay": false,
-              "contentName": "Audio",
-              "audioNotSupported": "Your browser does not support this audio",
-              "files": [
-                {
-                  "path": "https://s3.us-east-2.amazonaws.com/coreproductido/Greeting.mp3",
-                  "mime": "audio/mp3",
-                  "copyright": {
-                    "license": "U"
-                  }
-                }
-              ]
-            },
-            "library": "H5P.Audio 1.3",
-            "metadata": {
-              "contentType": "Audio",
-              "license": "C",
-              "title": "Lesson.Listening.resources[0].name",
-              "authors": [
-                {
-                  "name": "iDO Learning",
-                  "role": "Author"
-                }
-              ],
-              "changes": [],
-              "extraTitle": "Lesson.Listening.resources[0].name"
-            },
-            "subContentId": "4ca4d224-e7c4-40fe-bdaf-10a0d1931664"
-          },
-          "answers": [
-            {
-              "correct": true,
-              "tipsAndFeedback": {
-                "tip": "",
-                "chosenFeedback": "",
-                "notChosenFeedback": ""
-              },
-              "text": "<div>Lesson.Listening.resources[0].questions[3].options[0].text</div>\n"
-            },
-            {
-              "correct": false,
-              "tipsAndFeedback": {
-                "tip": "",
-                "chosenFeedback": "",
-                "notChosenFeedback": ""
-              },
-              "text": "<div>Lesson.Listening.resources[0].questions[3].options[1].text</div>\n"
-            },
-            {
-              "correct": false,
-              "tipsAndFeedback": {
-                "tip": "",
-                "chosenFeedback": "",
-                "notChosenFeedback": ""
-              },
-              "text": "<div>Lesson.Listening.resources[0].questions[3].options[2].text</div>\n"
-            }
-          ],
-          "overallFeedback": [
-            {
-              "from": 0,
-              "to": 100
-            }
-          ],
-          "behaviour": {
-            "enableRetry": true,
-            "enableSolutionsButton": false,
-            "enableCheckButton": true,
-            "type": "single",
-            "singlePoint": true,
-            "randomAnswers": true,
-            "showSolutionsRequiresInput": true,
-            "disableImageZooming": false,
-            "confirmCheckDialog": false,
-            "confirmRetryDialog": false,
-            "autoCheck": false,
-            "passPercentage": 100,
-            "showScorePoints": false
-          },
-          "UI": {
-            "checkAnswerButton": "Check",
-            "showSolutionButton": "Show solution",
-            "tryAgainButton": "Retry",
-            "tipsLabel": "Show tip",
-            "scoreBarLabel": "You got :num out of :total points",
-            "tipAvailable": "Tip available",
-            "feedbackAvailable": "Feedback available",
-            "readFeedback": "Read feedback",
-            "wrongAnswer": "Wrong answer",
-            "correctAnswer": "Correct answer",
-            "shouldCheck": "Should have been checked",
-            "shouldNotCheck": "Should not have been checked",
-            "noInput": "Please answer before viewing the solution"
-          },
-          "confirmCheck": {
-            "header": "Finish ?",
-            "body": "Are you sure you wish to finish ?",
-            "cancelLabel": "Cancel",
-            "confirmLabel": "Finish"
-          },
-          "confirmRetry": {
-            "header": "Retry ?",
-            "body": "Are you sure you wish to retry ?",
-            "cancelLabel": "Cancel",
-            "confirmLabel": "Confirm"
-          },
-          "question": "<p>Lesson.Listening.resources[0].questions[3].question</p>\n"
-        },
-        "library": "H5P.MultiChoice 1.13",
-        "metadata": {
-          "contentType": "Multiple Choice",
-          "license": "U",
-          "title": "R1 Listening MC2 Lesson.Listening.resources[0].name",
-          "authors": [],
-          "changes": [],
-          "extraTitle": "R1 Listening MC2 Lesson.Listening.resources[0].name"
-        },
-        "subContentId": "95766f51-1d25-4a0f-b5f9-386947925ec2"
-      },
-      {
-        "params": {
-          "media": {
-            "params": {
-              "playerMode": "full",
-              "fitToWrapper": false,
-              "controls": true,
-              "autoplay": false,
-              "contentName": "Audio",
-              "audioNotSupported": "Your browser does not support this audio",
-              "files": [
-                {
-                  "path": "https://s3.us-east-2.amazonaws.com/coreproductido/Greeting.mp3",
-                  "mime": "audio/mp3",
-                  "copyright": {
-                    "license": "U"
-                  }
-                }
-              ]
-            },
-            "library": "H5P.Audio 1.3",
-            "metadata": {
-              "contentType": "Audio",
-              "license": "C",
-              "title": "Lesson.Listening.resources[1].name",
-              "authors": [
-                {
-                  "name": "iDO Learning",
-                  "role": "Author"
-                }
-              ],
-              "changes": [],
-              "extraTitle": "Lesson.Listening.resources[1].name"
-            },
-            "subContentId": "e8178c25-3d2e-4f04-a9f8-33e584747024"
-          },
-          "answers": [
-            {
-              "correct": true,
-              "tipsAndFeedback": {
-                "tip": "",
-                "chosenFeedback": "",
-                "notChosenFeedback": ""
-              },
-              "text": "<div>Lesson.Listening.resources[1].questions[1].options[0].text</div>\n"
-            },
-            {
-              "correct": false,
-              "tipsAndFeedback": {
-                "tip": "",
-                "chosenFeedback": "",
-                "notChosenFeedback": ""
-              },
-              "text": "<div>Lesson.Listening.resources[1].questions[1].options[1].text</div>\n"
-            },
-            {
-              "correct": false,
-              "tipsAndFeedback": {
-                "tip": "",
-                "chosenFeedback": "",
-                "notChosenFeedback": ""
-              },
-              "text": "<div>Lesson.Listening.resources[1].questions[1].options[2].text</div>\n"
-            }
-          ],
-          "overallFeedback": [
-            {
-              "from": 0,
-              "to": 100
-            }
-          ],
-          "behaviour": {
-            "enableRetry": true,
-            "enableSolutionsButton": false,
-            "enableCheckButton": true,
-            "type": "single",
-            "singlePoint": true,
-            "randomAnswers": true,
-            "showSolutionsRequiresInput": false,
-            "disableImageZooming": false,
-            "confirmCheckDialog": false,
-            "confirmRetryDialog": false,
-            "autoCheck": false,
-            "passPercentage": 100,
-            "showScorePoints": false
-          },
-          "UI": {
-            "checkAnswerButton": "Check",
-            "showSolutionButton": "Show solution",
-            "tryAgainButton": "Retry",
-            "tipsLabel": "Show tip",
-            "scoreBarLabel": "You got :num out of :total points",
-            "tipAvailable": "Tip available",
-            "feedbackAvailable": "Feedback available",
-            "readFeedback": "Read feedback",
-            "wrongAnswer": "Wrong answer",
-            "correctAnswer": "Correct answer",
-            "shouldCheck": "Should have been checked",
-            "shouldNotCheck": "Should not have been checked",
-            "noInput": "Please answer before viewing the solution"
-          },
-          "confirmCheck": {
-            "header": "Finish ?",
-            "body": "Are you sure you wish to finish ?",
-            "cancelLabel": "Cancel",
-            "confirmLabel": "Finish"
-          },
-          "confirmRetry": {
-            "header": "Retry ?",
-            "body": "Are you sure you wish to retry ?",
-            "cancelLabel": "Cancel",
-            "confirmLabel": "Confirm"
-          },
-          "question": "<p>Lesson.Listening.resources[1].questions[1].question</p>\n"
-        },
-        "library": "H5P.MultiChoice 1.13",
-        "metadata": {
-          "contentType": "Multiple Choice",
-          "license": "U",
-          "title": "R2 Listening MC2 Lesson.Listening.resources[1].name",
-          "authors": [],
-          "changes": [],
-          "extraTitle": "R2 Listening MC2 Lesson.Listening.resources[1].name"
-        },
-        "subContentId": "403e21b3-1100-4c95-9249-c2215554b360"
-      },
-      {
-        "params": {
-          "scoreShow": "Check",
-          "tryAgain": "Retry",
-          "scoreExplanation": "Correct answers give +1 point. Incorrect answers give -1 point. The lowest possible score is 0.",
-          "question": {
-            "settings": {
-              "size": {
-                "width": 600,
-                "height": 300
               }
+            ]
+          },
+          "library": "H5P.Audio 1.4",
+          "metadata": {
+            "contentType": "Audio",
+            "license": "C",
+            "title": "Lesson.Listening.resources[0].name",
+            "authors": [
+              {
+                "name": "iDO Learning",
+                "role": "Author"
+              }
+            ],
+            "changes": [],
+            "extraTitle": "Lesson.Listening.resources[0].name"
+          },
+          "subContentId": "b64ac23e-f5dc-4842-8558-112ae236d8cd"
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "",
+              "notChosenFeedback": ""
             },
-            "task": {
-              "elements": [
-                {
-                  "x": 26.666666666666668,
-                  "y": 76.66666666666667,
-                  "width": 8.025,
-                  "height": 3.025,
-                  "dropZones": [
-                    "0"
-                  ],
-                  "type": {
-                    "library": "H5P.AdvancedText 1.1",
-                    "params": {
-                      "text": "<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Listening.resources[1].questions[0].options[0].text</span></p>\n"
-                    },
-                    "metadata": {
-                      "contentType": "Text",
-                      "license": "U",
-                      "title": "Untitled Text"
-                    },
-                    "subContentId": "6ae45428-d5f3-4f25-be71-c6c2f49dddd6"
-                  },
-                  "backgroundOpacity": 100,
-                  "multiple": false
-                },
-                {
-                  "x": 51.666666666666664,
-                  "y": 76.66666666666667,
-                  "width": 8.025,
-                  "height": 3.025,
-                  "dropZones": [
-                    "0"
-                  ],
-                  "type": {
-                    "library": "H5P.AdvancedText 1.1",
-                    "params": {
-                      "text": "<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Listening.resources[1].questions[0].options[1].text</span></p>\n"
-                    },
-                    "metadata": {
-                      "contentType": "Text",
-                      "license": "U",
-                      "title": "Untitled Text"
-                    },
-                    "subContentId": "9d9cc9c5-9feb-444f-9d92-540c690d5f60"
-                  },
-                  "backgroundOpacity": 100,
-                  "multiple": false
-                },
-                {
-                  "x": 76.66666666666667,
-                  "y": 76.66666666666667,
-                  "width": 8.025,
-                  "height": 3.025,
-                  "dropZones": [
-                    "0"
-                  ],
-                  "type": {
-                    "library": "H5P.AdvancedText 1.1",
-                    "params": {
-                      "text": "<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Listening.resources[1].questions[0].options[2].text</span></p>\n"
-                    },
-                    "metadata": {
-                      "contentType": "Text",
-                      "license": "U",
-                      "title": "Untitled Text"
-                    },
-                    "subContentId": "62a4b783-5e4b-4a6d-857c-56c886789727"
-                  },
-                  "backgroundOpacity": 100,
-                  "multiple": false
-                },
-                {
-                  "x": 26.666666666666668,
-                  "y": 6.666666666666667,
-                  "width": 8.025,
-                  "height": 11.837478912353516,
-                  "dropZones": [
-                    "0"
-                  ],
-                  "type": {
-                    "library": "H5P.Image 1.1",
-                    "params": {
-                      "contentName": "Image",
-                      "file": {
-                        "path": "images/file-5cd422f016043.jpg",
-                        "mime": "image/jpeg",
-                        "copyright": {
-                          "license": "U"
-                        },
-                        "width": 330,
-                        "height": 500
-                      },
-                      "alt": "Lesson.Listening.resources[1].questions[0].options[0].poster"
-                    },
-                    "subContentId": "a71be4dd-9cdc-4d85-86bd-d2966b8c3ea1",
-                    "metadata": {
-                      "contentType": "Image",
-                      "license": "C",
-                      "title": "Lesson.Listening.resources[1].questions[0].options[0].poster",
-                      "authors": [
-                        {
-                          "name": "iDO Learning",
-                          "role": "Author"
-                        }
-                      ]
-                    }
-                  },
-                  "backgroundOpacity": 100,
-                  "multiple": false
-                },
-                {
-                  "x": 51.666666666666664,
-                  "y": 6.666666666666667,
-                  "width": 7.812736082153321,
-                  "height": 11.837478912353516,
-                  "dropZones": [
-                    "0"
-                  ],
-                  "type": {
-                    "library": "H5P.Image 1.1",
-                    "params": {
-                      "contentName": "Image",
-                      "file": {
-                        "path": "images/file-5cd424897c812.jpg",
-                        "mime": "image/jpeg",
-                        "copyright": {
-                          "license": "U"
-                        },
-                        "width": 330,
-                        "height": 500
-                      },
-                      "alt": "Lesson.Listening.resources[1].questions[0].options[1].poster"
-                    },
-                    "metadata": {
-                      "contentType": "Image",
-                      "license": "C",
-                      "title": "Lesson.Listening.resources[1].questions[0].options[1].poster",
-                      "authors": [
-                        {
-                          "name": "iDO Learning",
-                          "role": "Author"
-                        }
-                      ]
-                    },
-                    "subContentId": "760172ef-3810-412d-b2ee-ceee82e1f091"
-                  },
-                  "backgroundOpacity": 100,
-                  "multiple": false
-                },
-                {
-                  "x": 76.66666666666667,
-                  "y": 6.666666666666667,
-                  "width": 7.812736082153321,
-                  "height": 11.837478912353516,
-                  "dropZones": [
-                    "0"
-                  ],
-                  "type": {
-                    "library": "H5P.Image 1.1",
-                    "params": {
-                      "contentName": "Image",
-                      "file": {
-                        "path": "images/file-5cd424947fc2e.jpg",
-                        "mime": "image/jpeg",
-                        "copyright": {
-                          "license": "U"
-                        },
-                        "width": 330,
-                        "height": 500
-                      },
-                      "alt": "Lesson.Listening.resources[1].questions[0].options[2].poster"
-                    },
-                    "metadata": {
-                      "contentType": "Image",
-                      "license": "C",
-                      "title": "Lesson.Listening.resources[1].questions[0].options[2].poster",
-                      "authors": [
-                        {
-                          "name": "iDO Learning",
-                          "role": "Author"
-                        }
-                      ]
-                    },
-                    "subContentId": "56336019-54b6-48f5-8962-687dbe8223cf"
-                  },
-                  "backgroundOpacity": 100,
-                  "multiple": false
-                }
-              ],
-              "dropZones": [
-                {
-                  "x": 0,
-                  "y": 11.333333333333334,
-                  "width": 8.75,
-                  "height": 16.25,
-                  "correctElements": [
-                    "0",
-                    "3"
-                  ],
-                  "showLabel": true,
-                  "backgroundOpacity": 100,
-                  "tipsAndFeedback": {
-                    "tip": ""
-                  },
-                  "single": false,
-                  "autoAlign": true,
-                  "label": "<div style=\"text-align: center;\">Drop answers</div>\n"
-                }
-              ]
-            }
+            "text": "<div>Lesson.Listening.resources[0].questions[2].options[0].text<\/div>\n"
           },
-          "overallFeedback": [
-            {
-              "from": 0,
-              "to": 100
-            }
-          ],
-          "behaviour": {
-            "enableRetry": true,
-            "enableCheckButton": true,
-            "showSolutionsRequiresInput": false,
-            "singlePoint": true,
-            "applyPenalties": false,
-            "enableScoreExplanation": false,
-            "dropZoneHighlighting": "dragging",
-            "autoAlignSpacing": 2,
-            "enableFullScreen": false,
-            "showScorePoints": false,
-            "showTitle": true
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "",
+              "notChosenFeedback": ""
+            },
+            "text": "<div>Lesson.Listening.resources[0].questions[2].options[1].text<\/div>\n"
           },
-          "grabbablePrefix": "Grabbable {num} of {total}.",
-          "grabbableSuffix": "Placed in dropzone {num}.",
-          "dropzonePrefix": "Dropzone {num} of {total}.",
-          "noDropzone": "No dropzone.",
-          "tipLabel": "Show tip.",
-          "tipAvailable": "Tip available",
-          "correctAnswer": "Correct answer",
-          "wrongAnswer": "Wrong answer",
-          "feedbackHeader": "Feedback",
-          "scoreBarLabel": "You got :num out of :total points",
-          "scoreExplanationButtonLabel": "Show score explanation",
-          "localize": {
-            "fullscreen": "Fullscreen",
-            "exitFullscreen": "Exit fullscreen"
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "",
+              "notChosenFeedback": ""
+            },
+            "text": "<div>Lesson.Listening.resources[0].questions[2].options[2].text<\/div>\n"
           }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": false,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "disableImageZooming": false,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": false,
+          "passPercentage": 100,
+          "showScorePoints": false
         },
-        "library": "H5P.DragQuestion 1.13",
-        "metadata": {
-          "contentType": "Drag and Drop",
-          "license": "U",
-          "title": "R2 Multiple image Lesson.Listening.resources[1].questions[0].question",
-          "authors": [],
-          "changes": [],
-          "extraTitle": "R2 Multiple image Lesson.Listening.resources[1].questions[0].question"
+        "UI": {
+          "checkAnswerButton": "Check",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer",
+          "shouldCheck": "Should have been checked",
+          "shouldNotCheck": "Should not have been checked",
+          "noInput": "Please answer before viewing the solution"
         },
-        "subContentId": "389004d5-64cc-46b9-9535-33cce01d1869"
+        "confirmCheck": {
+          "header": "Finish ?",
+          "body": "Are you sure you wish to finish ?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry ?",
+          "body": "Are you sure you wish to retry ?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "\n\t\n\t\t\n\t\n\t\n\t\t\n\t\t\tLesson.Listening.resources[0].questions[2].question\n\t\t\n\t\n\n"
       },
-      {
-        "params": {
-          "interactiveVideo": {
-            "video": {
-              "startScreenOptions": {
-                "title": "Lesson.Monologue.resources[0].name",
-                "hideStartTitle": true,
-                "poster": {
-                  "path": "images/poster-5cdc157a23141.png",
-                  "mime": "image/png",
-                  "copyright": {
-                    "license": "U"
-                  },
-                  "width": 1920,
-                  "height": 1080
-                },
-                "shortStartDescription": "Lesson.Monologue.resources[0].instructions.en . Don&#039;t forget to submit your answers before moving to the next quest"
-              },
-              "textTracks": [
-                {
-                  "label": "Subtitles",
-                  "kind": "subtitles",
-                  "srcLang": "en",
-                  "track": {
-                    "path": "files/track-5cdc1590c31ea.vtt",
-                    "mime": "text/plain",
-                    "copyright": {
-                      "license": "U"
-                    }
-                  }
+      "library": "H5P.MultiChoiceIDO 1.13",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "R1 Listening MC1 Lesson.Listening.resources[0].name",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "R1 Listening MC1 Lesson.Listening.resources[0].name"
+      },
+      "subContentId": "20fcd7ec-e4b6-4077-8e1e-50853b5a2342"
+    },
+    {
+      "params": {
+        "media": {
+          "params": {
+            "playerMode": "full",
+            "fitToWrapper": false,
+            "controls": true,
+            "autoplay": false,
+            "contentName": "Audio",
+            "audioNotSupported": "Your browser does not support this audio",
+            "files": [
+              {
+                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
+                "mime": "audio\/mp3",
+                "copyright": {
+                  "license": "U"
                 }
-              ],
-              "files": [
-                {
-                  "path": "videos/files-5cdc154cc1b78.mp4",
-                  "mime": "video/mp4",
-                  "copyright": {
-                    "license": "C",
-                    "title": "Lesson.Monologue.resources[0].name"
+              }
+            ]
+          },
+          "library": "H5P.Audio 1.4",
+          "metadata": {
+            "contentType": "Audio",
+            "license": "C",
+            "title": "Lesson.Listening.resources[0].name",
+            "authors": [
+              {
+                "name": "iDO Learning",
+                "role": "Author"
+              }
+            ],
+            "changes": [],
+            "extraTitle": "Lesson.Listening.resources[0].name"
+          },
+          "subContentId": "4ca4d224-e7c4-40fe-bdaf-10a0d1931664"
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "",
+              "notChosenFeedback": ""
+            },
+            "text": "<div>Lesson.Listening.resources[0].questions[3].options[0].text<\/div>\n"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "",
+              "notChosenFeedback": ""
+            },
+            "text": "<div>Lesson.Listening.resources[0].questions[3].options[1].text<\/div>\n"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "",
+              "notChosenFeedback": ""
+            },
+            "text": "<div>Lesson.Listening.resources[0].questions[3].options[2].text<\/div>\n"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": false,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "disableImageZooming": false,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": false,
+          "passPercentage": 100,
+          "showScorePoints": false
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer",
+          "shouldCheck": "Should have been checked",
+          "shouldNotCheck": "Should not have been checked",
+          "noInput": "Please answer before viewing the solution"
+        },
+        "confirmCheck": {
+          "header": "Finish ?",
+          "body": "Are you sure you wish to finish ?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry ?",
+          "body": "Are you sure you wish to retry ?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p>Lesson.Listening.resources[0].questions[3].question<\/p>\n"
+      },
+      "library": "H5P.MultiChoiceIDO 1.13",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "R1 Listening MC2 Lesson.Listening.resources[0].name",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "R1 Listening MC2 Lesson.Listening.resources[0].name"
+      },
+      "subContentId": "95766f51-1d25-4a0f-b5f9-386947925ec2"
+    },
+    {
+      "params": {
+        "media": {
+          "params": {
+            "playerMode": "full",
+            "fitToWrapper": false,
+            "controls": true,
+            "autoplay": false,
+            "contentName": "Audio",
+            "audioNotSupported": "Your browser does not support this audio",
+            "files": [
+              {
+                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
+                "mime": "audio\/mp3",
+                "copyright": {
+                  "license": "U"
+                }
+              }
+            ]
+          },
+          "library": "H5P.Audio 1.4",
+          "metadata": {
+            "contentType": "Audio",
+            "license": "C",
+            "title": "Lesson.Listening.resources[1].name",
+            "authors": [
+              {
+                "name": "iDO Learning",
+                "role": "Author"
+              }
+            ],
+            "changes": [],
+            "extraTitle": "Lesson.Listening.resources[1].name"
+          },
+          "subContentId": "e8178c25-3d2e-4f04-a9f8-33e584747024"
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "",
+              "notChosenFeedback": ""
+            },
+            "text": "<div>Lesson.Listening.resources[1].questions[1].options[0].text<\/div>\n"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "",
+              "notChosenFeedback": ""
+            },
+            "text": "<div>Lesson.Listening.resources[1].questions[1].options[1].text<\/div>\n"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "",
+              "notChosenFeedback": ""
+            },
+            "text": "<div>Lesson.Listening.resources[1].questions[1].options[2].text<\/div>\n"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": false,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": false,
+          "disableImageZooming": false,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": false,
+          "passPercentage": 100,
+          "showScorePoints": false
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer",
+          "shouldCheck": "Should have been checked",
+          "shouldNotCheck": "Should not have been checked",
+          "noInput": "Please answer before viewing the solution"
+        },
+        "confirmCheck": {
+          "header": "Finish ?",
+          "body": "Are you sure you wish to finish ?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry ?",
+          "body": "Are you sure you wish to retry ?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p>Lesson.Listening.resources[1].questions[1].question<\/p>\n"
+      },
+      "library": "H5P.MultiChoiceIDO 1.13",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "R2 Listening MC2 Lesson.Listening.resources[1].name",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "R2 Listening MC2 Lesson.Listening.resources[1].name"
+      },
+      "subContentId": "403e21b3-1100-4c95-9249-c2215554b360"
+    },
+    {
+      "params": {
+        "scoreShow": "Check",
+        "tryAgain": "Retry",
+        "scoreExplanation": "Correct answers give +1 point. Incorrect answers give -1 point. The lowest possible score is 0.",
+        "question": {
+          "settings": {
+            "size": {
+              "width": 600,
+              "height": 300
+            }
+          },
+          "task": {
+            "elements": [
+              {
+                "x": 26.666666666667,
+                "y": 76.666666666667,
+                "width": 8.025,
+                "height": 3.025,
+                "dropZones": [
+                  "0"
+                ],
+                "type": {
+                  "library": "H5P.AdvancedText 1.1",
+                  "params": {
+                    "text": "<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Listening.resources[1].questions[0].options[0].text<\/span><\/p>\n"
                   },
                   "metadata": {
-                    "qualityName": "HD"
-                  }
-                }
-              ]
-            },
-            "assets": {
-              "interactions": [
-                {
-                  "x": 4.53857791225416,
-                  "y": 10.75268817204301,
-                  "width": 36.30862329803329,
-                  "height": 18.154312387717475,
-                  "duration": {
-                    "from": 42,
-                    "to": 42
+                    "contentType": "Text",
+                    "license": "U",
+                    "title": "Untitled Text"
                   },
-                  "libraryTitle": "Fill in the Blanks",
-                  "action": {
-                    "library": "H5P.Blanks 1.11",
-                    "params": {
-                      "text": "<p><em>It's time to fill in the blanks</em></p>\n",
-                      "overallFeedback": [
-                        {
-                          "from": 0,
-                          "to": 100
-                        }
-                      ],
-                      "showSolutions": "Show solution",
-                      "tryAgain": "Retry",
-                      "checkAnswer": "Check",
-                      "notFilledOut": "Please fill in all blanks to view solution",
-                      "answerIsCorrect": "&#039;:ans&#039; is correct",
-                      "answerIsWrong": "&#039;:ans&#039; is wrong",
-                      "answeredCorrectly": "Answered correctly",
-                      "answeredIncorrectly": "Answered incorrectly",
-                      "solutionLabel": "Correct answer:",
-                      "inputLabel": "Blank input @num of @total",
-                      "inputHasTipLabel": "Tip available",
-                      "tipLabel": "Tip",
-                      "behaviour": {
-                        "enableRetry": true,
-                        "enableSolutionsButton": false,
-                        "enableCheckButton": true,
-                        "autoCheck": false,
-                        "caseSensitive": false,
-                        "showSolutionsRequiresInput": false,
-                        "separateLines": true,
-                        "disableImageZooming": false,
-                        "confirmCheckDialog": false,
-                        "confirmRetryDialog": false,
-                        "acceptSpellingErrors": true
-                      },
-                      "scoreBarLabel": "You got :num out of :total points",
-                      "confirmCheck": {
-                        "header": "Finish ?",
-                        "body": "Are you sure you wish to finish ?",
-                        "cancelLabel": "Cancel",
-                        "confirmLabel": "Finish"
-                      },
-                      "confirmRetry": {
-                        "header": "Retry ?",
-                        "body": "Are you sure you wish to retry ?",
-                        "cancelLabel": "Cancel",
-                        "confirmLabel": "Confirm"
-                      },
-                      "questions": [
-                        "\n\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t&nbsp;\n\t\t\n\t\n\n\n<p><strong>Lesson.Monologue.resources[0].questions[0].question</strong></p>\n\n<p>*Lesson.Monologue.resources[0].questions[0].options[0].text/Lesson.Monologue.resources[0].questions[0].options[1].text*</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Lesson.Monologue.resources[0].questions[1].question</strong></p>\n\n<p>*Lesson.Monologue.resources[0].questions[1].options[0].text/Lesson.Monologue.resources[0].questions[1].options[1].text*</p>\n\n<p>&nbsp;</p>\n"
-                      ],
-                      "media": {
-                        "params": {}
-                      }
-                    },
-                    "subContentId": "1ec81d7a-2127-43ab-b0f4-5ffa6a546543",
-                    "metadata": {
-                      "contentType": "Fill in the Blanks",
-                      "license": "U",
-                      "title": "Fill the blanks",
-                      "authors": [],
-                      "changes": [],
-                      "extraTitle": "Fill the blanks"
-                    }
-                  },
-                  "pause": true,
-                  "displayType": "poster",
-                  "buttonOnMobile": false,
-                  "adaptivity": {
-                    "correct": {
-                      "allowOptOut": false,
-                      "message": ""
-                    },
-                    "wrong": {
-                      "allowOptOut": false,
-                      "message": ""
-                    },
-                    "requireCompletion": false
-                  },
-                  "label": ""
+                  "subContentId": "6ae45428-d5f3-4f25-be71-c6c2f49dddd6"
                 },
-                {
-                  "x": 4.53857791225416,
-                  "y": 10.75268817204301,
-                  "width": 36.30862329803329,
-                  "height": 18.154312387717475,
-                  "duration": {
-                    "from": 44,
-                    "to": 44
-                  },
-                  "libraryTitle": "Single Choice Set",
-                  "action": {
-                    "library": "H5P.SingleChoiceSet 1.11",
-                    "params": {
-                      "choices": [
-                        {
-                          "subContentId": "ddce98f4-c31b-41ab-b94c-e1a24b6c67be",
-                          "question": "<p>Lesson.Monologue.resources[0].questions[2].question</p>\n",
-                          "answers": [
-                            "<p>&nbsp;Lesson.Monologue.resources[0].questions[2].options[0].text</p>\n",
-                            "<p>Lesson.Monologue.resources[0].questions[2].options[1].text</p>\n",
-                            "<p>Lesson.Monologue.resources[0].questions[2].options[2].text</p>\n"
-                          ]
-                        },
-                        {
-                          "subContentId": "e930ebe7-6b5b-4740-ba7f-55ce1a1ee031",
-                          "question": "<p>Lesson.Monologue.resources[0].questions[3].question</p>\n",
-                          "answers": [
-                            "<p>Lesson.Monologue.resources[0].questions[3].options[0].text</p>\n",
-                            "<p>Lesson.Monologue.resources[0].questions[3].options[1].text</p>\n",
-                            "<p>Lesson.Monologue.resources[0].questions[3].options[2].text</p>\n"
-                          ]
-                        }
-                      ],
-                      "overallFeedback": [
-                        {
-                          "from": 0,
-                          "to": 100
-                        }
-                      ],
-                      "behaviour": {
-                        "autoContinue": true,
-                        "timeoutCorrect": 2000,
-                        "timeoutWrong": 3000,
-                        "soundEffectsEnabled": true,
-                        "enableRetry": true,
-                        "enableSolutionsButton": false,
-                        "passPercentage": 100
-                      },
-                      "l10n": {
-                        "nextButtonLabel": "Next question",
-                        "showSolutionButtonLabel": "Show solution",
-                        "retryButtonLabel": "Retry",
-                        "solutionViewTitle": "Solution list",
-                        "correctText": "Correct!",
-                        "incorrectText": "Incorrect!",
-                        "muteButtonLabel": "Mute feedback sound",
-                        "closeButtonLabel": "Close",
-                        "slideOfTotal": "Slide :num of :total",
-                        "scoreBarLabel": "You got :num out of :total points"
-                      }
-                    },
-                    "subContentId": "132062a1-dd67-4b09-b1ac-14e765733d0a",
-                    "metadata": {
-                      "contentType": "Single Choice Set",
-                      "license": "U",
-                      "title": "Choose the best answer",
-                      "authors": [],
-                      "changes": [],
-                      "extraTitle": "Choose the best answer"
-                    }
-                  },
-                  "pause": true,
-                  "displayType": "poster",
-                  "buttonOnMobile": false,
-                  "adaptivity": {
-                    "correct": {
-                      "allowOptOut": false,
-                      "message": ""
-                    },
-                    "wrong": {
-                      "allowOptOut": false,
-                      "message": ""
-                    },
-                    "requireCompletion": false
-                  },
-                  "label": ""
-                }
-              ],
-              "bookmarks": [],
-              "endscreens": [
-                {
-                  "time": 46.091609,
-                  "label": "0:46 Submit screen"
-                }
-              ]
-            },
-            "summary": {
-              "task": {
-                "library": "H5P.Summary 1.10",
-                "params": {
-                  "intro": "Choose the correct statement.",
-                  "summaries": [
-                    {
-                      "subContentId": "38014af5-731b-4d02-9465-55247d085588",
-                      "tip": ""
-                    }
-                  ],
-                  "overallFeedback": [
-                    {
-                      "from": 0,
-                      "to": 100
-                    }
-                  ],
-                  "solvedLabel": "Progress:",
-                  "scoreLabel": "Wrong answers:",
-                  "resultLabel": "Your result",
-                  "labelCorrect": "Correct.",
-                  "labelIncorrect": "Incorrect! Please try again.",
-                  "labelCorrectAnswers": "Correct answers.",
-                  "tipButtonLabel": "Show tip",
-                  "scoreBarLabel": "You got :num out of :total points",
-                  "progressText": "Progress :num of :total"
-                },
-                "subContentId": "9b1f8978-240d-44fa-b9eb-5cfaaa6f32a3",
-                "metadata": {
-                  "contentType": "Summary",
-                  "license": "U",
-                  "title": "Untitled Summary",
-                  "authors": [],
-                  "changes": [],
-                  "extraTitle": "Untitled Summary"
-                }
+                "backgroundOpacity": 100,
+                "multiple": false
               },
-              "displayAt": 3
-            }
-          },
-          "override": {
+              {
+                "x": 51.666666666667,
+                "y": 76.666666666667,
+                "width": 8.025,
+                "height": 3.025,
+                "dropZones": [
+                  "0"
+                ],
+                "type": {
+                  "library": "H5P.AdvancedText 1.1",
+                  "params": {
+                    "text": "<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Listening.resources[1].questions[0].options[1].text<\/span><\/p>\n"
+                  },
+                  "metadata": {
+                    "contentType": "Text",
+                    "license": "U",
+                    "title": "Untitled Text"
+                  },
+                  "subContentId": "9d9cc9c5-9feb-444f-9d92-540c690d5f60"
+                },
+                "backgroundOpacity": 100,
+                "multiple": false
+              },
+              {
+                "x": 76.666666666667,
+                "y": 76.666666666667,
+                "width": 8.025,
+                "height": 3.025,
+                "dropZones": [
+                  "0"
+                ],
+                "type": {
+                  "library": "H5P.AdvancedText 1.1",
+                  "params": {
+                    "text": "<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Listening.resources[1].questions[0].options[2].text<\/span><\/p>\n"
+                  },
+                  "metadata": {
+                    "contentType": "Text",
+                    "license": "U",
+                    "title": "Untitled Text"
+                  },
+                  "subContentId": "62a4b783-5e4b-4a6d-857c-56c886789727"
+                },
+                "backgroundOpacity": 100,
+                "multiple": false
+              },
+              {
+                "x": 26.666666666667,
+                "y": 6.6666666666667,
+                "width": 8.025,
+                "height": 11.837478912354,
+                "dropZones": [
+                  "0"
+                ],
+                "type": {
+                  "library": "H5P.Image 1.1",
+                  "params": {
+                    "contentName": "Image",
+                    "file": {
+                      "path": "images\/file-5cd422f016043.jpg",
+                      "mime": "image\/jpeg",
+                      "copyright": {
+                        "license": "U"
+                      },
+                      "width": 330,
+                      "height": 500
+                    },
+                    "alt": "Lesson.Listening.resources[1].questions[0].options[0].poster"
+                  },
+                  "subContentId": "a71be4dd-9cdc-4d85-86bd-d2966b8c3ea1",
+                  "metadata": {
+                    "contentType": "Image",
+                    "license": "C",
+                    "title": "Lesson.Listening.resources[1].questions[0].options[0].poster",
+                    "authors": [
+                      {
+                        "name": "iDO Learning",
+                        "role": "Author"
+                      }
+                    ]
+                  }
+                },
+                "backgroundOpacity": 100,
+                "multiple": false
+              },
+              {
+                "x": 51.666666666667,
+                "y": 6.6666666666667,
+                "width": 7.8127360821533,
+                "height": 11.837478912354,
+                "dropZones": [
+                  "0"
+                ],
+                "type": {
+                  "library": "H5P.Image 1.1",
+                  "params": {
+                    "contentName": "Image",
+                    "file": {
+                      "path": "images\/file-5cd424897c812.jpg",
+                      "mime": "image\/jpeg",
+                      "copyright": {
+                        "license": "U"
+                      },
+                      "width": 330,
+                      "height": 500
+                    },
+                    "alt": "Lesson.Listening.resources[1].questions[0].options[1].poster"
+                  },
+                  "metadata": {
+                    "contentType": "Image",
+                    "license": "C",
+                    "title": "Lesson.Listening.resources[1].questions[0].options[1].poster",
+                    "authors": [
+                      {
+                        "name": "iDO Learning",
+                        "role": "Author"
+                      }
+                    ]
+                  },
+                  "subContentId": "760172ef-3810-412d-b2ee-ceee82e1f091"
+                },
+                "backgroundOpacity": 100,
+                "multiple": false
+              },
+              {
+                "x": 76.666666666667,
+                "y": 6.6666666666667,
+                "width": 7.8127360821533,
+                "height": 11.837478912354,
+                "dropZones": [
+                  "0"
+                ],
+                "type": {
+                  "library": "H5P.Image 1.1",
+                  "params": {
+                    "contentName": "Image",
+                    "file": {
+                      "path": "images\/file-5cd424947fc2e.jpg",
+                      "mime": "image\/jpeg",
+                      "copyright": {
+                        "license": "U"
+                      },
+                      "width": 330,
+                      "height": 500
+                    },
+                    "alt": "Lesson.Listening.resources[1].questions[0].options[2].poster"
+                  },
+                  "metadata": {
+                    "contentType": "Image",
+                    "license": "C",
+                    "title": "Lesson.Listening.resources[1].questions[0].options[2].poster",
+                    "authors": [
+                      {
+                        "name": "iDO Learning",
+                        "role": "Author"
+                      }
+                    ]
+                  },
+                  "subContentId": "56336019-54b6-48f5-8962-687dbe8223cf"
+                },
+                "backgroundOpacity": 100,
+                "multiple": false
+              }
+            ],
+            "dropZones": [
+              {
+                "x": 0,
+                "y": 11.333333333333,
+                "width": 8.75,
+                "height": 16.25,
+                "correctElements": [
+                  "0",
+                  "3"
+                ],
+                "showLabel": true,
+                "backgroundOpacity": 100,
+                "tipsAndFeedback": {
+                  "tip": ""
+                },
+                "single": false,
+                "autoAlign": true,
+                "label": "<div style=\"text-align: center;\">Drop answers<\/div>\n"
+              }
+            ]
+          }
+        },
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableCheckButton": true,
+          "showSolutionsRequiresInput": false,
+          "singlePoint": true,
+          "applyPenalties": false,
+          "enableScoreExplanation": false,
+          "dropZoneHighlighting": "dragging",
+          "autoAlignSpacing": 2,
+          "enableFullScreen": false,
+          "showScorePoints": false,
+          "showTitle": true
+        },
+        "grabbablePrefix": "Grabbable {num} of {total}.",
+        "grabbableSuffix": "Placed in dropzone {num}.",
+        "dropzonePrefix": "Dropzone {num} of {total}.",
+        "noDropzone": "No dropzone.",
+        "tipLabel": "Show tip.",
+        "tipAvailable": "Tip available",
+        "correctAnswer": "Correct answer",
+        "wrongAnswer": "Wrong answer",
+        "feedbackHeader": "Feedback",
+        "scoreBarLabel": "You got :num out of :total points",
+        "scoreExplanationButtonLabel": "Show score explanation",
+        "localize": {
+          "fullscreen": "Fullscreen",
+          "exitFullscreen": "Exit fullscreen"
+        }
+      },
+      "library": "H5P.DragQuestion 1.13",
+      "metadata": {
+        "contentType": "Drag and Drop",
+        "license": "U",
+        "title": "R2 Multiple image Lesson.Listening.resources[1].questions[0].question",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "R2 Multiple image Lesson.Listening.resources[1].questions[0].question"
+      },
+      "subContentId": "389004d5-64cc-46b9-9535-33cce01d1869"
+    },
+    {
+      "params": {
+        "media": {
+          "params": {
+            "playerMode": "full",
+            "fitToWrapper": false,
+            "controls": true,
             "autoplay": false,
-            "loop": false,
-            "showBookmarksmenuOnLoad": false,
-            "showRewind10": true,
-            "preventSkipping": false,
-            "deactivateSound": false
+            "contentName": "Audio",
+            "audioNotSupported": "Your browser does not support this audio",
+            "files": [
+              {
+                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
+                "mime": "audio\/mp3",
+                "copyright": {
+                  "license": "U"
+                }
+              }
+            ]
           },
-          "l10n": {
-            "interaction": "Interaction",
-            "play": "Play",
-            "pause": "Pause",
-            "mute": "Mute",
-            "unmute": "Unmute",
-            "quality": "Video Quality",
-            "captions": "Captions",
-            "close": "Close",
-            "fullscreen": "Fullscreen",
-            "exitFullscreen": "Exit Fullscreen",
-            "summary": "Summary",
-            "bookmarks": "Bookmarks",
-            "endscreen": "Submit screen",
-            "defaultAdaptivitySeekLabel": "Continue",
-            "continueWithVideo": "Continue with video",
-            "playbackRate": "Playback Rate",
-            "rewind10": "Rewind 10 Seconds",
-            "navDisabled": "Navigation is disabled",
-            "sndDisabled": "Sound is disabled",
-            "requiresCompletionWarning": "You need to answer all the questions correctly before continuing.",
-            "back": "Back",
-            "hours": "Hours",
-            "minutes": "Minutes",
-            "seconds": "Seconds",
-            "currentTime": "Current time:",
-            "totalTime": "Total time:",
-            "navigationHotkeyInstructions": "Use key k for starting and stopping video at any time",
-            "singleInteractionAnnouncement": "Interaction appeared:",
-            "multipleInteractionsAnnouncement": "Multiple interactions appeared.",
-            "videoPausedAnnouncement": "Video is paused",
-            "content": "Content",
-            "answered": "@answered answered",
-            "endcardTitle": "@answered Question(s) answered",
-            "endcardInformation": "You have answered @answered questions, click below to submit your answers.",
-            "endcardInformationNoAnswers": "You have not answered any questions.",
-            "endcardInformationMustHaveAnswer": "You have to answer at least one question before you can submit your answers.",
-            "endcardSubmitButton": "Submit Answers",
-            "endcardSubmitMessage": "Your answers have been submitted!",
-            "endcardTableRowAnswered": "Answered questions",
-            "endcardTableRowScore": "Score",
-            "endcardAnsweredScore": "answered"
+          "library": "H5P.Audio 1.4",
+          "metadata": {
+            "contentType": "Audio",
+            "license": "C",
+            "title": "Lesson.Monologue.resources[1].mp4",
+            "authors": [
+              {
+                "name": "iDO Learning",
+                "role": "Author"
+              }
+            ],
+            "changes": [],
+            "extraTitle": "Lesson.Monologue.resources[1].mp4"
+          },
+          "subContentId": "17c852e0-9f90-4d19-8f35-65ce2ee90965"
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "",
+              "notChosenFeedback": ""
+            },
+            "text": "<div>Lesson.Monologue.resources[1].questions[1].options[0].text<\/div>\n"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "",
+              "notChosenFeedback": ""
+            },
+            "text": "<div>Lesson.Monologue.resources[1].questions[1].options[1].text<\/div>\n"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "",
+              "notChosenFeedback": ""
+            },
+            "text": "<div>Lesson.Monologue.resources[1].questions[1].options[2].text<\/div>\n"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": false,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": false,
+          "disableImageZooming": false,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": false,
+          "passPercentage": 100,
+          "showScorePoints": false
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer",
+          "shouldCheck": "Should have been checked",
+          "shouldNotCheck": "Should not have been checked",
+          "noInput": "Please answer before viewing the solution"
+        },
+        "confirmCheck": {
+          "header": "Finish ?",
+          "body": "Are you sure you wish to finish ?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry ?",
+          "body": "Are you sure you wish to retry ?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p>Lesson.Monologue.resources[1].questions[1].question<\/p>\n"
+      },
+      "library": "H5P.MultiChoiceIDO 1.13",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "R14 Monologue MC1 Lesson.Monologue.resources[1].name",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "R14 Monologue MC1 Lesson.Monologue.resources[1].name"
+      },
+      "subContentId": "92a2d177-c713-469f-a1e0-d7324ae83a70"
+    },
+    {
+      "params": {
+        "scoreShow": "Check",
+        "tryAgain": "Retry",
+        "scoreExplanation": "Correct answers give +1 point. Incorrect answers give -1 point. The lowest possible score is 0.",
+        "question": {
+          "settings": {
+            "size": {
+              "width": 600,
+              "height": 300
+            }
+          },
+          "task": {
+            "elements": [
+              {
+                "x": 26.666666666667,
+                "y": 76.666666666667,
+                "width": 8.025,
+                "height": 3.025,
+                "dropZones": [
+                  "0"
+                ],
+                "type": {
+                  "library": "H5P.AdvancedText 1.1",
+                  "params": {
+                    "text": "<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Monologue.resources[1].questions[0].options[0].text<\/span><\/p>\n"
+                  },
+                  "metadata": {
+                    "contentType": "Text",
+                    "license": "U",
+                    "title": "Untitled Text"
+                  },
+                  "subContentId": "420beaf2-55a8-4609-b4c5-f9e176b94444"
+                },
+                "backgroundOpacity": 100,
+                "multiple": false
+              },
+              {
+                "x": 51.666666666667,
+                "y": 76.666666666667,
+                "width": 8.025,
+                "height": 3.025,
+                "dropZones": [
+                  "0"
+                ],
+                "type": {
+                  "library": "H5P.AdvancedText 1.1",
+                  "params": {
+                    "text": "<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Monologue.resources[1].questions[0].options[1].text<\/span><\/p>\n"
+                  },
+                  "metadata": {
+                    "contentType": "Text",
+                    "license": "U",
+                    "title": "Untitled Text"
+                  },
+                  "subContentId": "1673491e-b173-4149-b7f2-87aeed21f2cc"
+                },
+                "backgroundOpacity": 100,
+                "multiple": false
+              },
+              {
+                "x": 76.666666666667,
+                "y": 76.666666666667,
+                "width": 8.025,
+                "height": 3.025,
+                "dropZones": [
+                  "0"
+                ],
+                "type": {
+                  "library": "H5P.AdvancedText 1.1",
+                  "params": {
+                    "text": "<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Monologue.resources[1].questions[0].options[2].text<\/span><\/p>\n"
+                  },
+                  "metadata": {
+                    "contentType": "Text",
+                    "license": "U",
+                    "title": "Untitled Text"
+                  },
+                  "subContentId": "6bb9eac9-0317-46e6-bc43-2dd242511430"
+                },
+                "backgroundOpacity": 100,
+                "multiple": false
+              },
+              {
+                "x": 26.666666666667,
+                "y": 6.6666666666667,
+                "width": 8.025,
+                "height": 11.837478912354,
+                "dropZones": [
+                  "0"
+                ],
+                "type": {
+                  "library": "H5P.Image 1.1",
+                  "params": {
+                    "contentName": "Image",
+                    "file": {
+                      "path": "images\/file-5cd422f016043.jpg",
+                      "mime": "image\/jpeg",
+                      "copyright": {
+                        "license": "U"
+                      },
+                      "width": 330,
+                      "height": 500
+                    },
+                    "alt": "Lesson.Monologue.resources[1].questions[0].options[0].poster"
+                  },
+                  "metadata": {
+                    "contentType": "Image",
+                    "license": "C",
+                    "title": "Lesson.Listening.resources[1].questions[0].options[0].poster",
+                    "authors": [
+                      {
+                        "name": "iDO Learning",
+                        "role": "Author"
+                      }
+                    ]
+                  },
+                  "subContentId": "ab040e9d-ea9c-4bdd-92cf-6c38f4f585d9"
+                },
+                "backgroundOpacity": 100,
+                "multiple": false
+              },
+              {
+                "x": 51.666666666667,
+                "y": 6.6666666666667,
+                "width": 7.8127360821533,
+                "height": 11.837478912354,
+                "dropZones": [
+                  "0"
+                ],
+                "type": {
+                  "library": "H5P.Image 1.1",
+                  "params": {
+                    "contentName": "Image",
+                    "file": {
+                      "path": "images\/file-5cd424897c812.jpg",
+                      "mime": "image\/jpeg",
+                      "copyright": {
+                        "license": "U"
+                      },
+                      "width": 330,
+                      "height": 500
+                    },
+                    "alt": "Lesson.Monologue.resources[1].questions[0].options[1].poster"
+                  },
+                  "metadata": {
+                    "contentType": "Image",
+                    "license": "C",
+                    "title": "Lesson.Listening.resources[1].questions[0].options[1].poster",
+                    "authors": [
+                      {
+                        "name": "iDO Learning",
+                        "role": "Author"
+                      }
+                    ]
+                  },
+                  "subContentId": "0d2b247a-ef2b-4573-9436-56011e8848b8"
+                },
+                "backgroundOpacity": 100,
+                "multiple": false
+              },
+              {
+                "x": 76.666666666667,
+                "y": 6.6666666666667,
+                "width": 7.8127360821533,
+                "height": 11.837478912354,
+                "dropZones": [
+                  "0"
+                ],
+                "type": {
+                  "library": "H5P.Image 1.1",
+                  "params": {
+                    "contentName": "Image",
+                    "file": {
+                      "path": "images\/file-5cd424947fc2e.jpg",
+                      "mime": "image\/jpeg",
+                      "copyright": {
+                        "license": "U"
+                      },
+                      "width": 330,
+                      "height": 500
+                    },
+                    "alt": "Lesson.Monologue.resources[1].questions[0].options[2].poster"
+                  },
+                  "metadata": {
+                    "contentType": "Image",
+                    "license": "C",
+                    "title": "Lesson.Listening.resources[1].questions[0].options[2].poster",
+                    "authors": [
+                      {
+                        "name": "iDO Learning",
+                        "role": "Author"
+                      }
+                    ]
+                  },
+                  "subContentId": "9b78fc85-7298-4f31-a86c-144a226203d9"
+                },
+                "backgroundOpacity": 100,
+                "multiple": false
+              }
+            ],
+            "dropZones": [
+              {
+                "x": 0,
+                "y": 11.333333333333,
+                "width": 8.75,
+                "height": 16.25,
+                "correctElements": [
+                  "0",
+                  "3"
+                ],
+                "showLabel": true,
+                "backgroundOpacity": 100,
+                "tipsAndFeedback": {
+                  "tip": ""
+                },
+                "single": false,
+                "autoAlign": true,
+                "label": "<div style=\"text-align: center;\">Drop answers<\/div>\n"
+              }
+            ]
           }
         },
-        "library": "H5P.InteractiveVideo 1.20",
-        "metadata": {
-          "contentType": "Interactive Video",
-          "license": "U",
-          "title": "R13 Interactive Video Lesson.Monologue.resources[0].name",
-          "authors": [],
-          "changes": [],
-          "extraTitle": "R13 Interactive Video Lesson.Monologue.resources[0].name"
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableCheckButton": true,
+          "showSolutionsRequiresInput": false,
+          "singlePoint": true,
+          "applyPenalties": false,
+          "enableScoreExplanation": false,
+          "dropZoneHighlighting": "dragging",
+          "autoAlignSpacing": 2,
+          "enableFullScreen": false,
+          "showScorePoints": false,
+          "showTitle": true
         },
-        "subContentId": "12df6162-fcea-429f-9976-25b8ede764ff"
+        "grabbablePrefix": "Grabbable {num} of {total}.",
+        "grabbableSuffix": "Placed in dropzone {num}.",
+        "dropzonePrefix": "Dropzone {num} of {total}.",
+        "noDropzone": "No dropzone.",
+        "tipLabel": "Show tip.",
+        "tipAvailable": "Tip available",
+        "correctAnswer": "Correct answer",
+        "wrongAnswer": "Wrong answer",
+        "feedbackHeader": "Feedback",
+        "scoreBarLabel": "You got :num out of :total points",
+        "scoreExplanationButtonLabel": "Show score explanation",
+        "localize": {
+          "fullscreen": "Fullscreen",
+          "exitFullscreen": "Exit fullscreen"
+        }
       },
-      {
-        "params": {
-          "media": {
-            "params": {
-              "playerMode": "full",
-              "fitToWrapper": false,
+      "library": "H5P.DragQuestion 1.13",
+      "metadata": {
+        "contentType": "Drag and Drop",
+        "license": "U",
+        "title": "R14 Multiple image Lesson.Monologue.resources[1].questions[0].question",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "R14 Multiple image Lesson.Monologue.resources[1].questions[0].question"
+      },
+      "subContentId": "20076a5c-c9a3-424f-81b0-f5777d223902"
+    },
+    {
+      "params": {
+        "media": {
+          "params": {
+            "playerMode": "full",
+            "fitToWrapper": false,
+            "controls": true,
+            "autoplay": false,
+            "contentName": "Audio",
+            "audioNotSupported": "Your browser does not support this audio",
+            "files": [
+              {
+                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
+                "mime": "audio\/mp3",
+                "copyright": {
+                  "license": "U"
+                }
+              }
+            ]
+          },
+          "library": "H5P.Audio 1.4",
+          "metadata": {
+            "contentType": "Audio",
+            "license": "C",
+            "title": "Lesson.Conversation.resources[0].name",
+            "authors": [
+              {
+                "name": "iDO Learning",
+                "role": "Author"
+              }
+            ],
+            "changes": [],
+            "extraTitle": "Lesson.Conversation.resources[0].name"
+          },
+          "subContentId": "2e8dd2bb-0610-4af6-a932-180bb3617cdb"
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "",
+              "notChosenFeedback": ""
+            },
+            "text": "<div>Lesson.Conversation.resources[0].questions[2].options[0].text<\/div>\n"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "",
+              "notChosenFeedback": ""
+            },
+            "text": "<div>Lesson.Conversation.resources[0].questions[2].options[1].text<\/div>\n"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "",
+              "notChosenFeedback": ""
+            },
+            "text": "<div>Lesson.Conversation.resources[0].questions[2].options[2].text<\/div>\n"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": false,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": false,
+          "disableImageZooming": false,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": false,
+          "passPercentage": 100,
+          "showScorePoints": false
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer",
+          "shouldCheck": "Should have been checked",
+          "shouldNotCheck": "Should not have been checked",
+          "noInput": "Please answer before viewing the solution"
+        },
+        "confirmCheck": {
+          "header": "Finish ?",
+          "body": "Are you sure you wish to finish ?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry ?",
+          "body": "Are you sure you wish to retry ?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p>Lesson.Conversation.resources[0].questions[2].question<\/p>\n"
+      },
+      "library": "H5P.MultiChoiceIDO 1.13",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "R17 Conversation MC1 Lesson.Conversation.resources[0].name",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "R17 Conversation MC1 Lesson.Conversation.resources[0].name"
+      },
+      "subContentId": "dc19276b-451c-4e5d-9007-5d9759848a2f"
+    },
+    {
+      "params": {
+        "media": {
+          "params": {
+            "playerMode": "full",
+            "fitToWrapper": false,
+            "controls": true,
+            "autoplay": false,
+            "contentName": "Audio",
+            "audioNotSupported": "Your browser does not support this audio",
+            "files": [
+              {
+                "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/Greeting.mp3",
+                "mime": "audio\/mp3",
+                "copyright": {
+                  "license": "U"
+                }
+              }
+            ]
+          },
+          "library": "H5P.Audio 1.4",
+          "metadata": {
+            "contentType": "Audio",
+            "license": "C",
+            "title": "Lesson.Conversation.resources[0].name",
+            "authors": [
+              {
+                "name": "iDO Learning",
+                "role": "Author"
+              }
+            ],
+            "changes": [],
+            "extraTitle": "Lesson.Conversation.resources[0].name"
+          },
+          "subContentId": "00cb309e-ebcd-4349-845c-9ee095adeb20"
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "",
+              "notChosenFeedback": ""
+            },
+            "text": "<div>Lesson.Conversation.resources[0].questions[3].options[0].text<\/div>\n"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "",
+              "notChosenFeedback": ""
+            },
+            "text": "<div>Lesson.Conversation.resources[0].questions[3].options[1].text<\/div>\n"
+          },
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "",
+              "notChosenFeedback": ""
+            },
+            "text": "<div>Lesson.Conversation.resources[0].questions[3].options[2].text<\/div>\n"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": false,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": false,
+          "disableImageZooming": false,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": false,
+          "passPercentage": 100,
+          "showScorePoints": false
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer",
+          "shouldCheck": "Should have been checked",
+          "shouldNotCheck": "Should not have been checked",
+          "noInput": "Please answer before viewing the solution"
+        },
+        "confirmCheck": {
+          "header": "Finish ?",
+          "body": "Are you sure you wish to finish ?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry ?",
+          "body": "Are you sure you wish to retry ?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p>Lesson.Conversation.resources[0].questions[3].question<\/p>\n"
+      },
+      "library": "H5P.MultiChoiceIDO 1.13",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "R17 Conversation MC2 Lesson.Conversation.resources[0].name",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "R17 Conversation MC2 Lesson.Conversation.resources[0].name"
+      },
+      "subContentId": "3f12a732-51da-4ae3-a1ab-20021dc93d6a"
+    },
+    {
+      "params": {
+        "media": {
+          "params": {
+            "visuals": {
+              "fit": true,
               "controls": true,
-              "autoplay": false,
-              "contentName": "Audio",
-              "audioNotSupported": "Your browser does not support this audio",
-              "files": [
-                {
-                  "path": "https://s3.us-east-2.amazonaws.com/coreproductido/Greeting.mp3",
-                  "mime": "audio/mp3",
-                  "copyright": {
-                    "license": "U"
-                  }
-                }
-              ]
-            },
-            "library": "H5P.Audio 1.3",
-            "metadata": {
-              "contentType": "Audio",
-              "license": "C",
-              "title": "Lesson.Monologue.resources[1].mp4",
-              "authors": [
-                {
-                  "name": "iDO Learning",
-                  "role": "Author"
-                }
-              ],
-              "changes": [],
-              "extraTitle": "Lesson.Monologue.resources[1].mp4"
-            },
-            "subContentId": "17c852e0-9f90-4d19-8f35-65ce2ee90965"
-          },
-          "answers": [
-            {
-              "correct": true,
-              "tipsAndFeedback": {
-                "tip": "",
-                "chosenFeedback": "",
-                "notChosenFeedback": ""
-              },
-              "text": "<div>Lesson.Monologue.resources[1].questions[1].options[0].text</div>\n"
-            },
-            {
-              "correct": false,
-              "tipsAndFeedback": {
-                "tip": "",
-                "chosenFeedback": "",
-                "notChosenFeedback": ""
-              },
-              "text": "<div>Lesson.Monologue.resources[1].questions[1].options[1].text</div>\n"
-            },
-            {
-              "correct": false,
-              "tipsAndFeedback": {
-                "tip": "",
-                "chosenFeedback": "",
-                "notChosenFeedback": ""
-              },
-              "text": "<div>Lesson.Monologue.resources[1].questions[1].options[2].text</div>\n"
-            }
-          ],
-          "overallFeedback": [
-            {
-              "from": 0,
-              "to": 100
-            }
-          ],
-          "behaviour": {
-            "enableRetry": true,
-            "enableSolutionsButton": false,
-            "enableCheckButton": true,
-            "type": "single",
-            "singlePoint": true,
-            "randomAnswers": true,
-            "showSolutionsRequiresInput": false,
-            "disableImageZooming": false,
-            "confirmCheckDialog": false,
-            "confirmRetryDialog": false,
-            "autoCheck": false,
-            "passPercentage": 100,
-            "showScorePoints": false
-          },
-          "UI": {
-            "checkAnswerButton": "Check",
-            "showSolutionButton": "Show solution",
-            "tryAgainButton": "Retry",
-            "tipsLabel": "Show tip",
-            "scoreBarLabel": "You got :num out of :total points",
-            "tipAvailable": "Tip available",
-            "feedbackAvailable": "Feedback available",
-            "readFeedback": "Read feedback",
-            "wrongAnswer": "Wrong answer",
-            "correctAnswer": "Correct answer",
-            "shouldCheck": "Should have been checked",
-            "shouldNotCheck": "Should not have been checked",
-            "noInput": "Please answer before viewing the solution"
-          },
-          "confirmCheck": {
-            "header": "Finish ?",
-            "body": "Are you sure you wish to finish ?",
-            "cancelLabel": "Cancel",
-            "confirmLabel": "Finish"
-          },
-          "confirmRetry": {
-            "header": "Retry ?",
-            "body": "Are you sure you wish to retry ?",
-            "cancelLabel": "Cancel",
-            "confirmLabel": "Confirm"
-          },
-          "question": "<p>Lesson.Monologue.resources[1].questions[1].question</p>\n"
-        },
-        "library": "H5P.MultiChoice 1.13",
-        "metadata": {
-          "contentType": "Multiple Choice",
-          "license": "U",
-          "title": "R14 Monologue MC1 Lesson.Monologue.resources[1].name",
-          "authors": [],
-          "changes": [],
-          "extraTitle": "R14 Monologue MC1 Lesson.Monologue.resources[1].name"
-        },
-        "subContentId": "92a2d177-c713-469f-a1e0-d7324ae83a70"
-      },
-      {
-        "params": {
-          "scoreShow": "Check",
-          "tryAgain": "Retry",
-          "scoreExplanation": "Correct answers give +1 point. Incorrect answers give -1 point. The lowest possible score is 0.",
-          "question": {
-            "settings": {
-              "size": {
-                "width": 600,
-                "height": 300
+              "poster": {
+                "path": "images\/poster-5cdc2ff714fc0.png",
+                "mime": "image\/png",
+                "copyright": {
+                  "license": "U"
+                },
+                "width": 1920,
+                "height": 1080
               }
             },
-            "task": {
-              "elements": [
-                {
-                  "x": 26.666666666666668,
-                  "y": 76.66666666666667,
-                  "width": 8.025,
-                  "height": 3.025,
-                  "dropZones": [
-                    "0"
-                  ],
-                  "type": {
-                    "library": "H5P.AdvancedText 1.1",
-                    "params": {
-                      "text": "<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Monologue.resources[1].questions[0].options[0].text</span></p>\n"
-                    },
-                    "metadata": {
-                      "contentType": "Text",
-                      "license": "U",
-                      "title": "Untitled Text"
-                    },
-                    "subContentId": "420beaf2-55a8-4609-b4c5-f9e176b94444"
-                  },
-                  "backgroundOpacity": 100,
-                  "multiple": false
-                },
-                {
-                  "x": 51.666666666666664,
-                  "y": 76.66666666666667,
-                  "width": 8.025,
-                  "height": 3.025,
-                  "dropZones": [
-                    "0"
-                  ],
-                  "type": {
-                    "library": "H5P.AdvancedText 1.1",
-                    "params": {
-                      "text": "<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Monologue.resources[1].questions[0].options[1].text</span></p>\n"
-                    },
-                    "metadata": {
-                      "contentType": "Text",
-                      "license": "U",
-                      "title": "Untitled Text"
-                    },
-                    "subContentId": "1673491e-b173-4149-b7f2-87aeed21f2cc"
-                  },
-                  "backgroundOpacity": 100,
-                  "multiple": false
-                },
-                {
-                  "x": 76.66666666666667,
-                  "y": 76.66666666666667,
-                  "width": 8.025,
-                  "height": 3.025,
-                  "dropZones": [
-                    "0"
-                  ],
-                  "type": {
-                    "library": "H5P.AdvancedText 1.1",
-                    "params": {
-                      "text": "<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Monologue.resources[1].questions[0].options[2].text</span></p>\n"
-                    },
-                    "metadata": {
-                      "contentType": "Text",
-                      "license": "U",
-                      "title": "Untitled Text"
-                    },
-                    "subContentId": "6bb9eac9-0317-46e6-bc43-2dd242511430"
-                  },
-                  "backgroundOpacity": 100,
-                  "multiple": false
-                },
-                {
-                  "x": 26.666666666666668,
-                  "y": 6.666666666666667,
-                  "width": 8.025,
-                  "height": 11.837478912353516,
-                  "dropZones": [
-                    "0"
-                  ],
-                  "type": {
-                    "library": "H5P.Image 1.1",
-                    "params": {
-                      "contentName": "Image",
-                      "file": {
-                        "path": "images/file-5cd422f016043.jpg",
-                        "mime": "image/jpeg",
-                        "copyright": {
-                          "license": "U"
-                        },
-                        "width": 330,
-                        "height": 500
-                      },
-                      "alt": "Lesson.Monologue.resources[1].questions[0].options[0].poster"
-                    },
-                    "metadata": {
-                      "contentType": "Image",
-                      "license": "C",
-                      "title": "Lesson.Listening.resources[1].questions[0].options[0].poster",
-                      "authors": [
-                        {
-                          "name": "iDO Learning",
-                          "role": "Author"
-                        }
-                      ]
-                    },
-                    "subContentId": "ab040e9d-ea9c-4bdd-92cf-6c38f4f585d9"
-                  },
-                  "backgroundOpacity": 100,
-                  "multiple": false
-                },
-                {
-                  "x": 51.666666666666664,
-                  "y": 6.666666666666667,
-                  "width": 7.812736082153321,
-                  "height": 11.837478912353516,
-                  "dropZones": [
-                    "0"
-                  ],
-                  "type": {
-                    "library": "H5P.Image 1.1",
-                    "params": {
-                      "contentName": "Image",
-                      "file": {
-                        "path": "images/file-5cd424897c812.jpg",
-                        "mime": "image/jpeg",
-                        "copyright": {
-                          "license": "U"
-                        },
-                        "width": 330,
-                        "height": 500
-                      },
-                      "alt": "Lesson.Monologue.resources[1].questions[0].options[1].poster"
-                    },
-                    "metadata": {
-                      "contentType": "Image",
-                      "license": "C",
-                      "title": "Lesson.Listening.resources[1].questions[0].options[1].poster",
-                      "authors": [
-                        {
-                          "name": "iDO Learning",
-                          "role": "Author"
-                        }
-                      ]
-                    },
-                    "subContentId": "0d2b247a-ef2b-4573-9436-56011e8848b8"
-                  },
-                  "backgroundOpacity": 100,
-                  "multiple": false
-                },
-                {
-                  "x": 76.66666666666667,
-                  "y": 6.666666666666667,
-                  "width": 7.812736082153321,
-                  "height": 11.837478912353516,
-                  "dropZones": [
-                    "0"
-                  ],
-                  "type": {
-                    "library": "H5P.Image 1.1",
-                    "params": {
-                      "contentName": "Image",
-                      "file": {
-                        "path": "images/file-5cd424947fc2e.jpg",
-                        "mime": "image/jpeg",
-                        "copyright": {
-                          "license": "U"
-                        },
-                        "width": 330,
-                        "height": 500
-                      },
-                      "alt": "Lesson.Monologue.resources[1].questions[0].options[2].poster"
-                    },
-                    "metadata": {
-                      "contentType": "Image",
-                      "license": "C",
-                      "title": "Lesson.Listening.resources[1].questions[0].options[2].poster",
-                      "authors": [
-                        {
-                          "name": "iDO Learning",
-                          "role": "Author"
-                        }
-                      ]
-                    },
-                    "subContentId": "9b78fc85-7298-4f31-a86c-144a226203d9"
-                  },
-                  "backgroundOpacity": 100,
-                  "multiple": false
-                }
-              ],
-              "dropZones": [
-                {
-                  "x": 0,
-                  "y": 11.333333333333334,
-                  "width": 8.75,
-                  "height": 16.25,
-                  "correctElements": [
-                    "0",
-                    "3"
-                  ],
-                  "showLabel": true,
-                  "backgroundOpacity": 100,
-                  "tipsAndFeedback": {
-                    "tip": ""
-                  },
-                  "single": false,
-                  "autoAlign": true,
-                  "label": "<div style=\"text-align: center;\">Drop answers</div>\n"
-                }
-              ]
-            }
-          },
-          "overallFeedback": [
-            {
-              "from": 0,
-              "to": 100
-            }
-          ],
-          "behaviour": {
-            "enableRetry": true,
-            "enableCheckButton": true,
-            "showSolutionsRequiresInput": false,
-            "singlePoint": true,
-            "applyPenalties": false,
-            "enableScoreExplanation": false,
-            "dropZoneHighlighting": "dragging",
-            "autoAlignSpacing": 2,
-            "enableFullScreen": false,
-            "showScorePoints": false,
-            "showTitle": true
-          },
-          "grabbablePrefix": "Grabbable {num} of {total}.",
-          "grabbableSuffix": "Placed in dropzone {num}.",
-          "dropzonePrefix": "Dropzone {num} of {total}.",
-          "noDropzone": "No dropzone.",
-          "tipLabel": "Show tip.",
-          "tipAvailable": "Tip available",
-          "correctAnswer": "Correct answer",
-          "wrongAnswer": "Wrong answer",
-          "feedbackHeader": "Feedback",
-          "scoreBarLabel": "You got :num out of :total points",
-          "scoreExplanationButtonLabel": "Show score explanation",
-          "localize": {
-            "fullscreen": "Fullscreen",
-            "exitFullscreen": "Exit fullscreen"
-          }
-        },
-        "library": "H5P.DragQuestion 1.13",
-        "metadata": {
-          "contentType": "Drag and Drop",
-          "license": "U",
-          "title": "R14 Multiple image Lesson.Monologue.resources[1].questions[0].question",
-          "authors": [],
-          "changes": [],
-          "extraTitle": "R14 Multiple image Lesson.Monologue.resources[1].questions[0].question"
-        },
-        "subContentId": "20076a5c-c9a3-424f-81b0-f5777d223902"
-      },
-      {
-        "params": {
-          "media": {
-            "params": {
-              "playerMode": "full",
-              "fitToWrapper": false,
-              "controls": true,
+            "playback": {
               "autoplay": false,
-              "contentName": "Audio",
-              "audioNotSupported": "Your browser does not support this audio",
-              "files": [
-                {
-                  "path": "https://s3.us-east-2.amazonaws.com/coreproductido/Greeting.mp3",
-                  "mime": "audio/mp3",
-                  "copyright": {
-                    "license": "U"
-                  }
+              "loop": false
+            },
+            "l10n": {
+              "name": "Video",
+              "loading": "Video player loading...",
+              "noPlayers": "Found no video players that supports the given video format.",
+              "noSources": "Video is missing sources.",
+              "aborted": "Media playback has been aborted.",
+              "networkFailure": "Network failure.",
+              "cannotDecode": "Unable to decode media.",
+              "formatNotSupported": "Video format not supported.",
+              "mediaEncrypted": "Media encrypted.",
+              "unknownError": "Unknown error.",
+              "invalidYtId": "Invalid YouTube ID.",
+              "unknownYtId": "Unable to find video with the given YouTube ID.",
+              "restrictedYt": "The owner of this video does not allow it to be embedded."
+            },
+            "sources": [
+              {
+                "path": "videos\/sources-5cdc2ea0adca4.MP4",
+                "mime": "video\/mp4",
+                "copyright": {
+                  "license": "U"
                 }
-              ]
-            },
-            "library": "H5P.Audio 1.3",
-            "metadata": {
-              "contentType": "Audio",
-              "license": "C",
-              "title": "Lesson.Conversation.resources[0].name",
-              "authors": [
-                {
-                  "name": "iDO Learning",
-                  "role": "Author"
-                }
-              ],
-              "changes": [],
-              "extraTitle": "Lesson.Conversation.resources[0].name"
-            },
-            "subContentId": "2e8dd2bb-0610-4af6-a932-180bb3617cdb"
-          },
-          "answers": [
-            {
-              "correct": true,
-              "tipsAndFeedback": {
-                "tip": "",
-                "chosenFeedback": "",
-                "notChosenFeedback": ""
-              },
-              "text": "<div>Lesson.Conversation.resources[0].questions[2].options[0].text</div>\n"
-            },
-            {
-              "correct": false,
-              "tipsAndFeedback": {
-                "tip": "",
-                "chosenFeedback": "",
-                "notChosenFeedback": ""
-              },
-              "text": "<div>Lesson.Conversation.resources[0].questions[2].options[1].text</div>\n"
-            },
-            {
-              "correct": false,
-              "tipsAndFeedback": {
-                "tip": "",
-                "chosenFeedback": "",
-                "notChosenFeedback": ""
-              },
-              "text": "<div>Lesson.Conversation.resources[0].questions[2].options[2].text</div>\n"
-            }
-          ],
-          "overallFeedback": [
-            {
-              "from": 0,
-              "to": 100
-            }
-          ],
-          "behaviour": {
-            "enableRetry": true,
-            "enableSolutionsButton": false,
-            "enableCheckButton": true,
-            "type": "single",
-            "singlePoint": true,
-            "randomAnswers": true,
-            "showSolutionsRequiresInput": false,
-            "disableImageZooming": false,
-            "confirmCheckDialog": false,
-            "confirmRetryDialog": false,
-            "autoCheck": false,
-            "passPercentage": 100,
-            "showScorePoints": false
-          },
-          "UI": {
-            "checkAnswerButton": "Check",
-            "showSolutionButton": "Show solution",
-            "tryAgainButton": "Retry",
-            "tipsLabel": "Show tip",
-            "scoreBarLabel": "You got :num out of :total points",
-            "tipAvailable": "Tip available",
-            "feedbackAvailable": "Feedback available",
-            "readFeedback": "Read feedback",
-            "wrongAnswer": "Wrong answer",
-            "correctAnswer": "Correct answer",
-            "shouldCheck": "Should have been checked",
-            "shouldNotCheck": "Should not have been checked",
-            "noInput": "Please answer before viewing the solution"
-          },
-          "confirmCheck": {
-            "header": "Finish ?",
-            "body": "Are you sure you wish to finish ?",
-            "cancelLabel": "Cancel",
-            "confirmLabel": "Finish"
-          },
-          "confirmRetry": {
-            "header": "Retry ?",
-            "body": "Are you sure you wish to retry ?",
-            "cancelLabel": "Cancel",
-            "confirmLabel": "Confirm"
-          },
-          "question": "<p>Lesson.Conversation.resources[0].questions[2].question</p>\n"
-        },
-        "library": "H5P.MultiChoice 1.13",
-        "metadata": {
-          "contentType": "Multiple Choice",
-          "license": "U",
-          "title": "R17 Conversation MC1 Lesson.Conversation.resources[0].name",
-          "authors": [],
-          "changes": [],
-          "extraTitle": "R17 Conversation MC1 Lesson.Conversation.resources[0].name"
-        },
-        "subContentId": "dc19276b-451c-4e5d-9007-5d9759848a2f"
-      },
-      {
-        "params": {
-          "media": {
-            "params": {
-              "playerMode": "full",
-              "fitToWrapper": false,
-              "controls": true,
-              "autoplay": false,
-              "contentName": "Audio",
-              "audioNotSupported": "Your browser does not support this audio",
-              "files": [
-                {
-                  "path": "https://s3.us-east-2.amazonaws.com/coreproductido/Greeting.mp3",
-                  "mime": "audio/mp3",
-                  "copyright": {
-                    "license": "U"
-                  }
-                }
-              ]
-            },
-            "library": "H5P.Audio 1.3",
-            "metadata": {
-              "contentType": "Audio",
-              "license": "C",
-              "title": "Lesson.Conversation.resources[0].name",
-              "authors": [
-                {
-                  "name": "iDO Learning",
-                  "role": "Author"
-                }
-              ],
-              "changes": [],
-              "extraTitle": "Lesson.Conversation.resources[0].name"
-            },
-            "subContentId": "00cb309e-ebcd-4349-845c-9ee095adeb20"
-          },
-          "answers": [
-            {
-              "correct": true,
-              "tipsAndFeedback": {
-                "tip": "",
-                "chosenFeedback": "",
-                "notChosenFeedback": ""
-              },
-              "text": "<div>Lesson.Conversation.resources[0].questions[3].options[0].text</div>\n"
-            },
-            {
-              "correct": false,
-              "tipsAndFeedback": {
-                "tip": "",
-                "chosenFeedback": "",
-                "notChosenFeedback": ""
-              },
-              "text": "<div>Lesson.Conversation.resources[0].questions[3].options[1].text</div>\n"
-            },
-            {
-              "correct": false,
-              "tipsAndFeedback": {
-                "tip": "",
-                "chosenFeedback": "",
-                "notChosenFeedback": ""
-              },
-              "text": "<div>Lesson.Conversation.resources[0].questions[3].options[2].text</div>\n"
-            }
-          ],
-          "overallFeedback": [
-            {
-              "from": 0,
-              "to": 100
-            }
-          ],
-          "behaviour": {
-            "enableRetry": true,
-            "enableSolutionsButton": false,
-            "enableCheckButton": true,
-            "type": "single",
-            "singlePoint": true,
-            "randomAnswers": true,
-            "showSolutionsRequiresInput": false,
-            "disableImageZooming": false,
-            "confirmCheckDialog": false,
-            "confirmRetryDialog": false,
-            "autoCheck": false,
-            "passPercentage": 100,
-            "showScorePoints": false
-          },
-          "UI": {
-            "checkAnswerButton": "Check",
-            "showSolutionButton": "Show solution",
-            "tryAgainButton": "Retry",
-            "tipsLabel": "Show tip",
-            "scoreBarLabel": "You got :num out of :total points",
-            "tipAvailable": "Tip available",
-            "feedbackAvailable": "Feedback available",
-            "readFeedback": "Read feedback",
-            "wrongAnswer": "Wrong answer",
-            "correctAnswer": "Correct answer",
-            "shouldCheck": "Should have been checked",
-            "shouldNotCheck": "Should not have been checked",
-            "noInput": "Please answer before viewing the solution"
-          },
-          "confirmCheck": {
-            "header": "Finish ?",
-            "body": "Are you sure you wish to finish ?",
-            "cancelLabel": "Cancel",
-            "confirmLabel": "Finish"
-          },
-          "confirmRetry": {
-            "header": "Retry ?",
-            "body": "Are you sure you wish to retry ?",
-            "cancelLabel": "Cancel",
-            "confirmLabel": "Confirm"
-          },
-          "question": "<p>Lesson.Conversation.resources[0].questions[3].question</p>\n"
-        },
-        "library": "H5P.MultiChoice 1.13",
-        "metadata": {
-          "contentType": "Multiple Choice",
-          "license": "U",
-          "title": "R17 Conversation MC2 Lesson.Conversation.resources[0].name",
-          "authors": [],
-          "changes": [],
-          "extraTitle": "R17 Conversation MC2 Lesson.Conversation.resources[0].name"
-        },
-        "subContentId": "3f12a732-51da-4ae3-a1ab-20021dc93d6a"
-      },
-      {
-        "params": {
-          "media": {
-            "params": {
-              "visuals": {
-                "fit": true,
-                "controls": true,
-                "poster": {
-                  "path": "images/poster-5cdc2ff714fc0.png",
-                  "mime": "image/png",
-                  "copyright": {
-                    "license": "U"
-                  },
-                  "width": 1920,
-                  "height": 1080
-                }
-              },
-              "playback": {
-                "autoplay": false,
-                "loop": false
-              },
-              "l10n": {
-                "name": "Video",
-                "loading": "Video player loading...",
-                "noPlayers": "Found no video players that supports the given video format.",
-                "noSources": "Video is missing sources.",
-                "aborted": "Media playback has been aborted.",
-                "networkFailure": "Network failure.",
-                "cannotDecode": "Unable to decode media.",
-                "formatNotSupported": "Video format not supported.",
-                "mediaEncrypted": "Media encrypted.",
-                "unknownError": "Unknown error.",
-                "invalidYtId": "Invalid YouTube ID.",
-                "unknownYtId": "Unable to find video with the given YouTube ID.",
-                "restrictedYt": "The owner of this video does not allow it to be embedded."
-              },
-              "sources": [
-                {
-                  "path": "videos/sources-5cdc2ea0adca4.MP4",
-                  "mime": "video/mp4",
-                  "copyright": {
-                    "license": "U"
-                  }
-                }
-              ],
-              "a11y": [
-                {
-                  "kind": "subtitles",
-                  "srcLang": "en",
-                  "label": "Subtitles",
-                  "track": {
-                    "path": "files/track-5cdc2ec464e59.vtt",
-                    "mime": "text/plain",
-                    "copyright": {
-                      "license": "U"
-                    }
-                  }
-                }
-              ]
-            },
-            "library": "H5P.Video 1.5",
-            "metadata": {
-              "contentType": "Video",
-              "license": "U",
-              "title": "Lesson.Conversation.resources[1].name",
-              "authors": [],
-              "changes": [],
-              "extraTitle": "Lesson.Conversation.resources[1].name"
-            },
-            "subContentId": "6837e0c0-a59b-44a8-8d95-1fc3c25699ae"
-          },
-          "answers": [
-            {
-              "correct": true,
-              "tipsAndFeedback": {
-                "tip": "",
-                "chosenFeedback": "",
-                "notChosenFeedback": ""
-              },
-              "text": "<div>Lesson.Conversation.resources[1].questions[1].options[0].text</div>\n"
-            },
-            {
-              "correct": false,
-              "tipsAndFeedback": {
-                "tip": "",
-                "chosenFeedback": "",
-                "notChosenFeedback": ""
-              },
-              "text": "<div>Lesson.Conversation.resources[1].questions[1].options[1].text</div>\n"
-            },
-            {
-              "correct": false,
-              "tipsAndFeedback": {
-                "tip": "",
-                "chosenFeedback": "",
-                "notChosenFeedback": ""
-              },
-              "text": "<div>Lesson.Conversation.resources[1].questions[1].options[2].text</div>\n"
-            }
-          ],
-          "overallFeedback": [
-            {
-              "from": 0,
-              "to": 100
-            }
-          ],
-          "behaviour": {
-            "enableRetry": true,
-            "enableSolutionsButton": false,
-            "enableCheckButton": true,
-            "type": "single",
-            "singlePoint": true,
-            "randomAnswers": true,
-            "showSolutionsRequiresInput": false,
-            "disableImageZooming": false,
-            "confirmCheckDialog": false,
-            "confirmRetryDialog": false,
-            "autoCheck": false,
-            "passPercentage": 100,
-            "showScorePoints": false
-          },
-          "UI": {
-            "checkAnswerButton": "Check",
-            "showSolutionButton": "Show solution",
-            "tryAgainButton": "Retry",
-            "tipsLabel": "Show tip",
-            "scoreBarLabel": "You got :num out of :total points",
-            "tipAvailable": "Tip available",
-            "feedbackAvailable": "Feedback available",
-            "readFeedback": "Read feedback",
-            "wrongAnswer": "Wrong answer",
-            "correctAnswer": "Correct answer",
-            "shouldCheck": "Should have been checked",
-            "shouldNotCheck": "Should not have been checked",
-            "noInput": "Please answer before viewing the solution"
-          },
-          "confirmCheck": {
-            "header": "Finish ?",
-            "body": "Are you sure you wish to finish ?",
-            "cancelLabel": "Cancel",
-            "confirmLabel": "Finish"
-          },
-          "confirmRetry": {
-            "header": "Retry ?",
-            "body": "Are you sure you wish to retry ?",
-            "cancelLabel": "Cancel",
-            "confirmLabel": "Confirm"
-          },
-          "question": "<p>Lesson.Conversation.resources[1].questions[1].question</p>\n"
-        },
-        "library": "H5P.MultiChoice 1.13",
-        "metadata": {
-          "contentType": "Multiple Choice",
-          "license": "U",
-          "title": "R18 Conversation MC2 Lesson.Conversation.resources[1].name",
-          "authors": [],
-          "changes": [],
-          "extraTitle": "R18 Conversation MC2 Lesson.Conversation.resources[1].name"
-        },
-        "subContentId": "4ebc9924-160b-42b8-9dc0-88621dcdbefc"
-      },
-      {
-        "params": {
-          "scoreShow": "Check",
-          "tryAgain": "Retry",
-          "scoreExplanation": "Correct answers give +1 point. Incorrect answers give -1 point. The lowest possible score is 0.",
-          "question": {
-            "settings": {
-              "size": {
-                "width": 600,
-                "height": 300
               }
+            ],
+            "a11y": [
+              {
+                "kind": "subtitles",
+                "srcLang": "en",
+                "label": "Subtitles",
+                "track": {
+                  "path": "files\/track-5cdc2ec464e59.vtt",
+                  "mime": "text\/plain",
+                  "copyright": {
+                    "license": "U"
+                  }
+                }
+              }
+            ]
+          },
+          "library": "H5P.Video 1.5",
+          "metadata": {
+            "contentType": "Video",
+            "license": "U",
+            "title": "Lesson.Conversation.resources[1].name",
+            "authors": [],
+            "changes": [],
+            "extraTitle": "Lesson.Conversation.resources[1].name"
+          },
+          "subContentId": "6837e0c0-a59b-44a8-8d95-1fc3c25699ae"
+        },
+        "answers": [
+          {
+            "correct": true,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "",
+              "notChosenFeedback": ""
             },
-            "task": {
-              "elements": [
-                {
-                  "x": 26.666666666666668,
-                  "y": 76.66666666666667,
-                  "width": 8.025,
-                  "height": 3.025,
-                  "dropZones": [
-                    "0"
-                  ],
-                  "type": {
-                    "library": "H5P.AdvancedText 1.1",
-                    "params": {
-                      "text": "<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Conversation.resources[1].questions[0].options[0].text</span></p>\n"
-                    },
-                    "metadata": {
-                      "contentType": "Text",
-                      "license": "U",
-                      "title": "Untitled Text"
-                    },
-                    "subContentId": "8629244f-cb10-470f-979b-e4a80587df6b"
-                  },
-                  "backgroundOpacity": 100,
-                  "multiple": false
-                },
-                {
-                  "x": 51.666666666666664,
-                  "y": 76.66666666666667,
-                  "width": 8.025,
-                  "height": 3.025,
-                  "dropZones": [
-                    "0"
-                  ],
-                  "type": {
-                    "library": "H5P.AdvancedText 1.1",
-                    "params": {
-                      "text": "<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Conversation.resources[1].questions[0].options[1].text</span></p>\n"
-                    },
-                    "metadata": {
-                      "contentType": "Text",
-                      "license": "U",
-                      "title": "Untitled Text"
-                    },
-                    "subContentId": "bb0e7ba2-8ae7-4c07-baf0-7e51377cee82"
-                  },
-                  "backgroundOpacity": 100,
-                  "multiple": false
-                },
-                {
-                  "x": 76.66666666666667,
-                  "y": 76.66666666666667,
-                  "width": 8.025,
-                  "height": 3.025,
-                  "dropZones": [
-                    "0"
-                  ],
-                  "type": {
-                    "library": "H5P.AdvancedText 1.1",
-                    "params": {
-                      "text": "<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Conversation.resources[1].questions[0].options[2].text</span></p>\n"
-                    },
-                    "metadata": {
-                      "contentType": "Text",
-                      "license": "U",
-                      "title": "Untitled Text"
-                    },
-                    "subContentId": "c66929a0-7375-4dec-9362-f62f4fc0ebb6"
-                  },
-                  "backgroundOpacity": 100,
-                  "multiple": false
-                },
-                {
-                  "x": 26.666666666666668,
-                  "y": 6.666666666666667,
-                  "width": 8.025,
-                  "height": 11.837478912353516,
-                  "dropZones": [
-                    "0"
-                  ],
-                  "type": {
-                    "library": "H5P.Image 1.1",
-                    "params": {
-                      "contentName": "Image",
-                      "file": {
-                        "path": "images/file-5cd422f016043.jpg",
-                        "mime": "image/jpeg",
-                        "copyright": {
-                          "license": "U"
-                        },
-                        "width": 330,
-                        "height": 500
-                      },
-                      "alt": "Lesson.Conversation.resources[1].questions[0].options[0].poster"
-                    },
-                    "metadata": {
-                      "contentType": "Image",
-                      "license": "C",
-                      "title": "Lesson.Listening.resources[1].questions[0].options[0].poster",
-                      "authors": [
-                        {
-                          "name": "iDO Learning",
-                          "role": "Author"
-                        }
-                      ]
-                    },
-                    "subContentId": "b299c947-3d97-4d26-aab4-80d40c8f85ab"
-                  },
-                  "backgroundOpacity": 100,
-                  "multiple": false
-                },
-                {
-                  "x": 51.666666666666664,
-                  "y": 6.666666666666667,
-                  "width": 7.812736082153321,
-                  "height": 11.837478912353516,
-                  "dropZones": [
-                    "0"
-                  ],
-                  "type": {
-                    "library": "H5P.Image 1.1",
-                    "params": {
-                      "contentName": "Image",
-                      "file": {
-                        "path": "images/file-5cd424897c812.jpg",
-                        "mime": "image/jpeg",
-                        "copyright": {
-                          "license": "U"
-                        },
-                        "width": 330,
-                        "height": 500
-                      },
-                      "alt": "Lesson.Conversation.resources[1].questions[0].options[1].poster"
-                    },
-                    "metadata": {
-                      "contentType": "Image",
-                      "license": "C",
-                      "title": "Lesson.Listening.resources[1].questions[0].options[1].poster",
-                      "authors": [
-                        {
-                          "name": "iDO Learning",
-                          "role": "Author"
-                        }
-                      ]
-                    },
-                    "subContentId": "b6bcd073-4c99-4e65-97d2-a3dc0fcfbd27"
-                  },
-                  "backgroundOpacity": 100,
-                  "multiple": false
-                },
-                {
-                  "x": 76.66666666666667,
-                  "y": 6.666666666666667,
-                  "width": 7.812736082153321,
-                  "height": 11.837478912353516,
-                  "dropZones": [
-                    "0"
-                  ],
-                  "type": {
-                    "library": "H5P.Image 1.1",
-                    "params": {
-                      "contentName": "Image",
-                      "file": {
-                        "path": "images/file-5cd424947fc2e.jpg",
-                        "mime": "image/jpeg",
-                        "copyright": {
-                          "license": "U"
-                        },
-                        "width": 330,
-                        "height": 500
-                      },
-                      "alt": "Lesson.Conversation.resources[1].questions[0].options[2].poster"
-                    },
-                    "metadata": {
-                      "contentType": "Image",
-                      "license": "C",
-                      "title": "Lesson.Listening.resources[1].questions[0].options[2].poster",
-                      "authors": [
-                        {
-                          "name": "iDO Learning",
-                          "role": "Author"
-                        }
-                      ]
-                    },
-                    "subContentId": "5fa760b3-526e-45e8-8b1a-80b1a6254cc1"
-                  },
-                  "backgroundOpacity": 100,
-                  "multiple": false
-                }
-              ],
-              "dropZones": [
-                {
-                  "x": 0,
-                  "y": 11.333333333333334,
-                  "width": 8.75,
-                  "height": 16.25,
-                  "correctElements": [
-                    "0",
-                    "3"
-                  ],
-                  "showLabel": true,
-                  "backgroundOpacity": 100,
-                  "tipsAndFeedback": {
-                    "tip": ""
-                  },
-                  "single": false,
-                  "autoAlign": true,
-                  "label": "<div style=\"text-align: center;\">Drop answers</div>\n"
-                }
-              ]
-            }
+            "text": "<div>Lesson.Conversation.resources[1].questions[1].options[0].text<\/div>\n"
           },
-          "overallFeedback": [
-            {
-              "from": 0,
-              "to": 100
-            }
-          ],
-          "behaviour": {
-            "enableRetry": true,
-            "enableCheckButton": true,
-            "showSolutionsRequiresInput": false,
-            "singlePoint": true,
-            "applyPenalties": false,
-            "enableScoreExplanation": false,
-            "dropZoneHighlighting": "dragging",
-            "autoAlignSpacing": 2,
-            "enableFullScreen": false,
-            "showScorePoints": false,
-            "showTitle": true
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "",
+              "notChosenFeedback": ""
+            },
+            "text": "<div>Lesson.Conversation.resources[1].questions[1].options[1].text<\/div>\n"
           },
-          "grabbablePrefix": "Grabbable {num} of {total}.",
-          "grabbableSuffix": "Placed in dropzone {num}.",
-          "dropzonePrefix": "Dropzone {num} of {total}.",
-          "noDropzone": "No dropzone.",
-          "tipLabel": "Show tip.",
-          "tipAvailable": "Tip available",
-          "correctAnswer": "Correct answer",
-          "wrongAnswer": "Wrong answer",
-          "feedbackHeader": "Feedback",
+          {
+            "correct": false,
+            "tipsAndFeedback": {
+              "tip": "",
+              "chosenFeedback": "",
+              "notChosenFeedback": ""
+            },
+            "text": "<div>Lesson.Conversation.resources[1].questions[1].options[2].text<\/div>\n"
+          }
+        ],
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": false,
+          "enableCheckButton": true,
+          "type": "single",
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": false,
+          "disableImageZooming": false,
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": false,
+          "passPercentage": 100,
+          "showScorePoints": false
+        },
+        "UI": {
+          "checkAnswerButton": "Check",
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "tipsLabel": "Show tip",
           "scoreBarLabel": "You got :num out of :total points",
-          "scoreExplanationButtonLabel": "Show score explanation",
-          "localize": {
-            "fullscreen": "Fullscreen",
-            "exitFullscreen": "Exit fullscreen"
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer",
+          "shouldCheck": "Should have been checked",
+          "shouldNotCheck": "Should not have been checked",
+          "noInput": "Please answer before viewing the solution"
+        },
+        "confirmCheck": {
+          "header": "Finish ?",
+          "body": "Are you sure you wish to finish ?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Finish"
+        },
+        "confirmRetry": {
+          "header": "Retry ?",
+          "body": "Are you sure you wish to retry ?",
+          "cancelLabel": "Cancel",
+          "confirmLabel": "Confirm"
+        },
+        "question": "<p>Lesson.Conversation.resources[1].questions[1].question<\/p>\n"
+      },
+      "library": "H5P.MultiChoiceIDO 1.13",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "title": "R18 Conversation MC2 Lesson.Conversation.resources[1].name",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "R18 Conversation MC2 Lesson.Conversation.resources[1].name"
+      },
+      "subContentId": "4ebc9924-160b-42b8-9dc0-88621dcdbefc"
+    },
+    {
+      "params": {
+        "scoreShow": "Check",
+        "tryAgain": "Retry",
+        "scoreExplanation": "Correct answers give +1 point. Incorrect answers give -1 point. The lowest possible score is 0.",
+        "question": {
+          "settings": {
+            "size": {
+              "width": 600,
+              "height": 300
+            }
+          },
+          "task": {
+            "elements": [
+              {
+                "x": 26.666666666667,
+                "y": 76.666666666667,
+                "width": 8.025,
+                "height": 3.025,
+                "dropZones": [
+                  "0"
+                ],
+                "type": {
+                  "library": "H5P.AdvancedText 1.1",
+                  "params": {
+                    "text": "<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Conversation.resources[1].questions[0].options[0].text<\/span><\/p>\n"
+                  },
+                  "metadata": {
+                    "contentType": "Text",
+                    "license": "U",
+                    "title": "Untitled Text"
+                  },
+                  "subContentId": "8629244f-cb10-470f-979b-e4a80587df6b"
+                },
+                "backgroundOpacity": 100,
+                "multiple": false
+              },
+              {
+                "x": 51.666666666667,
+                "y": 76.666666666667,
+                "width": 8.025,
+                "height": 3.025,
+                "dropZones": [
+                  "0"
+                ],
+                "type": {
+                  "library": "H5P.AdvancedText 1.1",
+                  "params": {
+                    "text": "<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Conversation.resources[1].questions[0].options[1].text<\/span><\/p>\n"
+                  },
+                  "metadata": {
+                    "contentType": "Text",
+                    "license": "U",
+                    "title": "Untitled Text"
+                  },
+                  "subContentId": "bb0e7ba2-8ae7-4c07-baf0-7e51377cee82"
+                },
+                "backgroundOpacity": 100,
+                "multiple": false
+              },
+              {
+                "x": 76.666666666667,
+                "y": 76.666666666667,
+                "width": 8.025,
+                "height": 3.025,
+                "dropZones": [
+                  "0"
+                ],
+                "type": {
+                  "library": "H5P.AdvancedText 1.1",
+                  "params": {
+                    "text": "<p style=\"text-align: center;\"><span style=\"font-size:1.375em;\">Lesson.Conversation.resources[1].questions[0].options[2].text<\/span><\/p>\n"
+                  },
+                  "metadata": {
+                    "contentType": "Text",
+                    "license": "U",
+                    "title": "Untitled Text"
+                  },
+                  "subContentId": "c66929a0-7375-4dec-9362-f62f4fc0ebb6"
+                },
+                "backgroundOpacity": 100,
+                "multiple": false
+              },
+              {
+                "x": 26.666666666667,
+                "y": 6.6666666666667,
+                "width": 8.025,
+                "height": 11.837478912354,
+                "dropZones": [
+                  "0"
+                ],
+                "type": {
+                  "library": "H5P.Image 1.1",
+                  "params": {
+                    "contentName": "Image",
+                    "file": {
+                      "path": "images\/file-5cd422f016043.jpg",
+                      "mime": "image\/jpeg",
+                      "copyright": {
+                        "license": "U"
+                      },
+                      "width": 330,
+                      "height": 500
+                    },
+                    "alt": "Lesson.Conversation.resources[1].questions[0].options[0].poster"
+                  },
+                  "metadata": {
+                    "contentType": "Image",
+                    "license": "C",
+                    "title": "Lesson.Listening.resources[1].questions[0].options[0].poster",
+                    "authors": [
+                      {
+                        "name": "iDO Learning",
+                        "role": "Author"
+                      }
+                    ]
+                  },
+                  "subContentId": "b299c947-3d97-4d26-aab4-80d40c8f85ab"
+                },
+                "backgroundOpacity": 100,
+                "multiple": false
+              },
+              {
+                "x": 51.666666666667,
+                "y": 6.6666666666667,
+                "width": 7.8127360821533,
+                "height": 11.837478912354,
+                "dropZones": [
+                  "0"
+                ],
+                "type": {
+                  "library": "H5P.Image 1.1",
+                  "params": {
+                    "contentName": "Image",
+                    "file": {
+                      "path": "images\/file-5cd424897c812.jpg",
+                      "mime": "image\/jpeg",
+                      "copyright": {
+                        "license": "U"
+                      },
+                      "width": 330,
+                      "height": 500
+                    },
+                    "alt": "Lesson.Conversation.resources[1].questions[0].options[1].poster"
+                  },
+                  "metadata": {
+                    "contentType": "Image",
+                    "license": "C",
+                    "title": "Lesson.Listening.resources[1].questions[0].options[1].poster",
+                    "authors": [
+                      {
+                        "name": "iDO Learning",
+                        "role": "Author"
+                      }
+                    ]
+                  },
+                  "subContentId": "b6bcd073-4c99-4e65-97d2-a3dc0fcfbd27"
+                },
+                "backgroundOpacity": 100,
+                "multiple": false
+              },
+              {
+                "x": 76.666666666667,
+                "y": 6.6666666666667,
+                "width": 7.8127360821533,
+                "height": 11.837478912354,
+                "dropZones": [
+                  "0"
+                ],
+                "type": {
+                  "library": "H5P.Image 1.1",
+                  "params": {
+                    "contentName": "Image",
+                    "file": {
+                      "path": "images\/file-5cd424947fc2e.jpg",
+                      "mime": "image\/jpeg",
+                      "copyright": {
+                        "license": "U"
+                      },
+                      "width": 330,
+                      "height": 500
+                    },
+                    "alt": "Lesson.Conversation.resources[1].questions[0].options[2].poster"
+                  },
+                  "metadata": {
+                    "contentType": "Image",
+                    "license": "C",
+                    "title": "Lesson.Listening.resources[1].questions[0].options[2].poster",
+                    "authors": [
+                      {
+                        "name": "iDO Learning",
+                        "role": "Author"
+                      }
+                    ]
+                  },
+                  "subContentId": "5fa760b3-526e-45e8-8b1a-80b1a6254cc1"
+                },
+                "backgroundOpacity": 100,
+                "multiple": false
+              }
+            ],
+            "dropZones": [
+              {
+                "x": 0,
+                "y": 11.333333333333,
+                "width": 8.75,
+                "height": 16.25,
+                "correctElements": [
+                  "0",
+                  "3"
+                ],
+                "showLabel": true,
+                "backgroundOpacity": 100,
+                "tipsAndFeedback": {
+                  "tip": ""
+                },
+                "single": false,
+                "autoAlign": true,
+                "label": "<div style=\"text-align: center;\">Drop answers<\/div>\n"
+              }
+            ]
           }
         },
-        "library": "H5P.DragQuestion 1.13",
-        "metadata": {
-          "contentType": "Drag and Drop",
-          "license": "U",
-          "title": "R18 Multiple image Lesson.Conversation.resources[1].questions[0].question",
-          "authors": [],
-          "changes": [],
-          "extraTitle": "R18 Multiple image Lesson.Conversation.resources[1].questions[0].question"
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "enableRetry": true,
+          "enableCheckButton": true,
+          "showSolutionsRequiresInput": false,
+          "singlePoint": true,
+          "applyPenalties": false,
+          "enableScoreExplanation": false,
+          "dropZoneHighlighting": "dragging",
+          "autoAlignSpacing": 2,
+          "enableFullScreen": false,
+          "showScorePoints": false,
+          "showTitle": true
         },
-        "subContentId": "fc76c9ac-b7d3-479d-a797-827888fe283a"
+        "grabbablePrefix": "Grabbable {num} of {total}.",
+        "grabbableSuffix": "Placed in dropzone {num}.",
+        "dropzonePrefix": "Dropzone {num} of {total}.",
+        "noDropzone": "No dropzone.",
+        "tipLabel": "Show tip.",
+        "tipAvailable": "Tip available",
+        "correctAnswer": "Correct answer",
+        "wrongAnswer": "Wrong answer",
+        "feedbackHeader": "Feedback",
+        "scoreBarLabel": "You got :num out of :total points",
+        "scoreExplanationButtonLabel": "Show score explanation",
+        "localize": {
+          "fullscreen": "Fullscreen",
+          "exitFullscreen": "Exit fullscreen"
+        }
+      },
+      "library": "H5P.DragQuestion 1.13",
+      "metadata": {
+        "contentType": "Drag and Drop",
+        "license": "U",
+        "title": "R18 Multiple image Lesson.Conversation.resources[1].questions[0].question",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "R18 Multiple image Lesson.Conversation.resources[1].questions[0].question"
+      },
+      "subContentId": "fc76c9ac-b7d3-479d-a797-827888fe283a"
+    }
+  ],
+  "disableBackwardsNavigation": false,
+  "randomQuestions": false,
+  "endGame": {
+    "showResultPage": true,
+    "showSolutionButton": false,
+    "noResultMessage": "Finished",
+    "message": "You have reached the end of the this activity, take a look at your score:",
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 50,
+        "feedback": "You missed several points, try again"
+      },
+      {
+        "from": 51,
+        "to": 70,
+        "feedback": "So close, give it another try"
+      },
+      {
+        "from": 71,
+        "to": 100,
+        "feedback": "Well done! you may continue with the next activity"
       }
     ],
-    "disableBackwardsNavigation": false,
-    "randomQuestions": false,
-    "endGame": {
-      "showResultPage": true,
-      "showSolutionButton": false,
-      "noResultMessage": "Finished",
-      "message": "You have reached the end of the this activity, take a look at your score:",
-      "overallFeedback": [
-        {
-          "from": 0,
-          "to": 50,
-          "feedback": "You missed several points, try again"
-        },
-        {
-          "from": 51,
-          "to": 70,
-          "feedback": "So close, give it another try"
-        },
-        {
-          "from": 71,
-          "to": 100,
-          "feedback": "Well done! you may continue with the next activity"
+    "solutionButtonText": "Show solution",
+    "retryButtonText": "Try again",
+    "finishButtonText": "Finish",
+    "showAnimations": true,
+    "skippable": false,
+    "skipButtonText": "Skip video",
+    "successVideo": [
+      {
+        "path": "https:\/\/media.giphy.com\/media\/iBEW5Amz0ztza\/giphy.mp4",
+        "mime": "video\/mp4",
+        "copyright": {
+          "license": "U"
         }
-      ],
-      "solutionButtonText": "Show solution",
-      "retryButtonText": "Try again",
-      "finishButtonText": "Finish",
-      "showAnimations": true,
-      "skippable": false,
-      "skipButtonText": "Skip video",
-      "successVideo": [
-        {
-          "path": "https://media.giphy.com/media/iBEW5Amz0ztza/giphy.mp4",
-          "mime": "video/mp4",
-          "copyright": {
-            "license": "U"
-          }
+      }
+    ],
+    "failVideo": [
+      {
+        "path": "https:\/\/media.giphy.com\/media\/qLWdMYX1NYF2g\/giphy.mp4",
+        "mime": "video\/mp4",
+        "copyright": {
+          "license": "U"
         }
-      ],
-      "failVideo": [
-        {
-          "path": "https://media.giphy.com/media/qLWdMYX1NYF2g/giphy.mp4",
-          "mime": "video/mp4",
-          "copyright": {
-            "license": "U"
-          }
-        }
-      ]
-    },
-    "override": {
-      "checkButton": true
-    },
-    "texts": {
-      "prevButton": "Previous question",
-      "nextButton": "Next question",
-      "finishButton": "Finish",
-      "textualProgress": "Question: @current of @total questions",
-      "jumpToQuestion": "Question %d of %total",
-      "questionLabel": "Question",
-      "readSpeakerProgress": "Question @current of @total",
-      "unansweredText": "Unanswered",
-      "answeredText": "Answered",
-      "currentQuestionText": "Current question"
-    }
+      }
+    ]
+  },
+  "override": {
+    "checkButton": true
+  },
+  "texts": {
+    "prevButton": "Previous question",
+    "nextButton": "Next question",
+    "finishButton": "Finish",
+    "textualProgress": "Question: @current of @total questions",
+    "jumpToQuestion": "Question %d of %total",
+    "questionLabel": "Question",
+    "readSpeakerProgress": "Question @current of @total",
+    "unansweredText": "Unanswered",
+    "answeredText": "Answered",
+    "currentQuestionText": "Current question"
   }
+}
