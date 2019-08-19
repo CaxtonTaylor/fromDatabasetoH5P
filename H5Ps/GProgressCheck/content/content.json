@@ -1,9 +1,9 @@
 {
     "introPage": {
         "showIntroPage": true,
-        "startButtonText": "Start learning",
+        "startButtonText": "Let's go",
         "introduction": "<p>Make sure to complete every exercise and don't worry, you can go through this activity as many times as you want.<\/p>\n",
-        "title": "Get ready to practice your Listening"
+        "title": "Check your progress"
     },
     "progressType": "bar",
     "passPercentage": 70,
