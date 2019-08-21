@@ -15,20 +15,22 @@
                 },
                 "shortStartDescription": "Lesson.Listening.resources[0].instructions.en"
             },
-            "textTracks": [
-                {
-                    "label": "Subtitles",
-                    "kind": "subtitles",
-                    "srcLang": "en",
-                    "track": {
-                        "path": "files\/track-5cec5f3e3a2b2.vtt",
-                        "mime": "text\/plain",
-                        "copyright": {
-                            "license": "U"
+            "textTracks": {
+                "videoTrack": [
+                    {
+                        "label": "Subtitles",
+                        "kind": "subtitles",
+                        "srcLang": "en",
+                        "track": {
+                            "path": "files\/track-5cec5f3e3a2b2.vtt",
+                            "mime": "text\/plain",
+                            "copyright": {
+                                "license": "U"
+                            }
                         }
                     }
-                }
-            ],
+                ]
+            },
             "files": [
                 {
                     "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/B1.3\/M%C3%B3dulo+III\/B1.3_Unit7_Lesson19_4.mp4",
@@ -62,9 +64,7 @@
                         "metadata": {
                             "contentType": "Text",
                             "license": "U",
-                            "title": "Untitled Text",
-                            "authors": [],
-                            "changes": []
+                            "title": "Untitled Text"
                         },
                         "subContentId": "9146a718-ffed-4014-a790-065582f83507"
                     },
@@ -102,9 +102,7 @@
                         "metadata": {
                             "contentType": "Text",
                             "license": "U",
-                            "title": "Untitled Text",
-                            "authors": [],
-                            "changes": []
+                            "title": "Untitled Text"
                         },
                         "subContentId": "8f1004fc-a66e-49b9-ad6a-bb3394822f33"
                     },
@@ -196,10 +194,7 @@
                         "metadata": {
                             "contentType": "Single Choice Set",
                             "license": "U",
-                            "title": "Check your understanding",
-                            "authors": [],
-                            "changes": [],
-                            "extraTitle": "Check your understanding"
+                            "title": "Check your understanding"
                         },
                         "subContentId": "cce28f2f-cb7d-4daf-be18-9ca26aa53e6a"
                     },
@@ -218,9 +213,46 @@
                         "requireCompletion": false
                     },
                     "label": ""
+                },
+                {
+                    "x": 2.1834061135371,
+                    "y": 3.8834951456311,
+                    "width": 10,
+                    "height": 10,
+                    "duration": {
+                        "from": 1,
+                        "to": 34
+                    },
+                    "libraryTitle": "Text",
+                    "action": {
+                        "library": "H5P.Text 1.1",
+                        "params": {
+                            "text": "<p>Lesson.Grammar.5.consolidated_1<\/p>\n"
+                        },
+                        "subContentId": "52da8d2e-0aba-41c1-af30-9f8781bdd81e",
+                        "metadata": {
+                            "contentType": "Text",
+                            "license": "U",
+                            "title": "Untitled Text"
+                        }
+                    },
+                    "pause": false,
+                    "displayType": "button",
+                    "buttonOnMobile": false,
+                    "visuals": {
+                        "backgroundColor": "rgb(255, 255, 255)",
+                        "boxShadow": true
+                    },
+                    "goto": {
+                        "url": {
+                            "protocol": "http:\/\/"
+                        },
+                        "visualize": false,
+                        "type": ""
+                    },
+                    "label": "<p>Language Corner<\/p>\n"
                 }
             ],
-            "bookmarks": [],
             "endscreens": [
                 {
                     "time": 44.565333,
@@ -258,10 +290,7 @@
                 "metadata": {
                     "contentType": "Summary",
                     "license": "U",
-                    "title": "Untitled Summary",
-                    "authors": [],
-                    "changes": [],
-                    "extraTitle": "Untitled Summary"
+                    "title": "Untitled Summary"
                 },
                 "subContentId": "9d4a7d61-fe72-409c-b2dc-0ca58b1c8b9b"
             },

@@ -89,7 +89,13 @@ module.exports =
         async zipH5Ps() {
             await this.updateforeachH5P(async function (h5p) {
                 let lessonNumber = this.Lesson.Lesson
-                let lessonName = this.Lesson.name.replace(/[^\x00-\x7F]/g, "").replace(/ /g, "")
+                let lessonName
+                if(this.Lesson.NAME){
+                    lessonName  = this.Lesson.NAME.replace(/[^\x00-\x7F]/g, "").replace(/ /g, "")
+
+                }else{
+                    lessonName  = this.Lesson.name.replace(/[^\x00-\x7F]/g, "").replace(/ /g, "")
+                }
                 if(!lessonNumber){
                     lessonNumber = lessonName
                 }
@@ -97,7 +103,7 @@ module.exports =
                 let h5p_name = h5p.name + '_' + this.Lesson.Level + '_' +  'Lesson' + lessonNumber  + '_' + lessonName + '_'+ 'V' + version +'.h5p';
                 await utils.exec('cd ' + h5p.path + ' && zip -r -D ' + h5p_name + ' .');
                 await utils.exec('mv ' + h5p.path + h5p_name + ' ' + this.UPPath + h5p_name, true);
-
+                console.log("h5p created "+ this.UPPath + h5p_name)
                 return h5p;
             }.bind(this))
         }

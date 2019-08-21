@@ -65,7 +65,7 @@
         {
             "machineName": "H5P.InteractiveVideo",
             "majorVersion": "1",
-            "minorVersion": "20"
+            "minorVersion": "21"
         },
         {
             "machineName": "jQuery.ui",

@@ -2,7 +2,7 @@
     "interactiveVideo": {
         "video": {
             "startScreenOptions": {
-                "title": "Lesson.Monologue.resources[0].name",
+                "title": "Lesson.Listening.resources[0].name",
                 "hideStartTitle": false,
                 "poster": {
                     "path": "images\/poster-5cec2aebb7a0b.png",
@@ -13,25 +13,27 @@
                     "width": 1920,
                     "height": 1080
                 },
-                "shortStartDescription": "Lesson.Monologue.resources[0].instructions.en"
+                "shortStartDescription": "Lesson.Listening.resources[0].instructions.en"
             },
-            "textTracks": [
-                {
-                    "label": "Subtitles",
-                    "kind": "subtitles",
-                    "srcLang": "en",
-                    "track": {
-                        "path": "files\/track-5cec5f544bb94.vtt",
-                        "mime": "text\/plain",
-                        "copyright": {
-                            "license": "U"
+            "textTracks": {
+                "videoTrack": [
+                    {
+                        "label": "Subtitles",
+                        "kind": "subtitles",
+                        "srcLang": "en",
+                        "track": {
+                            "path": "files\/track-5cec5f3e3a2b2.vtt",
+                            "mime": "text\/plain",
+                            "copyright": {
+                                "license": "U"
+                            }
                         }
                     }
-                }
-            ],
+                ]
+            },
             "files": [
                 {
-                    "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/B1.3\/M%C3%B3dulo+III\/B1.3_Unit7_Lesson19_7.mp4",
+                    "path": "https:\/\/s3.us-east-2.amazonaws.com\/coreproductido\/B1.3\/M%C3%B3dulo+III\/B1.3_Unit7_Lesson19_4.mp4",
                     "mime": "video\/mp4",
                     "copyright": {
                         "license": "U"
@@ -50,23 +52,21 @@
                     "width": 23.600605143722,
                     "height": 10.89258698941,
                     "duration": {
-                        "from": 9,
-                        "to": 9
+                        "from": 15,
+                        "to": 15
                     },
                     "libraryTitle": "Text",
                     "action": {
                         "library": "H5P.Text 1.1",
                         "params": {
-                            "text": "<p>Lesson.Monologue.resources[0].questions[0].question<\/p>\n"
+                            "text": "<p>Lesson.Listening.resources[0].questions[0].question<\/p>\n"
                         },
                         "metadata": {
                             "contentType": "Text",
                             "license": "U",
-                            "title": "Untitled Text",
-                            "authors": [],
-                            "changes": []
+                            "title": "Untitled Text"
                         },
-                        "subContentId": "cb9b3e9a-1b93-4fe4-8185-2be09648cf35"
+                        "subContentId": "9146a718-ffed-4014-a790-065582f83507"
                     },
                     "pause": true,
                     "displayType": "button",
@@ -90,23 +90,21 @@
                     "width": 23.600605143722,
                     "height": 10.89258698941,
                     "duration": {
-                        "from": 22,
-                        "to": 22
+                        "from": 30,
+                        "to": 30
                     },
                     "libraryTitle": "Text",
                     "action": {
                         "library": "H5P.Text 1.1",
                         "params": {
-                            "text": "<p>Lesson.Monologue.resources[0].questions[1].question<\/p>\n"
+                            "text": "<p>Lesson.Listening.resources[0].questions[1].question<\/p>\n"
                         },
                         "metadata": {
                             "contentType": "Text",
                             "license": "U",
-                            "title": "Untitled Text",
-                            "authors": [],
-                            "changes": []
+                            "title": "Untitled Text"
                         },
-                        "subContentId": "586a492a-cd6f-416e-8ae9-83eede6b0dbe"
+                        "subContentId": "8f1004fc-a66e-49b9-ad6a-bb3394822f33"
                     },
                     "pause": true,
                     "displayType": "button",
@@ -130,8 +128,8 @@
                     "width": 35.098335854766,
                     "height": 19.364599092284,
                     "duration": {
-                        "from": 38,
-                        "to": 38
+                        "from": 42,
+                        "to": 42
                     },
                     "libraryTitle": "Single Choice Set",
                     "action": {
@@ -140,28 +138,28 @@
                             "choices": [
                                 {
                                     "subContentId": "3f9c2f07-7a4e-4af7-9b5d-e03e6f1f6ab0",
-                                    "question": "<p>Lesson.Monologue.resources[0].questions[2].question<\/p>\n",
+                                    "question": "<p>Lesson.Listening.resources[0].questions[2].question<\/p>\n",
                                     "answers": [
-                                        "<p>Lesson.Monologue.resources[0].questions[2].options[0].text<\/p>\n",
-                                        "<p>Lesson.Monologue.resources[0].questions[2].options[1].text<\/p>\n",
-                                        "<p>Lesson.Monologue.resources[0].questions[2].options[2].text<\/p>\n"
+                                        "<p>Lesson.Listening.resources[0].questions[2].options[0].text<\/p>\n",
+                                        "<p>Lesson.Listening.resources[0].questions[2].options[1].text<\/p>\n",
+                                        "<p>Lesson.Listening.resources[0].questions[2].options[2].text<\/p>\n"
                                     ]
                                 },
                                 {
                                     "subContentId": "d64c71c4-6c1d-4eca-8360-e414d122a161",
-                                    "question": "<p>Lesson.Monologue.resources[0].questions[3].question<\/p>\n",
+                                    "question": "<p>Lesson.Listening.resources[0].questions[3].question<\/p>\n",
                                     "answers": [
-                                        "<p>Lesson.Monologue.resources[0].questions[3].options[0].text<\/p>\n",
-                                        "<p>Lesson.Monologue.resources[0].questions[3].options[1].text<\/p>\n"
+                                        "<p>Lesson.Listening.resources[0].questions[3].options[0].text<\/p>\n",
+                                        "<p>Lesson.Listening.resources[0].questions[3].options[1].text<\/p>\n"
                                     ]
                                 },
                                 {
                                     "subContentId": "05dbe769-a30d-4692-8d7a-93985602d9c0",
-                                    "question": "<p>Lesson.Monologue.resources[0].questions[4].question<\/p>\n",
+                                    "question": "<p>Lesson.Listening.resources[0].questions[4].question<\/p>\n",
                                     "answers": [
-                                        "<p>Lesson.Monologue.resources[0].questions[4].options[0].text<\/p>\n",
-                                        "<p>Lesson.Monologue.resources[0].questions[4].options[1].text<\/p>\n",
-                                        "<p>Lesson.Monologue.resources[0].questions[4].options[2].text<\/p>\n"
+                                        "<p>Lesson.Listening.resources[0].questions[4].options[0].text<\/p>\n",
+                                        "<p>Lesson.Listening.resources[0].questions[4].options[1].text<\/p>\n",
+                                        "<p>Lesson.Listening.resources[0].questions[4].options[2].text<\/p>\n"
                                     ]
                                 }
                             ],
@@ -196,12 +194,9 @@
                         "metadata": {
                             "contentType": "Single Choice Set",
                             "license": "U",
-                            "title": "Check your understanding",
-                            "authors": [],
-                            "changes": [],
-                            "extraTitle": "Check your understanding"
+                            "title": "Check your understanding"
                         },
-                        "subContentId": "842c0f4c-9a17-4f99-8a86-7bc84deef6ed"
+                        "subContentId": "cce28f2f-cb7d-4daf-be18-9ca26aa53e6a"
                     },
                     "pause": true,
                     "displayType": "poster",
@@ -218,10 +213,52 @@
                         "requireCompletion": false
                     },
                     "label": ""
+                },
+                {
+                    "x": 2.1834061135371,
+                    "y": 3.8834951456311,
+                    "width": 10,
+                    "height": 10,
+                    "duration": {
+                        "from": 1,
+                        "to": 34
+                    },
+                    "libraryTitle": "Text",
+                    "action": {
+                        "library": "H5P.Text 1.1",
+                        "params": {
+                            "text": "<p>Lesson.Grammar.5.consolidated_1<\/p>\n"
+                        },
+                        "subContentId": "52da8d2e-0aba-41c1-af30-9f8781bdd81e",
+                        "metadata": {
+                            "contentType": "Text",
+                            "license": "U",
+                            "title": "Untitled Text"
+                        }
+                    },
+                    "pause": false,
+                    "displayType": "button",
+                    "buttonOnMobile": false,
+                    "visuals": {
+                        "backgroundColor": "rgb(255, 255, 255)",
+                        "boxShadow": true
+                    },
+                    "goto": {
+                        "url": {
+                            "protocol": "http:\/\/"
+                        },
+                        "visualize": false,
+                        "type": ""
+                    },
+                    "label": "<p>Language Corner<\/p>\n"
                 }
             ],
-            "bookmarks": [],
-            "endscreens": []
+            "endscreens": [
+                {
+                    "time": 44.565333,
+                    "label": "0:44 Submit screen"
+                }
+            ]
         },
         "summary": {
             "task": {
@@ -253,12 +290,9 @@
                 "metadata": {
                     "contentType": "Summary",
                     "license": "U",
-                    "title": "Untitled Summary",
-                    "authors": [],
-                    "changes": [],
-                    "extraTitle": "Untitled Summary"
+                    "title": "Untitled Summary"
                 },
-                "subContentId": "552afcd5-2b9a-4888-8bfc-c0cc4e8a7369"
+                "subContentId": "9d4a7d61-fe72-409c-b2dc-0ca58b1c8b9b"
             },
             "displayAt": 3
         }

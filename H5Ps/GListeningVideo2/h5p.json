@@ -1,5 +1,5 @@
 {
-    "title": "R7 - Interactive Video Lesson.Monologue.resources[0].name",
+    "title": "R4 - Interactive Video Lesson.Listening.resources[0].name",
     "language": "und",
     "mainLibrary": "H5P.InteractiveVideo",
     "embedTypes": [
@@ -65,7 +65,7 @@
         {
             "machineName": "H5P.InteractiveVideo",
             "majorVersion": "1",
-            "minorVersion": "20"
+            "minorVersion": "21"
         },
         {
             "machineName": "jQuery.ui",

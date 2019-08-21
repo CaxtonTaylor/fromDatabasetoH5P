@@ -46,13 +46,13 @@ module.exports =
                     const speaking = new Speaking(this.Lesson);
 
                     await Promise.all([
-                        learnanddiscover.makeH5Ps(),
-                        readandwrite.makeH5Ps(),
-                        presentation.makeH5Ps(),
-                        listening_practice.makeH5Ps(),
-                        listening_video1.makeH5Ps(),
-                        progress_check.makeH5Ps(),
-                        speaking.makeH5Ps()
+                        // learnanddiscover.makeH5Ps(),
+                        // readandwrite.makeH5Ps(),
+                        // presentation.makeH5Ps(),
+                        // listening_practice.makeH5Ps(),
+                        // listening_video1.makeH5Ps(),
+                        // progress_check.makeH5Ps(),
+                        // speaking.makeH5Ps()
                     ])
 
                 }

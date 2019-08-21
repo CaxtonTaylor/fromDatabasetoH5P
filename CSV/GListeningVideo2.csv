@@ -25,3 +25,5 @@ Lesson.Monologue.resources[0].questions[4].options[0].text,,,,interactiveVideo.a
 Lesson.Monologue.resources[0].questions[4].options[1].text,,,,interactiveVideo.assets.interactions.2.action.params.choices.2.answers.1,,,
 Lesson.Monologue.resources[0].questions[4].options[2].text,,,,interactiveVideo.assets.interactions.2.action.params.choices.2.answers.2,,,
 Lesson.Monologue.resources[0].mp4_properties.durationmillis,,,,interactiveVideo.assets.endscreens.0.time,,,addSeconds -1
+Lesson.Grammar[6].consolidated_2,,,,interactiveVideo.assets.interactions.3.action.params.text,,,
+Lesson.Monologue.resources[0].mp4_properties.durationmillis,,,,interactiveVideo.assets.interactions.3.duration.to,,,addSeconds -6
