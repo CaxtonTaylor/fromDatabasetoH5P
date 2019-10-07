@@ -3,7 +3,7 @@ DATABASE,,,Listening,,,,
 Lesson.name,,,title,Orden,,,
 Lesson.Monologue.resources[0].name,,,,interactiveVideo.video.startScreenOptions.title,,,
 Lesson.Monologue.resources[0].mp4,,,,interactiveVideo.video.files.0.path,,,
-Lesson.Monologue.resources[0].subtitles,,,,interactiveVideo.video.textTracks.0.track.path,,,
+Lesson.Monologue.resources[0].subtitles,,,,interactiveVideo.video.textTracks.videoTrack.0.track.path,,,
 Lesson.Monologue.resources[0].instructions.en,,,,interactiveVideo.video.startScreenOptions.shortStartDescription,,,
 Lesson.Monologue.resources[0].questions[0].time,,,,interactiveVideo.assets.interactions.0.duration.from,,,MMSStoSeconds
 Lesson.Monologue.resources[0].questions[0].time,,,,interactiveVideo.assets.interactions.0.duration.to,,,MMSStoSeconds
