@@ -6,10 +6,10 @@ Lesson.Conversation.resources[1].name,,,,questions.6.metadata.title,,,
 Lesson.Conversation.resources[1].name,,,,questions.6.metadata.extraTitle,,,
 Lesson.Conversation.resources[1].mp4,,,,interactiveVideo.video.files.0.path,,,
 Lesson.Conversation.resources[1].subtitles,,,,interactiveVideo.video.textTracks.videoTrack.0.track.path,,files\/track-5cec5f6f551eb.vtt,
-Lesson.Conversation.resources[1].questions[0].time,,,,interactiveVideo.assets.interactions.1.duration.from,,,MMSStoSeconds
-Lesson.Conversation.resources[1].questions[0].time,,,,interactiveVideo.assets.interactions.1.duration.to,,,MMSStoSeconds
-Lesson.Conversation.resources[1].questions[0].question,,,,interactiveVideo.assets.interactions.1.action.params.taskDescription,,,
-Lesson.Conversation.resources[1].questions[0].options[0].text,,,,interactiveVideo.assets.interactions.1.action.params.textField,,,
+Lesson.Conversation.resources[1].questions[0].time,,,,interactiveVideo.assets.interactions.2.duration.from,,,MMSStoSeconds
+Lesson.Conversation.resources[1].questions[0].time,,,,interactiveVideo.assets.interactions.2.duration.to,,,MMSStoSeconds
+Lesson.Conversation.resources[1].questions[0].question,,,,interactiveVideo.assets.interactions.2.action.params.taskDescription,,,
+Lesson.Conversation.resources[1].questions[0].options[0].text,,,,interactiveVideo.assets.interactions.2.action.params.textField,,,
 Lesson.Conversation.resources[1].questions[1].time,,,,interactiveVideo.assets.interactions.0.duration.from,,,MMSStoSeconds
 Lesson.Conversation.resources[1].questions[1].time,,,,interactiveVideo.assets.interactions.0.duration.to,,,MMSStoSeconds
 Lesson.Conversation.resources[1].questions[1].question,,,,interactiveVideo.assets.interactions.0.action.params.choices.0.question,,,
@@ -24,5 +24,5 @@ Lesson.Conversation.resources[1].questions[3].options[0].text,,,,interactiveVide
 Lesson.Conversation.resources[1].questions[3].options[1].text,,,,interactiveVideo.assets.interactions.0.action.params.choices.2.answers.1,,,
 Lesson.Conversation.resources[1].questions[3].options[2].text,,,,interactiveVideo.assets.interactions.0.action.params.choices.2.answers.2,,,
 Lesson.Conversation.resources[1].mp4_properties.durationmillis,,,,interactiveVideo.assets.endscreens.0.time,,,addSeconds -1
-Lesson.Grammar[6].consolidated_3,,,,interactiveVideo.assets.interactions.3.action.params.text,,,
-Lesson.Conversation.resources[1].mp4_properties.durationmillis,,,,interactiveVideo.assets.interactions.3.duration.to,,,addSeconds -6
+Lesson.Grammar[6].consolidated_3,,,,interactiveVideo.assets.interactions.1.action.params.text,,,
+Lesson.Conversation.resources[1].mp4_properties.durationmillis,,,,interactiveVideo.assets.interactions.1.duration.to,,,addSeconds -6
