@@ -198,9 +198,12 @@ module.exports =
         async questionToP(text) {
             return `<p style="text-align: center;"><span style="font-size:1.375em;">${text}</span></p>`
         }
-        async can_do_statements(text) {
+        async can_do_statements(text, fontSize) {
+            if (!fontSize) {
+                fontSize = 1.5
+            }
             return `<ul>
-                <li><span style="font-size:1.5em;">${text}</span></li>
+                <li><span style="font-size:${fontSize};">${text}</span></li>
                 </ul>`
         }
         async Grammar_to_em(grammar) {
