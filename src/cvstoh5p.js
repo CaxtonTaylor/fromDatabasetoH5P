@@ -91,10 +91,10 @@ module.exports =
                 let lessonNumber = this.Lesson.Lesson
                 let lessonName
                 if(this.Lesson.NAME){
-                    lessonName  = this.Lesson.NAME.replace(/[^\x00-\x7F]/g, "").replace(/ /g, "")
+                    lessonName  = this.Lesson.NAME.replace(/[^\x00-\x7F]/g, "").replace(/[^a-z0-9]/gi, "")
 
                 }else{
-                    lessonName  = this.Lesson.name.replace(/[^\x00-\x7F]/g, "").replace(/ /g, "")
+                    lessonName  = this.Lesson.name.replace(/[^\x00-\x7F]/g, "").replace(/[^a-z0-9]/gi, "")
                 }
                 if(!lessonNumber){
                     lessonNumber = lessonName
