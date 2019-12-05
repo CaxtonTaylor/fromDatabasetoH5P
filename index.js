@@ -16,7 +16,7 @@ async function index(){
     // await h5p.processJSON('./DATABASE/English/General/A1/Lesson1/GeneralEnglishA1Lesson1.json')
     // await h5p.processJSON('./DATABASE/English/General/B1_3/Lesson19/GeneralEnglishB1_3Lesson19.json')
 
-    // await h5p.processJSON('./DATABASE/English/General/Basic/Lesson1/GeneralEnglishBasicLesson1.json')
+    //  await h5p.processJSON('./DATABASE/English/General/Basic/Lesson1/GeneralEnglishBasicLesson1.json')
     // await h5p.processJSON('./DATABASE/English/General/Basic/Lesson2/GeneralEnglishBasicLesson2.json')
     // await h5p.processJSON('./DATABASE/English/General/Basic/Lesson3/GeneralEnglishBasicLesson3.json')
     // await h5p.processJSON('./DATABASE/English/General/Basic/Lesson4/GeneralEnglishBasicLesson4.json')
@@ -75,6 +75,15 @@ async function index(){
     // await h5p.processJSON('./DATABASE/English/General/Lower-Intermediate/Lesson14/GeneralEnglishLower-IntermediateLesson14.json')
     // await h5p.processJSON('./DATABASE/English/General/Lower-Intermediate/Lesson15/GeneralEnglishLower-IntermediateLesson15.json')
 
+    // await h5p.processJSON('./DATABASE/English/General/A2_1/Lesson13/GeneralEnglishA2_1Lesson13.json');
+    // await h5p.processJSON('./DATABASE/English/General/A2_1/Lesson14/GeneralEnglishA2_1Lesson14.json');
+    // await h5p.processJSON('./DATABASE/English/General/A2_1/Lesson15/GeneralEnglishA2_1Lesson15.json');
+    // await h5p.processJSON('./DATABASE/English/General/A2_1/Lesson16/GeneralEnglishA2_1Lesson16.json');
+    // await h5p.processJSON('./DATABASE/English/General/A2_1/Lesson17/GeneralEnglishA2_1Lesson17.json');
+    // await h5p.processJSON('./DATABASE/English/General/A2_1/Lesson18/GeneralEnglishA2_1Lesson18.json');
+    await h5p.processJSON('./DATABASE/English/General/A2_1/Lesson19/GeneralEnglishA2_1Lesson19.json');
+    await h5p.processJSON('./DATABASE/English/General/A2_1/Lesson20/GeneralEnglishA2_1Lesson20.json');
+    await h5p.processJSON('./DATABASE/English/General/A2_1/Lesson21/GeneralEnglishA2_1Lesson21.json');
     console.log('finish')
 }
 index();
