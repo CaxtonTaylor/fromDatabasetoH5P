@@ -264,6 +264,9 @@ module.exports =
             return seconds
             
         }
+        lowerCase(word){
+            return word.toLowerCase();
+        }
         async questionTofill(Questions) {
             
             let html = `<p><strong>${Questions[0].question}</strong></p>`
