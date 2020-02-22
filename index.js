@@ -99,10 +99,18 @@ async function index(){
     // await h5p.processJSON('./DATABASE/English/General/A2_1/Lesson34/GeneralEnglishA2_1Lesson34.json');   
     // await h5p.processJSON('./DATABASE/English/General/A2_1/Lesson35/GeneralEnglishA2_1Lesson35.json');   
     // await h5p.processJSON('./DATABASE/English/General/A2_1/Lesson36/GeneralEnglishA2_1Lesson36.json');   
-    await h5p.processJSON('./DATABASE/English/General/Intermediate/Lesson1/GeneralEnglishIntermediateLesson1.json');
-    await h5p.processJSON('./DATABASE/English/General/Intermediate/Lesson2/GeneralEnglishIntermediateLesson2.json');
-    await h5p.processJSON('./DATABASE/English/General/Intermediate/Lesson3/GeneralEnglishIntermediateLesson3.json');
-    await h5p.processJSON('./DATABASE/English/General/Intermediate/Lesson4/GeneralEnglishIntermediateLesson4.json');
-    console.log('finish')
+    // await h5p.processJSON('./DATABASE/English/General/Intermediate/Lesson1/GeneralEnglishIntermediateLesson1.json');
+    // await h5p.processJSON('./DATABASE/English/General/Intermediate/Lesson2/GeneralEnglishIntermediateLesson2.json');
+    // await h5p.processJSON('./DATABASE/English/General/Intermediate/Lesson3/GeneralEnglishIntermediateLesson3.json');
+    // await h5p.processJSON('./DATABASE/English/General/Intermediate/Lesson4/GeneralEnglishIntermediateLesson4.json');
+    // await h5p.processJSON('./DATABASE/English/General/Intermediate/Lesson5/GeneralEnglishIntermediateLesson5.json');
+    
+    // await h5p.processJSON('./DATABASE/English/General/Pre-Intermediate/Lesson1/GeneralEnglishPre-IntermediateLesson1.json');
+    // await h5p.processJSON('./DATABASE/English/General/Pre-Intermediate/Lesson2/GeneralEnglishPre-IntermediateLesson2.json');
+    await h5p.processJSON('./DATABASE/English/General/Pre-Intermediate/Lesson3/GeneralEnglishPre-IntermediateLesson3.json');
+    // await h5p.processJSON('./DATABASE/English/General/Pre-Intermediate/Lesson4/GeneralEnglishPre-IntermediateLesson4.json');
+    await h5p.processJSON('./DATABASE/English/General/Pre-Intermediate/Lesson5/GeneralEnglishPre-IntermediateLesson5.json');
+    await h5p.processJSON('./DATABASE/English/General/Pre-Intermediate/Lesson6/GeneralEnglishPre-IntermediateLesson6.json');
+     console.log('finish')
 }
 index();
